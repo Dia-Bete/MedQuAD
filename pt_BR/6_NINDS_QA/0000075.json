@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000075-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Cor\u00e9ia?",
+        "answer":"A cor\u00e9ia \u00e9 um dist\u00farbio anormal do movimento involunt\u00e1rio, um de um grupo de dist\u00farbios neurol\u00f3gicos chamado discinesias, que s\u00e3o causados pela hiperatividade do neurotransmissor dopamina nas \u00e1reas do c\u00e9rebro que controlam o movimento. A cor\u00e9ia \u00e9 caracterizada por contra\u00e7\u00f5es breves e irregulares que n\u00e3o s\u00e3o repetitivas ou r\u00edtmicas, mas parecem fluir de um m\u00fasculo para o pr\u00f3ximo. A cor\u00e9ia muitas vezes ocorre com atetose, que adiciona movimentos de tor\u00e7\u00e3o e contor\u00e7\u00e3o. A cor\u00e9ia \u00e9 uma caracter\u00edstica prim\u00e1ria da doen\u00e7a de Huntington, um dist\u00farbio progressivo e heredit\u00e1rio do movimento que aparece em adultos, mas tamb\u00e9m pode ocorrer em uma variedade de outras condi\u00e7\u00f5es. A coreia de Syndenham ocorre em uma pequena porcentagem (20%) de crian\u00e7as e adolescentes como complica\u00e7\u00e3o da febre reum\u00e1tica. Cor\u00e9ia tamb\u00e9m pode ser induzida por drogas (levodopa, anti-convulsivos e anti-psic\u00f3ticos) dist\u00farbios metab\u00f3licos e end\u00f3crinos, e incidentes vasculares."
+    },
+    {
+        "qid":"0000075-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Chorea?",
+        "answer":"N\u00e3o h\u00e1 tratamento padr\u00e3o para a cor\u00e9ia. O tratamento depende do tipo de cor\u00e9ia e da doen\u00e7a associada. O tratamento para a doen\u00e7a de Huntington \u00e9 de apoio, enquanto o tratamento para a cor\u00e9ia de Syndenham geralmente envolve antibi\u00f3ticos para tratar a infec\u00e7\u00e3o, seguido de terapia medicamentosa para prevenir a recorr\u00eancia. Ajustar as doses de medicamentos pode tratar a cor\u00e9ia induzida por drogas. As cores metab\u00f3licas e end\u00f3crinas s\u00e3o tratadas de acordo com a causa dos sintomas."
+    },
+    {
+        "qid":"0000075-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva de Chorea?",
+        "answer":"O progn\u00f3stico para indiv\u00edduos com coreia varia dependendo do tipo de coreia e da doen\u00e7a associada. A doen\u00e7a de Huntington \u00e9 uma doen\u00e7a progressiva, e, em \u00faltima an\u00e1lise, fatal. A cor\u00e9ia de Syndenham \u00e9 trat\u00e1vel e curable."
+    },
+    {
+        "qid":"0000075-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Chorea?",
+        "answer":"O NINDS apoia pesquisas sobre dist\u00farbios de movimento, como a cor\u00e9ia. Os objetivos desta pesquisa s\u00e3o aumentar a compreens\u00e3o desses dist\u00farbios e encontrar maneiras de preveni-los e trat\u00e1-los."
+    }
+]

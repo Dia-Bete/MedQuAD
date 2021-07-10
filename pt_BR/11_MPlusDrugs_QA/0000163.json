@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0000163-1",
+        "qtype":"indication",
+        "question":"Quem deve tomar Brinzolamida Oftalmica e por que \u00e9 prescrita?",
+        "answer":""
+    },
+    {
+        "qid":"0000163-2",
+        "qtype":"usage",
+        "question":"Como a Brinzolamida Oftalmica deve ser usada e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000163-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Brinzolamida Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000163-5",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Brinzolamida Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000163-6",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Brinzolamida Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000163-7",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o de Brinzolamida Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000163-8",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Brinzolamida Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000163-9",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca da Brinzolamida Oftalmica?",
+        "answer":""
+    }
+]

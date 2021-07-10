@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000061-1",
+        "qtype":"information",
+        "question":"O que \u00e9 S\u00edndrome do Cord\u00e3o Central?",
+        "answer":"A s\u00edndrome do cord\u00e3o central \u00e9 a forma mais comum de les\u00e3o da medula espinhal incompleta caracterizada por comprometimento nos bra\u00e7os e nas m\u00e3os e, em menor medida, nas pernas. A capacidade do c\u00e9rebro de enviar e receber sinais para e de partes do corpo abaixo do local da les\u00e3o \u00e9 reduzida, mas n\u00e3o totalmente bloqueada. Esta s\u00edndrome est\u00e1 associada a danos nas grandes fibras nervosas que transportam informa\u00e7\u00f5es diretamente do c\u00f3rtex cerebral para a medula espinhal. Esses nervos s\u00e3o particularmente importantes para a fun\u00e7\u00e3o das m\u00e3os e bra\u00e7os. Os sintomas podem incluir paralisia ou perda de controle fino dos movimentos nos bra\u00e7os e nas m\u00e3os, com menos comprometimento dos movimentos das pernas. Perda sensorial abaixo do local da les\u00e3o e perda do controle da bexiga tamb\u00e9m podem ocorrer, assim como sensa\u00e7\u00f5es dolorosas como tintura, queimadura ou dor ma\u00e7ante. A quantidade total e o tipo de perda funcional dependem da gravidade do dano nervoso. S\u00edndrome do cord\u00e3o central \u00e9 geralmente o resultado de trauma que causa danos nas v\u00e9rtebras no pesco\u00e7o ou hernia\u00e7\u00e3o dos discos vertebrais. Tamb\u00e9m pode se desenvolver em pessoas com mais de 50 anos devido ao enfraquecimento gradual das v\u00e9rtebras e discos, que estreita a coluna espinhal e pode contribuir para a compress\u00e3o da medula espinhal quando o pesco\u00e7o \u00e9 hiper-extendido."
+    },
+    {
+        "qid":"0000061-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a S\u00edndrome do Cord\u00e3o Central?",
+        "answer":"N\u00e3o h\u00e1 cura para a s\u00edndrome do cord\u00e3o central, embora algumas pessoas recuperem a fun\u00e7\u00e3o quase normal. N\u00e3o existe um curso padr\u00e3o de tratamento, embora a terapia medicamentosa, cirurgia e repouso sejam muitas vezes parte do programa. A resson\u00e2ncia magn\u00e9tica (IRM) \u00e9 usada para indicar o grau de compress\u00e3o da medula espinhal e instabilidade vertebral. A instabilidade vertebral devido a les\u00e3o traum\u00e1tica aguda ou hernia do disco cervical \u00e9 frequentemente tratada por cirurgia para prevenir danos adicionais na medula espinhal. Relat\u00f3rios recentes indicam que cirurgias anteriores podem melhorar as chances de recupera\u00e7\u00e3o. Numerosos estudos recentes sugerem que a cirurgia tamb\u00e9m pode ser ben\u00e9fica em indiv\u00edduos com compress\u00e3o persistente da medula espinhal e deteriora\u00e7\u00e3o neurol\u00f3gica cont\u00ednua."
+    },
+    {
+        "qid":"0000061-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a S\u00edndrome do Cord\u00e3o Central?",
+        "answer":"O progn\u00f3stico da s\u00edndrome do cord\u00e3o central varia, mas a maioria das pessoas cuja s\u00edndrome \u00e9 causada por trauma tem alguma recupera\u00e7\u00e3o da fun\u00e7\u00e3o neurol\u00f3gica. A avalia\u00e7\u00e3o de sinais anormais nas imagens de resson\u00e2ncia magn\u00e9tica pode ajudar a prever que a recupera\u00e7\u00e3o neurol\u00f3gica pode ocorrer naturalmente. Aqueles que recebem interven\u00e7\u00e3o m\u00e9dica logo ap\u00f3s a les\u00e3o muitas vezes t\u00eam bons resultados. Muitas pessoas com o dist\u00farbio recuperam a fun\u00e7\u00e3o substancial ap\u00f3s a les\u00e3o inicial, e a capacidade de caminhar \u00e9 recuperada na maioria dos casos, embora algum comprometimento possa permanecer. Melhoria ocorre primeiro nas pernas, depois na bexiga, e pode ser visto nos bra\u00e7os. A fun\u00e7\u00e3o da m\u00e3o recupera-se por \u00faltimo, se \u00e9 que sim. A recupera\u00e7\u00e3o \u00e9 geralmente melhor em pacientes mais jovens, em compara\u00e7\u00e3o com aqueles com mais de 50 anos."
+    },
+    {
+        "qid":"0000061-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a S\u00edndrome do Cord\u00e3o Central?",
+        "answer":"Nossa compreens\u00e3o da s\u00edndrome do cord\u00e3o central aumentou muito nas \u00faltimas d\u00e9cadas, como resultado de uma pesquisa financiada pelo Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Cl\u00ednicas (NINDS). Grande parte desta pesquisa se concentra em encontrar melhores maneiras de prevenir, tratar e, em \u00faltima an\u00e1lise, curar dist\u00farbios neurol\u00f3gicos como s\u00edndrome do cord\u00e3o central."
+    }
+]

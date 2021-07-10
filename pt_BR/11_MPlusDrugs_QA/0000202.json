@@ -1,0 +1,44 @@
+[
+    {
+        "qid":"0000202-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar o implante de Carmustine e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000202-2",
+        "qtype":"usage",
+        "question":"Como o Implante Carmustine deve ser usado e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000202-3",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre o implante de carmustina?",
+        "answer":""
+    },
+    {
+        "qid":"0000202-4",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com o Implanto Carmustina?",
+        "answer":""
+    },
+    {
+        "qid":"0000202-5",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos do implante de carmustina?",
+        "answer":""
+    },
+    {
+        "qid":"0000202-6",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre o Implanto Carmustina?",
+        "answer":""
+    },
+    {
+        "qid":"0000202-7",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de Carmustine Implant?",
+        "answer":""
+    }
+]

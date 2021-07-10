@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000439-11",
+        "qtype":"information",
+        "question":"O que \u00e9 yersiniose para Yersinia?",
+        "answer":"Yersiniose \u00e9 uma doen\u00e7a infecciosa causada por uma bact\u00e9ria do g\u00eanero Yersinia. Nos Estados Unidos, a maioria das doen\u00e7as humanas \u00e9 causada por uma esp\u00e9cie, Y. enterocolitica. A infec\u00e7\u00e3o por Y. enterocolitica pode causar uma variedade de sintomas dependendo da idade da pessoa infectada. A infec\u00e7\u00e3o por Y. enterocolitica ocorre mais frequentemente em crian\u00e7as pequenas. Sintomas comuns em crian\u00e7as s\u00e3o febre, dor abdominal e diarreia, que muitas vezes \u00e9 sangrenta. Os sintomas normalmente se desenvolvem 4 a 7 dias ap\u00f3s a exposi\u00e7\u00e3o e podem durar 1 a 3 semanas ou mais. Em crian\u00e7as mais velhas e adultos, dor abdominal direita e febre podem ser os sintomas predominantes, e podem ser confundidos com apendicite. Em uma pequena propor\u00e7\u00e3o de casos, complica\u00e7\u00f5es como erup\u00e7\u00e3o cut\u00e2nea, dores articulares, ou dissemina\u00e7\u00e3o de bact\u00e9rias para a corrente sangu\u00ednea podem ocorrer."
+    },
+    {
+        "qid":"0000439-14",
+        "qtype":"frequency",
+        "question":"Qu\u00e3o comum \u00e9 a infec\u00e7\u00e3o por Y. enterocolitica para Yersinia?",
+        "answer":"Y. enterocolitica \u00e9 uma causa relativamente rara de diarreia e dor abdominal. Baseado em dados da Foodborne Diseases Active Surveillance Network (FoodNet), que mede a carga e as fontes de doen\u00e7as espec\u00edficas ao longo do tempo, aproximadamente uma infec\u00e7\u00e3o Y. enterocolitica confirmada pela cultura ocorre por 100.000 pessoas por ano. Crian\u00e7as s\u00e3o infectadas mais frequentemente do que adultos, e a infec\u00e7\u00e3o \u00e9 mais comum no inverno."
+    },
+    {
+        "qid":"0000439-15",
+        "qtype":"exams and tests",
+        "question":"Como pode Y. Enterocolitica ser diagnosticado para Yersinia?",
+        "answer":"Y. infec\u00e7\u00f5es enterocoliticas geralmente s\u00e3o diagnosticadas detetando o organismo nas fezes. Muitos laborat\u00f3rios n\u00e3o testam rotineiramente Y. enterocolitica, ent\u00e3o \u00e9 importante notificar o pessoal de laborat\u00f3rio quando suspeita de infec\u00e7\u00e3o por esta bact\u00e9ria para que possam ser feitos testes especiais. O organismo tamb\u00e9m pode ser recuperado de outros locais, incluindo garganta, linfonodos, fluido articular, urina, bilis e sangue."
+    },
+    {
+        "qid":"0000439-16",
+        "qtype":"treatment",
+        "question":"Como as infec\u00e7\u00f5es enterocoliticas podem ser tratadas por Yersinia?",
+        "answer":"Casos simples de diarreia devido a Y. enterocolitica geralmente resolvem por conta pr\u00f3pria sem tratamento antibi\u00f3tico. No entanto, em infec\u00e7\u00f5es mais graves ou complicadas, antibi\u00f3ticos como aminoglicos\u00eddeos, doxiciclina, trimetoprim-sulfametoxazol ou fluoroquinolonas podem ser \u00fateis."
+    },
+    {
+        "qid":"0000439-19",
+        "qtype":"prevention",
+        "question":"O que as ag\u00eancias de sa\u00fade p\u00fablica est\u00e3o fazendo para prevenir ou controlar yersiniose para Yersinia?",
+        "answer":"Os Centros de Controle e Preven\u00e7\u00e3o de Doen\u00e7as (CDC) monitoram a frequ\u00eancia de infec\u00e7\u00f5es por Y. enterocolitica atrav\u00e9s da rede de vigil\u00e2ncia ativa de doen\u00e7as transmitidas por alimentos (FoodNet). Al\u00e9m disso, CDC realiza investiga\u00e7\u00f5es de surtos de yersiniose para control\u00e1-los e aprender mais sobre como prevenir essas infec\u00e7\u00f5es. CDC colaborou em uma campanha educativa para aumentar a consci\u00eancia p\u00fablica sobre preven\u00e7\u00e3o de infec\u00e7\u00f5es por Y. enterocolitica. A Administra\u00e7\u00e3o de Alimentos e Drogas dos EUA inspeciona alimentos importados e plantas de pasteuriza\u00e7\u00e3o de leite e promove melhores t\u00e9cnicas de prepara\u00e7\u00e3o de alimentos em restaurantes e f\u00e1bricas de processamento de alimentos. O Departamento de Agricultura dos EUA monitora a sa\u00fade dos animais alimentares e \u00e9 respons\u00e1vel pela qualidade da carne abatida e processada. A Ag\u00eancia de Prote\u00e7\u00e3o Ambiental dos EUA regula e monitora a seguran\u00e7a de nossos suprimentos de \u00e1gua pot\u00e1vel."
+    }
+]

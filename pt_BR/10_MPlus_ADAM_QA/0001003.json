@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001003-1",
+        "qtype":"information",
+        "question":"O que \u00e9 tosse?",
+        "answer":""
+    },
+    {
+        "qid":"0001003-2",
+        "qtype":"causes",
+        "question":"O que causa a tosse?",
+        "answer":""
+    },
+    {
+        "qid":"0001003-3",
+        "qtype":"considerations",
+        "question":"O que fazer pela Tosse?",
+        "answer":""
+    },
+    {
+        "qid":"0001003-4",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para Tosse?",
+        "answer":""
+    },
+    {
+        "qid":"0001003-5",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Tosse?",
+        "answer":""
+    }
+]

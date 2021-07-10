@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000474-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) neuropatia sensorial e auton\u00f4mica heredit\u00e1ria tipo V?",
+        "answer":"A neuropatia sensorial e auton\u00f4mica heredit\u00e1ria tipo V (HSAN5) \u00e9 uma condi\u00e7\u00e3o que afeta principalmente as c\u00e9lulas nervosas sensoriais (neur\u00f4nios sensoriais), que transmitem informa\u00e7\u00f5es sobre sensa\u00e7\u00f5es como dor, temperatura e toque. Essas sensa\u00e7\u00f5es s\u00e3o prejudicadas em pessoas com HSAN5. Os sinais e sintomas de HSAN5 aparecem cedo, geralmente no nascimento ou durante a inf\u00e2ncia. Pessoas com HSAN5 perdem a capacidade de sentir dor, calor e frio. A percep\u00e7\u00e3o de dor profunda, a sensa\u00e7\u00e3o de dor por les\u00f5es nos ossos, ligamentos ou m\u00fasculos, \u00e9 especialmente afetada em pessoas com HSAN5. Devido \u00e0 incapacidade de sentir dor profunda, indiv\u00edduos afetados sofrem repetidas les\u00f5es graves, como fraturas \u00f3sseas e les\u00f5es articulares que passam despercebidas. Trauma repetido pode levar a uma condi\u00e7\u00e3o chamada articula\u00e7\u00f5es Charcot, em que os ossos e tecidos circundantes articula\u00e7\u00f5es s\u00e3o destru\u00eddos."
+    },
+    {
+        "qid":"0000474-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por neuropatias sensoriais e auton\u00f4micas heredit\u00e1rias tipo V?",
+        "answer":"HSAN5 \u00e9 muito raro. Apenas algumas pessoas com essa condi\u00e7\u00e3o foram identificadas."
+    },
+    {
+        "qid":"0000474-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 neuropatia sensorial e auton\u00f4mica heredit\u00e1ria tipo V?",
+        "answer":"Muta\u00e7\u00f5es no gene NGF causam HSAN5. O gene NGF fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada fator de crescimento nervoso beta (FNG) que \u00e9 importante no desenvolvimento e sobreviv\u00eancia de c\u00e9lulas nervosas (neur\u00f4nios), incluindo neur\u00f4nios sensoriais. A prote\u00edna NGF funciona ligando-se aos seus receptores, que s\u00e3o encontrados na superf\u00edcie dos neur\u00f4nios. A liga\u00e7\u00e3o da prote\u00edna NGF ao seu receptor transmite sinais \u00e0 c\u00e9lula para crescer e amadurecer e assumir fun\u00e7\u00f5es especializadas (diferenciar). Esta liga\u00e7\u00e3o tamb\u00e9m bloqueia sinais na c\u00e9lula que iniciam o processo de autodestrui\u00e7\u00e3o (apoptose). Al\u00e9m disso, sinaliza\u00e7\u00e3o do NGF desempenha um papel na sensa\u00e7\u00e3o de dor. Muta\u00e7\u00e3o do gene NGF leva \u00e0 produ\u00e7\u00e3o de uma prote\u00edna que n\u00e3o pode se ligar ao receptor e n\u00e3o transmite sinais corretamente. Sem o sinal adequado, os neur\u00f4nios sensoriais morrem e a sensa\u00e7\u00e3o de dor \u00e9 alterada, resultando na incapacidade das pessoas com HSAN5 para sentir dor."
+    },
+    {
+        "qid":"0000474-4",
+        "qtype":"inheritance",
+        "question":"\u00c9 heredit\u00e1ria neuropatia sensorial e auton\u00f4mica tipo V herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000474-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para neuropatia sensorial e auton\u00f4mica heredit\u00e1ria tipo V?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou gerenciamento de HSAN5: - Registro de Testes Gen\u00e9ticos: neuropatia sensorial cong\u00e9nita com perda seletiva de pequenas fibras mielinadas Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e gerenciamento de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0001271-1",
+        "qtype":"indication",
+        "question":"Quem deveria pegar Valrubicina Intravesical e por que \u00e9 prescrita?",
+        "answer":""
+    },
+    {
+        "qid":"0001271-2",
+        "qtype":"usage",
+        "question":"Como Valrubicina Intravesical deve ser usada e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0001271-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Valrubicina Intravesical?",
+        "answer":""
+    },
+    {
+        "qid":"0001271-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Valrubicina Intravesical?",
+        "answer":""
+    },
+    {
+        "qid":"0001271-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se eu esquecer uma dose de Valrubicina Intravesical?",
+        "answer":""
+    },
+    {
+        "qid":"0001271-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Valrubicina Intravesical?",
+        "answer":""
+    },
+    {
+        "qid":"0001271-8",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Valrubicina Intravesical?",
+        "answer":""
+    },
+    {
+        "qid":"0001271-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Valrubicina Intravesical?",
+        "answer":""
+    },
+    {
+        "qid":"0001271-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Valrubicina Intravesical?",
+        "answer":""
+    },
+    {
+        "qid":"0001271-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de Valrubicina Intravesical?",
+        "answer":""
+    }
+]

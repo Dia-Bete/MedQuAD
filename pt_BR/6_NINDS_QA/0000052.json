@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000052-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o os tumores do c\u00e9rebro e da espinha?",
+        "answer":"Tumores do c\u00e9rebro e da medula espinhal s\u00e3o crescimentos anormais de tecidos encontrados dentro do cr\u00e2nio ou da coluna espinhal \u00f3ssea. O c\u00e9rebro e a medula espinhal s\u00e3o os principais componentes do sistema nervoso central (SNC). Os tumores benignos n\u00e3o s\u00e3o cancerosos, e os tumores malignos s\u00e3o cancerosos. O SNC \u00e9 alojado em quartos r\u00edgidos e \u00f3sseos (i.e., o cr\u00e2nio e coluna vertebral), ent\u00e3o qualquer crescimento anormal, seja benigno ou maligno, pode colocar press\u00e3o em tecidos sens\u00edveis e prejudicar a fun\u00e7\u00e3o. Tumores que se originam no c\u00e9rebro ou medula espinhal s\u00e3o chamados de tumores prim\u00e1rios. A maioria dos tumores prim\u00e1rios s\u00e3o causados pelo crescimento fora de controle entre as c\u00e9lulas que cercam e suportam os neur\u00f4nios, doen\u00e7as gen\u00e9ticas espec\u00edficas (como neurofibromatose tipo 1 e esclerose tuberosa), ou pela exposi\u00e7\u00e3o \u00e0 radia\u00e7\u00e3o ou produtos qu\u00edmicos causadores de c\u00e2ncer. Os tumores metast\u00e1ticos, ou secund\u00e1rios, no SNC s\u00e3o causados por c\u00e9lulas cancerosas que se afastam de um tumor prim\u00e1rio localizado em outra regi\u00e3o do corpo. Os tumores podem colocar press\u00e3o nos tecidos sens\u00edveis e prejudicar a fun\u00e7\u00e3o..Sintomas de tumores cerebrais incluem dores de cabe\u00e7a, convuls\u00f5es, n\u00e1useas e v\u00f4mitos, m\u00e1 vis\u00e3o ou audi\u00e7\u00e3o, mudan\u00e7as no comportamento, pensamento n\u00e3o claro e instabilidade. Os sintomas do tumor da corda espinhal incluem dor, dorm\u00eancia e paralisia. O diagn\u00f3stico \u00e9 feito ap\u00f3s um exame neurol\u00f3gico, t\u00e9cnicas especiais de imagem (tomografia computadorizada, e resson\u00e2ncia magn\u00e9tica, tomografia de emiss\u00e3o de positrones), testes de laborat\u00f3rio, e uma bi\u00f3psia (em que uma amostra de tecido \u00e9 tirada de um tumor suspeito e examinada)."
+    },
+    {
+        "qid":"0000052-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para tumores cerebrais e espinais?",
+        "answer":"Os tr\u00eas tratamentos mais utilizados s\u00e3o cirurgia, radia\u00e7\u00e3o e quimioterapia. Os m\u00e9dicos tamb\u00e9m podem prescrever ester\u00f3ides para reduzir o incha\u00e7o relacionado ao tumor dentro do SNC."
+    },
+    {
+        "qid":"0000052-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para os Tumores C\u00e9rebro e Espinal?",
+        "answer":"Os sintomas de tumores cerebrais e medulares geralmente se desenvolvem lentamente e pioram ao longo do tempo, a menos que sejam tratados. O tumor pode ser classificado como benigno ou maligno e dado uma pontua\u00e7\u00e3o numerada que reflete sua taxa de malignidade. Esta pontua\u00e7\u00e3o pode ajudar os m\u00e9dicos a determinar como tratar o tumor e predizer o resultado prov\u00e1vel, ou progn\u00f3stico, para o indiv\u00edduo."
+    },
+    {
+        "qid":"0000052-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Tumores C\u00e9rebro e Espinal?",
+        "answer":"Os cientistas continuam investigando maneiras de entender, diagnosticar e tratar os tumores do SNC. Op\u00e7\u00f5es de tratamento experimental podem incluir novos f\u00e1rmacos, terapia g\u00eanica, cirurgia, radia\u00e7\u00e3o, moduladores biol\u00f3gicos que melhoram o sistema imunol\u00f3gico do corpo para reconhecer e combater c\u00e9lulas cancerosas, e uma combina\u00e7\u00e3o de terapias. De particular interesse para os cientistas \u00e9 o desenvolvimento de terapia personalizada - envolvendo uma combina\u00e7\u00e3o de agentes alvo que usam mol\u00e9culas diferentes para reduzir a atividade do gene tumoral e suprimir o crescimento descontrolado matando ou reduzindo a produ\u00e7\u00e3o de c\u00e9lulas tumorais - para tratar tumores com base em sua maquiagem gen\u00e9tica. Pesquisadores continuam procurando biomarcadores cl\u00ednicos adicionais (mol\u00e9culas ou outras subst\u00e2ncias no sangue ou tecido que podem ser usadas para diagnosticar ou monitorar um dist\u00farbio particular) de tumores do SNC. Outros pesquisadores est\u00e3o testando diferentes drogas e mol\u00e9culas para ver se eles podem modular a atividade normal da barreira sangu\u00ednea-encef\u00e1lica e melhores c\u00e9lulas tumorais alvo e vasos sangu\u00edneos associados. Tamb\u00e9m est\u00e3o sob investiga\u00e7\u00e3o formas de melhorar a entrega de drogas para o tumor e prevenir os efeitos colaterais dos tratamentos contra o c\u00e2ncer."
+    }
+]

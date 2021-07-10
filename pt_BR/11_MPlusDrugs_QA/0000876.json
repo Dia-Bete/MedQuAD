@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0000876-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar o Patch Transd\u00e9rmico de Nitroglicerina e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000876-2",
+        "qtype":"usage",
+        "question":"Como a Nitroglicerina Transdermal Patch deve ser usada e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000876-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Nitroglicerina Patch Transd\u00e9rmico?",
+        "answer":""
+    },
+    {
+        "qid":"0000876-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Nitroglicerina Patch Transd\u00e9rmico?",
+        "answer":""
+    },
+    {
+        "qid":"0000876-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Nitroglicerina Transd\u00e9rmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000876-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Nitroglicerina Transd\u00e9rmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000876-8",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Nitroglicerina Transd\u00e9rmica Patch?",
+        "answer":""
+    },
+    {
+        "qid":"0000876-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Nitroglicerina Patch Transd\u00e9rmico?",
+        "answer":""
+    },
+    {
+        "qid":"0000876-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o devo saber sobre a Nitroglicerina Transd\u00e9rmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000876-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca da Nitroglicerina Transd\u00e9rmica Patch?",
+        "answer":""
+    }
+]

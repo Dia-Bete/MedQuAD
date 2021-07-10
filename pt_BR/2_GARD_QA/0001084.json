@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0001084-1",
+        "qtype":"information",
+        "question":"Qual \u00e9 a s\u00edndrome de Chandler?",
+        "answer":"A s\u00edndrome de Chandler \u00e9 uma rara desordem ocular em que a \u00fanica camada de c\u00e9lulas que revestim o interior da c\u00f3rnea prolifera, causando altera\u00e7\u00f5es no interior da \u00edris, incha\u00e7o da c\u00f3rnea, e press\u00e3o incomummente alta no olho (glaucoma). Esta condi\u00e7\u00e3o \u00e9 uma das tr\u00eas s\u00edndromes, juntamente com atrofia progressiva do \u00edris e s\u00edndrome de Cogan-Reese, que comp\u00f5em a s\u00edndrome endotelial iridocorneal (ICE). Na maioria dos casos, apenas um olho \u00e9 afetado. Sintomas podem incluir redu\u00e7\u00e3o da vis\u00e3o e dor. A s\u00edndrome de Chandler afeta mais as f\u00eameas e geralmente se apresenta durante a meia-idade. A causa desta doen\u00e7a \u00e9 desconhecida."
+    },
+    {
+        "qid":"0001084-2",
+        "qtype":"causes",
+        "question":"O que causa a s\u00edndrome de Chandler?",
+        "answer":"O que causa a s\u00edndrome de Chandler? A causa subjacente da s\u00edndrome de Chandler \u00e9 desconhecida. Alguns pesquisadores suspeitam que inflama\u00e7\u00e3o ou infec\u00e7\u00e3o viral cr\u00f4nica podem desempenhar um papel no desenvolvimento dessa condi\u00e7\u00e3o. A s\u00edndrome de Chandler se desenvolve quando o endot\u00e9lio, a \u00fanica camada de c\u00e9lulas revestindo o interior da superf\u00edcie da c\u00f3rnea, falha em bombear o humor aquoso da c\u00f3rnea. Isso permite que o l\u00edquido se acumule na c\u00f3rnea (edema c\u00f3rneo), levando a vis\u00e3o borrada."
+    },
+    {
+        "qid":"0001084-3",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Chandler \u00e9 herdada?",
+        "answer":"A s\u00edndrome de Chandler \u00e9 herdada? Embora a causa da s\u00edndrome de Chandler seja desconhecida, neste momento n\u00e3o h\u00e1 evid\u00eancia de que seja herdada (hered\u00e1ria)."
+    },
+    {
+        "qid":"0001084-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Chandler?",
+        "answer":"Como a s\u00edndrome de Chandler pode ser tratada? Embora n\u00e3o seja poss\u00edvel parar a progress\u00e3o da s\u00edndrome de Chandler, o glaucoma associado a esta doen\u00e7a pode ser tratado com medicamentos e/ou cirurgia de filtragem. As gotas oculares usadas no manejo do glaucoma diminuem a press\u00e3o no olho, ajudando o dreno do l\u00edquido do olho de forma mais eficiente e/ou diminuindo a quantidade de l\u00edquido feita pelo olho. As drogas usadas para tratar o glaucoma s\u00e3o classificadas de acordo com o ingrediente ativo. Estes incluem anal\u00f3gicos de prostaglandina, betabloqueadores, agonistas alfa e inibidores de anhidrase carbonica. Medicamentos combinados podem ser necess\u00e1rios para alguns pacientes. Se esses medicamentos n\u00e3o tratarem com sucesso o glaucoma, a cirurgia pode ser indicada. A trabeculectomia pode ser usada para tratar o glaucoma. Em alguns casos, m\u00faltiplos procedimentos podem ser necess\u00e1rios. O incha\u00e7o da c\u00f3rnea associado \u00e0 s\u00edndrome de Chandler pode ser tratado atrav\u00e9s de um transplante de c\u00f3rnea. Mais investiga\u00e7\u00e3o \u00e9 necess\u00e1ria para determinar a melhor maneira de lidar com esta condi\u00e7\u00e3o."
+    }
+]

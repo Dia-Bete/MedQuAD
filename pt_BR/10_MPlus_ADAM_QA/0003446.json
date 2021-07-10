@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0003446-1",
+        "qtype":"information",
+        "question":"O que \u00e9 um t\u00edmpano rotudo?",
+        "answer":""
+    },
+    {
+        "qid":"0003446-2",
+        "qtype":"causes",
+        "question":"O que causa t\u00edmpano ruptuado?",
+        "answer":""
+    },
+    {
+        "qid":"0003446-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do t\u00edmpano Ruptuado?",
+        "answer":""
+    },
+    {
+        "qid":"0003446-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar t\u00edmpano ruptuado?",
+        "answer":""
+    },
+    {
+        "qid":"0003446-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o t\u00edmpano ruptuado?",
+        "answer":""
+    },
+    {
+        "qid":"0003446-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o t\u00edmpano ruptuado?",
+        "answer":""
+    },
+    {
+        "qid":"0003446-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para o t\u00edmpano rupredo?",
+        "answer":""
+    },
+    {
+        "qid":"0003446-8",
+        "qtype":"prevention",
+        "question":"Como prevenir o t\u00edmpano ruptuado?",
+        "answer":""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000439-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Greig cefalopolisindactilia?",
+        "answer":"A s\u00edndrome de Greig cefalopolisindactilia \u00e9 uma desordem que afeta o desenvolvimento dos membros, cabe\u00e7a e rosto. As caracter\u00edsticas desta s\u00edndrome s\u00e3o altamente vari\u00e1veis, variando de muito leve a grave. Pessoas com esta condi\u00e7\u00e3o geralmente t\u00eam um ou mais dedos extras ou dedos do p\u00e9 (polidactilia) ou um polegar anormalmente largo ou dedo grande (hallux). A pele entre os dedos dos dedos dos p\u00e9s pode ser fundida (sindactilia cut\u00e2nea). Este dist\u00farbio tamb\u00e9m \u00e9 caracterizado por olhos amplamente espa\u00e7ados (hipertelorismo ocular), um tamanho anormalmente grande da cabe\u00e7a (macrocefalia), e uma testa alta e proeminente. Raramente, indiv\u00edduos afetados podem ter problemas m\u00e9dicos mais graves, incluindo convuls\u00f5es, atraso no desenvolvimento e defici\u00eancia intelectual."
+    },
+    {
+        "qid":"0000439-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de cefalopolisindactilia de Greig?",
+        "answer":"Essa condi\u00e7\u00e3o \u00e9 muito rara, sua preval\u00eancia \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000439-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de cefalopolisindactilia de Greig?",
+        "answer":"Muta\u00e7\u00f5es no gene GLI3 causam s\u00edndrome de Greig cefalopolisindactilia. O gene GLI3 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que controla a express\u00e3o g\u00eanica, que \u00e9 um processo que regula se os genes est\u00e3o ligados ou desligados em c\u00e9lulas particulares. Ao interagir com certos genes em momentos espec\u00edficos durante o desenvolvimento, a prote\u00edna GLI3 desempenha um papel na conforma\u00e7\u00e3o normal (patterning) de muitos \u00f3rg\u00e3os e tecidos antes do nascimento. Diferentes altera\u00e7\u00f5es gen\u00e9ticas envolvendo o gene GLI3 podem causar a s\u00edndrome de cefalopolisindactilia de Greig. Em alguns casos, a condi\u00e7\u00e3o resulta de uma anormalidade cromoss\u00f4mica, como uma grande dele\u00e7\u00e3o ou rearranjo do material gen\u00e9tico na regi\u00e3o do cromossomo 7 que cont\u00e9m o gene GLI3. Em outros casos, uma muta\u00e7\u00e3o no pr\u00f3prio gene GLI3 \u00e9 respons\u00e1vel pelo dist\u00farbio. Cada uma dessas altera\u00e7\u00f5es gen\u00e9ticas impede uma c\u00f3pia do gene em cada c\u00e9lula de produzir qualquer prote\u00edna funcional. Ainda n\u00e3o est\u00e1 claro como uma quantidade reduzida desta prote\u00edna interrompe o desenvolvimento precoce e causa as caracter\u00edsticas caracter\u00edsticas da s\u00edndrome de cefalopolisindactilia de Greig."
+    },
+    {
+        "qid":"0000439-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Greig cefalopolisindactilia \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia alterada ou faltando do gene GLI3 em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Em alguns casos, uma pessoa afetada herda uma muta\u00e7\u00e3o gen\u00e9tica ou anormalidade cromoss\u00f4mica de um dos pais afetados. Outros casos ocorrem em pessoas sem hist\u00f3rico da condi\u00e7\u00e3o em sua fam\u00edlia."
+    },
+    {
+        "qid":"0000439-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de cefalopolisindactilia de Greig?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da s\u00edndrome de Greig cefalopolisindactyly: - Gene Review: Gene Review: Greig Cephalopolisindactyly Syndrome - Gene Testing Registry: Greig cefalopolisindactyly syndrome - MedlinePlus Encyclopedia: Polydactyly - MedlinePlus Encyclopedia: Syndactyly (imagem) Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Drogas Terapia - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000419-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de glutationa sintetase?",
+        "answer":"A defici\u00eancia de glutationa sintetase \u00e9 uma desordem que impede a produ\u00e7\u00e3o de uma mol\u00e9cula importante chamada glutationa. Glutatione ajuda a prevenir danos nas c\u00e9lulas neutralizando mol\u00e9culas nocivas geradas durante a produ\u00e7\u00e3o de energia. Glutathione tamb\u00e9m desempenha um papel no processamento de medicamentos e compostos cancer\u00edgenos (carcinog\u00eanicos), e na constru\u00e7\u00e3o de DNA, prote\u00ednas e outros componentes celulares importantes. A defici\u00eancia de glutati\u00e3o sintetase pode ser classificada em tr\u00eas tipos: leve, moderada e grave. A defici\u00eancia leve de glutationa sintetase geralmente resulta na destrui\u00e7\u00e3o de gl\u00f3bulos vermelhos (anemia hemol\u00edtica). Al\u00e9m disso, indiv\u00edduos afetados podem liberar grandes quantidades de um composto chamado 5-oxoprolina em sua urina (5-oxoprolin\u00faria). Este composto se acumula quando o glutati\u00e3o n\u00e3o \u00e9 processado corretamente em c\u00e9lulas. Indiv\u00edduos com defici\u00eancia moderada de glutathione sintetase podem sentir sintomas come\u00e7ando logo ap\u00f3s o nascimento, incluindo anemia hemol\u00edtica, 5-oxoprolin\u00faria e acidez elevada no sangue e tecidos (acidose metab\u00f3lica). Al\u00e9m das caracter\u00edsticas presentes na defici\u00eancia de glutationa sintetase moderada, indiv\u00edduos afetados pela forma grave deste dist\u00farbio podem ter sintomas neurol\u00f3gicos. Esses problemas podem incluir convuls\u00f5es, um abrandamento generalizado das rea\u00e7\u00f5es f\u00edsicas, movimentos e fala (retardamento psicomotor), defici\u00eancia intelectual e perda de coordena\u00e7\u00e3o (ataxia). Algumas pessoas com defici\u00eancia grave de glutationa sintetase tamb\u00e9m desenvolvem infec\u00e7\u00f5es bacterianas recorrentes."
+    },
+    {
+        "qid":"0000419-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de glutationa sintetase?",
+        "answer":"A defici\u00eancia de glutati\u00e3o sintetase \u00e9 muito rara. Este dist\u00farbio foi descrito em mais de 70 pessoas em todo o mundo."
+    },
+    {
+        "qid":"0000419-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de glutationa sintetase?",
+        "answer":"Muta\u00e7\u00f5es no gene GSS causam defici\u00eancia de glutationa sintetase. O gene GSS fornece instru\u00e7\u00f5es para fazer uma enzima chamada glutatione sintetase. Esta enzima est\u00e1 envolvida num processo chamado ciclo gamma-glutamil, que ocorre na maioria das c\u00e9lulas do corpo. Este ciclo \u00e9 necess\u00e1rio para produzir uma mol\u00e9cula chamada glutationa. Glutatione protege as c\u00e9lulas de danos causados por mol\u00e9culas inst\u00e1veis que cont\u00eam oxig\u00eanio, que s\u00e3o subprodutos da produ\u00e7\u00e3o de energia. Glutathione \u00e9 chamado de antioxidante devido ao seu papel na prote\u00e7\u00e3o das c\u00e9lulas dos efeitos prejudiciais dessas mol\u00e9culas inst\u00e1veis. Muta\u00e7\u00f5es no gene GSS impedem que as c\u00e9lulas fa\u00e7am n\u00edveis adequados de glutationa, levando aos sinais e sintomas da defici\u00eancia de glutationa sintetase."
+    },
+    {
+        "qid":"0000419-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de glutationa sintetase \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000419-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a defici\u00eancia de glutationa sintetase?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da defici\u00eancia de glutathione sintetase: - Primeiro teste do beb\u00ea - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de glutathione sintetase de eritrocitos, anemia hemol\u00edtica devido a - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de glutathiona sintetase Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

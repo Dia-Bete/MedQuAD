@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000431-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de GM3 sintase?",
+        "answer":"A defici\u00eancia de GM3 \u00e9 caracterizada por convuls\u00f5es recorrentes (epilepsia) e problemas com o desenvolvimento cerebral. Nas primeiras semanas ap\u00f3s o nascimento, os beb\u00eas afetados ficam irritados e desenvolvem dificuldades alimentares e v\u00f3mitos que os impedem de crescer e ganhar peso ao ritmo habitual. As convuls\u00f5es come\u00e7am no primeiro ano de vida e pioram com o tempo. M\u00faltiplos tipos de convuls\u00f5es s\u00e3o poss\u00edveis, incluindo convuls\u00f5es t\u00f4nicas-cl\u00f4nicas generalizadas (tamb\u00e9m conhecidas como convuls\u00f5es de grande mal), que causam rigidez muscular, convuls\u00f5es e perda de consci\u00eancia. Algumas crian\u00e7as afetadas tamb\u00e9m sofrem epis\u00f3dios prolongados de atividade convulsiva chamada estado epil\u00e9ptico n\u00e3o convulsivo. As convuls\u00f5es associadas \u00e0 defici\u00eancia de GM3 sintase tendem a ser resistentes (refrat\u00e1rios) ao tratamento com medicamentos anticonvulsivos. A defici\u00eancia de GM3 sintase interrompe profundamente o desenvolvimento cerebral. A maioria das crian\u00e7as afetadas tem uma grave defici\u00eancia intelectual e n\u00e3o desenvolve habilidades como alcan\u00e7ar objetos, falar, sentar sem apoio, ou caminhar. Alguns t\u00eam movimentos involunt\u00e1rios de tor\u00e7\u00e3o ou masturba\u00e7\u00e3o dos bra\u00e7os que s\u00e3o descritos como coreoatetoide. Embora as crian\u00e7as afetadas possam ver e ouvir ao nascer, a vis\u00e3o e a audi\u00e7\u00e3o ficam prejudicadas \u00e0 medida que a doen\u00e7a piora. Desconhece-se quanto tempo as pessoas com defici\u00eancia de GM3 em sintase geralmente sobrevivem. Alguns indiv\u00edduos afetados t\u00eam altera\u00e7\u00f5es na colora\u00e7\u00e3o da pele (pigmenta\u00e7\u00e3o), incluindo manchas escuras como frackle nos bra\u00e7os e pernas e manchas claras nos bra\u00e7os, pernas e rosto. Essas mudan\u00e7as aparecem na inf\u00e2ncia e podem tornar-se mais ou menos aparentes ao longo do tempo. As altera\u00e7\u00f5es cut\u00e2neas n\u00e3o causam sintomas, mas podem ajudar os m\u00e9dicos a diagnosticar defici\u00eancia de GM3 em crian\u00e7as que tamb\u00e9m t\u00eam convuls\u00f5es e atraso no desenvolvimento."
+    },
+    {
+        "qid":"0000431-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de GM3?",
+        "answer":"A defici\u00eancia de GM3 sintase parece ser uma condi\u00e7\u00e3o rara. Cerca de 50 casos foram relatados, principalmente das comunidades Amish da Velha Ordem."
+    },
+    {
+        "qid":"0000431-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de GM3 sintase?",
+        "answer":"Muta\u00e7\u00f5es no gene ST3GAL5 t\u00eam sido encontradas para causar defici\u00eancia de GM3 sintase. Este gene fornece instru\u00e7\u00f5es para fazer uma enzima chamada GM3 sintase, que realiza uma rea\u00e7\u00e3o qu\u00edmica que \u00e9 o primeiro passo na produ\u00e7\u00e3o de mol\u00e9culas chamadas ganglios\u00eddeos. Estas mol\u00e9culas est\u00e3o presentes em c\u00e9lulas e tecidos em todo o corpo, e s\u00e3o particularmente abundantes no sistema nervoso. Embora suas fun\u00e7\u00f5es exatas n\u00e3o sejam claras, os gangliosidos parecem ser importantes para o desenvolvimento e a fun\u00e7\u00e3o cerebral normal. Muta\u00e7\u00f5es do gene ST3GAL5 impedem a produ\u00e7\u00e3o de qualquer GM3 sintase funcional. Sem essa enzima, as c\u00e9lulas n\u00e3o podem produzir ganglios\u00eddeos normalmente. N\u00e3o est\u00e1 claro como uma perda desta enzima leva aos sinais e sintomas da defici\u00eancia de GM3 em sintetase. Pesquisadores est\u00e3o trabalhando para determinar se \u00e9 a falta de ganglios\u00eddeos ou uma acumula\u00e7\u00e3o de compostos usados para fazer ganglios\u00eddeos, ou ambos, que subjace \u00e0s convuls\u00f5es e outros problemas com o desenvolvimento cerebral que ocorrem nesta condi\u00e7\u00e3o. Tamb\u00e9m \u00e9 desconhecida a conex\u00e3o entre falta de GM3 sintase e altera\u00e7\u00f5es na pigmenta\u00e7\u00e3o cut\u00e2nea."
+    },
+    {
+        "qid":"0000431-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de GM3 \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000431-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para defici\u00eancia de GM3 sintase?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da defici\u00eancia de GM3 em sintese: - Sociedade Americana de Epilepsia: Encontre um M\u00e9dico - Cl\u00ednica para Crian\u00e7as Especiais (Strasburgo, Pensilv\u00e2nia) - Registro de Testes Gen\u00e9ticos: S\u00edndrome Amish de epilepsia Infantil Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

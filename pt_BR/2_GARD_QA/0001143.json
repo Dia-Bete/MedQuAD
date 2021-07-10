@@ -1,0 +1,14 @@
+[
+    {
+        "qid":"0001143-1",
+        "qtype":"information",
+        "question":"O que \u00e9 S\u00edndrome da Crian\u00e7a?",
+        "answer":"S\u00edndrome de CHILD, tamb\u00e9m conhecida como hemidisplasia cong\u00eanita com eritroderma ictiosiforme e defeitos de membros, \u00e9 uma condi\u00e7\u00e3o gen\u00e9tica que \u00e9 tipicamente caracterizada por grandes manchas de pele que s\u00e3o vermelhas e inflamadas (eritroderma) e cobertas com escamas escamosas (ictiose) e subdesenvolvimento ou aus\u00eancia de membros. O desenvolvimento de \u00f3rg\u00e3os como o c\u00e9rebro, o cora\u00e7\u00e3o, os pulm\u00f5es e os rins tamb\u00e9m podem ser afetados. V\u00e1rios casos em que sinais e sintomas mais leves foram relatados na literatura m\u00e9dica. A condi\u00e7\u00e3o \u00e9 causada por muta\u00e7\u00f5es no gene NSDHL, um gene que fornece instru\u00e7\u00f5es para a produ\u00e7\u00e3o de uma enzima envolvida na produ\u00e7\u00e3o de colesterol. A s\u00edndrome da CRIAN\u00c7A \u00e9 herdada de uma forma dominante ligada a X e \u00e9 encontrada quase exclusivamente em f\u00eameas."
+    },
+    {
+        "qid":"0001143-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome da CRIAN\u00c7A?",
+        "answer":"            "
+    }
+]

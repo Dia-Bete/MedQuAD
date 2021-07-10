@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000155-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Hidrocefalia de Press\u00e3o Normal?",
+        "answer":"Hidrocefalia de press\u00e3o normal (NPH) \u00e9 uma acumula\u00e7\u00e3o anormal de l\u00edquido cefalorraquidiano (CSF) nos ventr\u00edculos do c\u00e9rebro, ou cavidades. Ocorre se o fluxo normal de LCR por todo o c\u00e9rebro e medula espinhal estiver bloqueado de alguma forma. Isso faz com que os ventr\u00edculos aumentem, colocando press\u00e3o no c\u00e9rebro. Hidrocefalia de press\u00e3o normal pode ocorrer em pessoas de qualquer idade, mas \u00e9 mais comum em idosos. Pode resultar de uma hemorragia subaracn\u00f3ide, trauma craniano, infec\u00e7\u00e3o, tumor ou complica\u00e7\u00f5es da cirurgia. No entanto, muitas pessoas desenvolvem NPH mesmo quando nenhum desses fatores est\u00e1 presente. Nestes casos, a causa do dist\u00farbio \u00e9 desconhecida. Os sintomas da NPH incluem defici\u00eancia mental progressiva e dem\u00eancia, problemas com a caminhada e controle da bexiga prejudicado. A pessoa tamb\u00e9m pode ter um abrandamento geral dos movimentos ou pode reclamar que seus p\u00e9s se sintam \"aprisionados\". Como estes sintomas s\u00e3o semelhantes aos de outros dist\u00farbios como a doen\u00e7a de Alzheimer, a doen\u00e7a de Parkinson e a doen\u00e7a de Creutzfeldt-Jakob, o dist\u00farbio \u00e9 frequentemente diagnosticado erroneamente. Muitos casos s\u00e3o desconhecidos e nunca s\u00e3o tratados corretamente. Os m\u00e9dicos podem usar uma variedade de testes, incluindo exames cerebrais (TC e/ou resson\u00e2ncia magn\u00e9tica), uma torneira espinal ou cateter lombar, monitoramento da press\u00e3o intracraniana, e testes neuropsicol\u00f3gicos, para ajud\u00e1-los a diagnosticar NPH e descartar outras condi\u00e7\u00f5es."
+    },
+    {
+        "qid":"0000155-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Hidrocefalia de Press\u00e3o Normal?",
+        "answer":"O tratamento para NPH envolve a coloca\u00e7\u00e3o cir\u00fargica de um shunt no c\u00e9rebro para drenar excesso de LCR no abdome onde ele pode ser absorvido como parte do processo circulat\u00f3rio normal. Isso permite que os ventr\u00edculos cerebrais voltem ao tamanho normal. O acompanhamento regular por um m\u00e9dico \u00e9 importante para identificar mudan\u00e7as sutis que podem indicar problemas com o shunt."
+    },
+    {
+        "qid":"0000155-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva da Hidrocefalia de Press\u00e3o Normal?",
+        "answer":"Os sintomas da NPH geralmente pioram com o tempo se a condi\u00e7\u00e3o n\u00e3o for tratada, embora algumas pessoas possam experimentar melhorias tempor\u00e1rias. Enquanto o sucesso do tratamento com shunts varia de pessoa para pessoa, algumas pessoas se recuperam quase completamente ap\u00f3s o tratamento e t\u00eam uma boa qualidade de vida. Diagn\u00f3stico precoce e tratamento melhora a chance de uma boa recupera\u00e7\u00e3o. Sem tratamento, os sintomas podem piorar e causar morte."
+    },
+    {
+        "qid":"0000155-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Hidrocefalia de Press\u00e3o Normal?",
+        "answer":"O NINDS conduz e apoia pesquisas sobre dist\u00farbios neurol\u00f3gicos, incluindo hidrocefalia de press\u00e3o normal. Pesquisas sobre dist\u00farbios como a press\u00e3o normal hidrocefalia focam em aumentar o conhecimento e compreens\u00e3o do dist\u00farbio, melhorar as t\u00e9cnicas de diagn\u00f3stico e neuroimagem, e encontrar tratamentos e preven\u00e7\u00e3os melhoradas."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000021-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) adermatoglifia?",
+        "answer":"A adermatoglifia \u00e9 a aus\u00eancia de cristas na pele nas almofadas dos dedos dos dedos dos p\u00e9s, bem como nas palmas das m\u00e3os e plantas dos p\u00e9s. Os padr\u00f5es desses cumes (chamados dermatoglifos) formam vertigens, arcos e la\u00e7os que s\u00e3o a base para as impress\u00f5es digitais \u00fanicas de cada pessoa. Porque n\u00e3o h\u00e1 duas pessoas com os mesmos padr\u00f5es, as impress\u00f5es digitais foram usadas h\u00e1 muito tempo como forma de identificar indiv\u00edduos. No entanto, pessoas com adermatoglifia n\u00e3o t\u00eam essas cristas, e por isso n\u00e3o podem ser identificadas por suas impress\u00f5es digitais. A adermatoglifia tem sido chamada de \"doen\u00e7a de atraso da imigra\u00e7\u00e3o\" porque indiv\u00edduos afetados tiveram dificuldade para entrar em pa\u00edses que precisam de digitais para identifica\u00e7\u00e3o. Em algumas fam\u00edlias, a adermatoglifia ocorre sem sinais e sintomas relacionados. Em outros, a falta de dermatoglifos est\u00e1 associada a outras caracter\u00edsticas, normalmente afetando a pele. Estes podem incluir pequenos bultos brancos chamados milia no rosto, bolhas na pele em \u00e1reas expostas ao calor ou atrito, e um n\u00famero reduzido de gl\u00e2ndulas sudor\u00edferas nas m\u00e3os e p\u00e9s. A adermatoglifia tamb\u00e9m \u00e9 uma caracter\u00edstica de v\u00e1rias s\u00edndromes raras classificadas como displasias ectod\u00e9rmicas, incluindo uma condi\u00e7\u00e3o chamada s\u00edndrome de Naegeli-Franceschetti-Jadassohn/dermatopathia pigmentosa reticularis que afeta a pele, cabelo, gl\u00e2ndulas sudor\u00edparas e dentes."
+    },
+    {
+        "qid":"0000021-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por adermatoglifia?",
+        "answer":"A adermatoglifia parece ser uma condi\u00e7\u00e3o rara. Apenas algumas fam\u00edlias afetadas foram identificadas em todo o mundo."
+    },
+    {
+        "qid":"0000021-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 adermatoglifia?",
+        "answer":"A adermatoglifia \u00e9 causada por muta\u00e7\u00f5es no gene SMARCAD1. Este gene fornece informa\u00e7\u00f5es para fazer duas vers\u00f5es da prote\u00edna SMARCAD1: uma vers\u00e3o completa que \u00e9 ativa (expressa) em m\u00faltiplos tecidos e uma vers\u00e3o mais curta que \u00e9 expressa apenas na pele. Estudos sugerem que a prote\u00edna SMARCAD1 de comprimento completo regula a atividade de uma grande variedade de genes envolvidos na manuten\u00e7\u00e3o da estabilidade da informa\u00e7\u00e3o gen\u00e9tica das c\u00e9lulas. Pouco se sabe sobre a fun\u00e7\u00e3o da vers\u00e3o espec\u00edfica da pele da prote\u00edna SMARCAD1, mas parece desempenhar um papel cr\u00edtico na forma\u00e7\u00e3o de dermatoglifos. Os dermatoglifos se desenvolvem antes do nascimento e permanecem os mesmos ao longo da vida. A atividade desta prote\u00edna \u00e9 provavelmente um dos v\u00e1rios fatores que determinam o padr\u00e3o \u00fanico de impress\u00f5es digitais de cada pessoa. As muta\u00e7\u00f5es do gene SMARCAD1 que causam adermatoglifia afetam apenas a vers\u00e3o espec\u00edfica da pele da prote\u00edna SMARCAD1. Essas muta\u00e7\u00f5es reduzem a quantidade total de prote\u00edna dispon\u00edvel nas c\u00e9lulas cut\u00e2neas. Embora n\u00e3o esteja claro como essas altera\u00e7\u00f5es gen\u00e9ticas causam adermatoglifia, os pesquisadores especulam que uma escassez da vers\u00e3o espec\u00edfica da prote\u00edna SMARCAD1 prejudica as vias de sinaliza\u00e7\u00e3o necess\u00e1rias para o desenvolvimento e fun\u00e7\u00e3o cut\u00e2neas normais, incluindo a forma\u00e7\u00e3o de dermatoglifos."
+    },
+    {
+        "qid":"0000021-4",
+        "qtype":"inheritance",
+        "question":"A adermatoglifia \u00e9 herdada?",
+        "answer":"A adermatoglifia \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene SMARCAD1 alterado em cada c\u00e9lula \u00e9 suficiente para causar a condi\u00e7\u00e3o. Em muitos casos, uma pessoa afetada tem um pai com a condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000021-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para adermatoglifia?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo de adermatoglifia: - Registro de Testes Gen\u00e9ticos: Adermatoglifia Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

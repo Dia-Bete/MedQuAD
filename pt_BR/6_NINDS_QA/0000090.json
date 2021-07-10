@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000090-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o os dist\u00farbios de movimento repetitivo?",
+        "answer":"Os dist\u00farbios de movimento repetitivo (DRM) s\u00e3o uma fam\u00edlia de condi\u00e7\u00f5es musculares que resultam de movimentos repetidos realizados no decorrer do trabalho normal ou atividades di\u00e1rias. DRMs incluem s\u00edndrome do t\u00fanel carpiano, bursite, tendinite, epicondilite, cisto ganglionar, tenosinovite e dedo gatilho. Os RMDs s\u00e3o causados por muitas repeti\u00e7\u00f5es ininterruptas de uma atividade ou movimento, movimentos antinaturais ou estranhos, tais como torcer o bra\u00e7o ou pulso, excesso de esfor\u00e7o, postura incorreta, ou fadiga muscular. Os RMDs ocorrem mais comumente nas m\u00e3os, pulsos, cotovelos e ombros, mas tamb\u00e9m podem acontecer no pesco\u00e7o, nas costas, quadris, joelhos, p\u00e9s, pernas e tornozelos. Os dist\u00farbios s\u00e3o caracterizados por dor, formigueiro, dorm\u00eancia, incha\u00e7o vis\u00edvel ou vermelhid\u00e3o da \u00e1rea afetada, e a perda de flexibilidade e for\u00e7a. Para alguns indiv\u00edduos, pode n\u00e3o haver sinais vis\u00edveis de les\u00e3o, embora eles possam achar dif\u00edcil realizar tarefas f\u00e1ceis Com o tempo, os RMDs podem causar danos tempor\u00e1rios ou permanentes aos tecidos moles no corpo - tais como os m\u00fasculos, nervos, tend\u00f5es e ligamentos - e compress\u00e3o de nervos ou tecidos. Geralmente, RMDs afetam indiv\u00edduos que executam tarefas repetitivas como trabalho na linha de montagem, embalagens de carne, costura, tocando instrumentos musicais, e trabalho computacional. Os dist\u00farbios tamb\u00e9m podem afetar indiv\u00edduos que se envolvem em atividades como carpintaria, jardinagem e t\u00eanis."
+    },
+    {
+        "qid":"0000090-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para dist\u00farbios de movimento repetitivo?",
+        "answer":"O tratamento para DMRs geralmente inclui reduzir ou parar os movimentos que causam sintomas. As op\u00e7\u00f5es incluem fazer pausas para dar tempo \u00e0 \u00e1rea afetada para descansar, e adotar exerc\u00edcios de alongamento e relaxamento. Aplicar gelo na \u00e1rea afetada e usar medicamentos como analg\u00e9sicos, cortisona e anti-inflamat\u00f3rios pode reduzir a dor e o incha\u00e7o. Splints pode ser capaz de aliviar a press\u00e3o nos m\u00fasculos e nervos. A fisioterapia pode aliviar a dor nos m\u00fasculos e nas articula\u00e7\u00f5es. Em casos raros, a cirurgia pode ser necess\u00e1ria para aliviar os sintomas e prevenir danos permanentes. Alguns empregadores desenvolveram programas ergon\u00f4micos para ajudar os trabalhadores a ajustar seu ritmo de trabalho e organizar equipamentos de escrit\u00f3rio para minimizar problemas."
+    },
+    {
+        "qid":"0000090-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para os transtornos de movimento repetitivo?",
+        "answer":"A maioria dos indiv\u00edduos com DMRs recuperam-se completamente e podem evitar re-les\u00f5es mudando a forma como eles realizam movimentos repetitivos, a frequ\u00eancia com que eles realizam, e a quantidade de tempo que eles descansam entre movimentos. Sem tratamento, os RMDs podem resultar em les\u00e3o permanente e perda completa de fun\u00e7\u00e3o na \u00e1rea afetada."
+    },
+    {
+        "qid":"0000090-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Transtornos de Movimento Repetitivo?",
+        "answer":"Grande parte da pesquisa em curso sobre DMRs tem como objetivo a preven\u00e7\u00e3o e reabilita\u00e7\u00e3o. O Instituto Nacional de Artrite e Doen\u00e7as Musculoesquel\u00e9ticas e da Pele (NIAMS) financia pesquisas sobre DMRs."
+    }
+]

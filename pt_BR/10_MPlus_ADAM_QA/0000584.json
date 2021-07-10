@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0000584-1",
+        "qtype":"information",
+        "question":"O que \u00e9 um osso quebrado?",
+        "answer":""
+    },
+    {
+        "qid":"0000584-2",
+        "qtype":"considerations",
+        "question":"O que fazer com o osso quebrado?",
+        "answer":""
+    },
+    {
+        "qid":"0000584-3",
+        "qtype":"causes",
+        "question":"O que causa o osso quebrado?",
+        "answer":""
+    },
+    {
+        "qid":"0000584-4",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do osso quebrado?",
+        "answer":""
+    },
+    {
+        "qid":"0000584-5",
+        "qtype":"considerations",
+        "question":"O que fazer com o osso quebrado?",
+        "answer":""
+    },
+    {
+        "qid":"0000584-6",
+        "qtype":"considerations",
+        "question":"O que fazer com o osso quebrado?",
+        "answer":""
+    },
+    {
+        "qid":"0000584-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para o osso quebrado?",
+        "answer":""
+    },
+    {
+        "qid":"0000584-8",
+        "qtype":"prevention",
+        "question":"Como prevenir o osso quebrado?",
+        "answer":""
+    }
+]

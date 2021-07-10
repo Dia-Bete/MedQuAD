@@ -1,0 +1,44 @@
+[
+    {
+        "qid":"0001310-1",
+        "qtype":"information",
+        "question":"O que \u00e9 eczema dishidr\u00f3tico?",
+        "answer":""
+    },
+    {
+        "qid":"0001310-2",
+        "qtype":"causes",
+        "question":"O que causa eczema dishidr\u00f3tico?",
+        "answer":""
+    },
+    {
+        "qid":"0001310-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do eczema dishidr\u00f3tico?",
+        "answer":""
+    },
+    {
+        "qid":"0001310-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar o eczema dishidr\u00f3tico?",
+        "answer":""
+    },
+    {
+        "qid":"0001310-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o eczema dishidr\u00f3tico?",
+        "answer":""
+    },
+    {
+        "qid":"0001310-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o eczema dishidr\u00f3tico?",
+        "answer":""
+    },
+    {
+        "qid":"0001310-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para o eczema dishidrotico?",
+        "answer":""
+    }
+]

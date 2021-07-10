@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000262-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dor de cabe\u00e7a?",
+        "answer":"Ataques de cefaleia unilaterais, neuralgiformes com inje\u00e7\u00e3o conjuntival e tor\u00e7\u00e3o \u00e9 uma forma rara de cefaleia que \u00e9 mais comum em homens ap\u00f3s os 50 anos. O dist\u00farbio \u00e9 marcado por explos\u00f5es de queimaduras moderadas a severas, piercings ou latigantes, geralmente de um lado da cabe\u00e7a e ao redor do olho ou do templo. A dor geralmente pica dentro de segundos ap\u00f3s o in\u00edcio e pode seguir um padr\u00e3o de aumento e diminui\u00e7\u00e3o da intensidade. Ataques normalmente ocorrem em horas diurnas e duram de 5 segundos a 4 minutos por epis\u00f3dio. Os indiv\u00edduos geralmente t\u00eam cinco a seis ataques por hora. Respostas do sistema nervoso aut\u00f4nomo incluem olhos lacrimosos, olhos vermelhos ou sangrados causados pela dilata\u00e7\u00e3o dos vasos sangu\u00edneos (inje\u00e7\u00e3o conjuntival), congest\u00e3o nasal, escorregamento nasal, testa sudada, incha\u00e7o das p\u00e1lpebras, e aumento da press\u00e3o no olho no lado afetado da cabe\u00e7a. A press\u00e3o arterial sist\u00f3lica pode aumentar durante os ataques. Movimento do pesco\u00e7o pode desencadear essas dores de cabe\u00e7a. SUNCT pode ser uma forma de neuralgia trigeminal e \u00e9 considerada uma das cefalias auton\u00f4micas trigeminais, ou TACs."
+    },
+    {
+        "qid":"0000262-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para dor de cabe\u00e7a SUNCT?",
+        "answer":"Essas dores de cabe\u00e7a geralmente n\u00e3o respondem ao tratamento habitual para outras dores de cabe\u00e7a de curta dura\u00e7\u00e3o. Corticosteroides e antiepil\u00e9pticos gabapentina, lamotrigina e carbamazepina podem ajudar a aliviar alguns sintomas em alguns pacientes. Estudos mostraram que inje\u00e7\u00f5es de glicerol para bloquear sinaliza\u00e7\u00e3o nervosa ao longo do nervo trig\u00eameo podem fornecer al\u00edvio tempor\u00e1rio em alguns casos graves, mas as dores de cabe\u00e7a recorreram em cerca de 40% dos indiv\u00edduos estudados."
+    },
+    {
+        "qid":"0000262-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a dor de cabe\u00e7a do SUNCT?",
+        "answer":"N\u00e3o h\u00e1 cura para essas dores de cabe\u00e7a. O dist\u00farbio n\u00e3o \u00e9 fatal, mas pode causar consider\u00e1vel desconforto."
+    },
+    {
+        "qid":"0000262-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para SUNCT Dor de cabe\u00e7a?",
+        "answer":"O NINDS conduz uma vasta gama de pesquisas sobre dist\u00farbios de cefaleia. Esta pesquisa tem como objetivo descobrir maneiras de melhor diagnosticar, tratar e, em \u00faltima an\u00e1lise, prevenir esses dist\u00farbios."
+    }
+]

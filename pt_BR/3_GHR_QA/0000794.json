@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000794-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de fosfoglicerato quinase?",
+        "answer":"A defici\u00eancia de fosfoglicerato quinase \u00e9 um dist\u00farbio gen\u00e9tico que afeta a capacidade do corpo para quebrar a glicose de a\u00e7\u00facar simples, que \u00e9 a fonte de energia prim\u00e1ria para a maioria das c\u00e9lulas. Pesquisadores descreveram duas formas principais da condi\u00e7\u00e3o. A forma mais comum \u00e0s vezes \u00e9 chamada de forma hemol\u00edtica. \u00c9 caracterizada por uma condi\u00e7\u00e3o conhecida como anemia hemol\u00edtica cr\u00f4nica, em que os gl\u00f3bulos vermelhos s\u00e3o quebrados (hem\u00f3lise subterr\u00e2nea) prematuramente. Anemia hemol\u00edtica cr\u00f4nica pode levar a uma pele incomummente p\u00e1lida (pallor), amarelamento dos olhos e pele (icter\u00edcia), fadiga, falta de ar, e uma frequ\u00eancia card\u00edaca r\u00e1pida. Algumas pessoas com a forma hemol\u00edtica tamb\u00e9m t\u00eam sintomas relacionados \u00e0 fun\u00e7\u00e3o cerebral anormal, incluindo incapacidade intelectual, convuls\u00f5es e AVC. A outra forma de defici\u00eancia de fosfoglicerato quinase \u00e9 frequentemente chamada de forma miop\u00e1tica. Acomete principalmente os m\u00fasculos, causando fraqueza progressiva, dor e c\u00f3licas, particularmente com o exerc\u00edcio. Durante o exerc\u00edcio, o tecido muscular pode ser quebrado, liberando uma prote\u00edna chamada mioglobina. Esta prote\u00edna \u00e9 processada pelos rins e liberada na urina (mioglobin\u00faria). Se n\u00e3o tratada, a mioglobin\u00faria pode levar a insufici\u00eancia renal. A maioria das pessoas com defici\u00eancia de fosfoglicerato quinase tem a forma hemol\u00edtica ou a forma miop\u00e1tica. No entanto, outras combina\u00e7\u00f5es de sinais e sintomas (como fraqueza muscular com sintomas neurol\u00f3gicos) tamb\u00e9m foram relatadas."
+    },
+    {
+        "qid":"0000794-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de fosfoglicerato quinase?",
+        "answer":"A defici\u00eancia de fosfoglicerato quinase parece ser um dist\u00farbio raro. Cerca de 30 fam\u00edlias com membros afetados foram relatadas na literatura cient\u00edfica."
+    },
+    {
+        "qid":"0000794-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de fosfoglicerato quinase?",
+        "answer":"A defici\u00eancia de fosfoglicerato quinase \u00e9 causada por muta\u00e7\u00f5es no gene PGK1. Este gene fornece instru\u00e7\u00f5es para fazer uma enzima chamada fosfoglicerato quinase, que est\u00e1 envolvida em um processo cr\u00edtico de produ\u00e7\u00e3o de energia em c\u00e9lulas conhecidas como glic\u00f3lise. Durante a glic\u00f3lise, a glicose de a\u00e7\u00facar simples \u00e9 quebrada para produzir energia. Muta\u00e7\u00f5es no gene PGK1 reduzem a atividade do fosfoglicerato quinase, que interrompe a produ\u00e7\u00e3o de energia e leva a danos celulares ou morte celular. N\u00e3o est\u00e1 claro por que essa anormalidade afeta preferencialmente gl\u00f3bulos vermelhos e c\u00e9lulas cerebrais em algumas pessoas e c\u00e9lulas musculares em outras. Pesquisadores especulam que diferentes muta\u00e7\u00f5es do gene PGK1 podem ter efeitos variados na atividade do fosfoglicerato quinase em diferentes tipos de c\u00e9lulas."
+    },
+    {
+        "qid":"0000794-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de fosfoglicerato quinase \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o recessivo ligado a X. O gene PGK1 est\u00e1 localizado no cromossomo X, que \u00e9 um dos dois cromossomos sexuais. Em machos (que t\u00eam apenas um cromossomo X), uma c\u00f3pia alterada do gene em cada c\u00e9lula \u00e9 suficiente para causar a condi\u00e7\u00e3o. Em f\u00eameas (que t\u00eam dois cromossomos X), uma muta\u00e7\u00e3o teria que ocorrer em ambas as c\u00f3pias do gene para causar a desordem. As f\u00eameas com um gene PGK1 alterado, no entanto, podem ter algumas caracter\u00edsticas de defici\u00eancia de fosfoglicerato quinase, como anemia. Uma caracter\u00edstica da heran\u00e7a ligada a X \u00e9 que os pais n\u00e3o podem passar os tra\u00e7os ligados a X para seus filhos."
+    },
+    {
+        "qid":"0000794-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para defici\u00eancia de fosfoglicerato quinase?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da defici\u00eancia de fosfoglicerato quinase: - Crian\u00e7as que vivem com doen\u00e7as metab\u00f3licas heredit\u00e1rias (CLIMB) (UK): Fosfoglicerato Kinase Defici\u00eancia - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de fosfoglicerato quinase - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de Fosfoglicerato quinase 1 Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

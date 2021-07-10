@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000603-1",
+        "qtype":"information",
+        "question":"O que \u00e9 lissencefalia com hipoplasia cerebelar?",
+        "answer":"Lissenc\u00e9falia com hipoplasia cerebelar (LCH) afeta o desenvolvimento cerebral, resultando em uma apar\u00eancia suave (lissenc\u00e9falia) ao inv\u00e9s de suas dobras e sulcos normais. Al\u00e9m disso, a parte do c\u00e9rebro que coordena o movimento \u00e9 incomummente pequena e subdesenvolvida (hipoplasia cerebelar). Outras partes do c\u00e9rebro tamb\u00e9m s\u00e3o frequentemente subdesenvolvidas no LCH, incluindo o hipocampo, que desempenha um papel na aprendizagem e mem\u00f3ria, e a parte do c\u00e9rebro que est\u00e1 conectada \u00e0 medula espinhal (o tronco encef\u00e1lico). Indiv\u00edduos com LCH t\u00eam defici\u00eancia intelectual moderada a grave e atraso no desenvolvimento. Eles t\u00eam poucas ou nenhuma habilidade de comunica\u00e7\u00e3o, t\u00f4nus muscular extremamente ruim (hipot\u00f4nia), problemas de coordena\u00e7\u00e3o e equil\u00edbrio (ataxia), e dificuldade de sentar ou ficar sem apoio. A maioria das crian\u00e7as afetadas sofre convuls\u00f5es recorrentes (epilepsia) que come\u00e7am nos primeiros meses de vida. Alguns indiv\u00edduos afetados t\u00eam miopia (miopia), movimentos oculares involunt\u00e1rios (nistagmo), ou incha\u00e7o ou incha\u00e7o causado por uma acumula\u00e7\u00e3o de fluidos nos tecidos do corpo (linfedema)."
+    },
+    {
+        "qid":"0000603-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela lissencefalia com hipoplasia cerebelar?",
+        "answer":"A LCH \u00e9 uma condi\u00e7\u00e3o rara, embora sua preval\u00eancia seja desconhecida."
+    },
+    {
+        "qid":"0000603-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 lissencefalia com hipoplasia cerebelar?",
+        "answer":"A LCH pode ser causada por muta\u00e7\u00f5es no gene RELN ou TUBA1A. O gene RELN fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada reletina. No c\u00e9rebro em desenvolvimento, a rebelina liga (ativa) uma via de sinaliza\u00e7\u00e3o que desencadeia c\u00e9lulas nervosas (neur\u00f4nios) para migrar para seus locais apropriados. A prote\u00edna produzida a partir do gene TUBA1A tamb\u00e9m est\u00e1 envolvida na migra\u00e7\u00e3o neuronal como um componente de estruturas celulares chamadas microtubulos. Microt\u00fabulos s\u00e3o fibras ocas r\u00edgidas que comp\u00f5em a estrutura estrutural da c\u00e9lula (o citoesqueleto). Microtubulos formam andaimes dentro da c\u00e9lula que se alongam em uma dire\u00e7\u00e3o espec\u00edfica, alterando o citoesqueleto e os neur\u00f4nios em movimento. Muta\u00e7\u00f5es no gene RELN ou TUBA1A prejudicam a migra\u00e7\u00e3o normal dos neur\u00f4nios durante o desenvolvimento fetal. Como resultado, os neur\u00f4nios est\u00e3o desorganizados, as pregas e ranhuras normais do c\u00e9rebro n\u00e3o se formam, e as estruturas cerebrais n\u00e3o se desenvolvem corretamente. Esse comprometimento do desenvolvimento cerebral leva aos problemas neurol\u00f3gicos caracter\u00edsticos da LCH."
+    },
+    {
+        "qid":"0000603-4",
+        "qtype":"inheritance",
+        "question":"Lissenc\u00e9falia com hipoplasia cerebelar \u00e9 herdada?",
+        "answer":"Quando a LCH \u00e9 causada por muta\u00e7\u00f5es no gene RELN, a condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o. Quando a LCH \u00e9 causada por muta\u00e7\u00f5es no gene TUBA1A, a condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. A maioria desses casos resultam de novas muta\u00e7\u00f5es no gene e ocorrem em pessoas sem hist\u00f3ria do dist\u00farbio em sua fam\u00edlia."
+    },
+    {
+        "qid":"0000603-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para lissencefalia com hipoplasia cerebelar?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da lissencefalia com hipoplasia cerebelar: - Registro de Testes Gen\u00e9ticos: Lissencefalia 2 - Registro de Testes Gen\u00e9ticos: Lissencefalia 3 Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

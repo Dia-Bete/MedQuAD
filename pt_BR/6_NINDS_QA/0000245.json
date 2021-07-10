@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000245-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a encefalite de Rasmussen?",
+        "answer":"A encefalite Rasmussens \u00e9 uma doen\u00e7a neurol\u00f3gica inflamat\u00f3ria cr\u00f4nica rara que geralmente afeta apenas um hemisf\u00e9rio do c\u00e9rebro. Geralmente ocorre em crian\u00e7as menores de 10 anos (mais raramente em adolescentes e adultos), e \u00e9 caracterizado por convuls\u00f5es frequentes e graves, perda de habilidades motoras e fala, paralisia de um lado do corpo (hemiparesia), inflama\u00e7\u00e3o do c\u00e9rebro (encefalite), e deteriora\u00e7\u00e3o mental. A maioria dos indiv\u00edduos com encefalite Rasmussens sofrer\u00e1 convuls\u00f5es frequentes e danos cerebrais progressivos no hemisf\u00e9rio afetado do c\u00e9rebro durante os primeiros 8 a 12 meses, e ent\u00e3o entrar\u00e1 em uma fase de d\u00e9ficits neurol\u00f3gicos permanentes, mas est\u00e1veis. A encefalite de Rasmussens tem caracter\u00edsticas de uma doen\u00e7a autoimune em que c\u00e9lulas do sistema imunol\u00f3gico entram no c\u00e9rebro e causam inflama\u00e7\u00e3o e danos.A pesquisa est\u00e1 em curso sobre as causas desta doen\u00e7a rara."
+    },
+    {
+        "qid":"0000245-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a encefalite de Rasmussen?",
+        "answer":"As drogas antiepil\u00e9pticas geralmente n\u00e3o s\u00e3o eficazes no controle de convuls\u00f5es. Estudos recentes mostraram algum sucesso com tratamentos que suprimem ou modulam o sistema imunol\u00f3gico, em particular aqueles que usam corticosteroides, imunoglobulina intravenosa, ou tacrolimus. Cirurgia para controlar convuls\u00f5es pode ser realizada em est\u00e1gios posteriores da doen\u00e7a quando d\u00e9ficits neurol\u00f3gicos se estabilizam. Procedimentos cir\u00fargicos, como hemisectomia funcional e hemisferotomia, podem reduzir a frequ\u00eancia de convuls\u00f5es e tamb\u00e9m melhorar o comportamento e as habilidades cognitivas."
+    },
+    {
+        "qid":"0000245-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Encefalite de Rasmussen?",
+        "answer":"O progn\u00f3stico para indiv\u00edduos com encefalite Rasmussens varia. Apesar dos avan\u00e7os no tratamento m\u00e9dico, nenhum demonstrou ainda parar o progresso da doen\u00e7a a longo prazo. O dist\u00farbio pode levar a graves d\u00e9ficits neurol\u00f3gicos ou pode causar apenas defici\u00eancias mais leves. Para algumas crian\u00e7as, a cirurgia diminui as convuls\u00f5es. No entanto, a maioria dos indiv\u00edduos com encefalite Rasmussens \u00e9 deixada com alguma paralisia, d\u00e9ficit cognitivo e problemas de fala. Em alguns casos, a doen\u00e7a pode progredir para envolver o hemisf\u00e9rio cerebral oposto."
+    },
+    {
+        "qid":"0000245-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a encefalite de Rasmussen?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS) realiza pesquisas relacionadas \u00e0 encefalite de Rasmussens em seus laborat\u00f3rios nos Institutos Nacionais de Sa\u00fade (NIH), e tamb\u00e9m apoia pesquisas adicionais atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es de pesquisa em todo o pa\u00eds. Grande parte desta pesquisa se concentra em encontrar melhores maneiras de prevenir, tratar e curar dist\u00farbios neurol\u00f3gicos progressivos, como a encefalite de Rasmussens."
+    }
+]

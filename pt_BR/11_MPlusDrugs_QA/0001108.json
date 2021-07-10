@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0001108-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar Sevelamer e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0001108-2",
+        "qtype":"usage",
+        "question":"Como se deve usar Sevelamer e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0001108-3",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Sevelamer?",
+        "answer":""
+    },
+    {
+        "qid":"0001108-4",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Sevelamer?",
+        "answer":""
+    },
+    {
+        "qid":"0001108-5",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Sevelamer?",
+        "answer":""
+    },
+    {
+        "qid":"0001108-6",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos de Sevelamer?",
+        "answer":""
+    },
+    {
+        "qid":"0001108-7",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Sevelamer?",
+        "answer":""
+    },
+    {
+        "qid":"0001108-8",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Sevelamer?",
+        "answer":""
+    },
+    {
+        "qid":"0001108-9",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca de Sevelamer?",
+        "answer":""
+    }
+]

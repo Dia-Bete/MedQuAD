@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000024-1",
+        "qtype":"information",
+        "question":"O que \u00e9 S\u00edndrome Antifosfol\u00edpida?",
+        "answer":"A s\u00edndrome antifosfolip\u00eddica (SAP) \u00e9 uma doen\u00e7a autoimune causada quando anticorpos -- c\u00e9lulas do sistema imunol\u00f3gico que combatem bact\u00e9rias e v\u00edrus -- atacam erroneamente tecidos e \u00f3rg\u00e3os corporais saud\u00e1veis. Na APS, anticorpos espec\u00edficos ativam o revestimento interno dos vasos sangu\u00edneos, o que leva \u00e0 forma\u00e7\u00e3o de co\u00e1gulos sangu\u00edneos em art\u00e9rias ou veias. APS \u00e9 \u00e0s vezes chamada de s\u00edndrome de sangue pegajoso, por causa da tend\u00eancia aumentada de formar co\u00e1gulos de sangue nas veias e art\u00e9rias. Os sintomas da APS s\u00e3o devidos \u00e0 coagula\u00e7\u00e3o anormal do sangue. Chatos podem se desenvolver nas veias das pernas e pulm\u00f5es, ou na placenta de mulheres gr\u00e1vidas. Uma das complica\u00e7\u00f5es mais graves da APS ocorre quando um co\u00e1gulo se forma no c\u00e9rebro e causa um AVC. Outros sintomas neurol\u00f3gicos incluem dores de cabe\u00e7a cr\u00f4nicas, dem\u00eancia (similar \u00e0 dem\u00eancia da doen\u00e7a de Alzheimer), e convuls\u00f5es. Infrequentemente, indiv\u00edduos desenvolver\u00e3o coreia (um dist\u00farbio de movimento em que o corpo e os membros se contorcem incontrolavelmente), disfun\u00e7\u00e3o cognitiva (como m\u00e1 mem\u00f3ria), mielite transversal, depress\u00e3o ou psicose, neuropatia \u00f3ptica, ou perda auditiva s\u00fabita. Em mulheres gr\u00e1vidas, co\u00e1gulos na placenta podem causar abortos. A APS \u00e9 diagnosticada pela presen\u00e7a de um anticorpo antifosfolip\u00eddico positivo e um hist\u00f3rico de co\u00e1gulos sangu\u00edneos em uma art\u00e9ria ou veia ou um hist\u00f3rico de m\u00faltiplas abortos ou outros problemas de gravidez. Alguns indiv\u00edduos ter\u00e3o uma erup\u00e7\u00e3o vermelha caracter\u00edstica, tipo rede, chamada livedo reticularis sobre os pulsos e joelhos."
+    },
+    {
+        "qid":"0000024-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a S\u00edndrome Antifosfolip\u00eddica?",
+        "answer":"O principal objetivo do tratamento \u00e9 diluir o sangue para reduzir a coagula\u00e7\u00e3o. No momento, o tratamento recomendado \u00e9 aspirina de baixa dose. Para indiv\u00edduos que j\u00e1 tiveram um acidente vascular cerebral ou sofrer co\u00e1gulos recorrentes, os m\u00e9dicos recomendam tratamento com a varfarina anticoagulante. Mulheres gr\u00e1vidas s\u00e3o tratadas com aspirina ou outro anticoagulante, heparina, j\u00e1 que a warfarina pode causar defeitos cong\u00eanitos."
+    },
+    {
+        "qid":"0000024-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a S\u00edndrome Antifosfolip\u00eddica?",
+        "answer":"A APS melhora significativamente com a terapia anticoagulante, o que reduz o risco de mais co\u00e1gulos nas veias e art\u00e9rias. O tratamento deve ser para toda a vida, j\u00e1 que h\u00e1 um alto risco de co\u00e1gulos em indiv\u00edduos que interrompem o tratamento com warfarina. Os m\u00e9dicos muitas vezes recomendam que os indiv\u00edduos parem de fumar, fa\u00e7am exerc\u00edcio regularmente, e comam uma dieta saud\u00e1vel para prevenir a hipertens\u00e3o arterial e diabetes, que s\u00e3o doen\u00e7as que aumentam o risco de acidente vascular cerebral. Tratar mulheres gr\u00e1vidas com aspirina ou heparina normalmente evita abortos relacionados \u00e0 APS."
+    },
+    {
+        "qid":"0000024-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a S\u00edndrome Antifosfolip\u00eddica?",
+        "answer":"O National Institute of Neurological Disorders and Stroke (NINDS) e outros institutos dos Institutos Nacionais de Sa\u00fade (NIH) apoiam a pesquisa sobre APS atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds.A pesquisa financiada pelo NINDS est\u00e1 procurando formas de reduzir a coagula\u00e7\u00e3o e prevenir o AVC. Entre outros esfor\u00e7os de pesquisa financiados pela NIH, cientistas est\u00e3o examinando o papel dos anticorpos antifosfolip\u00eddeos na coagula\u00e7\u00e3o e perda de gravidez, o que \u00e9 comumente observado em indiv\u00edduos com l\u00fapus. Outro projeto espera identificar potenciais fatores de risco herdados para o desenvolvimento da APS."
+    }
+]

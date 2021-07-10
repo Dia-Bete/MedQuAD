@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000171-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Chanarin-Dorfman?",
+        "answer":"A s\u00edndrome de Chanarin-Dorfman \u00e9 uma condi\u00e7\u00e3o em que as gorduras (l\u00edpidos) s\u00e3o armazenadas anormalmente no corpo. Indiv\u00edduos afetados n\u00e3o podem quebrar certas gorduras chamadas triglic\u00e9ridos, e essas gorduras se acumulam em \u00f3rg\u00e3os e tecidos, incluindo pele, f\u00edgado, m\u00fasculos, intestino, olhos e ouvidos. Pessoas com esta condi\u00e7\u00e3o tamb\u00e9m t\u00eam pele seca e escamosa (ictiose), que geralmente est\u00e1 presente no nascimento. As caracter\u00edsticas adicionais desta condi\u00e7\u00e3o incluem um aumento do f\u00edgado (hepatomegalia), nubla\u00e7\u00e3o da lente dos olhos (cataratas), dificuldade em coordenar movimentos (ataxia), perda auditiva, estatura curta, fraqueza muscular (miopatia), movimento involunt\u00e1rio dos olhos (nistagmo), e defici\u00eancia intelectual leve. Os sinais e sintomas variam muito entre indiv\u00edduos com s\u00edndrome de Chanarin-Dorfman. Algumas pessoas podem ter apenas ictiose, enquanto outras podem ter problemas afetando muitas \u00e1reas do corpo."
+    },
+    {
+        "qid":"0000171-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Chanarin-Dorfman?",
+        "answer":"A s\u00edndrome de Chanarin-Dorfman \u00e9 uma condi\u00e7\u00e3o rara, sua incid\u00eancia \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000171-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Chanarin-Dorfman?",
+        "answer":"Muta\u00e7\u00f5es no gene ABHD5 causam s\u00edndrome de Chanarin-Dorfman. O gene ABHD5 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que liga (ativa) a enzima ATGL, que descomp\u00f5e triglic\u00e9ridos. Triglic\u00e9ridos s\u00e3o a principal fonte de energia armazenada nas c\u00e9lulas. Essas gorduras devem ser divididas em mol\u00e9culas mais simples chamadas \u00e1cidos graxos antes de poderem ser usadas para a energia. Muta\u00e7\u00f5es do gene ABHD5 prejudicam a capacidade da prote\u00edna para ativar a enzima ATGL. Uma enzima inativa torna imposs\u00edvel a quebra de triglic\u00e9ridos, fazendo com que se acumulem nos tecidos por todo o corpo. A acumula\u00e7\u00e3o de triglic\u00e9ridos resulta nos sinais e sintomas da s\u00edndrome de Chanarin-Dorfman."
+    },
+    {
+        "qid":"0000171-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Chanarin-Dorfman \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000171-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Chanarin-Dorfman?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Chanarin-Dorfman: - Registro de Testes Gen\u00e9ticos: Doen\u00e7a de armazenamento de triglic\u00e9ridos com ictiose - MedlinePlus Enciclop\u00e9dia: Ictiose vulgaris Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

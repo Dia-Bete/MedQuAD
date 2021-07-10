@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000790-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Peutz-Jeghers?",
+        "answer":"A s\u00edndrome de Peutz-Jeghers \u00e9 caracterizada pelo desenvolvimento de crescimentos n\u00e3o cancerosos chamados p\u00f3lipos hamartomatosos no trato gastrointestinal (particularmente o est\u00f4mago e os intestinos) e um grande aumento do risco de desenvolver certos tipos de c\u00e2ncer. Crian\u00e7as com s\u00edndrome de Peutz-Jeghers muitas vezes desenvolvem pequenas manchas de cor escura nos l\u00e1bios, ao redor e dentro da boca, perto dos olhos e narinas, e ao redor do \u00e2nus. Essas manchas tamb\u00e9m podem ocorrer nas m\u00e3os e nos p\u00e9s. Eles aparecem durante a inf\u00e2ncia e muitas vezes desaparecem \u00e0 medida que a pessoa envelhece. Al\u00e9m disso, a maioria das pessoas com s\u00edndrome de Peutz-Jeghers desenvolvem m\u00faltiplos p\u00f3lipos no est\u00f4mago e intestinos durante a inf\u00e2ncia ou adolesc\u00eancia. Os p\u00f3lipos podem causar problemas de sa\u00fade como obstru\u00e7\u00f5es recorrentes do intestino, sangramento cr\u00f4nico e dor abdominal. Pessoas com s\u00edndrome de Peutz-Jeghers t\u00eam um alto risco de desenvolver c\u00e2ncer durante suas vidas. C\u00e2nceres do trato gastrointestinal, p\u00e2ncreas, colo do \u00fatero, ov\u00e1rio e mama est\u00e3o entre os tumores mais comumente relatados."
+    },
+    {
+        "qid":"0000790-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Peutz-Jeghers?",
+        "answer":"A preval\u00eancia dessa condi\u00e7\u00e3o \u00e9 incerta; estimativas variam de 1 em 25.000 a 300.000 indiv\u00edduos."
+    },
+    {
+        "qid":"0000790-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Peutz-Jeghers?",
+        "answer":"Muta\u00e7\u00f5es no gene STK11 (tamb\u00e9m conhecido como LKB1) causam a maioria dos casos de s\u00edndrome de Peutz-Jeghers. O gene STK11 \u00e9 um gene supressor de tumores, o que significa que normalmente impede que as c\u00e9lulas cres\u00e7am e se dividam muito rapidamente ou de forma descontrolada. Uma muta\u00e7\u00e3o neste gene altera a estrutura ou fun\u00e7\u00e3o da prote\u00edna STK11, interrompendo sua capacidade de conter a divis\u00e3o celular. O crescimento celular descontrolado resultante leva \u00e0 forma\u00e7\u00e3o de p\u00f3lipos n\u00e3o cancerosos e tumores cancerosos em pessoas com s\u00edndrome de Peutz-Jeghers. Uma pequena porcentagem de pessoas com s\u00edndrome de Peutz-Jeghers n\u00e3o tem muta\u00e7\u00f5es no gene STK11. Nestes casos, a causa do dist\u00farbio \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000790-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Peutz-Jeghers \u00e9 herdada?",
+        "answer":"A s\u00edndrome de Peutz-Jeghers \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para aumentar o risco de desenvolver p\u00f3lipos n\u00e3o cancerosos e tumores cancerosos. Em quase metade de todos os casos, uma pessoa afetada herda uma muta\u00e7\u00e3o no gene STK11 de um dos pais afetados. Os casos restantes ocorrem em pessoas sem hist\u00f3rico de s\u00edndrome de Peutz-Jeghers em sua fam\u00edlia. Estes casos parecem resultar de novas muta\u00e7\u00f5es (de novo) no gene STK11."
+    },
+    {
+        "qid":"0000790-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Peutz-Jeghers?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Peutz-Jeghers: - Gene Review: Gene Review: Peutz-Jeghers S\u00edndrome - Gene Testing Registry: Peutz-Jeghers S\u00edndrome - MedlinePlus Enciclop\u00e9dia: Peutz-Jeghers S\u00edndrome Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000634-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Meckel?",
+        "answer":"A s\u00edndrome de Meckel \u00e9 um dist\u00farbio com sinais e sintomas graves que afetam muitas partes do corpo. As caracter\u00edsticas mais comuns s\u00e3o os rins aumentados com numerosos quistos cheios de l\u00edquido; uma encefalocele occipital, que \u00e9 uma protrus\u00e3o tipo saco do c\u00e9rebro atrav\u00e9s de uma abertura na parte de tr\u00e1s do cr\u00e2nio; e a presen\u00e7a de dedos extras e dedos dos p\u00e9s (polidactilia). Os indiv\u00edduos mais afetados tamb\u00e9m t\u00eam uma acumula\u00e7\u00e3o de tecido cicatricial (fibrose) no f\u00edgado. Outros sinais e sintomas da s\u00edndrome de Meckel variam muito entre os indiv\u00edduos afetados. Numerosas anormalidades do c\u00e9rebro e da medula espinhal (sistema nervoso central) foram relatadas em pessoas com s\u00edndrome de Meckel, incluindo um grupo de defeitos de nascimento conhecidos como defeitos do tubo neural. Esses defeitos ocorrem quando uma estrutura chamada de tubo neural, uma camada de c\u00e9lulas que se desenvolve no c\u00e9rebro e na medula espinhal, falha em fechar completamente durante as primeiras semanas de desenvolvimento embrion\u00e1rio. A s\u00edndrome de Meckel tamb\u00e9m pode causar problemas com o desenvolvimento dos olhos e outras caracter\u00edsticas faciais, cora\u00e7\u00e3o, ossos, sistema urin\u00e1rio e genitais. Por causa de seus graves problemas de sa\u00fade, a maioria dos indiv\u00edduos com s\u00edndrome de Meckel morre antes ou pouco depois do nascimento. Na maioria das vezes, crian\u00e7as afetadas morrem de problemas respirat\u00f3rios ou insufici\u00eancia renal."
+    },
+    {
+        "qid":"0000634-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Meckel?",
+        "answer":"A s\u00edndrome de Meckel afeta 1 em 13 250 a 1 em 140.000 pessoas em todo o mundo. \u00c9 mais comum em certas popula\u00e7\u00f5es; por exemplo, a condi\u00e7\u00e3o afeta cerca de 1 em 9.000 pessoas de ascend\u00eancia finlandesa e cerca de 1 em 3.000 pessoas de ascend\u00eancia belga."
+    },
+    {
+        "qid":"0000634-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Meckel?",
+        "answer":"A s\u00edndrome de Meckel pode ser causada por muta\u00e7\u00f5es em pelo menos oito genes. As prote\u00ednas produzidas a partir desses genes s\u00e3o conhecidas ou suspeitas de desempenhar pap\u00e9is em estruturas celulares chamadas cilia. C\u00edlias s\u00e3o microsc\u00f3picas, proje\u00e7\u00f5es de dedo que saem da superf\u00edcie das c\u00e9lulas e est\u00e3o envolvidas em vias de sinaliza\u00e7\u00e3o que transmitem informa\u00e7\u00f5es entre as c\u00e9lulas. C\u00edlias s\u00e3o importantes para a estrutura e fun\u00e7\u00e3o de muitos tipos de c\u00e9lulas, incluindo c\u00e9lulas cerebrais e certas c\u00e9lulas nos rins e f\u00edgado. Muta\u00e7\u00f5es nos genes associados \u00e0 s\u00edndrome de Meckel levam a problemas com a estrutura e fun\u00e7\u00e3o da c\u00edlia. Defeitos nestas estruturas celulares provavelmente interrompem importantes vias de sinaliza\u00e7\u00e3o qu\u00edmica durante o desenvolvimento precoce. Embora os pesquisadores acreditem que os c\u00edlios defeituosos s\u00e3o respons\u00e1veis pela maioria das caracter\u00edsticas desta doen\u00e7a, ainda n\u00e3o est\u00e1 claro como eles levam a anormalidades espec\u00edficas do desenvolvimento do c\u00e9rebro, rins e outras partes do corpo. Muta\u00e7\u00f5es nos oito genes conhecidos por estarem associados \u00e0 s\u00edndrome de Meckel representam cerca de 75% de todos os casos da doen\u00e7a. Nos demais casos, a causa gen\u00e9tica \u00e9 desconhecida. Muta\u00e7\u00f5es em v\u00e1rios outros genes t\u00eam sido identificados em pessoas com caracter\u00edsticas semelhantes \u00e0s da s\u00edndrome de Meckel, embora n\u00e3o esteja claro se esses indiv\u00edduos realmente t\u00eam s\u00edndrome de Meckel ou um dist\u00farbio relacionado (muitas vezes descrito como um \"fenotipo semelhante a Meckel\")."
+    },
+    {
+        "qid":"0000634-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Meckel \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000634-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Meckel?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Meckel: - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Meckel tipo 1 - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Meckel tipo 2 - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Meckel tipo 3 - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Meckel tipo 4 - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Meckel tipo 5 - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Meckel tipo 6 - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Meckel tipo 7 - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Meckel tipo 8 - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Meckel, tipo 10 - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Meckel tipo 9 Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o gerenciamento de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Drogas - Cirurgia e Reabilita\u00e7\u00e3o - Conselho Gen\u00e9tico - Cuidado Paliativo"
+    }
+]

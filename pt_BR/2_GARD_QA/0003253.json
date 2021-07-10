@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0003253-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome endotelial iridocorneal?",
+        "answer":"S\u00edndrome endotelial iridocorneal (ICE) descreve um grupo de doen\u00e7as oculares que s\u00e3o caracterizadas por tr\u00eas caracter\u00edsticas principais: altera\u00e7\u00f5es vis\u00edveis na \u00edris (a parte colorida do olho que regula a quantidade de luz que entra no olho) Incha\u00e7o da c\u00f3rnea, e O desenvolvimento de glaucoma (uma doen\u00e7a que pode causar perda de vis\u00e3o grave quando fluido normal dentro do olho n\u00e3o pode drenar corretamente) s\u00edndrome ICE, \u00e9 mais comum em mulheres do que homens, mais comumente diagnosticado na idade m\u00e9dia, e est\u00e1 geralmente presente em apenas um olho. A condi\u00e7\u00e3o \u00e9, na verdade, um agrupamento de tr\u00eas condi\u00e7\u00f5es estreitamente ligadas: S\u00edndrome de Cogan-Reese, S\u00edndrome de Chandler e atrofia essencial (progressiva) do \u00edris. A causa da s\u00edndrome ICE \u00e9 desconhecida, no entanto, existe uma teoria de que ela \u00e9 desencadeada por um v\u00edrus que leva ao incha\u00e7o da c\u00f3rnea. Embora n\u00e3o haja maneira de parar a progress\u00e3o da condi\u00e7\u00e3o, o tratamento dos sintomas pode incluir medica\u00e7\u00e3o para glaucoma e transplante de c\u00f3rnea para incha\u00e7o da c\u00f3rnea."
+    },
+    {
+        "qid":"0003253-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome endotelial iridocorneal?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da s\u00edndrome endotelial iridocorneal? A caracter\u00edstica mais comum da s\u00edndrome do ICE \u00e9 o movimento de c\u00e9lulas endoteliais da c\u00f3rnea para o \u00edris. Essa perda de c\u00e9lulas da c\u00f3rnea muitas vezes leva a incha\u00e7o da c\u00f3rnea, distor\u00e7\u00e3o do \u00edris, e graus vari\u00e1veis de distor\u00e7\u00e3o da pupila (a abertura ajust\u00e1vel no centro do \u00edris que permite que v\u00e1rias quantidades de luz entrem no olho). Este movimento celular tamb\u00e9m tapa os canais de sa\u00edda de fluido do olho, causando glaucoma."
+    },
+    {
+        "qid":"0003253-3",
+        "qtype":"causes",
+        "question":"O que causa a s\u00edndrome endotelial iridocorneal?",
+        "answer":"O que causa s\u00edndrome endotelial iridocorneal (ICE)? A causa desta doen\u00e7a \u00e9 desconhecida. No entanto, tem sido teorizado que uma infec\u00e7\u00e3o viral, como o v\u00edrus Herpes simplex (HSV) ou o v\u00edrus Epstein-Barr (EBV) pode ser o gatilho que faz a c\u00f3rnea inchar."
+    },
+    {
+        "qid":"0003253-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome endotelial iridocorneal?",
+        "answer":"Como a s\u00edndrome endotelial iridocorneal (ICE) pode ser tratada? N\u00e3o \u00e9 poss\u00edvel parar a progress\u00e3o da s\u00edndrome ICE. O tratamento \u00e9 geralmente focado no manejo do glaucoma associado \u00e0 doen\u00e7a, seja atrav\u00e9s de medica\u00e7\u00e3o ou cirurgia poss\u00edvel, para ajudar a reduzir a press\u00e3o no olho. A medica\u00e7\u00e3o e o transplante de c\u00f3rnea tamb\u00e9m podem ser usados para tratar o incha\u00e7o da c\u00f3rnea."
+    }
+]

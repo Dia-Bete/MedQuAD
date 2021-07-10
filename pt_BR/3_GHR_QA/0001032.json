@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001032-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Weissenbacher-Zweymller?",
+        "answer":"A s\u00edndrome de Weissenbacher-Zweymller \u00e9 uma condi\u00e7\u00e3o que afeta o crescimento \u00f3sseo. \u00c9 caracterizado por anormalidades esquel\u00e9ticas, perda auditiva e caracter\u00edsticas faciais distintas. Esta condi\u00e7\u00e3o tem caracter\u00edsticas que s\u00e3o semelhantes \u00e0s de outro dist\u00farbio esquel\u00e9tico, displasia otospondilomegaepifiseal (OSMED). Crian\u00e7as nascidas com s\u00edndrome de Weissenbacher-Zweymller s\u00e3o menores do que a m\u00e9dia porque os ossos em seus bra\u00e7os e pernas s\u00e3o incomummente curtos. Os ossos da coxa e da parte superior do bra\u00e7o s\u00e3o em forma de halt\u00e8res, e os ossos da coluna (vertebras) tamb\u00e9m podem ser anormalmente moldados. A perda auditiva de alto ton ocorre em alguns casos. Caracter\u00edsticas faciais distintivas incluem olhos sobressalentes, um pequeno nariz virado com uma ponte plana, e uma pequena mand\u00edbula inferior. Alguns beb\u00eas afetados nascem com uma abertura no telhado da boca (uma fenda palatina). As caracter\u00edsticas esquel\u00e9ticas da s\u00edndrome de Weissenbacher-Zweymller tendem a diminuir durante a inf\u00e2ncia. A maioria dos adultos com esta condi\u00e7\u00e3o n\u00e3o s\u00e3o incomummente curtos, mas ainda ret\u00eam as outras caracter\u00edsticas da s\u00edndrome de Weissenbacher-Zweymller."
+    },
+    {
+        "qid":"0001032-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Weissenbacher-Zweymller?",
+        "answer":"A s\u00edndrome de Weissenbacher-Zweymller \u00e9 muito rara, apenas algumas fam\u00edlias com o dist\u00farbio foram relatadas em todo o mundo."
+    },
+    {
+        "qid":"0001032-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Weissenbacher-Zweymller?",
+        "answer":"Muta\u00e7\u00f5es no gene COL11A2 causam s\u00edndrome de Weissenbacher-Zweymller. O gene COL11A2 \u00e9 um dos v\u00e1rios genes que fornecem instru\u00e7\u00f5es para a produ\u00e7\u00e3o de col\u00e1geno tipo XI. Este tipo de col\u00e1geno \u00e9 importante para o desenvolvimento normal de ossos e outros tecidos conjuntivos que formam a estrutura de apoio do corpo. Pelo menos uma muta\u00e7\u00e3o no gene COL11A2 causa a s\u00edndrome de Weissenbacher-Zweymller. Esta muta\u00e7\u00e3o interrompe a montagem de mol\u00e9culas de col\u00e1geno tipo XI, resultando em atraso no desenvolvimento \u00f3sseo e as outras caracter\u00edsticas desta desordem."
+    },
+    {
+        "qid":"0001032-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Weissenbacher-Zweymller \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0001032-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Weissenbacher-Zweymller?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Weissenbacher-Zweymller: - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Weissenbacher-Zweymuller Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

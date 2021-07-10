@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0002713-1",
+        "qtype":"information",
+        "question":"O que \u00e9 l\u00edngua peluda?",
+        "answer":"A l\u00edngua peluda \u00e9 uma condi\u00e7\u00e3o em que a parte superior central da l\u00edngua apresenta uma colora\u00e7\u00e3o anormal. Embora o revestimento anormal seja tipicamente preto de cor, descolora\u00e7\u00e3o marrom, amarelo e verde foi descrita."
+    },
+    {
+        "qid":"0002713-2",
+        "qtype":"causes",
+        "question":"O que causa a l\u00edngua peluda?",
+        "answer":"O que causa a l\u00edngua peluda? A causa exata \u00e9 desconhecida; no entanto, o tabagismo, \u00e1lcool, desidrata\u00e7\u00e3o, uso de antibi\u00f3ticos, baixa produ\u00e7\u00e3o de saliva, neuralgia trig\u00e9minal, baixa higiene bucal e radioterapia craniana mostraram trazer l\u00edngua peluda."
+    },
+    {
+        "qid":"0002713-3",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a l\u00edngua peluda?",
+        "answer":"Que tratamento est\u00e1 dispon\u00edvel para a l\u00edngua peluda? Embora a l\u00edngua peluda normalmente resolve por conta pr\u00f3pria, os pacientes s\u00e3o encorajados a evitar os fatores que t\u00eam sido mostrados para trazer a l\u00edngua peluda. O tratamento geralmente envolve limpeza suave da l\u00edngua com escova de dentes macia. A medica\u00e7\u00e3o raramente \u00e9 prescrita para a l\u00edngua peluda; no entanto, em casos graves, antif\u00fangicos, retin\u00f3ides ou enxaguantes bucais podem ser usados. Se o tratamento falhar, a por\u00e7\u00e3o afetada da l\u00edngua chamada papila (proje\u00e7\u00f5es semelhantes aos dedos) pode ser cortada ou removida usando t\u00e9cnicas como a queima a laser de di\u00f3xido de carbono ou eletrodesica\u00e7\u00e3o (um procedimento em que uma corrente el\u00e9trica \u00e9 usada para selar a \u00e1rea afetada)."
+    }
+]

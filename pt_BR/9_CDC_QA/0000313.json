@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0000313-1",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para a Febre Hemorr\u00e1gica Omsk (OHF)? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"Os humanos podem se infectar atrav\u00e9s de picadas de carrapato ou pelo contato com o sangue, fezes ou urina de um animal infectado, doente ou morto \u2013 mais comumente, roedores. Atividades ocupacionais e recreativas, como ca\u00e7a ou armadilha, podem aumentar o risco humano de infec\u00e7\u00e3o. A transmiss\u00e3o tamb\u00e9m pode ocorrer sem a exposi\u00e7\u00e3o direta de carrapatos ou roedores como OHFV parece ser extremamente est\u00e1vel em diferentes ambientes. Tem sido isolado de animais aqu\u00e1ticos e \u00e1gua e h\u00e1 at\u00e9 evid\u00eancias de que o OHFV pode ser transmitido atrav\u00e9s do leite de cabras ou ovelhas infectadas para os humanos. Nenhuma transmiss\u00e3o humana de OHFV foi documentada, mas infec\u00e7\u00f5es por contamina\u00e7\u00e3o de laborat\u00f3rio foram descritas."
+    },
+    {
+        "qid":"0000313-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da febre hemorr\u00e1gica de Omsk (OHF)?",
+        "answer":"Ap\u00f3s um per\u00edodo de incuba\u00e7\u00e3o de 3-8 dias, os sintomas de OHF come\u00e7am repentinamente com arrepios, febre, cefaleia e dor muscular grave com v\u00f3mitos, sintomas gastrointestinais e problemas de sangramento ocorrendo 3-4 dias ap\u00f3s o in\u00edcio do sintoma inicial. Os pacientes podem apresentar press\u00e3o arterial anormalmente baixa e plaquetas baixas, gl\u00f3bulos vermelhos e contagem de gl\u00f3bulos brancos. Ap\u00f3s 1-2 semanas de sintomas, alguns pacientes se recuperam sem complica\u00e7\u00f5es. No entanto, a doen\u00e7a \u00e9 bif\u00e1sica para um subconjunto de pacientes que experimentam uma segunda onda de sintomas no in\u00edcio da terceira semana. Estes sintomas incluem febre e encefalite (inflama\u00e7\u00e3o do c\u00e9rebro). A taxa de letalidade de casos de OHF \u00e9 baixa (0,5% a 3%)."
+    },
+    {
+        "qid":"0000313-3",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para a Febre Hemorr\u00e1gica Omsk (OHF)? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"Em \u00e1reas onde os reservat\u00f3rios de roedores e esp\u00e9cies de carrapatos s\u00e3o prevalentes, pessoas com exposi\u00e7\u00e3o recreativa ou ocupacional a ambientes rurais ou ao ar livre (por exemplo, ca\u00e7adores, campistas, trabalhadores florestais, agricultores) est\u00e3o potencialmente em maior risco para OHF pelo contato com carrapatos infectados e animais. Al\u00e9m disso, aqueles na Sib\u00e9ria que ca\u00e7am e armadilham ratos mosquitos especificamente est\u00e3o em maior risco para a OHF. A exposi\u00e7\u00e3o tamb\u00e9m pode ocorrer no ambiente de laborat\u00f3rio."
+    },
+    {
+        "qid":"0000313-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a febre hemorr\u00e1gica de Omsk (OHF)?",
+        "answer":"O v\u00edrus OHF pode ser detectado em amostras de sangue por isolamento de v\u00edrus em cultura celular ou usando t\u00e9cnicas moleculares como PCR. As amostras de sangue tamb\u00e9m podem ser testadas para a presen\u00e7a de anticorpos usando o teste seol\u00f3gico imunoabsorvente ligado \u00e0 enzima (ELISA)."
+    },
+    {
+        "qid":"0000313-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Febre Hemorr\u00e1gica Omsk (OHF)?",
+        "answer":"N\u00e3o h\u00e1 tratamento espec\u00edfico para a OHF, mas terapia de apoio \u00e9 importante. A terapia de apoio inclui a manuten\u00e7\u00e3o da hidrata\u00e7\u00e3o e as precau\u00e7\u00f5es habituais para pacientes com dist\u00farbios hemorr\u00e1gicos. Embora rara, a OHF pode causar perda auditiva, perda de cabelo, e dificuldades comportamentais ou psicol\u00f3gicas associadas a condi\u00e7\u00f5es neurol\u00f3gicas e caso de suporte a longo prazo pode ser necess\u00e1rio."
+    },
+    {
+        "qid":"0000313-6",
+        "qtype":"prevention",
+        "question":"Como prevenir a febre hemorr\u00e1gica de Omsk (OHF)?",
+        "answer":"N\u00e3o h\u00e1 nenhuma vacina dispon\u00edvel atualmente para OHF, mas vacinas para encefalite transmitida por carrapatos (TBE) t\u00eam demonstrado que conferem alguma imunidade e podem ser usadas para grupos de alto risco. Al\u00e9m disso, \u00e9 recomendado usar repelentes de insetos e usar roupas protetoras em \u00e1reas onde os carrapatos s\u00e3o end\u00eamicos."
+    }
+]

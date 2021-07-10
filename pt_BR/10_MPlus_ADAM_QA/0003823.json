@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0003823-1",
+        "qtype":"information",
+        "question":"O que \u00e9 siringomielia?",
+        "answer":""
+    },
+    {
+        "qid":"0003823-2",
+        "qtype":"causes",
+        "question":"O que causa a Siringomielia?",
+        "answer":""
+    },
+    {
+        "qid":"0003823-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da siringomielia?",
+        "answer":""
+    },
+    {
+        "qid":"0003823-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a siringomielia?",
+        "answer":""
+    },
+    {
+        "qid":"0003823-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a siringomielia?",
+        "answer":""
+    },
+    {
+        "qid":"0003823-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Siringomielia?",
+        "answer":""
+    },
+    {
+        "qid":"0003823-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da siringomielia?",
+        "answer":""
+    },
+    {
+        "qid":"0003823-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para siringomielia?",
+        "answer":""
+    },
+    {
+        "qid":"0003823-9",
+        "qtype":"prevention",
+        "question":"Como prevenir a siringomielia?",
+        "answer":""
+    }
+]

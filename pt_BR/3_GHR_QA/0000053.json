@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000053-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Andermann?",
+        "answer":"A s\u00edndrome de Andermann \u00e9 um dist\u00farbio que danifica os nervos usados para movimento e sensa\u00e7\u00e3o muscular (neuropatia motora e sensorial). Aus\u00eancia (agenesia) ou malforma\u00e7\u00e3o do tecido ligando as metades esquerda e direita do c\u00e9rebro (corpus callosum) tamb\u00e9m ocorre na maioria das pessoas com este dist\u00farbio. Pessoas afetadas pela s\u00edndrome de Andermann t\u00eam reflexos anormais ou ausentes (areflexia) e t\u00f4nus muscular fraco (hipot\u00f4nia). Eles experimentam desperd\u00edcio muscular (amiotrofia), fraqueza progressiva grave e perda de sensa\u00e7\u00e3o nos membros, e tremores r\u00edtmicos (tremores). Eles normalmente come\u00e7am a andar entre 3 e 4 anos e perdem essa habilidade por sua adolesc\u00eancia. \u00c0 medida que envelhecem, as pessoas com este dist\u00farbio frequentemente desenvolvem deformidades conjuntas chamadas contraturas, que restringem o movimento de certas articula\u00e7\u00f5es. Os indiv\u00edduos mais afetados tamb\u00e9m desenvolvem curvatura anormal da coluna (escoliose), que pode requerer cirurgia. A s\u00edndrome de Andermann tamb\u00e9m resulta em fun\u00e7\u00e3o anormal de certos nervos cranianos, que emergem diretamente do c\u00e9rebro e se estendem a v\u00e1rias \u00e1reas da cabe\u00e7a e pesco\u00e7o. Problemas do nervo craniano podem resultar em fraqueza muscular facial, p\u00e1lpebras ca\u00eddas (ptose), e dificuldade ap\u00f3s movimentos com os olhos (paralisia do ganso). Indiv\u00edduos com s\u00edndrome de Andermann geralmente t\u00eam defici\u00eancia intelectual, que pode ser leve a grave, e algumas convuls\u00f5es. Tamb\u00e9m podem desenvolver sintomas psiqui\u00e1tricos como depress\u00e3o, ansiedade, agita\u00e7\u00e3o, paran\u00f3ia e alucina\u00e7\u00f5es, que geralmente aparecem na adolesc\u00eancia. Algumas pessoas com s\u00edndrome de Andermann t\u00eam caracter\u00edsticas f\u00edsicas at\u00edpicas, tais como olhos amplamente espa\u00e7ados (hipertelorismo ocular); um cr\u00e2nio largo e curto (braquicefalia); um arco alto do palato duro no telhado da boca; um dedo grande que atravessa os outros dedos; e fus\u00e3o parcial (sindactilia) do segundo e terceiro dedos. A s\u00edndrome de Andermann est\u00e1 associada a uma expectativa de vida reduzida, mas indiv\u00edduos afetados normalmente vivem at\u00e9 a idade adulta."
+    },
+    {
+        "qid":"0000053-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Andermann?",
+        "answer":"A s\u00edndrome de Andermann \u00e9 mais frequentemente observada na popula\u00e7\u00e3o canadense-francesa das regi\u00f5es de Saguenay-Lac-St.-Jean e Charlevoix, no nordeste de Quebec. Nesta popula\u00e7\u00e3o, a s\u00edndrome de Andermann ocorre em quase 1 em 2.000 rec\u00e9m-nascidos. Apenas alguns indiv\u00edduos com este dist\u00farbio foram identificados em outras regi\u00f5es do mundo."
+    },
+    {
+        "qid":"0000053-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Andermann?",
+        "answer":"Muta\u00e7\u00f5es no gene SLC12A6 causam s\u00edndrome de Andermann. O gene SLC12A6 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada de cotransporte K-Cl. Esta prote\u00edna est\u00e1 envolvida em mover \u00e1tomos carregados (ions) de pot\u00e1ssio (K) e cloro (Cl) atrav\u00e9s da membrana celular. Os \u00edons de pot\u00e1ssio carregados positivamente e os \u00edons de cloro carregados negativamente s\u00e3o movidos juntos (cotransportados), de modo que as cargas dentro e fora da membrana celular est\u00e3o inalteradas (electroneutral). O cotransporte eletroneutral de \u00edons atrav\u00e9s das membranas celulares est\u00e1 envolvido em muitas fun\u00e7\u00f5es do corpo. Embora a fun\u00e7\u00e3o espec\u00edfica do cotransporte K-Cl produzido a partir do gene SLC12A6 seja desconhecida, parece ser fundamental para o desenvolvimento e manuten\u00e7\u00e3o do tecido nervoso. Pode estar envolvido na regula\u00e7\u00e3o das quantidades de pot\u00e1ssio, cloro ou \u00e1gua em c\u00e9lulas e espa\u00e7os intercelulares. A prote\u00edna de cotransporte K-Cl tamb\u00e9m pode ajudar a regular a atividade de outras prote\u00ednas que s\u00e3o sens\u00edveis \u00e0s concentra\u00e7\u00f5es de \u00edons. Muta\u00e7\u00f5es no gene SLC12A6 que causam a s\u00edndrome de Andermann interrompem a fun\u00e7\u00e3o da prote\u00edna de cotransporte K-Cl. Acredita-se que a falta de prote\u00edna funcional normalmente produzida a partir do gene SLC12A6 interfere no desenvolvimento do corpo caloso e manuten\u00e7\u00e3o dos nervos que transmitem sinais necess\u00e1rios para movimento e sensa\u00e7\u00e3o, resultando nos sinais e sintomas da s\u00edndrome de Andermann."
+    },
+    {
+        "qid":"0000053-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Andermann \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000053-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Andermann?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da s\u00edndrome de Andermann: - Gene Review: Gene Review: Hereditary Motor and Sensory Neuropathy with Agenesis of the Corpus Callosum - Genetic Testing Registry: Andermann syndrome Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

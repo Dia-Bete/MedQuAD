@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000143-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dor de cabe\u00e7a?",
+        "answer":"H\u00e1 quatro tipos de dor de cabe\u00e7a: contra\u00e7\u00e3o vascular, contra\u00e7\u00e3o muscular (tens\u00e3o), tra\u00e7\u00e3o e inflama\u00e7\u00e3o. As dores de cabe\u00e7a vasculares incluem \"dores de cabe\u00e7a de grupo, que causam epis\u00f3dios repetidos de dor intensa, e dores de cabe\u00e7a resultantes da press\u00e3o arterial alta, e dores de cabe\u00e7a t\u00f3xicas produzidas pela febre. As dores de cabe\u00e7a de contra\u00e7\u00e3o muscular parecem envolver o aperto ou tens\u00e3o dos m\u00fasculos faciais e do pesco\u00e7o. A tra\u00e7\u00e3o e as cefaleias inflamat\u00f3rias s\u00e3o sintomas de outros dist\u00farbios, variando de acidente vascular cerebral a infec\u00e7\u00e3o sinusal. Como outros tipos de dor, as dores de cabe\u00e7a podem servir como sinais de alerta de dist\u00farbios mais graves. Isso \u00e9 particularmente verdade para as dores de cabe\u00e7a causadas pela inflama\u00e7\u00e3o, incluindo aquelas relacionadas \u00e0 meningite, bem como aquelas resultantes de doen\u00e7as dos seios, espinha, pesco\u00e7o, orelhas e dentes. O tipo mais comum de dor de cabe\u00e7a prim\u00e1ria (n\u00e3o causada por outra condi\u00e7\u00e3o m\u00e9dica) \u00e9 enxaqueca. As cefaleias migrat\u00f3rias geralmente s\u00e3o caracterizadas por dor intensa em um ou em ambos os lados da cabe\u00e7a, dor de est\u00f4mago e, \u00e0s vezes, vis\u00e3o perturbada. As mulheres s\u00e3o mais propensas que os homens a ter enxaquecas."
+    },
+    {
+        "qid":"0000143-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para dor de cabe\u00e7a?",
+        "answer":"Quando as dores de cabe\u00e7a ocorrem tr\u00eas ou mais vezes por m\u00eas, o tratamento preventivo \u00e9 geralmente recomendado. Terapia medicamentosa, treinamento de biofeedback, redu\u00e7\u00e3o de estresse e elimina\u00e7\u00e3o de determinados alimentos da dieta s\u00e3o os m\u00e9todos mais comuns para prevenir e controlar enxaqueca e outras dores de cabe\u00e7a vasculares. Exerc\u00edcio regular, como nata\u00e7\u00e3o ou caminhada vigorosa, tamb\u00e9m pode reduzir a frequ\u00eancia e gravidade de enxaquecas. A terapia medicamentosa para enxaqueca \u00e9 frequentemente combinada com biofeedback e treinamento de relaxamento. Uma das drogas mais usadas para o al\u00edvio dos sintomas da enxaqueca \u00e9 o sumatriptan. As drogas usadas para prevenir a enxaqueca tamb\u00e9m incluem maleato de metisergido, que combate a constri\u00e7\u00e3o dos vasos sangu\u00edneos; cloridrato de propranolol, que tamb\u00e9m reduz a frequ\u00eancia e gravidade das enxaquecas; tartrato de ergotamina, um vasoconstritor que ajuda a neutralizar o est\u00e1gio doloroso de dilata\u00e7\u00e3o da dor de cabe\u00e7a; amitriptilina, um antidepressivo; \u00e1cido valpr\u00f3ico, um anticonvulsivante; e verapamil, um bloqueador de canal de c\u00e1lcio."
+    },
+    {
+        "qid":"0000143-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para dor de cabe\u00e7a?",
+        "answer":"Nem todas as dores de cabe\u00e7a requerem aten\u00e7\u00e3o m\u00e9dica. Mas alguns tipos de dor de cabe\u00e7a s\u00e3o sinais de dist\u00farbios mais graves e requerem cuidados m\u00e9dicos r\u00e1pidos. Estes incluem: cefaleia s\u00fabita, grave ou cefaleia s\u00fabita associada a uma rigidez no pesco\u00e7o; cefaleias associadas a febre, convuls\u00f5es, ou acompanhadas de confus\u00e3o ou perda de consci\u00eancia; cefaleias ap\u00f3s um golpe na cabe\u00e7a, ou associadas a dor no olho ou no ouvido; cefaleias persistentes em uma pessoa que estava previamente livre de cefaleia; e cefaleias recorrentes em crian\u00e7as. As dores de cabe\u00e7a migrat\u00f3rias podem durar um dia ou mais e podem atacar tantas vezes por semana ou t\u00e3o raramente como uma vez a cada poucos anos."
+    },
+    {
+        "qid":"0000143-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para dor de cabe\u00e7a?",
+        "answer":"O Instituto Nacional de Transtornos Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS) realiza pesquisas sobre dores de cabe\u00e7a em seus laborat\u00f3rios nos Institutos Nacionais de Sa\u00fade (NIH), e apoia pesquisas adicionais atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. NINDS tamb\u00e9m apoia e conduz estudos para melhorar o diagn\u00f3stico de dores de cabe\u00e7a e encontrar maneiras de preveni-las."
+    }
+]

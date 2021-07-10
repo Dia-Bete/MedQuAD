@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000013-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) leucemia promieloc\u00edtica aguda?",
+        "answer":"A leucemia promieloc\u00edtica aguda \u00e9 uma forma de leucemia miel\u00f3ide aguda, um c\u00e2ncer do tecido sangu\u00edneo (medula \u00f3ssea). Na medula \u00f3ssea normal, as c\u00e9lulas estaminais hematopoi\u00e9ticas produzem gl\u00f3bulos vermelhos (eritr\u00f3citos) que transportam oxig\u00eanio, gl\u00f3bulos brancos (leuc\u00f3citos) que protegem o corpo da infec\u00e7\u00e3o, e plaquetas (tromb\u00f3citos) que est\u00e3o envolvidas na coagula\u00e7\u00e3o do sangue. Na leucemia promieloc\u00edtica aguda, gl\u00f3bulos brancos imaturos chamados promiel\u00f3citos se acumulam na medula \u00f3ssea. O crescimento excessivo de promiel\u00f3citos leva a uma escassez de gl\u00f3bulos brancos e vermelhos normais e plaquetas no corpo, o que causa muitos dos sinais e sintomas da condi\u00e7\u00e3o. Pessoas com leucemia promieloc\u00edtica aguda s\u00e3o especialmente suscet\u00edveis ao desenvolvimento de hematomas, pequenos pontos vermelhos sob a pele (pet\u00e9quias), hemorragias nasais, sangramento das gengivas, sangue na urina (hematr\u00eda), ou sangramento menstrual excessivo. O sangramento anormal e hematomas ocorrem em parte devido ao baixo n\u00famero de plaquetas no sangue (trombocitopenia) e tamb\u00e9m porque as c\u00e9lulas cancerosas liberam subst\u00e2ncias que causam sangramento excessivo. O baixo n\u00famero de gl\u00f3bulos vermelhos (anemia) pode fazer com que pessoas com leucemia promieloc\u00edtica aguda tenham pele p\u00e1lida (pallor) ou cansa\u00e7o excessivo (fadiga). Al\u00e9m disso, indiv\u00edduos afetados podem curar lentamente de les\u00f5es ou ter infec\u00e7\u00f5es frequentes devido \u00e0 perda de gl\u00f3bulos brancos normais que combatem a infec\u00e7\u00e3o. Al\u00e9m disso, as c\u00e9lulas leuc\u00eamicas podem se espalhar para os ossos e articula\u00e7\u00f5es, o que pode causar dor nessas \u00e1reas. Outros sinais e sintomas gerais tamb\u00e9m podem ocorrer, como febre, perda de apetite e perda de peso. A leucemia promieloc\u00edtica aguda \u00e9 mais frequentemente diagnosticada por volta dos 40 anos, embora possa ser diagnosticada a qualquer idade."
+    },
+    {
+        "qid":"0000013-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por leucemia promieloc\u00edtica aguda?",
+        "answer":"A leucemia promieloc\u00edtica aguda representa cerca de 10% dos casos de leucemia miel\u00f3ide aguda. A leucemia promieloc\u00edtica aguda ocorre em aproximadamente 1 em 250.000 pessoas nos Estados Unidos."
+    },
+    {
+        "qid":"0000013-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 leucemia promieloc\u00edtica aguda?",
+        "answer":"A muta\u00e7\u00e3o que causa leucemia promieloc\u00edtica aguda envolve dois genes, o gene PML no cromossomo 15 e o gene RARA no cromossomo 17. Um rearranjo de material gen\u00e9tico (transloca\u00e7\u00e3o) entre os cromossomos 15 e 17, escrito como t(15;17), funde parte do gene PML com parte do gene RARA. A prote\u00edna produzida a partir deste gene fundido \u00e9 conhecida como PML-RAR. Essa muta\u00e7\u00e3o \u00e9 adquirida durante a vida de uma pessoa e s\u00f3 est\u00e1 presente em certas c\u00e9lulas. Este tipo de mudan\u00e7a gen\u00e9tica, chamada muta\u00e7\u00e3o som\u00e1tica, n\u00e3o \u00e9 herdada. A prote\u00edna PML-RAR funciona de forma diferente dos produtos proteicos dos genes normais PML e RARA. A prote\u00edna produzida a partir do gene RARA, RAR, est\u00e1 envolvida na regula\u00e7\u00e3o da transcri\u00e7\u00e3o do gene, que \u00e9 o primeiro passo na produ\u00e7\u00e3o de prote\u00ednas. Especificamente, esta prote\u00edna ajuda a controlar a transcri\u00e7\u00e3o de certos genes importantes na matura\u00e7\u00e3o (diferencia\u00e7\u00e3o) de gl\u00f3bulos brancos al\u00e9m do est\u00e1gio de promiel\u00f3citos. A prote\u00edna produzida a partir do gene PML atua como um supressor tumoral, o que significa que impede que as c\u00e9lulas cres\u00e7am e se dividam muito rapidamente ou de forma descontrolada. A prote\u00edna PML-RAR interfere na fun\u00e7\u00e3o normal das prote\u00ednas PML e RAR. Como resultado, as c\u00e9lulas sangu\u00edneas est\u00e3o presas no est\u00e1gio do promiel\u00f3cito, e proliferam anormalmente. O excesso de promiel\u00f3citos se acumula na medula \u00f3ssea e os gl\u00f3bulos brancos normais n\u00e3o se formam, levando a leucemia promieloc\u00edtica aguda. A fus\u00e3o do gene PML-RARA representa at\u00e9 98% dos casos de leucemia promieloc\u00edtica aguda. Transloca\u00e7\u00f5es envolvendo o gene RARA e outros genes foram identificados em alguns casos de leucemia promieloc\u00edtica aguda."
+    },
+    {
+        "qid":"0000013-4",
+        "qtype":"inheritance",
+        "question":"A leucemia promieloc\u00edtica aguda \u00e9 herdada?",
+        "answer":"A leucemia promieloc\u00edtica aguda n\u00e3o \u00e9 herdada, mas surge de uma transloca\u00e7\u00e3o nas c\u00e9lulas do corpo que ocorre ap\u00f3s a concep\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000013-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a leucemia promieloc\u00edtica aguda?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da leucemia promieloc\u00edtica aguda: - American Cancer Society: Diagn\u00f3stico da leucemia miel\u00f3ide aguda - American Cancer Society: Tratamento da leucemia promieloc\u00edtica aguda (M3) - Leucemia - Registro de Testes Gen\u00e9ticos: Leucemia promieloc\u00edtica aguda - MedlinePlus Enciclop\u00e9dia: Leucemia miel\u00f3ide aguda - Instituto Nacional de C\u00e2ncer: Tratamento da leucemia miel\u00f3ide aguda adulta - Instituto Nacional de C\u00e2ncer: Leucemia - Instituto Nacional de Pulm\u00e3o e Sangue do Cora\u00e7\u00e3o: Testes de M\u00e1rgula \u00d3ssea Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

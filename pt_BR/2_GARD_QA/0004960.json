@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0004960-1",
+        "qtype":"information",
+        "question":"O que \u00e9 polimiosite?",
+        "answer":"Polimiosite \u00e9 um tipo de miopatia inflamat\u00f3ria, que se refere a um grupo de doen\u00e7as musculares caracterizadas por inflama\u00e7\u00e3o muscular cr\u00f4nica e fraqueza. Envolve m\u00fasculos esquel\u00e9ticos (que est\u00e3o envolvidos em fazer movimento) em ambos os lados do corpo. Embora possa afetar pessoas de todas as idades, a maioria dos casos s\u00e3o vistos em adultos entre 31 e 60 anos. A causa exata da polimiosite \u00e9 desconhecida; no entanto, a doen\u00e7a compartilha muitas caracter\u00edsticas com dist\u00farbios autoimunes que ocorrem quando o sistema imunol\u00f3gico ataca erroneamente tecidos corporais saud\u00e1veis. Em alguns casos, a condi\u00e7\u00e3o pode estar associada a infec\u00e7\u00f5es virais, neoplasias ou dist\u00farbios do tecido conjuntivo. Embora n\u00e3o haja cura para polimiosite, o tratamento pode melhorar a for\u00e7a muscular e a fun\u00e7\u00e3o."
+    },
+    {
+        "qid":"0004960-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da polimiosite?",
+        "answer":"Quais s\u00e3o os sintomas da polimiosite? A polimiosite \u00e9 caracterizada por inflama\u00e7\u00e3o muscular cr\u00f4nica e fraqueza envolvendo os m\u00fasculos esquel\u00e9ticos (os envolvidos com o movimento) em ambos os lados do corpo. A fraqueza geralmente come\u00e7a nos m\u00fasculos proximais o que pode eventualmente causar dificuldades subindo escadas, subindo de uma posi\u00e7\u00e3o sentada, levantando objetos, ou alcan\u00e7ando acima. Em alguns casos, os m\u00fasculos distais tamb\u00e9m podem ser afetados \u00e0 medida que a doen\u00e7a progride. Outros sintomas podem incluir artrite; falta de ar; dificuldade em engolir e falar; leve sensibilidade articular ou muscular; fadiga e arritmias card\u00edacas."
+    },
+    {
+        "qid":"0004960-3",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a polimiosite?",
+        "answer":"Como a polimiosite \u00e9 diagnosticada? Um diagn\u00f3stico de polimiosite \u00e9 frequentemente suspeito em pessoas com fraqueza muscular proximal e outros sinais e sintomas associados. Testes adicionais podem ser ordenados para confirmar o diagn\u00f3stico e descartar outras condi\u00e7\u00f5es que podem causar caracter\u00edsticas semelhantes. Este teste pode incluir: testes de sangue para medir os n\u00edveis de certas enzimas musculares (i.e. Creatina quinase e aldolase) e detectar autoanticorpos espec\u00edficos associados a diferentes sintomas da polimiosite Eletromiografia para verificar a sa\u00fade dos m\u00fasculos e dos nervos que os controlam Estudos de imagem como uma resson\u00e2ncia magn\u00e9tica para detectar inflama\u00e7\u00e3o muscular Uma bi\u00f3psia muscular para diagnosticar anormalidades musculares como inflama\u00e7\u00e3o, danos e/ou infec\u00e7\u00e3o O site da Medscape Reference oferece informa\u00e7\u00f5es mais espec\u00edficas sobre o tratamento e manejo da polimiosite. Por favor clique no link para acessar este recurso."
+    },
+    {
+        "qid":"0004960-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para polimiosite?",
+        "answer":"Como a polimiosite pode ser tratada? O tratamento da polimiosite \u00e9 baseado nos sinais e sintomas presentes em cada pessoa. Embora atualmente n\u00e3o haja cura, os sintomas da condi\u00e7\u00e3o podem ser controlados com os seguintes: Medicamentos como corticosteroides, agentes poupadores de corticosteroides, medicamentos imunossupressores Fisioterapia para melhorar a for\u00e7a muscular e flexibilidade Fonoaudiologia para lidar com dificuldades de degluti\u00e7\u00e3o e fala Imunoglobulina intravenosa ( anticorpos saud\u00e1veis s\u00e3o dados para bloquear autoanticorpos prejudiciais que atacam m\u00fasculo) O site Medscape Reference oferece informa\u00e7\u00f5es mais espec\u00edficas sobre o tratamento e manejo da polimiosite. Por favor clique no link para acessar o recurso."
+    }
+]

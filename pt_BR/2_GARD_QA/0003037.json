@@ -1,0 +1,14 @@
+[
+    {
+        "qid":"0003037-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Hipoaldosteronismo?",
+        "answer":"Hipoaldosteronismo \u00e9 uma condi\u00e7\u00e3o caracterizada pela falta (defici\u00eancia) ou fun\u00e7\u00e3o prejudicada de um horm\u00f4nio chamado aldosterone. Hipoaldosteronismo pode ser descrito como hiporren\u00edmico ou hiperren\u00edmico dependendo dos n\u00edveis de renina. O hipoaldosteronismo hiporren\u00edmico ocorre quando h\u00e1 diminui\u00e7\u00e3o da produ\u00e7\u00e3o de aldosterona devido \u00e0 diminui\u00e7\u00e3o da produ\u00e7\u00e3o de renina. Indiv\u00edduos afetados tipicamente t\u00eam doen\u00e7a renal devido a v\u00e1rias condi\u00e7\u00f5es, como diabetes, nefrite intersticial ou mieloma m\u00faltiplo. Hipoaldosteronismo hiperrren\u00edmico ocorre quando h\u00e1 um problema com a produ\u00e7\u00e3o de aldosterona, mas a renina \u00e9 produzida normalmente pelos rins. As causas comuns desta forma de hipoaldosteronismo s\u00e3o medicamentos (inibidores da ACE), intoxica\u00e7\u00e3o por chumbo, doen\u00e7a grave e defeitos enzim\u00e1ticos da aldosterona."
+    },
+    {
+        "qid":"0003037-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o Hipoaldosteronismo?",
+        "answer":"Como pode ser tratado o hipoaldosteronismo? O tratamento para hipoaldosteronismo depende da condi\u00e7\u00e3o subjacente. Indiv\u00edduos afetados s\u00e3o frequentemente aconselhados a seguir uma dieta de baixo pot\u00e1ssio com ingest\u00e3o liberal de s\u00f3dio. Pessoas com hipoaldosteronismo deveriam evitar inibidores da ECA e diur\u00e9ticos poupadores de pot\u00e1ssio. Indiv\u00edduos com hipoaldosteronismo e uma defici\u00eancia de horm\u00f4nios glucocorticoides adrenais geralmente recebem fludrocortisona. Pessoas com hipoaldosteronismo hiporren\u00edmico s\u00e3o frequentemente administradas furosemida para corrigir a hipercalemia."
+    }
+]

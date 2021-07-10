@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000012-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de PI3K-delta ativada?",
+        "answer":"A s\u00edndrome de PI3K-delta ativada \u00e9 um dist\u00farbio que prejudica o sistema imunol\u00f3gico. Indiv\u00edduos com esta condi\u00e7\u00e3o muitas vezes t\u00eam baixo n\u00famero de gl\u00f3bulos brancos (linfopenia), particularmente c\u00e9lulas B e c\u00e9lulas T. Normalmente, essas c\u00e9lulas reconhecem e atacam invasores estrangeiros, como v\u00edrus e bact\u00e9rias, para prevenir infec\u00e7\u00f5es. Come\u00e7ando na inf\u00e2ncia, pessoas com s\u00edndrome de PI3K-delta ativada desenvolvem infec\u00e7\u00f5es recorrentes, particularmente nos pulm\u00f5es, seios e ouvidos. Com o tempo, infec\u00e7\u00f5es recorrentes do trato respirat\u00f3rio podem levar a uma condi\u00e7\u00e3o chamada bronquiectasia, que danifica as passagens levando da traqueia para os pulm\u00f5es (bronchi) e pode causar problemas respirat\u00f3rios. Pessoas com s\u00edndrome de PI3K-delta ativada tamb\u00e9m podem ter infec\u00e7\u00f5es virais cr\u00f4nicas ativas, comumente v\u00edrus Epstein-Barr ou infec\u00e7\u00f5es por citomegalov\u00edrus. Outra caracter\u00edstica poss\u00edvel da s\u00edndrome PI3K-delta ativada \u00e9 o aglomerado anormal de gl\u00f3bulos brancos. Estes aglomerados podem levar a linfonodos aumentados (limfadenopatia), ou os gl\u00f3bulos brancos podem se acumular para formar massas s\u00f3lidas (hiperplasia linfoide nodular), geralmente no revestimento h\u00famido das vias a\u00e9reas ou intestinos. Enquanto a linfadenopatia e a hiperplasia linfoide nodular n\u00e3o s\u00e3o cancerosas (benignas), a s\u00edndrome PI3K-delta ativada tamb\u00e9m aumenta o risco de desenvolver uma forma de c\u00e2ncer chamada linfoma de c\u00e9lulas B."
+    },
+    {
+        "qid":"0000012-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de PI3K-delta ativada?",
+        "answer":"A preval\u00eancia da s\u00edndrome de PI3K-delta ativada \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000012-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de PI3K-delta ativada?",
+        "answer":"A s\u00edndrome PI3K-delta ativada \u00e9 causada por muta\u00e7\u00f5es no gene PIK3CD, que fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada p110 delta (p110). Esta prote\u00edna \u00e9 uma pe\u00e7a (subunidade) de uma enzima chamada fosfatidilinositol 3-kinase (PI3K), que liga as vias de sinaliza\u00e7\u00e3o dentro das c\u00e9lulas. A vers\u00e3o do PI3K contendo a subunidade p110, chamada PI3K-delta, \u00e9 especificamente encontrada em gl\u00f3bulos brancos, incluindo c\u00e9lulas B e c\u00e9lulas T. A sinaliza\u00e7\u00e3o PI3K-delta est\u00e1 envolvida no crescimento e divis\u00e3o (prolifera\u00e7\u00e3o) de gl\u00f3bulos brancos, e ajuda a direcionar as c\u00e9lulas B e T para amadurecer (diferenciar) em diferentes tipos, cada um dos quais tem uma fun\u00e7\u00e3o distinta no sistema imunol\u00f3gico. Muta\u00e7\u00f5es do gene PIK3CD envolvidas na s\u00edndrome PI3K-delta ativada levam \u00e0 produ\u00e7\u00e3o de uma prote\u00edna P110 alterada. Uma enzima PI3K-delta contendo a subunidade alterada est\u00e1 anormalmente ligada (ativada). Estudos indicam que sinaliza\u00e7\u00e3o PI3K-delta hiperativa altera a diferencia\u00e7\u00e3o das c\u00e9lulas B e T, levando \u00e0 produ\u00e7\u00e3o de c\u00e9lulas que n\u00e3o podem responder a infec\u00e7\u00f5es e que morrem antes do normal. A falta de c\u00e9lulas B e T funcionais dificulta a luta contra infec\u00e7\u00f5es bacterianas e virais. A sobreativa\u00e7\u00e3o da sinaliza\u00e7\u00e3o PI3K-delta tamb\u00e9m pode estimular a prolifera\u00e7\u00e3o anormal de gl\u00f3bulos brancos, levando a linfadenopatia e hiperplasia linfoide nodular em alguns indiv\u00edduos afetados. Um aumento na prolifera\u00e7\u00e3o de c\u00e9lulas B em combina\u00e7\u00e3o com a fun\u00e7\u00e3o reduzida do sistema imunol\u00f3gico pode contribuir para o desenvolvimento de linfoma de c\u00e9lulas B."
+    },
+    {
+        "qid":"0000012-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de PI3K-delta ativada \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000012-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de PI3K-delta ativada?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de PI3K-delta ativada: - Registro de Testes Gen\u00e9ticos: S\u00edndrome de PI3K-delta ativada - Instituto Nacional de Alergia e Doen\u00e7as Infecciosas: Doen\u00e7as Prim\u00e1rias de Defici\u00eancia Inmune: Falar com o seu m\u00e9dico Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

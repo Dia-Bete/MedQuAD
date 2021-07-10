@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0003480-1",
+        "qtype":"information",
+        "question":"O que \u00e9 ci\u00e1tica?",
+        "answer":""
+    },
+    {
+        "qid":"0003480-2",
+        "qtype":"causes",
+        "question":"O que causa Sciatica?",
+        "answer":""
+    },
+    {
+        "qid":"0003480-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da Ci\u00e1tica?",
+        "answer":""
+    },
+    {
+        "qid":"0003480-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar Sciatica?",
+        "answer":""
+    },
+    {
+        "qid":"0003480-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Sciatica?",
+        "answer":""
+    },
+    {
+        "qid":"0003480-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Sciatica?",
+        "answer":""
+    },
+    {
+        "qid":"0003480-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da Ci\u00e1tica?",
+        "answer":""
+    },
+    {
+        "qid":"0003480-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para a Ci\u00e1tica?",
+        "answer":""
+    },
+    {
+        "qid":"0003480-9",
+        "qtype":"prevention",
+        "question":"Como prevenir Sciatica?",
+        "answer":""
+    }
+]

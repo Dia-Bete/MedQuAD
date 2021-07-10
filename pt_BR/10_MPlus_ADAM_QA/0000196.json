@@ -1,0 +1,44 @@
+[
+    {
+        "qid":"0000196-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o as bandas de constri\u00e7\u00e3o amni\u00f3tica?",
+        "answer":""
+    },
+    {
+        "qid":"0000196-2",
+        "qtype":"causes",
+        "question":"O que causa bandas de constri\u00e7\u00e3o amni\u00f3ticas?",
+        "answer":""
+    },
+    {
+        "qid":"0000196-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas das bandas de constri\u00e7\u00e3o amni\u00f3tica?",
+        "answer":""
+    },
+    {
+        "qid":"0000196-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar bandas de constri\u00e7\u00e3o amni\u00f3tica?",
+        "answer":""
+    },
+    {
+        "qid":"0000196-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para bandas de constri\u00e7\u00e3o amni\u00f3tica?",
+        "answer":""
+    },
+    {
+        "qid":"0000196-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva das bandas de constri\u00e7\u00e3o amni\u00f3tica?",
+        "answer":""
+    },
+    {
+        "qid":"0000196-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es das bandas de constri\u00e7\u00e3o amni\u00f3tica?",
+        "answer":""
+    }
+]

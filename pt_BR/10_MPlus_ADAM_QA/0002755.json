@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0002755-1",
+        "qtype":"information",
+        "question":"O que \u00e9 um n\u00f3 de pesco\u00e7o?",
+        "answer":""
+    },
+    {
+        "qid":"0002755-2",
+        "qtype":"considerations",
+        "question":"O que fazer para a massa do pesco\u00e7o?",
+        "answer":""
+    },
+    {
+        "qid":"0002755-3",
+        "qtype":"causes",
+        "question":"O que causa massa de pesco\u00e7o?",
+        "answer":""
+    },
+    {
+        "qid":"0002755-4",
+        "qtype":"considerations",
+        "question":"O que fazer para a massa do pesco\u00e7o?",
+        "answer":""
+    },
+    {
+        "qid":"0002755-5",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso falar com um m\u00e9dico para o pesco\u00e7o?",
+        "answer":""
+    },
+    {
+        "qid":"0002755-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o grumo do pesco\u00e7o?",
+        "answer":""
+    }
+]

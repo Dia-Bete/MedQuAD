@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0000245-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar o Trisalicylato de Magn\u00e9sio Choline e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000245-2",
+        "qtype":"usage",
+        "question":"Como deve ser usado o Trisalicylato de Magn\u00e9sio Choline e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000245-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Choline Magnesium Trisalicylate?",
+        "answer":""
+    },
+    {
+        "qid":"0000245-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Choline Magnesium Trisalicylate?",
+        "answer":""
+    },
+    {
+        "qid":"0000245-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Trisalicylato de Magn\u00e9sio Choline?",
+        "answer":""
+    },
+    {
+        "qid":"0000245-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos do Trisalicilato de Magn\u00e9sio Choline?",
+        "answer":""
+    },
+    {
+        "qid":"0000245-8",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Choline Magnesium Trisalicylate?",
+        "answer":""
+    },
+    {
+        "qid":"0000245-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Choline Magnesium Trisalicylate?",
+        "answer":""
+    },
+    {
+        "qid":"0000245-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Choline Magnesium Trisalicylate?",
+        "answer":""
+    },
+    {
+        "qid":"0000245-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes da marca de Choline Magnesium Trisalicylate?",
+        "answer":""
+    }
+]

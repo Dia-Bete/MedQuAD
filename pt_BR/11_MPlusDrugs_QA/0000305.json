@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0000305-1",
+        "qtype":"indication",
+        "question":"Quem deve fazer ciclosporina oft\u00e1lmica e por que \u00e9 prescrita?",
+        "answer":""
+    },
+    {
+        "qid":"0000305-2",
+        "qtype":"usage",
+        "question":"Como a ciclosporina oft\u00e1lmica deve ser usada e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000305-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre ciclosporina oft\u00e1lmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000305-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com ciclosporina oft\u00e1lmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000305-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de ciclosporina oftalmol\u00f3gica?",
+        "answer":""
+    },
+    {
+        "qid":"0000305-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da ciclosporina oft\u00e1lmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000305-8",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o de ciclosporina oft\u00e1lmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000305-9",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre ciclosporina oftalmol\u00f3gica?",
+        "answer":""
+    },
+    {
+        "qid":"0000305-10",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes das marcas de Cyclosporine Ophtalmic?",
+        "answer":""
+    }
+]

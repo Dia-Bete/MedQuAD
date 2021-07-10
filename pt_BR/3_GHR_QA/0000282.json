@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000282-1",
+        "qtype":"information",
+        "question":"O que \u00e9 desmosterolose?",
+        "answer":"A desmosterolose \u00e9 uma condi\u00e7\u00e3o caracterizada por problemas neurol\u00f3gicos, tais como anomalias cerebrais e atraso no desenvolvimento, e tamb\u00e9m pode incluir outros sinais e sintomas. Crian\u00e7as com desmosterolose t\u00eam fala atrasada e habilidades motoras (como sentar e caminhar). Mais tarde na inf\u00e2ncia, alguns indiv\u00edduos afetados s\u00e3o capazes de andar com apoio; a comunica\u00e7\u00e3o verbal \u00e9 muitas vezes limitada a algumas palavras ou frases. As anormalidades cerebrais comuns na desmosterolose incluem a malforma\u00e7\u00e3o do tecido que liga as metades esquerda e direita do c\u00e9rebro (o corpo calloso) e a perda de mat\u00e9ria branca, que consiste em fibras nervosas cobertas por uma subst\u00e2ncia gorda chamada mielina. Pessoas com desmosterolose comumente t\u00eam rigidez muscular (espasticidade) e articula\u00e7\u00f5es r\u00edgidas (artrogryposis) que afetam suas m\u00e3os e p\u00e9s. Outras caracter\u00edsticas observadas em alguns indiv\u00edduos afetados incluem estatura curta, tamanho anormal da cabe\u00e7a (ou maior ou menor do que o normal), uma pequena mand\u00edbula inferior (micrognatia), uma abertura no telhado da boca (fissura do palato), movimentos involunt\u00e1rios dos olhos (nistagmo) ou olhos que n\u00e3o olham na mesma dire\u00e7\u00e3o (strabismo), defeitos card\u00edacos e convuls\u00f5es."
+    },
+    {
+        "qid":"0000282-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela desmosterolose?",
+        "answer":"A preval\u00eancia de desmosterolose \u00e9 desconhecida; pelo menos 10 indiv\u00edduos afetados foram descritos na literatura cient\u00edfica."
+    },
+    {
+        "qid":"0000282-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 desmosterolose?",
+        "answer":"A desmosterolose \u00e9 causada por muta\u00e7\u00f5es no gene DHCR24. Este gene fornece instru\u00e7\u00f5es para fazer uma enzima chamada 24-desidrocolesterol reductase, que est\u00e1 envolvida na produ\u00e7\u00e3o (s\u00edntese) de colesterol. O colesterol \u00e9 uma subst\u00e2ncia cera, semelhante \u00e0 gordura que pode ser obtida a partir de alimentos provenientes de animais (em especial gemas de ovos, carne, aves de capoeira, peixes e produtos l\u00e1cteos). Tamb\u00e9m pode ser produzido em v\u00e1rios tecidos do corpo. Por exemplo, o c\u00e9rebro n\u00e3o pode acessar o colesterol que vem da comida, ent\u00e3o as c\u00e9lulas cerebrais devem produzir o seu pr\u00f3prio. O colesterol \u00e9 necess\u00e1rio para o desenvolvimento embrion\u00e1rio normal e tem fun\u00e7\u00f5es importantes antes e depois do nascimento. Muta\u00e7\u00f5es do gene DHCR24 levam \u00e0 produ\u00e7\u00e3o de 24-desidrocolesterol reductase com atividade reduzida. Como resultado, h\u00e1 uma diminui\u00e7\u00e3o na produ\u00e7\u00e3o de colesterol. Porque o c\u00e9rebro depende apenas da produ\u00e7\u00e3o celular de colesterol, \u00e9 mais severamente afetado. Sem colesterol adequado, as membranas celulares n\u00e3o se formam corretamente e as c\u00e9lulas nervosas n\u00e3o s\u00e3o protegidas pela mielina, levando \u00e0 morte dessas c\u00e9lulas. Al\u00e9m disso, uma diminui\u00e7\u00e3o na produ\u00e7\u00e3o de colesterol tem efeitos mais graves antes do nascimento do que durante outros per\u00edodos de desenvolvimento devido ao r\u00e1pido aumento do n\u00famero de c\u00e9lulas que ocorre. A interrup\u00e7\u00e3o da forma\u00e7\u00e3o celular normal antes do nascimento provavelmente explica as anormalidades de desenvolvimento adicionais da desmosterolose."
+    },
+    {
+        "qid":"0000282-4",
+        "qtype":"inheritance",
+        "question":"A desmosterolose \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000282-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para desmosterolose?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da desmosterolose: - Registro de Testes Gen\u00e9ticos: Desmosterolose Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

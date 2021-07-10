@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0003305-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Purpura?",
+        "answer":""
+    },
+    {
+        "qid":"0003305-2",
+        "qtype":"considerations",
+        "question":"O que fazer para Purpura?",
+        "answer":""
+    },
+    {
+        "qid":"0003305-3",
+        "qtype":"causes",
+        "question":"O que causa Purpura?",
+        "answer":""
+    },
+    {
+        "qid":"0003305-4",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para Purpura?",
+        "answer":""
+    },
+    {
+        "qid":"0003305-5",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Purpura?",
+        "answer":""
+    }
+]

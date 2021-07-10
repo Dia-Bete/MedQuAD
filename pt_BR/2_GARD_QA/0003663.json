@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0003663-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) S\u00edndrome QT Longo?",
+        "answer":"A s\u00edndrome do QT longo \u00e9 um dist\u00farbio da atividade el\u00e9trica dos cora\u00e7\u00f5es que pode causar batimentos card\u00edacos s\u00fabitos, incontrol\u00e1veis e irregulares (arritmia), o que pode levar \u00e0 morte s\u00fabita. S\u00edndrome QT longo pode ser detectada por eletrocardiograma (EKG). Pode ser causada por uma variedade de muta\u00e7\u00f5es gen\u00e9ticas diferentes (mudan\u00e7as). Tamb\u00e9m pode ser adquirido (n\u00e3o herdado) e pode ser trazido por certos medicamentos e outras condi\u00e7\u00f5es m\u00e9dicas."
+    },
+    {
+        "qid":"0003663-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome do QT longo?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da s\u00edndrome do QT longo? Sinais e sintomas das arritmias experimentadas por pessoas com s\u00edndrome de QT longo incluem desmaio inexplic\u00e1vel, convuls\u00f5es, afogamento ou quase afogamento, e parada card\u00edaca s\u00fabita ou morte. Voc\u00ea pode ler mais sobre estes e outros sintomas da s\u00edndrome do QT longo no site do Instituto Nacional do Pulm\u00e3o do Cora\u00e7\u00e3o e do Sangue clicando aqui. A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para a S\u00edndrome QT Longo. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Arritmia 90% Defici\u00eancia auditiva neurossensorial 90% Situs abdominal inversus 7,5% Anemia 7,5% A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0003663-3",
+        "qtype":"causes",
+        "question":"O que causa a s\u00edndrome do QT longo?",
+        "answer":"O que causa a s\u00edndrome do QT longo? A s\u00edndrome do QT longo adquirido pode ser causada por certos medicamentos e condi\u00e7\u00f5es m\u00e9dicas. Alguns medicamentos que causam s\u00edndrome do QT longo incluem anti-histam\u00ednicos e descongestionantes, antibi\u00f3ticos, antidepressivos e medicamentos que reduzem o colesterol. Exemplos de condi\u00e7\u00f5es m\u00e9dicas que podem causar s\u00edndrome do QT longo incluem diarreia ou v\u00f4mitos excessivos e certos dist\u00farbios da tireoide. Formas heredit\u00e1rias da s\u00edndrome do QT longo s\u00e3o causadas por altera\u00e7\u00f5es nos genes que controlam a atividade el\u00e9trica dos m\u00fasculos card\u00edacos. S\u00edndrome QT longa e herdada pode ser isolada (ocorre sozinho sem outros sintomas associados) ou deve-se a uma s\u00edndrome gen\u00e9tica, como s\u00edndrome de Romano-Ward, s\u00edndrome de Jervell Lang-Nielsen, s\u00edndrome de Anderson-Tawil e s\u00edndrome de Timothy."
+    },
+    {
+        "qid":"0003663-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a s\u00edndrome do QT longo?",
+        "answer":"Como \u00e9 diagnosticada a s\u00edndrome do QT longo? A s\u00edndrome do QT longo \u00e9 diagnosticada com base em achados eletrocardiogr\u00e1ficos (EKG), achados cl\u00ednicos como surdez cong\u00eanita ou desmaio inexplic\u00e1vel, e hist\u00f3ria familiar de s\u00edndrome do QT longo ou morte card\u00edaca s\u00fabita. Testes gen\u00e9ticos s\u00e3o frequentemente realizados em fam\u00edlias em que o diagn\u00f3stico de s\u00edndrome de QT longo foi feito ou \u00e9 suspeito por motivos cl\u00ednicos."
+    }
+]

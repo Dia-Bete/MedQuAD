@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0002001-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Distonia 8?",
+        "answer":"Discinesia paroxismal n\u00e3o-quinesig\u00e9nica \u00e9 uma desordem do sistema nervoso que causa per\u00edodos de movimento involunt\u00e1rio. Os sintomas comuns incluem epis\u00f3dios de 1 a 4 horas de movimentos irregulares, agita\u00e7\u00e3o ou agita\u00e7\u00e3o, contra\u00e7\u00e3o prolongada dos m\u00fasculos, coreia e/ou movimentos retorcedores do membro. Os movimentos podem n\u00e3o ter nenhum gatilho conhecido ou ser causado por \u00e1lcool, cafe\u00edna, estresse, fadiga, menstrua\u00e7\u00f5es, ou excita\u00e7\u00e3o. A forma familiar \u00e9 causada por muta\u00e7\u00f5es no gene PNKD e \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante."
+    },
+    {
+        "qid":"0002001-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da Distonia 8?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da Distonia 8? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para Distonia 8. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Heran\u00e7a autoss\u00f4mica dominante - in\u00edcio da inf\u00e2ncia - Disartria - Disfagia - Grima\u00e7o facial - in\u00edcio infantil - Miocymia - coreoatetose paroxismal - distonia paroxismal - Torticolis - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0002001-3",
+        "qtype":"causes",
+        "question":"O que causa Dystonia 8?",
+        "answer":"H\u00e1 causas n\u00e3o-gen\u00e9ticas de discinesia paroxismal n\u00e3o cines\u00edgena? Sim. Causas espor\u00e1dicas (n\u00e3o-gen\u00e9ticas) de discinesia paroxismal n\u00e3o cines\u00edgena t\u00eam sido relatadas na literatura. As causas n\u00e3o gen\u00e9ticas incluem les\u00f5es dos g\u00e2nglios basais devido \u00e0 esclerose m\u00faltipla, tumores e les\u00f5es vasculares. Al\u00e9m disso, les\u00f5es fora dos g\u00e2nglios basais (incluindo as causadas por les\u00f5es penetrantes) t\u00eam sido relatadas como causando sintomas semelhantes aos encontrados na discinesia paroxismal n\u00e3o cines\u00edgena. Nestas situa\u00e7\u00f5es, uma avalia\u00e7\u00e3o cuidadosa por um neurologista e neuroimagem (como RM) pode ser necess\u00e1ria para o diagn\u00f3stico."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0002263-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dor nas articula\u00e7\u00f5es?",
+        "answer":""
+    },
+    {
+        "qid":"0002263-2",
+        "qtype":"causes",
+        "question":"O que causa dor nas articula\u00e7\u00f5es?",
+        "answer":""
+    },
+    {
+        "qid":"0002263-3",
+        "qtype":"considerations",
+        "question":"O que fazer para a dor articular?",
+        "answer":""
+    },
+    {
+        "qid":"0002263-4",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para dor nas articula\u00e7\u00f5es?",
+        "answer":""
+    },
+    {
+        "qid":"0002263-5",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a dor articular?",
+        "answer":""
+    }
+]

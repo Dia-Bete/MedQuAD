@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000866-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) acidose tubular renal com surdez?",
+        "answer":"Acidose tubular renal com surdez \u00e9 um dist\u00farbio caracterizado por problemas renais e perda auditiva. Os rins normalmente filtram fluidos e res\u00edduos do corpo e os removem na urina; no entanto, em pessoas com este dist\u00farbio, os rins n\u00e3o removem compostos \u00e1cidos suficientes do corpo. Em vez disso, os \u00e1cidos s\u00e3o absorvidos de volta na corrente sangu\u00ednea, e o sangue se torna muito \u00e1cido. Este desequil\u00edbrio qu\u00edmico, chamado acidose metab\u00f3lica, pode resultar em uma s\u00e9rie de sinais e sintomas que variam em gravidade. A acidose metab\u00f3lica muitas vezes causa n\u00e1useas, v\u00f3mitos, e desidrata\u00e7\u00e3o; beb\u00eas afetados tendem a ter problemas de alimenta\u00e7\u00e3o e aumento de peso (falha para prosperar). A maioria das crian\u00e7as e adultos com acidose tubular renal com surdez t\u00eam estatura curta, e muitos desenvolvem c\u00e1lculos renais. A acidose metab\u00f3lica que ocorre na acidose tubular renal com surdez tamb\u00e9m pode levar a suavizar e enfraquecer os ossos, chamado raquitismo em crian\u00e7as e osteomal\u00e1cia em adultos. Este dist\u00farbio \u00f3sseo \u00e9 caracterizado por dor \u00f3ssea, pernas curvadas, e dificuldade de caminhar. Raramente, pessoas com acidose tubular renal com surdez t\u00eam epis\u00f3dios de paralisia hipocal\u00eamica, uma condi\u00e7\u00e3o que causa fraqueza muscular extrema associada a baixos n\u00edveis de pot\u00e1ssio no sangue (hipocalemia). Em pessoas com acidose tubular renal com surdez, a perda auditiva causada por altera\u00e7\u00f5es no ouvido interno (perda auditiva sensorineural) geralmente come\u00e7a entre a inf\u00e2ncia e a idade adulta jovem, e gradualmente piora. A anormalidade do ouvido interno que afeta as duas orelhas ocorre na maioria das pessoas com este dist\u00farbio. Este recurso, que \u00e9 chamado de aqueduto vestibular ampliado, pode ser visto com imagens m\u00e9dicas. O aqueduto vestibular \u00e9 um canal \u00f3sseo que corre do ouvido interno para o osso temporal do cr\u00e2nio e para o c\u00e9rebro. A rela\u00e7\u00e3o entre aqueduto vestibular ampliado e perda auditiva n\u00e3o \u00e9 clara. Na acidose tubular renal com surdez, o aqueduto vestibular aumentado normalmente ocorre em indiv\u00edduos cuja perda auditiva come\u00e7a na inf\u00e2ncia."
+    },
+    {
+        "qid":"0000866-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por acidose tubular renal com surdez?",
+        "answer":"Acidose tubular renal com surdez \u00e9 um dist\u00farbio raro; sua preval\u00eancia \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000866-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 acidose tubular renal com surdez?",
+        "answer":"Acidose tubular renal com surdez \u00e9 causada por muta\u00e7\u00f5es no gene ATP6V1B1 ou ATP6V0A4. Esses genes fornecem instru\u00e7\u00f5es para fazer prote\u00ednas que s\u00e3o partes (subunidades) de um grande complexo proteico conhecido como H+-ATPase vacuolar (V-ATPase). V-ATPases s\u00e3o um grupo de complexos similares que agem como bombas para mover \u00e1tomos de hidrog\u00eanio carregados positivamente (pr\u00f3tons) atrav\u00e9s de membranas. Como os \u00e1cidos s\u00e3o subst\u00e2ncias que podem \"doar\" pr\u00f3tons a outras mol\u00e9culas, este movimento de pr\u00f3tons ajuda a regular a acidez relativa (pH) das c\u00e9lulas e seu ambiente circundante. Controle apertado do pH \u00e9 necess\u00e1rio para que a maioria das rea\u00e7\u00f5es biol\u00f3gicas prossigam corretamente. A V-ATPase que inclui subunidades produzidas a partir dos genes ATP6V1B1 e ATP6V0A4 \u00e9 encontrada na orelha interna e nos nefrons, que s\u00e3o as estruturas funcionais dentro dos rins. Cada nefr\u00e3o consiste em duas partes: um gl\u00f3mulo renal (tamb\u00e9m conhecido como glom\u00e9rulo) que filtra o sangue, e um t\u00fabulo renal que reabsorve subst\u00e2ncias que s\u00e3o necess\u00e1rias e elimina subst\u00e2ncias innecess\u00e1rias na urina. A V-ATPase est\u00e1 envolvida na regula\u00e7\u00e3o da quantidade de \u00e1cido que \u00e9 removida do sangue para a urina, e tamb\u00e9m na manuten\u00e7\u00e3o do pH adequado do fluido na orelha interna (endolimfa). Muta\u00e7\u00f5es no gene ATP6V1B1 ou ATP6V0A4 prejudicam a fun\u00e7\u00e3o do complexo V-ATPase e reduzem a capacidade do corpo para controlar o pH do sangue e do l\u00edquido na orelha interna, resultando em sinais e sintomas de acidose tubular renal com surdez."
+    },
+    {
+        "qid":"0000866-4",
+        "qtype":"inheritance",
+        "question":"A acidose tubular renal com surdez \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000866-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a acidose tubular renal com surdez?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da acidose tubular renal com surdez: - Registro de Testes Gen\u00e9ticos: Acidose tubular renal com surdez nervosa progressiva - MedlinePlus Encyclopedia: Audiometria - MedlinePlus Encyclopedia: Testes de Fun\u00e7\u00e3o Rinal Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000238-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) distrofia c\u00f3rnea estromal cong\u00eanita?",
+        "answer":"A distrofia c\u00f3rnea estromal cong\u00eanita \u00e9 uma doen\u00e7a ocular herdada. Esta condi\u00e7\u00e3o afeta principalmente a c\u00f3rnea, que \u00e9 a cobertura externa clara do olho. Em pessoas com esta condi\u00e7\u00e3o, a c\u00f3rnea parece turva e pode ter uma superf\u00edcie irregular. Essas altera\u00e7\u00f5es da c\u00f3rnea levam a defici\u00eancia visual, incluindo borr\u00e3o, brilho, e uma perda de vis\u00e3o afiada (acuidade visual reduzida). Defici\u00eancia visual \u00e9 frequentemente associada com anormalidades oculares adicionais, incluindo \"olho pregui\u00e7oso\" (ambliopia), olhos que n\u00e3o olham na mesma dire\u00e7\u00e3o (strabismo), movimentos oculares involunt\u00e1rios (nistagmo), e aumento da sensibilidade \u00e0 luz (fotofobia)."
+    },
+    {
+        "qid":"0000238-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela distrofia c\u00f3rnea estromal cong\u00eanita?",
+        "answer":"Distrofia c\u00f3rnea estromal cong\u00eanita \u00e9 provavelmente muito rara; apenas algumas fam\u00edlias afetadas foram relatadas na literatura m\u00e9dica."
+    },
+    {
+        "qid":"0000238-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 distrofia c\u00f3rnea estromal cong\u00eanita?",
+        "answer":"A distrofia c\u00f3rnea estromal cong\u00e9nita \u00e9 causada por muta\u00e7\u00f5es no gene DCN. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada de decora\u00e7\u00e3o, que est\u00e1 envolvida na organiza\u00e7\u00e3o de col\u00e1genos. Colagens s\u00e3o prote\u00ednas que fortalecem e suportam tecidos conjuntivos como pele, osso, tend\u00f5es e ligamentos. Na c\u00f3rnea, feixes bem organizados de col\u00e1geno tornam a c\u00f3rnea transparente. Decorin garante que fibrilas de col\u00e1geno na c\u00f3rnea s\u00e3o de tamanho uniforme e regularmente espa\u00e7adas. Muta\u00e7\u00f5es no gene DCN levam \u00e0 produ\u00e7\u00e3o de uma vers\u00e3o defeituosa da decora\u00e7\u00e3o. Esta prote\u00edna anormal interfere na organiza\u00e7\u00e3o de fibrilas de col\u00e1geno na c\u00f3rnea. \u00c0 medida que as fibrilas de col\u00e1geno mal arranjadas se acumulam, a c\u00f3rnea fica nublada. Essas altera\u00e7\u00f5es da c\u00f3rnea levam \u00e0 redu\u00e7\u00e3o da acuidade visual e anormalidades oculares relacionadas."
+    },
+    {
+        "qid":"0000238-4",
+        "qtype":"inheritance",
+        "question":"A distrofia c\u00f3rnea estromal cong\u00eanita \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000238-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a distrofia c\u00f3rnea estromal cong\u00eanita?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da distrofia c\u00f3rnea estromal cong\u00eanita: - Gene Review: Gene Review: Congenital Stromal Corneal Distrofia - Gene Testing Registry: Congenital Stromal Corneal Distrofia - MedlinePlus Enciclop\u00e9dia: Cloudy Cornea Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0002302-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dor de joelho?",
+        "answer":""
+    },
+    {
+        "qid":"0002302-2",
+        "qtype":"causes",
+        "question":"O que causa dor no joelho?",
+        "answer":""
+    },
+    {
+        "qid":"0002302-3",
+        "qtype":"considerations",
+        "question":"O que fazer pela dor de joelho?",
+        "answer":""
+    },
+    {
+        "qid":"0002302-4",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para dor de joelho?",
+        "answer":""
+    },
+    {
+        "qid":"0002302-5",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva da dor no joelho?",
+        "answer":""
+    }
+]

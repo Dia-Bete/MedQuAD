@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001354-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dor no cotovelo?",
+        "answer":""
+    },
+    {
+        "qid":"0001354-2",
+        "qtype":"causes",
+        "question":"O que causa dor no cotovelo?",
+        "answer":""
+    },
+    {
+        "qid":"0001354-3",
+        "qtype":"considerations",
+        "question":"O que fazer pela dor do cotovelo?",
+        "answer":""
+    },
+    {
+        "qid":"0001354-4",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para dor de cotovelo?",
+        "answer":""
+    },
+    {
+        "qid":"0001354-5",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva da dor do cotovelo?",
+        "answer":""
+    }
+]

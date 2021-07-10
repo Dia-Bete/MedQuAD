@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0002906-1",
+        "qtype":"information",
+        "question":"O que est\u00e1 superando o estresse no trabalho?",
+        "answer":""
+    },
+    {
+        "qid":"0002906-2",
+        "qtype":"causes",
+        "question":"O que causa superar o estresse no trabalho?",
+        "answer":""
+    },
+    {
+        "qid":"0002906-4",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas de superar o estresse no trabalho?",
+        "answer":""
+    }
+]

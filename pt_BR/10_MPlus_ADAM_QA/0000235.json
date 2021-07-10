@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0000235-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o as mordidas de animais - o autocuidado?",
+        "answer":""
+    },
+    {
+        "qid":"0000235-2",
+        "qtype":"causes",
+        "question":"O que causa mordidas de animais - auto-cuidado?",
+        "answer":""
+    },
+    {
+        "qid":"0000235-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas das mordidas de animais - o autocuidado?",
+        "answer":""
+    },
+    {
+        "qid":"0000235-6",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es das mordidas de animais? O autocuidado?",
+        "answer":""
+    },
+    {
+        "qid":"0000235-7",
+        "qtype":"prevention",
+        "question":"Como evitar picadas de animais - auto-cuidado?",
+        "answer":""
+    },
+    {
+        "qid":"0000235-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para morder animais, autocuidado?",
+        "answer":""
+    }
+]

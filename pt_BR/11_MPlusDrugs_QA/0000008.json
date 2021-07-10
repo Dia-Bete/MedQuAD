@@ -1,0 +1,74 @@
+[
+    {
+        "qid":"0000008-1",
+        "qtype":"important warning",
+        "question":"Que aviso ou informa\u00e7\u00e3o importante eu deveria saber sobre acetaminofen?",
+        "answer":""
+    },
+    {
+        "qid":"0000008-2",
+        "qtype":"indication",
+        "question":"Quem deveria pegar acetaminofene e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000008-3",
+        "qtype":"usage",
+        "question":"Como o acetaminofene deve ser usado e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000008-5",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre o acetaminofene?",
+        "answer":""
+    },
+    {
+        "qid":"0000008-6",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com acetaminofen?",
+        "answer":""
+    },
+    {
+        "qid":"0000008-7",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se eu esquecer uma dose de acetaminofen?",
+        "answer":""
+    },
+    {
+        "qid":"0000008-8",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos do acetaminofene?",
+        "answer":""
+    },
+    {
+        "qid":"0000008-9",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de acetaminofen?",
+        "answer":""
+    },
+    {
+        "qid":"0000008-10",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de acetaminofen?",
+        "answer":""
+    },
+    {
+        "qid":"0000008-11",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre acetaminofen?",
+        "answer":""
+    },
+    {
+        "qid":"0000008-12",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de acetaminofen?",
+        "answer":""
+    },
+    {
+        "qid":"0000008-13",
+        "qtype":"brand names of combination products",
+        "question":"Quais s\u00e3o os nomes de marcas de produtos combinados de acetaminofen?",
+        "answer":""
+    }
+]

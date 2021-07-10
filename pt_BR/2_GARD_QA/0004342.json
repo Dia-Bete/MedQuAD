@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0004342-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) diabetes ins\u00edpido nefrog\u00eanico?",
+        "answer":"Diabetes ins\u00edpidos nefrog\u00eanicos \u00e9 um dist\u00farbio em que um defeito nos pequenos tubos (t\u00fabulos) nos rins faz uma pessoa passar uma grande quantidade de urina. Diabetes ins\u00edpidos nefrog\u00eanicos ocorrem quando os t\u00fabulos renais, que permitem que a \u00e1gua seja removida do corpo ou reabsorvida, n\u00e3o respondem a um produto qu\u00edmico no corpo chamado horm\u00f4nio antidiur\u00e9tico (ADH) ou vasopressina. ADH normalmente diz aos rins para que a urina fique mais concentrada. Como resultado do defeito, os rins liberam uma quantidade excessiva de \u00e1gua na urina, produzindo uma grande quantidade de urina muito dilu\u00edda. Diabetes ins\u00edpidos nefrog\u00eanicos podem ser adquiridos ou heredit\u00e1rios. A forma adquirida \u00e9 provocada por certos medicamentos e doen\u00e7as cr\u00f4nicas e pode ocorrer a qualquer momento durante a vida. A forma heredit\u00e1ria \u00e9 causada por muta\u00e7\u00f5es gen\u00e9ticas, e seus sinais e sintomas geralmente se tornam evidentes nos primeiros meses de vida."
+    },
+    {
+        "qid":"0004342-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da diabetes ins\u00edpida nefrog\u00eanica?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da diabetes ins\u00edpida nefrog\u00eanica? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para diabetes ins\u00edpido nefrog\u00eanico. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Constipa\u00e7\u00e3o - Diabetes ins\u00edpidos - Falha em prosperar - Dificuldades de alimenta\u00e7\u00e3o na inf\u00e2ncia - Hipernatremia - Desidrata\u00e7\u00e3o hipert\u00f4nica - Defici\u00eancia intelectual - Irritabilidade - Megacystis - In\u00edcio neonatal - Polidipsia - Poli\u00faria - Convuls\u00f5es - Estatura curta - Febres inexplic\u00e1veis - V\u00f3mitos - Heran\u00e7a recessiva ligada a X - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0004342-3",
+        "qtype":"causes",
+        "question":"O que causa diabetes ins\u00edpida nefrog\u00eanica?",
+        "answer":"O que causa diabetes ins\u00edpida nefrog\u00eanica? Diabetes ins\u00edpidos nefrog\u00eanicos podem ser adquiridos ou heredit\u00e1rios. A forma adquirida pode resultar de doen\u00e7a renal cr\u00f4nica, certos medicamentos (como l\u00edtio), baixos n\u00edveis de pot\u00e1ssio no sangue (hipocalemia), altos n\u00edveis de c\u00e1lcio no sangue (hipercalcemia), ou uma obstru\u00e7\u00e3o do trato urin\u00e1rio. A diabetes ins\u00edpida nefrog\u00eanica adquirida pode ocorrer a qualquer momento da vida. A forma heredit\u00e1ria de diabetes ins\u00edpido nefrog\u00eanico \u00e9 causada por muta\u00e7\u00f5es gen\u00e9ticas, e seus sinais e sintomas geralmente se tornam evidentes nos primeiros meses de vida."
+    },
+    {
+        "qid":"0004342-4",
+        "qtype":"inheritance",
+        "question":"A diabetes nefrog\u00eanica ins\u00edpida \u00e9 herdada?",
+        "answer":"Como a diabetes nefrog\u00eanica \u00e9 herdada? Quando a diabetes ins\u00edpida nefrog\u00eanica resulta de muta\u00e7\u00f5es no gene AVPR2, a condi\u00e7\u00e3o tem um padr\u00e3o recessivo de heran\u00e7a. O gene AVPR2 est\u00e1 localizado no cromossomo X, que \u00e9 um dos dois cromossomos sexuais. Em machos (que t\u00eam apenas um cromossomo X), uma c\u00f3pia alterada do gene em cada c\u00e9lula \u00e9 suficiente para causar a condi\u00e7\u00e3o. Em f\u00eameas (que t\u00eam dois cromossomos X), uma muta\u00e7\u00e3o geralmente tem que ocorrer em ambas as c\u00f3pias do gene para causar a desordem. No entanto, algumas f\u00eameas que carregam uma \u00fanica c\u00f3pia mutada do gene AVPR2 t\u00eam caracter\u00edsticas de diabetes ins\u00edpido nefrog\u00eanico, incluindo poli\u00faria e polidipsia. Uma caracter\u00edstica da heran\u00e7a ligada a X \u00e9 que os pais n\u00e3o podem passar os tra\u00e7os ligados a X para seus filhos."
+    },
+    {
+        "qid":"0004342-5",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar diabetes ins\u00edpida nefrog\u00eanica?",
+        "answer":"Testes gen\u00e9ticos est\u00e3o dispon\u00edveis para diabetes ins\u00edpido nefrog\u00eanico? Sim. GeneTests lista laborat\u00f3rios que oferecem testes gen\u00e9ticos cl\u00ednicos para tipos de diabetes ins\u00edpido nefrog\u00eanico ligados a X e autoss\u00f4micos. Testes gen\u00e9ticos cl\u00ednicos s\u00e3o ordenados para ajudar a diagnosticar uma pessoa ou fam\u00edlia e para ajudar nas decis\u00f5es sobre cuidados m\u00e9dicos ou problemas reprodutivos. Fale com seu m\u00e9dico ou um profissional gen\u00e9tico para saber mais sobre suas op\u00e7\u00f5es de testes."
+    },
+    {
+        "qid":"0004342-6",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para diabetes ins\u00edpido nefrog\u00eanico?",
+        "answer":"Como pode a diabetes ins\u00edpida nefrog\u00eanica ser tratada? Geralmente, a gest\u00e3o \u00e9 melhor realizada por uma equipe de m\u00e9dicos e outros profissionais de sa\u00fade. A equipe pode incluir um nutricionista, um nefrologista pedi\u00e1trico (ou adulto) ou endocrinologista, e um geneticista cl\u00ednico. A base da gest\u00e3o envolve acesso gratuito \u00e0 \u00e1gua pot\u00e1vel e instala\u00e7\u00f5es de banheiro. A poli\u00faria e a polidipsia podem ser reduzidas at\u00e9 50% sem interromper os n\u00edveis apropriados de s\u00f3dio no sangue atrav\u00e9s do uso de diur\u00e9ticos tiaz\u00eddicos hidroclorotiazida, clorotiazida) e/ou outros diur\u00e9ticos (ou seja, amilorida diur\u00e9tica poupadora de pot\u00e1ssio), restri\u00e7\u00e3o alimentar de s\u00f3dio e anti-inflamat\u00f3rios n\u00e3o esteroides (AINEs), tais como indometacina, que pode potencialmente melhorar a capacidade do organismo para concentrar urina e reduzir o d\u00e9bito de urina."
+    }
+]

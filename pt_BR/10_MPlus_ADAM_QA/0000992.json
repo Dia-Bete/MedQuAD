@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0000992-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o milho e callos?",
+        "answer":""
+    },
+    {
+        "qid":"0000992-2",
+        "qtype":"causes",
+        "question":"O que causa milho e callos?",
+        "answer":""
+    },
+    {
+        "qid":"0000992-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas de milho e callos?",
+        "answer":""
+    },
+    {
+        "qid":"0000992-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar milho e callos?",
+        "answer":""
+    },
+    {
+        "qid":"0000992-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para milho e callos?",
+        "answer":""
+    },
+    {
+        "qid":"0000992-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para milho e callos?",
+        "answer":""
+    },
+    {
+        "qid":"0000992-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es de milho e callos?",
+        "answer":""
+    },
+    {
+        "qid":"0000992-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para milho e callos?",
+        "answer":""
+    }
+]

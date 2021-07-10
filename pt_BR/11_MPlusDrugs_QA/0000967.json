@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0000967-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar Pentoxifillina e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000967-2",
+        "qtype":"usage",
+        "question":"Como a pentoxifilina deve ser usada e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000967-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Pentoxifillina?",
+        "answer":""
+    },
+    {
+        "qid":"0000967-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Pentoxifilina?",
+        "answer":""
+    },
+    {
+        "qid":"0000967-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se eu esquecer uma dose de Pentoxifillina?",
+        "answer":""
+    },
+    {
+        "qid":"0000967-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Pentoxifillina?",
+        "answer":""
+    },
+    {
+        "qid":"0000967-8",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Pentoxifillina?",
+        "answer":""
+    },
+    {
+        "qid":"0000967-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Pentoxifilina?",
+        "answer":""
+    },
+    {
+        "qid":"0000967-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Pentoxifillina?",
+        "answer":""
+    },
+    {
+        "qid":"0000967-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca da Pentoxifyllina?",
+        "answer":""
+    }
+]

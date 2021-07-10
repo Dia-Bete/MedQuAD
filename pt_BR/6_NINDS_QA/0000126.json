@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000126-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Familiar Par\u00e1lisis Peri\u00f3dicas?",
+        "answer":"Paralises peri\u00f3dicas familiares s\u00e3o um grupo de dist\u00farbios neurol\u00f3gicos herdados causados por muta\u00e7\u00f5es em genes que regulam os canais de s\u00f3dio e c\u00e1lcio nas c\u00e9lulas nervosas. Eles s\u00e3o caracterizados por epis\u00f3dios em que os m\u00fasculos afetados se tornam fr\u00e1geis, fracos e incapazes de se contrair. Entre os ataques, os m\u00fasculos afetados geralmente funcionam como normais. Os dois tipos mais comuns de paralisias peri\u00f3dicas s\u00e3o: paralisia peri\u00f3dica hipocal\u00eamica \u00e9 caracterizada por uma queda nos n\u00edveis de pot\u00e1ssio no sangue. Em indiv\u00edduos com essa muta\u00e7\u00e3o ataques muitas vezes come\u00e7am na adolesc\u00eancia e s\u00e3o desencadeados por exerc\u00edcios extenuantes, refei\u00e7\u00f5es altas em carboidratos, ou por inje\u00e7\u00e3o de insulina, glicose ou epinefrina. A fraqueza pode ser leve e limitada a certos grupos musculares, ou mais grave e afetar os bra\u00e7os e pernas. Os ataques podem durar algumas horas ou persistir por v\u00e1rios dias. Alguns pacientes podem desenvolver fraqueza muscular cr\u00f4nica mais tarde na vida. A paralisia peri\u00f3dica hipercal\u00eamica \u00e9 caracterizada por um aumento dos n\u00edveis de pot\u00e1ssio no sangue. Os ataques muitas vezes come\u00e7am na inf\u00e2ncia ou na inf\u00e2ncia e s\u00e3o precipitados pelo repouso ap\u00f3s o exerc\u00edcio ou jejum. Os ataques s\u00e3o geralmente mais curtos, mais frequentes e menos graves que a forma hipocal\u00eamica. Os espasmos musculares s\u00e3o comuns."
+    },
+    {
+        "qid":"0000126-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Par\u00e1lisis Peri\u00f3dica Familiares?",
+        "answer":"O tratamento das paralises peri\u00f3dicas foca na preven\u00e7\u00e3o de novos ataques e al\u00edvio dos sintomas agudos. Evitar refei\u00e7\u00f5es ricas em carboidratos e exerc\u00edcios extenuantes, e tomar acetazolamida diariamente pode prevenir ataques hipocal\u00eamicos. Os ataques podem ser controlados bebendo uma solu\u00e7\u00e3o oral de cloreto de pot\u00e1ssio. Comer alimentos ricos em carboidratos, com baixo teor de pot\u00e1ssio, e evitar exerc\u00edcios extenuantes e jejum, pode ajudar a prevenir ataques hipercal\u00eamicos. Dichorfenamida pode prevenir ataques."
+    },
+    {
+        "qid":"0000126-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para os Par\u00e1lisis Peri\u00f3dicos Familiares?",
+        "answer":"O progn\u00f3stico das paralises peri\u00f3dicas familiares varia. Ataques cr\u00f4nicos podem resultar em fraqueza progressiva que persiste entre ataques. Alguns casos respondem bem ao tratamento, o que pode prevenir ou reverter a fraqueza muscular progressiva."
+    },
+    {
+        "qid":"0000126-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para paralisa\u00e7\u00f5es peri\u00f3dicas familiares?",
+        "answer":"A NINDS conduz e apoia pesquisas sobre dist\u00farbios neuromusculares, como as paralises peri\u00f3dicas familiares. Estes estudos visam aumentar o conhecimento sobre esses dist\u00farbios e encontrar maneiras de preveni-los, tratar e cur\u00e1-los."
+    }
+]

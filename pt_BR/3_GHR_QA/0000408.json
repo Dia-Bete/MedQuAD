@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000408-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Gillespie?",
+        "answer":"A s\u00edndrome de Gillespie \u00e9 um dist\u00farbio que envolve anormalidades oculares, problemas com movimentos de equil\u00edbrio e coordena\u00e7\u00e3o (ataxia) e defici\u00eancia intelectual leve a moderada. A s\u00edndrome de Gillespie \u00e9 caracterizada por anir\u00eddia, que \u00e9 a aus\u00eancia da parte colorida do olho (a \u00edris). Em indiv\u00edduos mais afetados, apenas parte do \u00edris est\u00e1 faltando (anir\u00eddia parcial) em ambos os olhos, mas em alguns indiv\u00edduos afetados, anir\u00eddia parcial afeta apenas um olho, ou todo o \u00edris est\u00e1 faltando (anir\u00eddia completa) em um ou ambos os olhos. A aus\u00eancia de todo ou parte do \u00edris pode causar vis\u00e3o borrosa (acuidade visual reduzida) e maior sensibilidade \u00e0 luz (fotofobia). Movimentos oculares r\u00e1pidos e involunt\u00e1rios (nistagmus) tamb\u00e9m podem ocorrer na s\u00edndrome de Gillespie. Os problemas de equil\u00edbrio e movimento na s\u00edndrome de Gillespie resultam do subdesenvolvimento (hipoplasia) de uma parte do c\u00e9rebro chamada cerebelo. Essa anormalidade pode causar atraso no desenvolvimento de habilidades motoras como caminhar. Al\u00e9m disso, dificuldade em controlar os m\u00fasculos da boca pode levar ao atraso no desenvolvimento da fala. As dificuldades com a coordena\u00e7\u00e3o geralmente se tornam percept\u00edveis na inf\u00e2ncia quando o indiv\u00edduo est\u00e1 aprendendo essas habilidades. Pessoas com s\u00edndrome de Gillespie geralmente continuam com problemas de marcha e fala inest\u00e1veis. No entanto, os problemas n\u00e3o pioram com o tempo, e em alguns casos eles melhoram ligeiramente. Outras caracter\u00edsticas da s\u00edndrome de Gillespie podem incluir anormalidades nos ossos da coluna vertebral e malforma\u00e7\u00f5es do cora\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000408-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Gillespie?",
+        "answer":"A preval\u00eancia da s\u00edndrome de Gillespie \u00e9 desconhecida. Apenas algumas d\u00fazias de indiv\u00edduos afetados foram descritos na literatura m\u00e9dica. Estima-se que a s\u00edndrome de Gillespie seja respons\u00e1vel por cerca de 2% dos casos de anir\u00eddia."
+    },
+    {
+        "qid":"0000408-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Gillespie?",
+        "answer":"A s\u00edndrome de Gillespie pode ser causada por muta\u00e7\u00f5es no gene PAX6. O gene PAX6 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que est\u00e1 envolvida no desenvolvimento precoce, incluindo o desenvolvimento dos olhos e do c\u00e9rebro. A prote\u00edna PAX6 se liga (vindas) a regi\u00f5es espec\u00edficas de DNA e regula a atividade de outros genes. Com base nesse papel, a prote\u00edna PAX6 \u00e9 chamada de fator de transcri\u00e7\u00e3o. Muta\u00e7\u00f5es no gene PAX6 resultam na aus\u00eancia da prote\u00edna PAX6 ou produ\u00e7\u00e3o de uma prote\u00edna PAX6 n\u00e3o funcional que \u00e9 incapaz de se ligar ao DNA e regular a atividade de outros genes. Esta falta de prote\u00edna funcional interrompe o desenvolvimento embrion\u00e1rio, especialmente o desenvolvimento dos olhos e do c\u00e9rebro, levando aos sinais e sintomas da s\u00edndrome de Gillespie. A maioria das pessoas com s\u00edndrome de Gillespie n\u00e3o tem muta\u00e7\u00f5es no gene PAX6. Nestes indiv\u00edduos afetados, a causa do dist\u00farbio \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000408-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Gillespie \u00e9 herdada?",
+        "answer":"Em alguns casos, incluindo aqueles em que a s\u00edndrome de Gillespie \u00e9 causada por muta\u00e7\u00f5es do gene PAX6, a condi\u00e7\u00e3o ocorre em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar o dist\u00farbio. Alguns indiv\u00edduos afetados herdam a muta\u00e7\u00e3o de um dos pais afetados. Outros casos resultam de novas muta\u00e7\u00f5es no gene e ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia. A s\u00edndrome de Gillespie tamb\u00e9m pode ser herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias de um gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. O gene ou genes envolvidos nesses casos s\u00e3o desconhecidos. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000408-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Gillespie?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Gillespie: - Eunice Kennedy Shriver Instituto Nacional de Sa\u00fade Infantil e Desenvolvimento Humano: Como os Provedores de Sa\u00fade Diagnosticam Defici\u00eancias Intelectuais e de Desenvolvimento? Eunice Kennedy Shriver, Instituto Nacional de Sa\u00fade Infantil e Desenvolvimento Humano, quais s\u00e3o os tratamentos para defici\u00eancias intelectuais e de desenvolvimento? - Registro de Testes Gen\u00e9ticos: An\u00edridia, ataxia cerebelar e retardo mental Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

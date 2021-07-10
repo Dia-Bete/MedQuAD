@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000119-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) S\u00edndrome de Esturge-Weber?",
+        "answer":"S\u00edndrome de estresse-Weber \u00e9 um dist\u00farbio neurol\u00f3gico indicado no nascimento por uma mancha de vinho do porto na testa e na p\u00e1lpebra superior de um lado do rosto. A marca de nascimento pode variar em cor de rosa claro a roxo profundo e \u00e9 causada por uma sobreabund\u00e2ncia de capilares em torno do nervo trig\u00e9minal logo abaixo da superf\u00edcie do rosto. A s\u00edndrome do esturgo-Weber tamb\u00e9m \u00e9 acompanhada por vasos sangu\u00edneos anormais na superf\u00edcie do c\u00e9rebro e a perda de c\u00e9lulas nervosas e calcifica\u00e7\u00e3o do tecido subjacente no c\u00f3rtex cerebral do mesmo lado do c\u00e9rebro que a marca de nascimento. Os sintomas neurol\u00f3gicos incluem convuls\u00f5es que come\u00e7am na inf\u00e2ncia e podem piorar com a idade. As convuls\u00f5es geralmente acontecem do lado do corpo em frente \u00e0 marca de nascimento e variam em gravidade. Pode haver fraqueza muscular intermitente ou permanente do mesmo lado. Algumas crian\u00e7as ter\u00e3o atrasos no desenvolvimento e comprometimento cognitivo; a maioria ter\u00e1 glaucoma (aumento da press\u00e3o no olho) ao nascer ou se desenvolver mais tarde. O aumento da press\u00e3o dentro do olho pode fazer com que o globo ocular se alargue e saia de sua cavidade (buftalmos). H\u00e1 um risco aumentado de enxaquecas. A s\u00edndrome do esturgo-Weber raramente afeta outros \u00f3rg\u00e3os corporais."
+    },
+    {
+        "qid":"0000119-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a S\u00edndrome de Esturge-Weber?",
+        "answer":"O tratamento para a s\u00edndrome de Esturge-Weber \u00e9 sintom\u00e1tico. O tratamento a laser pode ser usado para aliviar ou remover a marca de nascen\u00e7a. Medicamentos anticonvulsivos podem ser usados para controlar convuls\u00f5es. Pessoas com convuls\u00f5es resistentes a drogas podem ser tratadas por remo\u00e7\u00e3o cir\u00fargica do tecido cerebral epil\u00e9ptico. Cirurgia pode ser realizada em casos mais graves de glaucoma. A fisioterapia deve ser considerada para beb\u00eas e crian\u00e7as com fraqueza muscular. A terapia educativa \u00e9 frequentemente prescrita para aqueles com defici\u00eancia cognitiva ou atrasos no desenvolvimento. Os m\u00e9dicos recomendam monitoramento anual para glaucoma."
+    },
+    {
+        "qid":"0000119-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a S\u00edndrome de Esturge-Weber?",
+        "answer":"Embora seja poss\u00edvel que a marca de nascimento e atrofia no c\u00f3rtex cerebral estejam presentes sem sintomas, a maioria dos beb\u00eas desenvolver\u00e1 convuls\u00f5es durante o primeiro ano de vida. H\u00e1 maior probabilidade de defici\u00eancia intelectual quando as convuls\u00f5es come\u00e7am antes dos 2 anos e s\u00e3o resistentes ao tratamento. O progn\u00f3stico \u00e9 pior na minoria de crian\u00e7as que t\u00eam ambos os lados do c\u00e9rebro afetados pelas anormalidades dos vasos sangu\u00edneos."
+    },
+    {
+        "qid":"0000119-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a S\u00edndrome de Esturge-Weber?",
+        "answer":"O NINDS apoia um amplo programa de pesquisa para entender melhor os dist\u00farbios cong\u00eanitos. Esta pesquisa tem como objetivo desenvolver t\u00e9cnicas para diagnosticar, tratar, prevenir e, em \u00faltima an\u00e1lise, curar dist\u00farbios como a s\u00edndrome de estresse-Weber."
+    }
+]

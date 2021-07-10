@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000663-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a neurodegenera\u00e7\u00e3o da membrana mitocondrial associada \u00e0 prote\u00edna?",
+        "answer":"A neurodegenera\u00e7\u00e3o da membrana mitocondrial associada \u00e0 prote\u00edna (MPAN) \u00e9 uma desordem do sistema nervoso. A condi\u00e7\u00e3o normalmente come\u00e7a na inf\u00e2ncia ou na idade adulta precoce e piora (progressos) ao longo do tempo. MPAN come\u00e7a comumente com dificuldade em caminhar. \u00c0 medida que a condi\u00e7\u00e3o progride, indiv\u00edduos afetados geralmente desenvolvem outros problemas de movimento, incluindo rigidez muscular (espasticidade) e c\u00e3ibras musculares involunt\u00e1rias (distonia). Muitas pessoas com MPAN t\u00eam um padr\u00e3o de anormalidades de movimento conhecido como parkinsonismo. Essas anormalidades incluem movimentos incomummente lentos (bradicinesia), rigidez muscular, tremores involunt\u00e1rios (tremor), e uma incapacidade de segurar o corpo erguido e equilibrado (instabilidade postural). Outros problemas neurol\u00f3gicos que ocorrem em indiv\u00edduos com MPAN incluem degenera\u00e7\u00e3o das c\u00e9lulas nervosas que transportam informa\u00e7\u00f5es visuais dos olhos para o c\u00e9rebro (atrofia \u00f3ptica), que podem prejudicar a vis\u00e3o; problemas com a fala (disartria); dificuldade em engolir (disfagia); e, em est\u00e1gios posteriores da condi\u00e7\u00e3o, incapacidade de controlar os intestinos ou o fluxo de urina (incontin\u00eancia). Al\u00e9m disso, indiv\u00edduos afetados podem sofrer uma perda de fun\u00e7\u00e3o intelectual (dem\u00eancia) e sintomas psiqui\u00e1tricos como problemas comportamentais, mudan\u00e7as de humor, hiperatividade e depress\u00e3o. O MPAN \u00e9 caracterizado por uma acumula\u00e7\u00e3o anormal de ferro em certas regi\u00f5es do c\u00e9rebro. Por causa desses dep\u00f3sitos, o MPAN \u00e9 considerado parte de um grupo de condi\u00e7\u00f5es conhecidas como neurodegenera\u00e7\u00e3o com ac\u00famulo de ferro cerebral (NBIA)."
+    },
+    {
+        "qid":"0000663-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela neurodegenera\u00e7\u00e3o associada \u00e0s prote\u00ednas da membrana mitocondrial?",
+        "answer":"MPAN \u00e9 uma condi\u00e7\u00e3o rara que \u00e9 estimada afetar menos de 1 em 1 milh\u00e3o de pessoas."
+    },
+    {
+        "qid":"0000663-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 neurodegenera\u00e7\u00e3o associada \u00e0s prote\u00ednas da membrana mitocondrial?",
+        "answer":"Muta\u00e7\u00f5es no gene C19orf12 causam MPAN. A prote\u00edna produzida a partir deste gene \u00e9 encontrada na membrana de estruturas celulares chamadas mitoc\u00f4ndrias, que s\u00e3o os centros de produ\u00e7\u00e3o de energia da c\u00e9lula. Embora sua fun\u00e7\u00e3o seja desconhecida, pesquisadores sugerem que a prote\u00edna C19orf12 desempenha um papel na manuten\u00e7\u00e3o de mol\u00e9culas de gordura (lipidas), um processo conhecido como homeostase lip\u00eddica. As muta\u00e7\u00f5es gen\u00e9ticas que causam esta condi\u00e7\u00e3o levam a uma prote\u00edna C19orf12 alterada que provavelmente tem pouca ou nenhuma fun\u00e7\u00e3o. N\u00e3o est\u00e1 claro como essas altera\u00e7\u00f5es gen\u00e9ticas levam aos problemas neurol\u00f3gicos associados ao MPAN. Pesquisadores est\u00e3o trabalhando para determinar se h\u00e1 uma liga\u00e7\u00e3o entre problemas com homeostasia lip\u00eddica e ac\u00famulo de ferro no c\u00e9rebro e como essas anormalidades podem contribuir para as caracter\u00edsticas deste dist\u00farbio."
+    },
+    {
+        "qid":"0000663-4",
+        "qtype":"inheritance",
+        "question":"A neurodegenera\u00e7\u00e3o da membrana mitocondrial associada \u00e0 prote\u00edna \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000663-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a neurodegenera\u00e7\u00e3o associada \u00e0s prote\u00ednas da membrana mitocondrial?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da neurodegenera\u00e7\u00e3o associada \u00e0 prote\u00edna da membrana mitocondrial: - Gene Review: Gene Review: Mitocondrial Membrane Neurodegenera\u00e7\u00e3o associada \u00e0 prote\u00edna - Gene Review: Gene Review: Neurodegenera\u00e7\u00e3o com dist\u00farbios de acumula\u00e7\u00e3o de ferro no c\u00e9rebro Vis\u00e3o geral - Genetic Testing Registry: Neurodegenera\u00e7\u00e3o com acumula\u00e7\u00e3o de ferro no c\u00e9rebro 4 - Spastic Paraplegia Foundation: Treatments and Therapies Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

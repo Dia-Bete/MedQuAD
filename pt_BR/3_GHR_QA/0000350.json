@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000350-1",
+        "qtype":"information",
+        "question":"O que \u00e9 defici\u00eancia familiar de HDL?",
+        "answer":"A defici\u00eancia familiar de HDL \u00e9 uma condi\u00e7\u00e3o caracterizada por baixos n\u00edveis de lipoprote\u00edna de alta densidade (HDL) no sangue. HDL \u00e9 uma mol\u00e9cula que transporta colesterol e certas gorduras chamadas fosfolip\u00eddeos atrav\u00e9s da corrente sangu\u00ednea dos tecidos do corpo para o f\u00edgado. Uma vez no f\u00edgado, colesterol e fosfol\u00edpidos s\u00e3o redistribu\u00eddos para outros tecidos ou removidos do corpo. HDL \u00e9 frequentemente referido como \"bom colesterol\" porque n\u00edveis elevados desta subst\u00e2ncia reduzem as chances de desenvolver doen\u00e7as do cora\u00e7\u00e3o e dos vasos sangu\u00edneos (cardiovasculares). Pessoas com defici\u00eancia familiar de HDL podem desenvolver doen\u00e7as cardiovasculares em uma idade relativamente jovem, muitas vezes antes dos 50 anos. Gravemente reduzidos n\u00edveis de HDL no sangue \u00e9 uma caracter\u00edstica de um dist\u00farbio relacionado chamado doen\u00e7a de T\u00e1nger. Pessoas com doen\u00e7a de T\u00e1nger t\u00eam sinais e sintomas adicionais, tais como dist\u00farbios na fun\u00e7\u00e3o nervosa; am\u00eandoas ampliadas, cor laranja; e nubla\u00e7\u00e3o da cobertura clara do olho (nuvem corneana). No entanto, pessoas com defici\u00eancia familiar de HDL n\u00e3o t\u00eam esses recursos adicionais."
+    },
+    {
+        "qid":"0000350-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia familiar de HDL?",
+        "answer":"A defici\u00eancia familiar de HDL \u00e9 um dist\u00farbio raro, embora a preval\u00eancia seja desconhecida."
+    },
+    {
+        "qid":"0000350-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia familiar de HDL?",
+        "answer":"Muta\u00e7\u00f5es no gene ABCA1 ou no gene APOA1 causam defici\u00eancia familiar de HDL. As prote\u00ednas produzidas a partir desses genes trabalham juntos para remover colesterol e fosfol\u00edpidos das c\u00e9lulas. O gene ABCA1 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que remove o colesterol e fosfol\u00edpidos das c\u00e9lulas movendo-as atrav\u00e9s da membrana celular. O movimento destas subst\u00e2ncias atrav\u00e9s da membrana \u00e9 refor\u00e7ado por outra prote\u00edna chamada apolipoprote\u00edna A-I (apoA-I), que \u00e9 produzida pelo gene APOA1. Uma vez fora da c\u00e9lula, o colesterol e fosfol\u00edpidos se combinam com apoA-I para formar HDL. ApoA-I tamb\u00e9m desencadeia uma rea\u00e7\u00e3o que converte o colesterol em uma forma que pode ser totalmente integrada em HDL e transportada pela corrente sangu\u00ednea. Muta\u00e7\u00f5es do gene ABCA1 e algumas muta\u00e7\u00f5es do gene APOA1 impedem a libera\u00e7\u00e3o de colesterol e fosfol\u00edpidos das c\u00e9lulas. Outras muta\u00e7\u00f5es no gene APOA1 reduzem a capacidade da prote\u00edna para estimular a convers\u00e3o do colesterol. Essas muta\u00e7\u00f5es do gene ABCA1 e APOA1 diminuem a quantidade de colesterol ou fosfol\u00edpidos dispon\u00edveis para formar HDL, resultando em baixos n\u00edveis de HDL no sangue. Acredita-se que uma escassez (defici\u00eancia) de HDL aumenta o risco de doen\u00e7as cardiovasculares."
+    },
+    {
+        "qid":"0000350-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia familiar de HDL \u00e9 herdada?",
+        "answer":"A defici\u00eancia familiar de HDL \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma altera\u00e7\u00e3o em uma c\u00f3pia do gene ABCA1 ou APOA1 em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Pessoas com altera\u00e7\u00f5es em ambas as c\u00f3pias do gene ABCA1 desenvolvem o dist\u00farbio relacionado doen\u00e7a de T\u00e1nger."
+    },
+    {
+        "qid":"0000350-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para defici\u00eancia familiar de HDL?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da defici\u00eancia familiar de HDL: - Registro de Testes Gen\u00e9ticos: Hipoalfalipoproteinemia Familiar Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

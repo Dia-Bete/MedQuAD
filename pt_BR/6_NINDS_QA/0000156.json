@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000156-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Hidromielia?",
+        "answer":"Hidromielia refere-se a um alargamento anormal do canal central da medula espinhal que cria uma cavidade em que o l\u00edquido cefalorraquidiano (comummente conhecido como fluido espinhal) pode acumular. \u00c0 medida que o fluido espinhal se acumula, pode colocar press\u00e3o anormal na medula espinhal e danificar as c\u00e9lulas nervosas e suas conex\u00f5es. Hidromielia \u00e0s vezes \u00e9 usada intercambiavelmente com siringomielia, o nome para uma condi\u00e7\u00e3o que tamb\u00e9m envolve cavita\u00e7\u00e3o na medula espinhal. Na hidromielia, a cavidade que se forma est\u00e1 conectada ao quarto ventr\u00edculo do c\u00e9rebro, e est\u00e1 quase sempre associada em lactentes e crian\u00e7as com hidrocefalia ou defeitos de nascimento como Malforma\u00e7\u00e3o de Chiari II e S\u00edndrome de Dandy-Walker. A siringomielia, no entanto, apresenta uma cavidade fechada e ocorre principalmente em adultos, a maioria dos quais tem Malforma\u00e7\u00e3o Chiari tipo 1 ou sofreu trauma medular. Sintomas, que podem ocorrer ao longo do tempo, incluem fraqueza das m\u00e3os e bra\u00e7os, rigidez nas pernas; e perda sensorial no pesco\u00e7o e bra\u00e7os. Alguns indiv\u00edduos t\u00eam dor severa no pesco\u00e7o e nos bra\u00e7os. O diagn\u00f3stico \u00e9 feito por resson\u00e2ncia magn\u00e9tica (IRM), que revela anormalidades na anatomia da medula espinhal."
+    },
+    {
+        "qid":"0000156-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Hidromielia?",
+        "answer":"Geralmente, os m\u00e9dicos recomendam cirurgia para crian\u00e7as com hidromielia se tiverem d\u00e9ficits neurol\u00f3gicos moderados ou graves. O tratamento cir\u00fargico restabelece o fluxo normal de fluido espinhal."
+    },
+    {
+        "qid":"0000156-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva da Hidromielia?",
+        "answer":"A cirurgia pode aliviar permanente ou temporariamente os sintomas, mas tamb\u00e9m pode causar uma s\u00e9rie de complica\u00e7\u00f5es graves. Em casos raros, a hidromielia pode resolver sozinha sem qualquer interven\u00e7\u00e3o m\u00e9dica."
+    },
+    {
+        "qid":"0000156-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Hidromielia?",
+        "answer":"O National Institute of Neurological Disorders and Stroke (NINDS) realiza pesquisas relacionadas \u00e0 hidromielia em suas cl\u00ednicas e laborat\u00f3rios nos Institutos Nacionais de Sa\u00fade (NIH) e apoia pesquisas adicionais atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es de pesquisa em todo o pa\u00eds. Grande parte desta pesquisa se concentra em encontrar melhores maneiras de prevenir, tratar e, em \u00faltima an\u00e1lise, curar anormalidades da medula espinhal, como a hidromielia."
+    }
+]

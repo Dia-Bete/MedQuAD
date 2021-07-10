@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0002930-1",
+        "qtype":"information",
+        "question":"O que est\u00e1 associado a mielopatia HTLV-1/paraparese esp\u00e1stica tropical?",
+        "answer":"A mielopatia associada ao HTLV-1/paraparesia esp\u00e1stica tropical (HAM/TSP) \u00e9 uma doen\u00e7a cr\u00f4nica e progressiva do sistema nervoso que afeta menos de 2% das pessoas com infec\u00e7\u00e3o pelo HTLV-1. Sinais e sintomas variam, mas podem incluir fraqueza progressiva, m\u00fasculos r\u00edgidos, espasmos musculares, dor nas costas, bexiga fraca e obstipa\u00e7\u00e3o. O v\u00edrus HTLV-1 pode ser transmitido de m\u00e3e para filho atrav\u00e9s do aleitamento materno ou do parto, de pessoa para pessoa atrav\u00e9s de contato sexual e de sangue, seja por transfus\u00e3o ou reuso de equipamentos de inje\u00e7\u00e3o. A infec\u00e7\u00e3o por HTLV n\u00e3o \u00e9 transmitida de pessoa para pessoa por tosse, espirros, beijos, abra\u00e7os ou contato social di\u00e1rio. A triagem de sangue doado para HTLV-1 foi feita nos Estados Unidos desde 1988."
+    },
+    {
+        "qid":"0002930-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da mielopatia HTLV-1 associada/paraparese esp\u00e1stica tropical?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da mielopatia HTLV-1 associada/paraparese esp\u00e1stica tropical? Sinais e sintomas da mielopatia associada ao HTLV-1/paraparesia esp\u00e1stica tropical (HAM/TSP) variam, mas podem incluir: Fraqueza progressiva M\u00fasculos r\u00edgidos Espasmos musculares Dor nas costas Uma constipa\u00e7\u00e3o bexiga \"fraca\" Raramente HAM/TSP pode causar: Uveite Artrite Inflama\u00e7\u00e3o do pulm\u00e3o Polimiosite Olhos secos (queratoconjuntivite sicca) Inflama\u00e7\u00e3o da pele (dermatite infecciosa)"
+    },
+    {
+        "qid":"0002930-3",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a mielopatia HTLV-1 associada/paraparese esp\u00e1stica tropical?",
+        "answer":"Como pode o HTLV-1 associado a mielopatia/paraparesia esp\u00e1stica tropical (HAM/TSP) ser tratado? N\u00e3o existe um programa de tratamento estabelecido para mielopatia HTLV-1 associada/paraparese esp\u00e1stica tropical (HAM/TSP). Corticosteroides podem aliviar alguns sintomas, mas n\u00e3o s\u00e3o suscept\u00edveis de mudar o curso do dist\u00farbio. Estudos cl\u00ednicos sugerem que o interfer\u00e3o alfa proporciona benef\u00edcios em curtos per\u00edodos e alguns aspectos da atividade da doen\u00e7a podem ser melhorados favoravelmente usando o interfer\u00e3o beta. Os m\u00fasculos r\u00edgidos e esp\u00e1sticos podem ser tratados com lioresal ou tizanidina. A disfun\u00e7\u00e3o urin\u00e1ria pode ser tratada com oxibutinina."
+    }
+]

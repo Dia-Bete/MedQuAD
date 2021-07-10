@@ -1,0 +1,68 @@
+[
+    {
+        "qid":"0000459-1",
+        "qtype":"important warning",
+        "question":"Que aviso ou informa\u00e7\u00e3o importante eu deveria saber sobre inje\u00e7\u00e3o de estrog\u00eanio?",
+        "answer":""
+    },
+    {
+        "qid":"0000459-2",
+        "qtype":"indication",
+        "question":"Quem deve receber inje\u00e7\u00e3o de estrog\u00eanio e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000459-3",
+        "qtype":"usage",
+        "question":"Como deve ser usada a inje\u00e7\u00e3o de estrog\u00eanio e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000459-5",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre inje\u00e7\u00e3o de estrog\u00eanio?",
+        "answer":""
+    },
+    {
+        "qid":"0000459-6",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com inje\u00e7\u00e3o de estrog\u00eanio?",
+        "answer":""
+    },
+    {
+        "qid":"0000459-7",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de inje\u00e7\u00e3o de estrog\u00eanio?",
+        "answer":""
+    },
+    {
+        "qid":"0000459-8",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da inje\u00e7\u00e3o de estrog\u00eanio?",
+        "answer":""
+    },
+    {
+        "qid":"0000459-9",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o de inje\u00e7\u00e3o de estrog\u00eanio?",
+        "answer":""
+    },
+    {
+        "qid":"0000459-10",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de inje\u00e7\u00e3o de estrog\u00eanio?",
+        "answer":""
+    },
+    {
+        "qid":"0000459-11",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o devo saber sobre inje\u00e7\u00e3o de estrog\u00eanio?",
+        "answer":""
+    },
+    {
+        "qid":"0000459-12",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca da Inje\u00e7\u00e3o de Estrog\u00eanio?",
+        "answer":""
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000153-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Hidranenc\u00e9falia?",
+        "answer":"Hidranenc\u00e9falia \u00e9 uma condi\u00e7\u00e3o rara em que os hemisf\u00e9rios cerebrais est\u00e3o ausentes e substitu\u00eddos por sacos cheios de l\u00edquido cerebral. Uma crian\u00e7a com hidroencefalia pode parecer normal ao nascer. O tamanho da cabe\u00e7a e reflexos espont\u00e2neos da crian\u00e7a, como sugar, engolir, chorar e mover bra\u00e7os e pernas, podem parecer normais. No entanto, ap\u00f3s algumas semanas, a crian\u00e7a geralmente se torna irritable e aumenta o t\u00f4nus muscular. Ap\u00f3s alguns meses de vida, convuls\u00f5es e hidrocefalia (ac\u00famulo excessivo de l\u00edquido cefalorraquidiano no c\u00e9rebro) podem se desenvolver. Outros sintomas podem incluir defici\u00eancia visual, falta de crescimento, surdez, cegueira, quadriparese espasm\u00e1tica (par\u00e1lisis) e d\u00e9ficits intelectuais. A hidranenc\u00e9falia \u00e9 considerada uma forma extrema de porencefalia (um dist\u00farbio raro caracterizado por um cisto ou cavidade nos hemisf\u00e9rios cerebrais) e pode ser causada por infec\u00e7\u00f5es vasculares ou dist\u00farbios traum\u00e1ticos ap\u00f3s a 12a semana de gravidez. Diagn\u00f3stico pode ser adiado por v\u00e1rios meses porque o comportamento precoce parece ser relativamente normal. Algumas crian\u00e7as podem ter anormalidades adicionais ao nascer, incluindo convuls\u00f5es, mioclono (espasmo ou contra\u00e7\u00f5es musculares ou grupo de m\u00fasculos) e problemas respirat\u00f3rios."
+    },
+    {
+        "qid":"0000153-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Hidranenc\u00e9falia?",
+        "answer":"N\u00e3o h\u00e1 tratamento definitivo para a hidroencefalia. O tratamento \u00e9 sintom\u00e1tico e de apoio. Hidrocefalia pode ser tratada com um shunt (um tubo implantado cirurgicamente que desvia fluido de uma via para outra)."
+    },
+    {
+        "qid":"0000153-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Hidranenc\u00e9falia?",
+        "answer":"As perspectivas para crian\u00e7as com hidranenc\u00e9falia s\u00e3o geralmente pobres, e muitas crian\u00e7as com este dist\u00farbio morrem antes dos 1 anos. No entanto, em casos raros, crian\u00e7as com hidranenc\u00e9falia podem sobreviver por v\u00e1rios anos ou mais."
+    },
+    {
+        "qid":"0000153-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a Hidranenc\u00e9falia?",
+        "answer":"O NINDS conduz e apoia uma ampla gama de estudos que exploram os complexos mecanismos do desenvolvimento cerebral normal. O conhecimento obtido com esses estudos fundamentais fornece a base para entender como este processo pode ir mal e, assim, oferece esperan\u00e7a de novos meios para tratar e prevenir dist\u00farbios cerebrais do desenvolvimento, incluindo a hidroencefalia."
+    }
+]

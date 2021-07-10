@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0000565-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar Griseofulvin e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000565-2",
+        "qtype":"usage",
+        "question":"Como Griseofulvin deve ser usado e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000565-3",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Griseofulvin?",
+        "answer":""
+    },
+    {
+        "qid":"0000565-4",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Griseofulvin?",
+        "answer":""
+    },
+    {
+        "qid":"0000565-5",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos de Griseofulvin?",
+        "answer":""
+    },
+    {
+        "qid":"0000565-6",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Griseofulvin?",
+        "answer":""
+    },
+    {
+        "qid":"0000565-7",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Griseofulvin?",
+        "answer":""
+    },
+    {
+        "qid":"0000565-8",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Griseofulvin?",
+        "answer":""
+    },
+    {
+        "qid":"0000565-9",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de griseofulvin?",
+        "answer":""
+    }
+]

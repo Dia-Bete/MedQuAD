@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000708-1",
+        "qtype":"information",
+        "question":"O que \u00e9 hipertrofia muscular relacionada \u00e0 miostatina?",
+        "answer":"A hipertrofia muscular relacionada \u00e0 miostatina \u00e9 uma condi\u00e7\u00e3o rara caracterizada por redu\u00e7\u00e3o da gordura corporal e aumento do tamanho muscular. Indiv\u00edduos afetados t\u00eam at\u00e9 o dobro da massa muscular habitual em seus corpos. Eles tamb\u00e9m tendem a ter for\u00e7a muscular aumentada. A hipertrofia muscular relacionada \u00e0 miostatina n\u00e3o \u00e9 conhecida por causar problemas m\u00e9dicos, e indiv\u00edduos afetados s\u00e3o intelectualmente normais."
+    },
+    {
+        "qid":"0000708-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela hipertrofia muscular relacionada \u00e0 miostatina?",
+        "answer":"A preval\u00eancia dessa condi\u00e7\u00e3o \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000708-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 hipertrofia muscular relacionada \u00e0 miostatina?",
+        "answer":"Muta\u00e7\u00f5es no gene MSTN causam hipertrofia muscular relacionada \u00e0 miostatina. O gene MSTN fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada miostatina, que \u00e9 ativa nos m\u00fasculos usados para o movimento (m\u00fasculos esquel\u00e9ticos) tanto antes como depois do nascimento. Esta prote\u00edna normalmente restringe o crescimento muscular, garantindo que os m\u00fasculos n\u00e3o cres\u00e7am muito grande. Muta\u00e7\u00f5es que reduzem a produ\u00e7\u00e3o de miostatina funcional levam a um crescimento excessivo de tecido muscular."
+    },
+    {
+        "qid":"0000708-4",
+        "qtype":"inheritance",
+        "question":"A hipertrofia muscular relacionada \u00e0 miostatina \u00e9 herdada?",
+        "answer":"A hipertrofia muscular relacionada \u00e0 miostatina tem um padr\u00e3o de heran\u00e7a conhecido como domin\u00e2ncia autoss\u00f4mica incompleta. Pessoas com uma muta\u00e7\u00e3o em ambas as c\u00f3pias do gene MSTN em cada c\u00e9lula (homozigotos) t\u00eam aumentado significativamente a massa muscular e a for\u00e7a. Pessoas com uma muta\u00e7\u00e3o em uma c\u00f3pia do gene MSTN em cada c\u00e9lula (heterozigotos) tamb\u00e9m t\u00eam aumentado a massa muscular, mas em menor grau."
+    },
+    {
+        "qid":"0000708-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para hipertrofia muscular relacionada \u00e0 miostatina?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da hipertrofia muscular relacionada \u00e0 miostatina: - Revis\u00e3o de genes: Revis\u00e3o de genes: Hipertrofia muscular relacionada \u00e0 miostatina - Registro de testes gen\u00e9ticos: Hipertrofia muscular relacionada \u00e0 miostatina Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

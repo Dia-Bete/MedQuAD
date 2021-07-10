@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000277-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dentinog\u00eanese imperfeita?",
+        "answer":"Dentinog\u00eanese imperfeita \u00e9 uma desordem do desenvolvimento dent\u00e1rio. Essa condi\u00e7\u00e3o faz com que os dentes sejam descolorados (mais frequentemente uma cor azul-cinza ou amarelo-marrom) e transl\u00facidos. Os dentes tamb\u00e9m s\u00e3o mais fracos do que o normal, tornando-os propensos ao desgaste r\u00e1pido, quebra e perda. Esses problemas podem afetar tanto os dentes prim\u00e1rios (beb\u00eas) como os permanentes. Pesquisadores descreveram tr\u00eas tipos de dentinog\u00eanese imperfeita com anormalidades dent\u00e1rias semelhantes. O tipo I ocorre em pessoas com osteog\u00eanese imperfeita, uma condi\u00e7\u00e3o gen\u00e9tica em que os ossos s\u00e3o quebradi\u00e7os e facilmente quebrados. Dentinog\u00eanese imperfeita tipo II e tipo III geralmente ocorre em pessoas sem outros dist\u00farbios herdados. Alguns indiv\u00edduos mais velhos com tipo II tiveram perda auditiva progressiva de alta frequ\u00eancia, al\u00e9m de anormalidades dent\u00e1rias, mas n\u00e3o se sabe se essa perda auditiva est\u00e1 relacionada \u00e0 dentinog\u00eanese imperfeita. Alguns pesquisadores acreditam que dentinog\u00eanese imperfecta tipo II e tipo III, juntamente com uma condi\u00e7\u00e3o chamada displasia dentina tipo II, s\u00e3o na verdade formas de um \u00fanico dist\u00farbio. Os sinais e sintomas da displasia dentina tipo II s\u00e3o muito semelhantes aos da dentinog\u00eanese imperfeita. No entanto, a displasia da dentina tipo II afeta os dentes prim\u00e1rios muito mais do que os permanentes."
+    },
+    {
+        "qid":"0000277-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela dentinog\u00eanese imperfeita?",
+        "answer":"Dentinog\u00eanese imperfeita afeta 1 em 6.000 a 8.000 pessoas."
+    },
+    {
+        "qid":"0000277-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 dentinog\u00eanese imperfeita?",
+        "answer":"Muta\u00e7\u00f5es no gene DSPP foram identificadas em pessoas com dentinog\u00eanese imperfeita tipo II e tipo III. Muta\u00e7\u00f5es neste gene tamb\u00e9m s\u00e3o respons\u00e1veis por displasia dentina tipo II. Dentinog\u00eanese imperfecta tipo I ocorre como parte da osteog\u00eanese imperfecta, que \u00e9 causada por muta\u00e7\u00f5es em um de v\u00e1rios outros genes (mais frequentemente os genes COL1A1 ou COL1A2). O gene DSPP fornece instru\u00e7\u00f5es para fazer duas prote\u00ednas que s\u00e3o essenciais para o desenvolvimento normal dos dentes. Estas prote\u00ednas est\u00e3o envolvidas na forma\u00e7\u00e3o da dentina, que \u00e9 uma subst\u00e2ncia semelhante ao osso que comp\u00f5e a camada m\u00e9dia protetora de cada dente. Muta\u00e7\u00f5es do gene DSPP alteram as prote\u00ednas feitas a partir do gene, levando \u00e0 produ\u00e7\u00e3o de dentina anormalmente suave. Dentes com dentina defeituosa s\u00e3o descolorados, fracos, e mais propensos a decair e quebrar. N\u00e3o est\u00e1 claro se muta\u00e7\u00f5es do gene DSPP est\u00e3o relacionadas \u00e0 perda auditiva encontrada em alguns indiv\u00edduos mais velhos com dentinog\u00eanese imperfecta tipo II."
+    },
+    {
+        "qid":"0000277-4",
+        "qtype":"inheritance",
+        "question":"A dentinog\u00eanese imperfeita \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Na maioria dos casos, uma pessoa afetada tem um pai com a condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000277-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para dentinog\u00eanese imperfeita?",
+        "answer":"Estes recursos abordam o diagn\u00f3stico ou manejo da dentinog\u00eanese imperfecta: - Registro de Testes Gen\u00e9ticos: Dentinog\u00eanese imperfecta - Tipo de Escudo II - Registro de Testes Gen\u00e9ticos: Dentinog\u00eanese imperfecta - Tipo de Escudo III - MedlinePlus Enciclop\u00e9dia: Dente - cores anormais Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

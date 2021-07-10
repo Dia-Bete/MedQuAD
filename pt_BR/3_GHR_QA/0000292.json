@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000292-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) neuropatia motora heredit\u00e1ria distal, tipo V?",
+        "answer":"neuropatia motora heredit\u00e1ria distal, tipo V \u00e9 um dist\u00farbio progressivo que afeta as c\u00e9lulas nervosas na medula espinhal. Isso resulta em fraqueza muscular e afeta o movimento das m\u00e3os e dos p\u00e9s. Sintomas de neuropatia motora heredit\u00e1ria distal, tipo V geralmente come\u00e7am durante a adolesc\u00eancia, mas o in\u00edcio varia desde a inf\u00e2ncia at\u00e9 a meia trinta. Cramps na m\u00e3o trazido pela exposi\u00e7\u00e3o a temperaturas frias s\u00e3o muitas vezes o sintoma inicial. As caracter\u00edsticas caracter\u00edsticas da neuropatia motora heredit\u00e1ria distal, tipo V s\u00e3o fraqueza e desperd\u00edcio (atrofia) dos m\u00fasculos da m\u00e3o, especificamente no lado do polegar do dedo \u00edndice e na palma da m\u00e3o na base do polegar. Anomalias nos p\u00e9s, como um arco alto (pes cavus), tamb\u00e9m s\u00e3o comuns, e alguns indiv\u00edduos afetados eventualmente desenvolvem problemas com a caminhada (dist\u00farbio da marcha). Pessoas com esse dist\u00farbio t\u00eam expectativas de vida normais."
+    },
+    {
+        "qid":"0000292-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por neuropatia motora heredit\u00e1ria distal, tipo V?",
+        "answer":"A incid\u00eancia de neuropatia motora heredit\u00e1ria distal, tipo V, \u00e9 desconhecida. Apenas um pequeno n\u00famero de casos foram relatados."
+    },
+    {
+        "qid":"0000292-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 neuropatia motora heredit\u00e1ria distal, tipo V?",
+        "answer":"Muta\u00e7\u00f5es nos genes BSCL2 e GARS causam neuropatia motora heredit\u00e1ria distal, tipo V. O gene BSCL2 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada seipina, cuja fun\u00e7\u00e3o \u00e9 desconhecida. Muta\u00e7\u00f5es no gene BSCL2 provavelmente alteram a estrutura da seipina, fazendo com que se dobre em uma forma tridimensional incorreta. Os achados de pesquisa indicam que prote\u00ednas de seipina mal dobradas se acumulam no ret\u00edculo endoplasm\u00e1tico, que \u00e9 uma estrutura dentro da c\u00e9lula que est\u00e1 envolvida no processamento e transporte de prote\u00ednas. Este ac\u00famulo provavelmente danifica e mata os neur\u00f4nios motores (c\u00e9lulas nervosas especializadas no c\u00e9rebro e medula espinhal que controlam o movimento muscular), levando \u00e0 fraqueza muscular nas m\u00e3os e p\u00e9s. O gene GARS fornece instru\u00e7\u00f5es para fazer uma enzima chamada glicil-tRNA sintetase, que est\u00e1 envolvida na produ\u00e7\u00e3o (s\u00edntese) de prote\u00ednas. N\u00e3o est\u00e1 claro como muta\u00e7\u00f5es do gene GARS levam a neuropatia motora heredit\u00e1ria distal, tipo V. As muta\u00e7\u00f5es provavelmente reduzem a atividade da glicilo-tRNA sintetase. Uma redu\u00e7\u00e3o na atividade desta enzima pode prejudicar a transmiss\u00e3o de impulsos nervosos. Como resultado, as c\u00e9lulas nervosas lentamente perdem a capacidade de se comunicar com os m\u00fasculos nas m\u00e3os e nos p\u00e9s. Muta\u00e7\u00f5es em outros genes tamb\u00e9m podem causar neuropatia motora heredit\u00e1ria distal, tipo V."
+    },
+    {
+        "qid":"0000292-4",
+        "qtype":"inheritance",
+        "question":"A neuropatia motora heredit\u00e1ria distal, tipo V, \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Algumas pessoas que t\u00eam o gene alterado nunca desenvolvem a condi\u00e7\u00e3o, uma situa\u00e7\u00e3o conhecida como redu\u00e7\u00e3o da penetra\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000292-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para neuropatia motora heredit\u00e1ria distal, tipo V?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da neuropatia motora heredit\u00e1ria distal, tipo V: - Gene Review: Gene Review: BSCL2-Related neurologic Disorders/Seipinopathy - Gene Review: Gene Review: GARS-Associated Axonal Neuropathy - Genetic Testing Registry: Distal hereditariad motor neuronopathy type 5 - Gene Testing Registry: Distal hereditariad motor neuronopathy type 5B - MedlinePlus Enciclopedia: High-Arched Foot Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

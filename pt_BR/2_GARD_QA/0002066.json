@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0002066-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Eisenmenger?",
+        "answer":"A s\u00edndrome de Eisenmenger \u00e9 uma rara condi\u00e7\u00e3o card\u00edaca progressiva causada por um erro estrutural no cora\u00e7\u00e3o, tipicamente um \"buraco no cora\u00e7\u00e3o\" (defeito septal ventricular) presente no nascimento (defeito card\u00edaco cong\u00eanito). Isso causa fluxo sangu\u00edneo anormal no cora\u00e7\u00e3o, resultando em alta press\u00e3o dentro da art\u00e9ria pulmonar, o principal vaso sangu\u00edneo que liga o cora\u00e7\u00e3o aos pulm\u00f5es (hipertens\u00e3o pulmonar)."
+    },
+    {
+        "qid":"0002066-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome de Eisenmenger?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da s\u00edndrome de Eisenmenger? Os sintomas de Eisenmenger incluem falta de ar, dor no peito, sensa\u00e7\u00e3o de cansa\u00e7o ou tontura, desmaio, ritmo card\u00edaco anormal (arritmia), acidente vascular cerebral, tosse sangu\u00ednea, incha\u00e7o das articula\u00e7\u00f5es do excesso de \u00e1cido \u00farico (gota) e, l\u00e1bios, dedos, dedos dos p\u00e9s e pele azulados (cianose). A s\u00edndrome de Eisenmenger geralmente se desenvolve antes de uma crian\u00e7a atingir a puberdade, mas tamb\u00e9m pode se desenvolver na idade adulta jovem."
+    },
+    {
+        "qid":"0002066-3",
+        "qtype":"causes",
+        "question":"O que causa a s\u00edndrome de Eisenmenger?",
+        "answer":"O que causa a s\u00edndrome de Eisenmenger? A s\u00edndrome de Eisenmenger \u00e9 causada por um defeito no cora\u00e7\u00e3o. A maioria das vezes, o defeito \u00e9 um chamado de defeito septal ventricular (VSD), um buraco entre as duas c\u00e2maras de bombeamento (os ventr\u00edculos esquerdo e direito) do cora\u00e7\u00e3o. Outros defeitos card\u00edacos que podem levar \u00e0 s\u00edndrome de Eisenmenger incluem defeito septal atrial (ASD) e ducto arterioso patente (PDA). O buraco permite que o sangue que j\u00e1 pegou o oxig\u00eanio dos pulm\u00f5es flua anormalmente de volta para os pulm\u00f5es, em vez de sair para o resto do corpo. Com o tempo, esse aumento do fluxo sangu\u00edneo pode danificar os pequenos vasos sangu\u00edneos nos pulm\u00f5es. Isso causa press\u00e3o arterial alta nos pulm\u00f5es. Como resultado, o sangue volta e n\u00e3o vai para os pulm\u00f5es para pegar oxig\u00eanio. Em vez disso, o sangue vai do lado direito para o lado esquerdo do cora\u00e7\u00e3o, e o sangue pobre em oxig\u00eanio viaja para o resto do corpo."
+    },
+    {
+        "qid":"0002066-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Eisenmenger?",
+        "answer":"Como a s\u00edndrome de Eisenmenger pode ser tratada? Crian\u00e7as mais velhas com sintomas da s\u00edndrome de Eisenmenger podem ter removido sangue do corpo (flebotomia) para reduzir o n\u00famero de gl\u00f3bulos vermelhos, e ent\u00e3o receber fluidos para substituir o sangue perdido (reposi\u00e7\u00e3o do volume). Crian\u00e7as podem receber oxig\u00eanio, embora n\u00e3o seja claro se ajuda a evitar que a doen\u00e7a piore. Crian\u00e7as com sintomas muito graves podem precisar de um transplante card\u00edaco-pulm\u00e3o. Pacientes adultos com s\u00edndrome de Eisenmenger devem ser vistos por um cardiologista especializado no cuidado de adultos com doen\u00e7a card\u00edaca cong\u00eanita."
+    }
+]

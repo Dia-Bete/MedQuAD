@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0000154-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o rea\u00e7\u00f5es al\u00e9rgicas?",
+        "answer":""
+    },
+    {
+        "qid":"0000154-2",
+        "qtype":"considerations",
+        "question":"O que fazer para as rea\u00e7\u00f5es al\u00e9rgicas?",
+        "answer":""
+    },
+    {
+        "qid":"0000154-3",
+        "qtype":"causes",
+        "question":"O que causa rea\u00e7\u00f5es al\u00e9rgicas?",
+        "answer":""
+    },
+    {
+        "qid":"0000154-4",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas de rea\u00e7\u00f5es al\u00e9rgicas?",
+        "answer":""
+    },
+    {
+        "qid":"0000154-5",
+        "qtype":"considerations",
+        "question":"O que fazer para as rea\u00e7\u00f5es al\u00e9rgicas?",
+        "answer":""
+    },
+    {
+        "qid":"0000154-6",
+        "qtype":"considerations",
+        "question":"O que fazer para as rea\u00e7\u00f5es al\u00e9rgicas?",
+        "answer":""
+    },
+    {
+        "qid":"0000154-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para rea\u00e7\u00f5es al\u00e9rgicas?",
+        "answer":""
+    },
+    {
+        "qid":"0000154-8",
+        "qtype":"prevention",
+        "question":"Como prevenir rea\u00e7\u00f5es al\u00e9rgicas?",
+        "answer":""
+    }
+]

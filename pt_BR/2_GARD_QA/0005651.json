@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0005651-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Sjogren?",
+        "answer":"A s\u00edndrome de Sjgren \u00e9 uma doen\u00e7a autoimune em que c\u00e9lulas imunes atacam e destruem as gl\u00e2ndulas que produzem l\u00e1grimas e saliva. A s\u00edndrome de Sjgren tamb\u00e9m est\u00e1 associada a dist\u00farbios reum\u00e1ticos como artrite reumatoide ou l\u00fapus eritematoso sist\u00eamico. Os sintomas distintivos do dist\u00farbio s\u00e3o boca seca e olhos secos. Al\u00e9m disso, a s\u00edndrome de Sjogren pode causar pele, nariz e sequeza vaginal, e pode afetar outros \u00f3rg\u00e3os do corpo, incluindo os rins, vasos sangu\u00edneos, pulm\u00f5es, f\u00edgado, p\u00e2ncreas e c\u00e9rebro. O tratamento \u00e9 sintom\u00e1tico e de suporte e pode incluir terapias de substitui\u00e7\u00e3o da umidade, anti-inflamat\u00f3rios n\u00e3o esteroides e, em casos graves, corticosteroides ou imunossupressores."
+    },
+    {
+        "qid":"0005651-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome de Sjogren?",
+        "answer":"            "
+    },
+    {
+        "qid":"0005651-3",
+        "qtype":"causes",
+        "question":"O que causa a s\u00edndrome de Sjogren?",
+        "answer":"O que causa a s\u00edndrome de Sjogren? S\u00edndrome de Sjogren provavelmente resulta de uma combina\u00e7\u00e3o de fatores gen\u00e9ticos e ambientais (multifatorial). V\u00e1rios genes diferentes parecem afetar o risco de desenvolver a condi\u00e7\u00e3o, entretanto, genes espec\u00edficos ainda n\u00e3o foram confirmados. Simplesmente ter um desses genes n\u00e3o faz com que uma pessoa desenvolva a doen\u00e7a; algum tipo de gatilho tamb\u00e9m \u00e9 necess\u00e1rio. Esse gatilho pode ser uma infec\u00e7\u00e3o viral ou bacteriana. As varia\u00e7\u00f5es gen\u00e9ticas que aumentam a suscetibilidade podem reduzir a capacidade do corpo para desligar a resposta imune quando ela n\u00e3o \u00e9 mais necess\u00e1ria. A possibilidade de que os sistemas end\u00f3crinos e nervosos possam desempenhar um papel na doen\u00e7a tamb\u00e9m est\u00e1 sob investiga\u00e7\u00e3o."
+    },
+    {
+        "qid":"0005651-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Sjogren \u00e9 herdada?",
+        "answer":"A s\u00edndrome de Sjogren \u00e9 herdada? Uma predisposi\u00e7\u00e3o gen\u00e9tica \u00e0 s\u00edndrome de Sjogren foi sugerida. A aglomera\u00e7\u00e3o familiar de diferentes doen\u00e7as autoimunes, bem como a associa\u00e7\u00e3o de m\u00faltiplas doen\u00e7as autoimunes em indiv\u00edduos tem sido frequentemente relatada. Alguns estudos mostraram que at\u00e9 30% das pessoas com s\u00edndrome de Sjogren t\u00eam parentes com doen\u00e7as autoimunes. Enquanto os parentes de pessoas com s\u00edndrome de Sjogren est\u00e3o em um risco aumentado de desenvolver doen\u00e7as autoimunes em geral, eles n\u00e3o s\u00e3o necessariamente mais propensos a desenvolver s\u00edndrome de Sjogren."
+    }
+]

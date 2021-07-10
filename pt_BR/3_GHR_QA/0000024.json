@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000024-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) doen\u00e7a do corpo de poliglucosano adulto?",
+        "answer":"A doen\u00e7a do corpo da poliglucosana adulta \u00e9 uma condi\u00e7\u00e3o que afeta o sistema nervoso. Pessoas com essa condi\u00e7\u00e3o t\u00eam problemas para caminhar devido \u00e0 sensa\u00e7\u00e3o reduzida nas pernas (neuropatia perif\u00e9rica) e fraqueza muscular progressiva e rigidez (espasticidade). Danos aos nervos que controlam a fun\u00e7\u00e3o da bexiga, uma condi\u00e7\u00e3o chamada bexiga neurog\u00eanica, causam aos indiv\u00edduos afetados dificuldade progressiva no controle do fluxo de urina. Cerca de metade das pessoas com doen\u00e7a do corpo de poliglucosano adulto sofrem um decl\u00ednio na fun\u00e7\u00e3o intelectual (dem\u00eancia). Pessoas com doen\u00e7a do corpo de poliglucosana adulta geralmente experimentam primeiro sinais e sintomas relacionados \u00e0 condi\u00e7\u00e3o entre os 30 e 60 anos."
+    },
+    {
+        "qid":"0000024-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela doen\u00e7a do corpo da poliglucosana adulta?",
+        "answer":"A doen\u00e7a corporal da poliglucosana adulta \u00e9 uma condi\u00e7\u00e3o rara; embora sua preval\u00eancia exata seja desconhecida, pelo menos 50 indiv\u00edduos afetados foram descritos na literatura m\u00e9dica."
+    },
+    {
+        "qid":"0000024-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 doen\u00e7a do corpo da poliglucosana adulta?",
+        "answer":"Muta\u00e7\u00f5es no gene GBE1 causam doen\u00e7a do corpo poliglucosano adulto. O gene GBE1 fornece instru\u00e7\u00f5es para fazer a enzima de ramifica\u00e7\u00e3o de glicog\u00eanio. Esta enzima est\u00e1 envolvida na produ\u00e7\u00e3o de um complexo a\u00e7\u00facar chamado glicog\u00eanio, que \u00e9 uma das principais fontes de energia armazenada no corpo. A maioria das muta\u00e7\u00f5es do gene GBE1 resultam em uma escassez (defici\u00eancia) da enzima ramificante de glicog\u00eanio, que leva \u00e0 produ\u00e7\u00e3o de mol\u00e9culas de glicog\u00eanio anormais. Estas mol\u00e9culas anormais de glicog\u00eanio, chamados corpos poliglucosanos, acumulam-se dentro das c\u00e9lulas e causam danos. C\u00e9lulas nervosas (neur\u00f5es) parecem ser particularmente vulner\u00e1veis ao ac\u00famulo de corpos poliglucosanos em pessoas com este dist\u00farbio, levando a uma fun\u00e7\u00e3o neuronal prejudicada. Algumas muta\u00e7\u00f5es no gene GBE1 que causam doen\u00e7a do corpo poliglucosano adulto n\u00e3o resultam em uma escassez de enzima ramificante de glicog\u00eanio. Em pessoas com essas muta\u00e7\u00f5es, a atividade desta enzima \u00e9 normal. Como as muta\u00e7\u00f5es causam a doen\u00e7a nesses indiv\u00edduos n\u00e3o est\u00e1 claro. Outras pessoas com doen\u00e7a do corpo poliglucosano adulto n\u00e3o t\u00eam muta\u00e7\u00f5es identificadas no gene GBE1. Nesses indiv\u00edduos, a causa da doen\u00e7a \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000024-4",
+        "qtype":"inheritance",
+        "question":"A doen\u00e7a do corpo da poliglucosana adulta \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000024-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a do corpo da poliglucosana adulta?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da doen\u00e7a corporal da poliglucosana adulta: - Gene Review: Gene Review: Doen\u00e7a Corporal da Poliglucosana adulta - Registro de Testes Gen\u00e9ticos: Doen\u00e7a Corporal da Poliglucosana, adulto - MedlinePlus Encyclopedia: Ves\u00edcula Neurog\u00eanica - MedlinePlus Encyclopedia: Spasticidade Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

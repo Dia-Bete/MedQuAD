@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0000016-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dor abdominal?",
+        "answer":""
+    },
+    {
+        "qid":"0000016-2",
+        "qtype":"considerations",
+        "question":"O que fazer pela dor abdominal?",
+        "answer":""
+    },
+    {
+        "qid":"0000016-3",
+        "qtype":"causes",
+        "question":"O que causa dor abdominal?",
+        "answer":""
+    },
+    {
+        "qid":"0000016-4",
+        "qtype":"considerations",
+        "question":"O que fazer pela dor abdominal?",
+        "answer":""
+    },
+    {
+        "qid":"0000016-5",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para dor abdominal?",
+        "answer":""
+    },
+    {
+        "qid":"0000016-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a dor abdominal?",
+        "answer":""
+    }
+]

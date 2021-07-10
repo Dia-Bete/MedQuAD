@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000854-1",
+        "qtype":"information",
+        "question":"O que \u00e9 bronquiolite obliterante que organiza pneumonia?",
+        "answer":"A bronquiolite obliterante que organiza pneumonia (BOOP) \u00e9 uma doen\u00e7a pulmonar que causa inflama\u00e7\u00e3o nos pequenos tubos de ar (bronquiolos) e sacos de ar (alveoli). O BOOP normalmente se desenvolve em indiv\u00edduos entre 40 e 60 anos, no entanto, o dist\u00farbio pode afetar indiv\u00edduos de qualquer idade. Os sinais e sintomas do BOOP variam, mas muitas vezes incluem falta de ar, tosse seca e febre. BOOP pode ser causada por infec\u00e7\u00f5es virais, v\u00e1rias drogas, e outras condi\u00e7\u00f5es m\u00e9dicas. Se a causa \u00e9 conhecida, a condi\u00e7\u00e3o \u00e9 chamada de BOOP secund\u00e1rio. Em muitos casos, a causa subjacente do BOOP \u00e9 desconhecida. Estes casos s\u00e3o chamados de BOOP idiop\u00e1tico ou pneumonia criptog\u00eanica organizadora. O tratamento muitas vezes inclui corticoster\u00f3ides."
+    },
+    {
+        "qid":"0000854-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da Bronchiolite Obliterante que organiza pneumonia?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da bronquiolite obliterante que organiza pneumonia? Sinais e sintomas de BOOP variam. Alguns indiv\u00edduos com BOOP podem n\u00e3o ter sintomas aparentes, enquanto outros podem ter sofrimento respirat\u00f3rio grave como em BOOP agudo, progressivo rapidamente. Os sinais e sintomas mais comuns de BOOP incluem falta de ar (dispneia), tosse seca e febre. Algumas pessoas com BOOP desenvolvem uma doen\u00e7a tipo gripe com tosse, febre, fadiga e perda de peso."
+    },
+    {
+        "qid":"0000854-3",
+        "qtype":"causes",
+        "question":"O que causa bronquiolite obliterante organizando pneumonia?",
+        "answer":"O que causa bronquiolite obliterante organizando pneumonia (BOOP)? BOOP pode ser causada por uma variedade de fatores, incluindo infec\u00e7\u00f5es virais, inala\u00e7\u00e3o de gases t\u00f3xicos, drogas, dist\u00farbios do tecido conjuntivo, radioterapia, coca\u00edna, doen\u00e7a inflamat\u00f3ria da tigela, e infec\u00e7\u00e3o pelo HIV. Em muitos casos, a causa subjacente do BOOP \u00e9 desconhecida. Estes casos s\u00e3o chamados de BOOP idiop\u00e1tico ou pneumonia organizadora criptog\u00eanica (COP)."
+    },
+    {
+        "qid":"0000854-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar bronquiolite obliterante organizando pneumonia?",
+        "answer":"Como \u00e9 diagnosticada a bronquiolite obliterante que organiza pneumonia? BOOP \u00e9 tipicamente diagnosticado por bi\u00f3psia pulmonar, embora exames de imagem e testes de fun\u00e7\u00e3o pulmonar tamb\u00e9m podem fornecer informa\u00e7\u00f5es para o diagn\u00f3stico."
+    },
+    {
+        "qid":"0000854-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Bronchiolite obliterantes que organizam pneumonia?",
+        "answer":"Como a bronquiolite obliterante que organiza pneumonia (BOOP) pode ser tratada? A maioria dos casos de BOOP responde bem ao tratamento com corticoster\u00f3ides. Se a doen\u00e7a \u00e9 causada por uma droga em particular, parar a droga tamb\u00e9m pode melhorar a condi\u00e7\u00e3o de um paciente. Outros medicamentos relatados na literatura m\u00e9dica para ser ben\u00e9ficos para indiv\u00edduos em uma base caso por caso incluem: ciclofosfamida, eritromicina na forma de azitromicina, e Micofenolato Mofetil (CellCept). Mais busca \u00e9 necess\u00e1ria para determinar a seguran\u00e7a a longo prazo e a efetividade dessas op\u00e7\u00f5es de tratamento para indiv\u00edduos com BOOP. Em casos raros, o transplante pulmonar pode ser necess\u00e1rio para indiv\u00edduos com BOOP que n\u00e3o respondem \u00e0s op\u00e7\u00f5es de tratamento padr\u00e3o."
+    }
+]

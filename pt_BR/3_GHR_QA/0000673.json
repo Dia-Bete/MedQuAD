@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000673-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Muckle-Wells?",
+        "answer":"A s\u00edndrome de Muckle-Wells \u00e9 uma doen\u00e7a caracterizada por epis\u00f3dios peri\u00f3dicos de erup\u00e7\u00e3o cut\u00e2nea, febre e dor nas articula\u00e7\u00f5es. Perda auditiva progressiva e dano renal tamb\u00e9m ocorrem neste dist\u00farbio. Pessoas com s\u00edndrome de Muckle-Wells t\u00eam \"flare-ups\" recorrentes que come\u00e7am durante a inf\u00e2ncia ou a inf\u00e2ncia. Esses epis\u00f3dios podem parecer surgir espontaneamente ou ser desencadeados pelo frio, calor, fadiga ou outros estresses. Indiv\u00edduos afetados normalmente desenvolvem uma erup\u00e7\u00e3o cut\u00e2nea n\u00e3o picante, febre leve a moderada, articula\u00e7\u00f5es dolorosas e inchadas, e em alguns casos vermelhid\u00e3o nos brancos dos olhos (conjuntivite). Perda auditiva causada por dano neurol\u00f3gico progressivo (sordez sensorineural) normalmente se torna evidente durante os anos de adolesc\u00eancia. Os dep\u00f3sitos anormais de uma prote\u00edna chamada amiloide (amiloidose) causam danos renais progressivos em cerca de um ter\u00e7o das pessoas com s\u00edndrome de Muckle-Wells; estes dep\u00f3sitos tamb\u00e9m podem danificar outros \u00f3rg\u00e3os. Al\u00e9m disso, les\u00f5es pigmentadas da pele podem ocorrer em indiv\u00edduos afetados."
+    },
+    {
+        "qid":"0000673-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Muckle-Wells?",
+        "answer":"A s\u00edndrome de Muckle-Wells \u00e9 uma doen\u00e7a rara. Tem sido relatado em muitas regi\u00f5es do mundo, mas sua preval\u00eancia \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000673-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Muckle-Wells?",
+        "answer":"Muta\u00e7\u00f5es no gene NLRP3 (tamb\u00e9m conhecido como CIAS1) causam s\u00edndrome de Muckle-Wells. O gene NLRP3 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada criopirina. A criopirina pertence a uma fam\u00edlia de prote\u00ednas chamadas dom\u00ednio de liga\u00e7\u00e3o a nucleot\u00eddeos e prote\u00ednas ricas em leucina contendo (NLR). Estas prote\u00ednas est\u00e3o envolvidas no sistema imunol\u00f3gico, ajudando a regular o processo de inflama\u00e7\u00e3o. A inflama\u00e7\u00e3o ocorre quando o sistema imunol\u00f3gico envia mol\u00e9culas de sinaliza\u00e7\u00e3o e gl\u00f3bulos brancos para um local de les\u00e3o ou doen\u00e7a para combater invasores microbianos e facilitar o reparo de tecidos. Quando isso foi feito, o corpo para (inibir) a resposta inflamat\u00f3ria para evitar danos em suas pr\u00f3prias c\u00e9lulas e tecidos. A criopirina est\u00e1 envolvida na montagem de um complexo molecular chamado inflamassoma, que ajuda a desencadear o processo inflamat\u00f3rio. Pesquisadores acreditam que muta\u00e7\u00f5es do gene NLRP3 que causam a s\u00edndrome de Muckle-Wells resultam em uma prote\u00edna de criopirina hiperativa e uma resposta inflamat\u00f3ria inadequada. A deteriora\u00e7\u00e3o dos mecanismos do corpo para controlar a inflama\u00e7\u00e3o resulta em epis\u00f3dios de febre e danos nas c\u00e9lulas e tecidos do corpo vistos na s\u00edndrome de Muckle-Wells."
+    },
+    {
+        "qid":"0000673-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Muckle-Wells \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 geralmente herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Em alguns casos, o padr\u00e3o de heran\u00e7a \u00e9 desconhecido."
+    },
+    {
+        "qid":"0000673-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Muckle-Wells?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Muckle-Wells: - Registro de Testes Gen\u00e9ticos: Nefropatia amiloide familiar com urtic\u00e1ria E surdez Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

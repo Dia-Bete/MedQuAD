@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000251-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de cri-du-chat?",
+        "answer":"A s\u00edndrome de Cri-du-chat, tamb\u00e9m conhecida como s\u00edndrome de 5p- (5p menos), \u00e9 uma condi\u00e7\u00e3o cromoss\u00f4mica que resulta quando falta um peda\u00e7o do cromossomo 5. Crian\u00e7as com esta condi\u00e7\u00e3o muitas vezes t\u00eam um grito alto que soa como o de um gato. O dist\u00farbio \u00e9 caracterizado por defici\u00eancia intelectual e atraso no desenvolvimento, pequeno tamanho da cabe\u00e7a (microcefalia), baixo peso ao nascer, e t\u00f4nus muscular fraco (hipot\u00f4nia) na inf\u00e2ncia. Indiv\u00edduos afetados tamb\u00e9m t\u00eam caracter\u00edsticas faciais distintas, incluindo olhos amplamente definidos (hipertelorismo), orelhas baixas, uma mand\u00edbula pequena, e um rosto arredondado. Algumas crian\u00e7as com s\u00edndrome de cri-du-chat nascem com um defeito card\u00edaco."
+    },
+    {
+        "qid":"0000251-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de cri-du-chat?",
+        "answer":"A s\u00edndrome de Cri-du-chat ocorre em 1 em cada 20.000 a 50.000 rec\u00e9m-nascidos. Esta condi\u00e7\u00e3o \u00e9 encontrada em pessoas de todas as origens \u00e9tnicas."
+    },
+    {
+        "qid":"0000251-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de cri-du-chat?",
+        "answer":"A s\u00edndrome de Cri-du-chat \u00e9 causada pela dele\u00e7\u00e3o do fim do bra\u00e7o curto (p) do cromossomo 5. Esta mudan\u00e7a cromoss\u00f4mica \u00e9 escrita como 5p-. O tamanho da dele\u00e7\u00e3o varia entre os indiv\u00edduos afetados; estudos sugerem que as dele\u00e7\u00f5es maiores tendem a resultar em defici\u00eancia intelectual mais grave e atraso no desenvolvimento do que as dele\u00e7\u00f5es menores. Os sinais e sintomas da s\u00edndrome de cri-du-chat provavelmente est\u00e3o relacionados com a perda de v\u00e1rios genes no bra\u00e7o curto do cromossomo 5. Pesquisadores acreditam que a perda de um gene espec\u00edfico, CTNND2, est\u00e1 associada a uma grave defici\u00eancia intelectual em algumas pessoas com essa condi\u00e7\u00e3o. Eles est\u00e3o trabalhando para determinar como a perda de outros genes nesta regi\u00e3o contribui para as caracter\u00edsticas caracter\u00edsticas da s\u00edndrome de cri-du-chat."
+    },
+    {
+        "qid":"0000251-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de cri-du-chat \u00e9 herdada?",
+        "answer":"A maioria dos casos de s\u00edndrome de cri-du-chat n\u00e3o s\u00e3o herdados. A dele\u00e7\u00e3o ocorre mais frequentemente como um evento aleat\u00f3rio durante a forma\u00e7\u00e3o de c\u00e9lulas reprodutivas (ovos ou espermatozoides) ou no desenvolvimento fetal precoce. As pessoas afetadas normalmente n\u00e3o t\u00eam hist\u00f3rico da desordem em sua fam\u00edlia. Cerca de 10% das pessoas com s\u00edndrome de cri-du-chat herdam a anormalidade cromoss\u00f4mica de um pai n\u00e3o afetado. Nesses casos, o pai carrega um rearranjo cromoss\u00f4mico chamado transloca\u00e7\u00e3o equilibrada, em que nenhum material gen\u00e9tico \u00e9 ganho ou perdido. As transloca\u00e7\u00f5es equilibradas geralmente n\u00e3o causam problemas de sa\u00fade; no entanto, podem ficar desequilibradas \u00e0 medida que s\u00e3o passadas para a pr\u00f3xima gera\u00e7\u00e3o. Crian\u00e7as que herdam uma transloca\u00e7\u00e3o desequilibrada podem ter um rearranjo cromoss\u00f4mico com material gen\u00e9tico extra ou faltando. Indiv\u00edduos com s\u00edndrome de cri-du-chat que herdam uma transloca\u00e7\u00e3o desequilibrada est\u00e3o faltando material gen\u00e9tico do bra\u00e7o curto do cromossomo 5, o que resulta na defici\u00eancia intelectual e problemas de sa\u00fade caracter\u00edsticos deste dist\u00farbio."
+    },
+    {
+        "qid":"0000251-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de cri-du-chat?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de cri-du-chat: - Cri du Chat Syndrome Support Group (UK): Diagn\u00f3stico - Cri du Chat Syndrome Support Group (UK): Therapies - Genetic Testing Registry: 5p Parcial Monosomy Syndrome - MedlinePlus Enciclopedia: Cri du Chat Syndrome Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmacoterapia - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

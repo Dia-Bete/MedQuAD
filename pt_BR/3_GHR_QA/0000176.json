@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000176-1",
+        "qtype":"information",
+        "question":"O que \u00e9 querubismo?",
+        "answer":"O querubismo \u00e9 uma desordem caracterizada por tecido \u00f3sseo anormal na parte inferior do rosto. Come\u00e7ando na inf\u00e2ncia, tanto a mand\u00edbula inferior (a mand\u00edbula) como a maxila superior (a maxila) se ampliam \u00e0 medida que o osso \u00e9 substitu\u00eddo por crescimentos indolores, semelhantes a cistos. Esses crescimentos d\u00e3o \u00e0s bochechas uma apar\u00eancia inchada e arredondada e muitas vezes interferem no desenvolvimento normal dos dentes. Em algumas pessoas a condi\u00e7\u00e3o \u00e9 t\u00e3o leve que pode n\u00e3o ser not\u00e1vel, enquanto outros casos s\u00e3o graves o suficiente para causar problemas com a vis\u00e3o, respira\u00e7\u00e3o, fala, e engolir. O aumento da mand\u00edbula geralmente continua durante a inf\u00e2ncia e se estabiliza durante a puberdade. Os crescimentos anormais s\u00e3o gradualmente substitu\u00eddos por ossos normais no in\u00edcio da idade adulta. Como resultado, muitos adultos afetados t\u00eam uma apar\u00eancia facial normal. A maioria das pessoas com querubins tem poucos, se algum, sinais e sintomas afetando outras partes do corpo. Raramente, no entanto, essa condi\u00e7\u00e3o ocorre como parte de outro dist\u00farbio gen\u00e9tico. Por exemplo, o querubismo pode ocorrer com a s\u00edndrome de Ramon, que tamb\u00e9m envolve estatura curta, defici\u00eancia intelectual, e crescimento excessivo das gengivas (fibrose gengival). Al\u00e9m disso, o querubismo tem sido relatado em casos raros de s\u00edndrome de Noonan (um dist\u00farbio do desenvolvimento caracterizado por caracter\u00edsticas faciais incomuns, estatura curta e defeitos card\u00edacos) e s\u00edndrome X fr\u00e1gil (uma condi\u00e7\u00e3o que afeta principalmente os homens que causa defici\u00eancias de aprendizagem e defici\u00eancia cognitiva)."
+    },
+    {
+        "qid":"0000176-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pelo querubismo?",
+        "answer":"A incid\u00eancia de querubismo \u00e9 desconhecida. Pelo menos 250 casos foram relatados em todo o mundo."
+    },
+    {
+        "qid":"0000176-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as mudan\u00e7as gen\u00e9ticas relacionadas ao querubismo?",
+        "answer":"Muta\u00e7\u00f5es no gene SH3BP2 foram identificadas em cerca de 80% das pessoas com querubins. Na maioria dos casos restantes, a causa gen\u00e9tica da doen\u00e7a \u00e9 desconhecida. O gene SH3BP2 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna cuja fun\u00e7\u00e3o exata n\u00e3o \u00e9 clara. A prote\u00edna desempenha um papel na transmiss\u00e3o de sinais qu\u00edmicos dentro das c\u00e9lulas, particularmente as c\u00e9lulas envolvidas na substitui\u00e7\u00e3o do tecido \u00f3sseo antigo com osso novo (remodelamento \u00f3sseo) e certas c\u00e9lulas do sistema imunol\u00f3gico. Muta\u00e7\u00f5es no gene SH3BP2 levam \u00e0 produ\u00e7\u00e3o de uma vers\u00e3o excessivamente ativa desta prote\u00edna. Os efeitos das muta\u00e7\u00f5es SH3BP2 ainda est\u00e3o em estudo, mas os pesquisadores acreditam que a prote\u00edna anormal interrompe as vias cr\u00edticas de sinaliza\u00e7\u00e3o nas c\u00e9lulas associadas \u00e0 manuten\u00e7\u00e3o do tecido \u00f3sseo e em algumas c\u00e9lulas do sistema imunol\u00f3gico. A prote\u00edna hiperativa provavelmente causa inflama\u00e7\u00e3o nos ossos da mand\u00edbula e desencadeia a produ\u00e7\u00e3o de osteoclastos, que s\u00e3o c\u00e9lulas que quebram o tecido \u00f3sseo durante a remodela\u00e7\u00e3o \u00f3ssea. Um excesso dessas c\u00e9lulas que comem ossos contribui para a destrui\u00e7\u00e3o do osso nas mand\u00edbulas superiores e inferiores. Uma combina\u00e7\u00e3o de perda \u00f3ssea e inflama\u00e7\u00e3o provavelmente subjace aos crescimentos tipo cisto caracter\u00edsticos do querubismo."
+    },
+    {
+        "qid":"0000176-4",
+        "qtype":"inheritance",
+        "question":"O querubismo \u00e9 herdado?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000176-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o querubismo?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo do querubimismo: - Gene Review: Gene Review: Cherubism - Gene Testing Registry: Fibrosa displasia da mand\u00edbula Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

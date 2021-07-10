@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0001603-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o p\u00e9s planos?",
+        "answer":""
+    },
+    {
+        "qid":"0001603-2",
+        "qtype":"causes",
+        "question":"O que causa os p\u00e9s planos?",
+        "answer":""
+    },
+    {
+        "qid":"0001603-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas dos p\u00e9s planos?",
+        "answer":""
+    },
+    {
+        "qid":"0001603-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar p\u00e9s planos?",
+        "answer":""
+    },
+    {
+        "qid":"0001603-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para p\u00e9s planos?",
+        "answer":""
+    },
+    {
+        "qid":"0001603-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva dos p\u00e9s planos?",
+        "answer":""
+    },
+    {
+        "qid":"0001603-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es dos p\u00e9s planos?",
+        "answer":""
+    },
+    {
+        "qid":"0001603-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para os p\u00e9s planos?",
+        "answer":""
+    },
+    {
+        "qid":"0001603-9",
+        "qtype":"prevention",
+        "question":"Como evitar p\u00e9s planos?",
+        "answer":""
+    }
+]

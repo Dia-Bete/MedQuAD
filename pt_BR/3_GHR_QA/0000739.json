@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000739-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Norrie?",
+        "answer":"A doen\u00e7a de Norrie \u00e9 uma doen\u00e7a ocular herdada que leva \u00e0 cegueira em beb\u00eas do sexo masculino ao nascer ou logo ap\u00f3s o nascimento. Causa desenvolvimento anormal da retina, a camada de c\u00e9lulas sensoriais que detectam luz e cor, com massas de c\u00e9lulas retin\u00e1rias imaturos acumulando na parte de tr\u00e1s do olho. Como resultado, as pupilas parecem brancas quando a luz brilha neles, um sinal chamado leucoc\u00f3ria. Os iris (por\u00e7\u00f5es coradas dos olhos) ou os globos oculares inteiros podem encolher e deteriorar-se durante os primeiros meses de vida, e cataratas (cloudez na lente do olho) podem eventualmente se desenvolver. Cerca de um ter\u00e7o dos indiv\u00edduos com doen\u00e7a de Norrie desenvolvem perda auditiva progressiva, e mais da metade experimenta atrasos no desenvolvimento nas habilidades motoras, como sentar-se e caminhar. Outros problemas podem incluir defici\u00eancia intelectual leve a moderada, muitas vezes com psicose, e anormalidades que podem afetar a circula\u00e7\u00e3o, respira\u00e7\u00e3o, digest\u00e3o, excre\u00e7\u00e3o ou reprodu\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000739-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela doen\u00e7a de Norrie?",
+        "answer":"A doen\u00e7a de Norrie \u00e9 uma doen\u00e7a rara, sua incid\u00eancia exata \u00e9 desconhecida. N\u00e3o est\u00e1 associado a nenhum grupo racial ou \u00e9tnico espec\u00edfico."
+    },
+    {
+        "qid":"0000739-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 doen\u00e7a de Norrie?",
+        "answer":"Muta\u00e7\u00f5es no gene NDP causam a doen\u00e7a de Norrie. O gene NDP fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada Norrin. Norrin participa da cascata de Wnt, uma sequ\u00eancia de passos que afetam a forma como c\u00e9lulas e tecidos se desenvolvem. Em particular, Norrin parece desempenhar um papel cr\u00edtico na especializa\u00e7\u00e3o das c\u00e9lulas da retina para suas capacidades sensoriais \u00fanicas. Ele tamb\u00e9m est\u00e1 envolvido no estabelecimento de um suprimento de sangue nos tecidos da retina e da orelha interna, e no desenvolvimento de outros sistemas corporais. Para iniciar a cascata de Wnt, norrin deve se ligar a outra prote\u00edna chamada frizzled-4. Muta\u00e7\u00f5es na prote\u00edna norrin interferem com sua capacidade de se ligar a frizzled-4, resultando em sinais e sintomas da doen\u00e7a de Norrie."
+    },
+    {
+        "qid":"0000739-4",
+        "qtype":"inheritance",
+        "question":"A doen\u00e7a de Norrie \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o recessivo ligado a X. Uma condi\u00e7\u00e3o \u00e9 considerada ligada a X se o gene mutado que causa a desordem est\u00e1 localizado no cromossomo X, um dos dois cromossomos sexuais. Em machos (que t\u00eam apenas um cromossomo X), uma c\u00f3pia alterada do gene em cada c\u00e9lula \u00e9 suficiente para causar a condi\u00e7\u00e3o. Em f\u00eameas (que t\u00eam dois cromossomos X), uma muta\u00e7\u00e3o deve estar presente em ambas as c\u00f3pias do gene para causar a desordem. Os homens s\u00e3o afetados por dist\u00farbios recessivos ligados a X muito mais freq\u00fcentemente que as f\u00eameas. Uma caracter\u00edstica da heran\u00e7a ligada a X \u00e9 que os pais n\u00e3o podem passar os tra\u00e7os ligados a X para seus filhos. Na heran\u00e7a recessiva ligada a X, uma f\u00eamea com uma c\u00f3pia alterada do gene em cada c\u00e9lula \u00e9 chamada de portadora. Ela pode transmitir o gene, mas geralmente n\u00e3o sente sinais e sintomas do dist\u00farbio. Em casos raros, no entanto, as f\u00eameas portadoras t\u00eam mostrado algumas anormalidades da retina ou leve perda auditiva associada \u00e0 doen\u00e7a de Norrie."
+    },
+    {
+        "qid":"0000739-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Norrie?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da doen\u00e7a de Norrie: - Gene Review: Gene Review: NDP-related Retinopathies - Genetic Testing Registry: Atrophia bulborum hereditaria Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

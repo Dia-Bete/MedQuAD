@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001512-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dor no rosto?",
+        "answer":""
+    },
+    {
+        "qid":"0001512-2",
+        "qtype":"causes",
+        "question":"O que causa dor no rosto?",
+        "answer":""
+    },
+    {
+        "qid":"0001512-3",
+        "qtype":"considerations",
+        "question":"O que fazer para a dor no rosto?",
+        "answer":""
+    },
+    {
+        "qid":"0001512-4",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para dor no rosto?",
+        "answer":""
+    },
+    {
+        "qid":"0001512-5",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a dor no rosto?",
+        "answer":""
+    }
+]

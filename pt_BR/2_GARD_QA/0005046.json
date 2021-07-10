@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0005046-1",
+        "qtype":"information",
+        "question":"O que \u00e9 melanoma gastrointestinal prim\u00e1rio?",
+        "answer":"Melanoma prim\u00e1rio do trato gastrointestinal (GI) refere-se a um melanoma come\u00e7ando no est\u00f4mago, intestinos, gl\u00e2ndulas salivares, boca, es\u00f4fago, f\u00edgado, p\u00e2ncreas, ves\u00edcula biliar, ou reto. Melanoma \u00e9 uma doen\u00e7a em que c\u00e9lulas malignas (cancerosas) se formam nos melan\u00f3citos. Melan\u00f3citos s\u00e3o comumente encontrados na pele e s\u00e3o as c\u00e9lulas que d\u00e3o a cor da pele. Embora n\u00e3o seja incomum que os melanomas comecem na pele e depois se espalhem para outras partes do corpo, os melanomas originados no trato gastrointestinal s\u00e3o raros. O local mais frequentemente relatado est\u00e1 no es\u00f4fago e anoreto."
+    },
+    {
+        "qid":"0005046-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do melanoma gastrointestinal prim\u00e1rio?",
+        "answer":"Quais s\u00e3o os sintomas do melanoma prim\u00e1rio do intestino delgado? Sintomas de melanoma prim\u00e1rio do intestino delgado podem variar de pessoa para pessoa. Sintomas tendem a ser inespec\u00edficos, incluindo n\u00e1useas, v\u00f3mitos, dor de est\u00f4mago, fadiga, hemorragia (vasos sangu\u00edneos quebrados) e anemia (baixo n\u00famero de gl\u00f3bulos vermelhos)."
+    },
+    {
+        "qid":"0005046-3",
+        "qtype":"causes",
+        "question":"O que causa melanoma gastrointestinal prim\u00e1rio?",
+        "answer":"O que causa melanoma prim\u00e1rio do intestino delgado? A causa do melanoma prim\u00e1rio do intestino delgado \u00e9 atualmente desconhecida. Teorias incluem que o c\u00e2ncer se originou de um tumor prim\u00e1rio indetect\u00e1vel que espontaneamente (naturalmente) regrediu por conta pr\u00f3pria; que o c\u00e2ncer se originou de um tumor prim\u00e1rio que \u00e9 t\u00e3o pequeno que n\u00e3o pode ser detectado usando investiga\u00e7\u00f5es cl\u00ednicas e laboratoriais padr\u00e3o; por \u00faltimo, porque melan\u00f3citos n\u00e3o s\u00e3o normalmente encontrados no est\u00f4mago, uma teoria final \u00e9 que os melan\u00f3citos est\u00e3o no est\u00f4mago porque c\u00e9lulas melan\u00f3citos precoces perderam seu caminho durante o desenvolvimento do beb\u00ea no \u00fatero, e que essas c\u00e9lulas perdidas mais tarde se tornaram cancerosas."
+    },
+    {
+        "qid":"0005046-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar o melanoma gastrointestinal prim\u00e1rio?",
+        "answer":"Como pode o melanoma prim\u00e1rio do intestino delgado ser diagnosticado? Uma variedade de testes podem estar envolvidos no diagn\u00f3stico inicial do tumor, incluindo radiografia de contraste, endoscopia e tomografia. O tumor \u00e9 confirmado por ressec\u00e7\u00e3o cir\u00fargica. Estudo cuidadoso de amostras de tecido do tumor sob um microsc\u00f3pio mostrar\u00e1 as mesmas caracter\u00edsticas imuno-histoqu\u00edmicas dos melanomas cut\u00e2neos. Uma vez estabelecido isso, s\u00e3o propostos os seguintes crit\u00e9rios diagn\u00f3sticos para o melanoma prim\u00e1rio do intestino delgado: 1. A aus\u00eancia de um melanoma pr\u00e9vio ou ressecado sincronicamente ou les\u00e3o melanoc\u00edtica at\u00edpica da pele. 2. A aus\u00eancia de dissemina\u00e7\u00e3o metast\u00e1tica para outros \u00f3rg\u00e3os. 3. A presen\u00e7a de les\u00f5es intramucosas da mucosa intestinal superior ou adjacente."
+    },
+    {
+        "qid":"0005046-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o melanoma gastrointestinal prim\u00e1rio?",
+        "answer":"Como o melanoma prim\u00e1rio do intestino delgado pode ser tratado? O tratamento do melanoma prim\u00e1rio do intestino delgado muitas vezes envolve a ressec\u00e7\u00e3o cir\u00fargica do tumor. Encorajamos voc\u00ea a falar com seu m\u00e9dico para saber mais sobre suas op\u00e7\u00f5es cir\u00fargicas e outras op\u00e7\u00f5es de tratamento."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000006-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Dist\u00farbio de Hiperatividade de Deficit de Aten\u00e7\u00e3o?",
+        "answer":"Dist\u00farbio de d\u00e9ficit-hiperatividade da aten\u00e7\u00e3o (ADHD) \u00e9 um dist\u00farbio neurocomportamental que afeta 3-5 por cento de todas as crian\u00e7as americanas. Interfere com a habilidade de uma pessoa de permanecer em uma tarefa e de exercer a inibi\u00e7\u00e3o adequada \u00e0 idade (cognitiva sozinho ou ambos cognitivos e comportamentais). Alguns dos sinais de alerta do TDAH incluem falhas em ouvir instru\u00e7\u00f5es, incapacidade de se organizar e trabalhar na escola, agitar-se com m\u00e3os e p\u00e9s, falar demais, deixar projetos, tarefas e dever de casa inacabados, e ter problemas para prestar aten\u00e7\u00e3o e responder aos detalhes. H\u00e1 v\u00e1rios tipos de TDAH: um subtipo predominantemente desatento, um subtipo predominantemente hiperativo-impulsivo e um subtipo combinado. O TDAH \u00e9 geralmente diagnosticado na inf\u00e2ncia, embora a condi\u00e7\u00e3o possa continuar nos anos adultos."
+    },
+    {
+        "qid":"0000006-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o Dist\u00farbio de Hiperatividade de Deficit de Aten\u00e7\u00e3o?",
+        "answer":"O curso habitual do tratamento pode incluir medicamentos como metilfenidato (Ritalina) ou dextroamfetamina (Dexedrina), que s\u00e3o estimulantes que diminuem a impulsividade e hiperatividade e aumentam a aten\u00e7\u00e3o. A maioria dos especialistas concorda que o tratamento para TDAH deve abordar m\u00faltiplos aspectos do funcionamento do indiv\u00edduo e n\u00e3o deve ser limitado ao uso de medicamentos sozinho. O tratamento deve incluir gerenciamento estruturado da sala de aula, educa\u00e7\u00e3o dos pais (para abordar disciplina e limita\u00e7\u00e3o), e tutoria e/ou terapia comportamental para a crian\u00e7a."
+    },
+    {
+        "qid":"0000006-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o dist\u00farbio de Hiperatividade de Deficit de Aten\u00e7\u00e3o?",
+        "answer":"N\u00e3o h\u00e1 \"cura\" para TDAH. Crian\u00e7as com o dist\u00farbio raramente o superam; no entanto, alguns podem encontrar maneiras adaptativas de acomodar o TDAH \u00e0 medida que amadurecem."
+    },
+    {
+        "qid":"0000006-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para o dist\u00farbio de d\u00e9ficit de aten\u00e7\u00e3o-hiperatividade?",
+        "answer":"V\u00e1rios componentes da NIH apoiam pesquisas sobre dist\u00farbios do desenvolvimento, como TDAH. Programas de pesquisa do NINDS, do Instituto Nacional de Sa\u00fade Mental (NIMH) e do Instituto Nacional de Sa\u00fade Infantil e Desenvolvimento Humano (NICHD) procuram abordar quest\u00f5es sem resposta sobre as causas do TDAH, bem como melhorar o diagn\u00f3stico e o tratamento."
+    }
+]

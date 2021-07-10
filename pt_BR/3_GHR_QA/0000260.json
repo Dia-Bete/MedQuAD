@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000260-1",
+        "qtype":"information",
+        "question":"O que \u00e9 neutropenia c\u00edclica?",
+        "answer":"A neutropenia c\u00edclica \u00e9 um dist\u00farbio que causa infec\u00e7\u00f5es frequentes e outros problemas de sa\u00fade em indiv\u00edduos afetados. Pessoas com esta condi\u00e7\u00e3o t\u00eam epis\u00f3dios recorrentes de neutropenia durante o qual h\u00e1 uma escassez (defici\u00eancia) de neutr\u00f3filos. Neutr\u00f3filos s\u00e3o um tipo de gl\u00f3bulo branco que desempenha um papel na inflama\u00e7\u00e3o e na luta contra infec\u00e7\u00f5es. Os epis\u00f3dios de neutropenia s\u00e3o aparentes ao nascer ou logo depois. Para os indiv\u00edduos mais afetados, a neutropenia recorre a cada 21 dias e dura cerca de 3 a 5 dias. A neutropenia torna mais dif\u00edcil para o corpo combater pat\u00f3genos como bact\u00e9rias e v\u00edrus, ent\u00e3o pessoas com neutropenia c\u00edclica normalmente desenvolvem infec\u00e7\u00f5es recorrentes dos seios, do trato respirat\u00f3rio e da pele. Al\u00e9m disso, pessoas com esta condi\u00e7\u00e3o muitas vezes desenvolvem feridas abertas (ulceras) na boca e no c\u00f3lon, inflama\u00e7\u00e3o da garganta (faringite) e gengivas (gingivite), febre recorrente, ou dor abdominal. Pessoas com neutropenia c\u00edclica t\u00eam esses problemas de sa\u00fade apenas durante epis\u00f3dios de neutropenia. \u00c0s vezes, quando seus n\u00edveis de neutr\u00f3filos s\u00e3o normais, eles n\u00e3o est\u00e3o em um risco aumentado de infec\u00e7\u00e3o e inflama\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000260-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela neutropenia c\u00edclica?",
+        "answer":"A neutropenia c\u00edclica \u00e9 uma condi\u00e7\u00e3o rara e \u00e9 estimada em 1 em 1 milh\u00e3o de indiv\u00edduos em todo o mundo."
+    },
+    {
+        "qid":"0000260-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 neutropenia c\u00edclica?",
+        "answer":"Muta\u00e7\u00f5es no gene Elane causam neutropenia c\u00edclica. O gene ELANE fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada neutr\u00f3filo elastase, que \u00e9 encontrada em neutr\u00f3filos. Quando o corpo come\u00e7a uma resposta imune para combater uma infec\u00e7\u00e3o, neutr\u00f3filos liberam neutr\u00f3filos elastase. Essa prote\u00edna ent\u00e3o modifica a fun\u00e7\u00e3o de certas c\u00e9lulas e prote\u00ednas para ajudar a combater a infec\u00e7\u00e3o. Muta\u00e7\u00f5es do gene ELANE que causam neutropenia c\u00edclica levam a uma prote\u00edna neutr\u00f3fila elastase anormal que parece manter alguma de sua fun\u00e7\u00e3o. No entanto, os neutr\u00f3filos que produzem prote\u00ednas anormais de elastase de neutr\u00f3filos parecem ter uma vida \u00fatil mais curta do que os neutr\u00f3filos normais. A menor dura\u00e7\u00e3o de vida dos neutr\u00f3filos \u00e9 considerada respons\u00e1vel pela natureza c\u00edclica desta condi\u00e7\u00e3o. Quando os neutr\u00f3filos afetados morrem cedo, h\u00e1 um per\u00edodo em que h\u00e1 uma escassez de neutr\u00f3filos porque leva tempo para o corpo reabastecer seu suprimento."
+    },
+    {
+        "qid":"0000260-4",
+        "qtype":"inheritance",
+        "question":"A neutropenia c\u00edclica \u00e9 herdada?",
+        "answer":"A neutropenia c\u00edclica \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Na maioria dos casos, uma pessoa afetada herda a muta\u00e7\u00e3o de um pai afetado. Outros casos resultam de novas muta\u00e7\u00f5es no gene e ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia."
+    },
+    {
+        "qid":"0000260-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para neutropenia c\u00edclica?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da neutropenia c\u00edclica: - Gene Review: Gene Review: ELANE-Related Neutropenia - Genetic Testing Registry: Cyclical Neutropenia - Seattle Children's Hospital Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000961-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) morte s\u00fabita do beb\u00ea com disgenesia da s\u00edndrome dos test\u00edculos?",
+        "answer":"A morte s\u00fabita do beb\u00ea com disgenesia da s\u00edndrome dos test\u00edculos (SIDDT) \u00e9 uma condi\u00e7\u00e3o rara que \u00e9 fatal no primeiro ano de vida; suas principais caracter\u00edsticas incluem anormalidades do sistema reprodutivo em homens, dificuldades de alimenta\u00e7\u00e3o e problemas respirat\u00f3rios. Crian\u00e7as com SIDDT geneticamente machos, com um cromossomo X e um cromossomo Y em cada c\u00e9lula, t\u00eam test\u00edculos subdesenvolvidos ou anormais. Eles tamb\u00e9m podem ter genit\u00e1lia externa que parecem f\u00eameas ou que n\u00e3o parecem claramente masculinos ou claramente f\u00eameas (genit\u00e1lias ambiguas). Em lactentes afetados que s\u00e3o geneticamente f\u00eameas, com dois cromossomos X em cada c\u00e9lula, o desenvolvimento dos \u00f3rg\u00e3os reprodutivos internos e externos \u00e9 normal. O SIDDT est\u00e1 associado ao desenvolvimento anormal do c\u00e9rebro, particularmente o tronco encef\u00e1lico, que \u00e9 a parte do c\u00e9rebro que est\u00e1 conectada \u00e0 medula espinhal. O tronco encef\u00e1lico regula muitas fun\u00e7\u00f5es b\u00e1sicas do corpo, incluindo frequ\u00eancia card\u00edaca, respira\u00e7\u00e3o, comer e dormir. Tamb\u00e9m transmite informa\u00e7\u00f5es sobre o movimento e os sentidos entre o c\u00e9rebro e o resto do corpo. Muitos aspectos do SIDDT parecem estar relacionados a avaria do tronco encef\u00e1lico, incluindo frequ\u00eancia card\u00edaca lenta ou irregular, padr\u00f5es respirat\u00f3rios anormais, dificuldade em controlar a temperatura corporal, movimentos incomuns da l\u00edngua e dos olhos, reflexos anormais, convuls\u00f5es e dificuldades de alimenta\u00e7\u00e3o. Crian\u00e7as afetadas tamb\u00e9m t\u00eam um choro incomum que tem sido descrito como semelhante ao bleting de uma cabra, o que provavelmente \u00e9 resultado de conex\u00f5es nervosas anormais entre o c\u00e9rebro e a caixa de voz (larynx). As anormalidades do tronco encef\u00e1lico levam \u00e0 morte no primeiro ano de vida, quando crian\u00e7as afetadas de repente param de respirar ou seu cora\u00e7\u00e3o para de bater (parada cardiorespirat\u00f3ria)."
+    },
+    {
+        "qid":"0000961-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela morte s\u00fabita do beb\u00ea com disgenesia da s\u00edndrome dos test\u00edculos?",
+        "answer":"O SIDDT foi diagnosticado em mais de 20 crian\u00e7as de uma \u00fanica comunidade Amish da Old Order na Pensilv\u00e2nia. A condi\u00e7\u00e3o n\u00e3o foi relatada fora desta comunidade."
+    },
+    {
+        "qid":"0000961-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 morte s\u00fabita do beb\u00ea com disgenesia da s\u00edndrome dos test\u00edculos?",
+        "answer":"Uma \u00fanica muta\u00e7\u00e3o no gene TSPYL1 causou todos os casos identificados de SIDDT. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada TSPY-like 1, cuja fun\u00e7\u00e3o \u00e9 desconhecida. Com base em seu papel no SIDDT, pesquisadores prop\u00f5em que TSPY-como 1 est\u00e1 envolvido no desenvolvimento do sistema reprodutivo masculino e do c\u00e9rebro. A muta\u00e7\u00e3o do gene TSPYL1 que causa SIDDT elimina a fun\u00e7\u00e3o de TSPY-como 1. A perda da fun\u00e7\u00e3o desta prote\u00edna parece causar as principais caracter\u00edsticas do dist\u00farbio interrompendo o desenvolvimento normal do sistema reprodutivo masculino e do c\u00e9rebro, particularmente o tronco encef\u00e1lico. Os achados de pesquisa sugerem que muta\u00e7\u00f5es no gene TSPYL1 n\u00e3o est\u00e3o associadas \u00e0 s\u00edndrome de morte s\u00fabita infantil (SIDS) na popula\u00e7\u00e3o geral. O SIDS \u00e9 uma grande causa de morte em crian\u00e7as menores de 1 ano."
+    },
+    {
+        "qid":"0000961-4",
+        "qtype":"inheritance",
+        "question":"A morte s\u00fabita do beb\u00ea com disgenesia da s\u00edndrome dos test\u00edculos \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000961-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a morte s\u00fabita do beb\u00ea com disgenesia da s\u00edndrome dos test\u00edculos?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo do SIDDT: - Cl\u00ednica para Crian\u00e7as Especiais (Strasburgo, Pensilv\u00e2nia) - Registro de Testes Gen\u00e9ticos: Morte s\u00fabita de crian\u00e7as com disgenesia da s\u00edndrome dos test\u00edculos Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

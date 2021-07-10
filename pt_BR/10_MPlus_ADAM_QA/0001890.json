@@ -1,0 +1,44 @@
+[
+    {
+        "qid":"0001890-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o emerg\u00eancias de calor?",
+        "answer":""
+    },
+    {
+        "qid":"0001890-2",
+        "qtype":"causes",
+        "question":"O que causa emerg\u00eancias de calor?",
+        "answer":""
+    },
+    {
+        "qid":"0001890-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas das emerg\u00eancias de calor?",
+        "answer":""
+    },
+    {
+        "qid":"0001890-4",
+        "qtype":"considerations",
+        "question":"O que fazer para emerg\u00eancias de calor?",
+        "answer":""
+    },
+    {
+        "qid":"0001890-5",
+        "qtype":"considerations",
+        "question":"O que fazer para emerg\u00eancias de calor?",
+        "answer":""
+    },
+    {
+        "qid":"0001890-6",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para emerg\u00eancias de calor?",
+        "answer":""
+    },
+    {
+        "qid":"0001890-7",
+        "qtype":"prevention",
+        "question":"Como prevenir emerg\u00eancias de calor?",
+        "answer":""
+    }
+]

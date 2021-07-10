@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0001620-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) foliculite?",
+        "answer":""
+    },
+    {
+        "qid":"0001620-2",
+        "qtype":"causes",
+        "question":"O que causa a Folliculite?",
+        "answer":""
+    },
+    {
+        "qid":"0001620-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da Folliculite?",
+        "answer":""
+    },
+    {
+        "qid":"0001620-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a policulite?",
+        "answer":""
+    },
+    {
+        "qid":"0001620-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Folliculite?",
+        "answer":""
+    },
+    {
+        "qid":"0001620-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Folliculite?",
+        "answer":""
+    },
+    {
+        "qid":"0001620-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da Folliculite?",
+        "answer":""
+    },
+    {
+        "qid":"0001620-9",
+        "qtype":"prevention",
+        "question":"Como prevenir a policulite?",
+        "answer":""
+    }
+]

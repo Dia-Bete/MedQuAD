@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000487-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) paralisia visual horizontal com escoliose progressiva?",
+        "answer":"Paralisia visual horizontal com escoliose progressiva (HGPPS) \u00e9 um dist\u00farbio que afeta a vis\u00e3o e tamb\u00e9m causa uma curvatura anormal da coluna (escoliose). Pessoas com esta condi\u00e7\u00e3o s\u00e3o incapazes de mover seus olhos lado a lado (horizontal). Como resultado, os indiv\u00edduos afetados devem virar a cabe\u00e7a em vez de mover os olhos para rastrear objetos em movimento. Os movimentos oculares de cima e baixo (verticais) s\u00e3o normalmente normais. Em pessoas com HGPPS, uma curvatura lateral anormal da coluna se desenvolve na inf\u00e2ncia ou na inf\u00e2ncia. Ela tende a ser moderada a grave e piora ao longo do tempo. Como a posi\u00e7\u00e3o anormal da coluna pode ser dolorosa e interferir no movimento, \u00e9 frequentemente tratada com cirurgia no in\u00edcio da vida."
+    },
+    {
+        "qid":"0000487-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela paralisia do olhar horizontal com escoliose progressiva?",
+        "answer":"HGPPS foi relatado em v\u00e1rias d\u00fazias de fam\u00edlias em todo o mundo."
+    },
+    {
+        "qid":"0000487-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 paralisia horizontal do olhar com escoliose progressiva?",
+        "answer":"O HGPPS \u00e9 causado por muta\u00e7\u00f5es no gene ROBO3. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que \u00e9 importante para o desenvolvimento normal de certas vias nervosas no c\u00e9rebro. Estes incluem vias nervosas motoras, que transmitem informa\u00e7\u00f5es sobre movimento muscular volunt\u00e1rio, e vias nervosas sensoriais, que transmitem informa\u00e7\u00f5es sobre entrada sensorial (como toque, dor e temperatura). Para que o c\u00e9rebro e o corpo se comuniquem eficazmente, essas vias nervosas devem atravessar de um lado do corpo para o outro no tronco encef\u00e1lico, uma regi\u00e3o que conecta as partes superiores do c\u00e9rebro com a medula espinhal. A prote\u00edna ROBO3 desempenha um papel cr\u00edtico na garantia de que as vias nervosas motoras e sensoriais atravessem o tronco encef\u00e1lico. Em pessoas com HGPPS, esses caminhos n\u00e3o cruzam, mas ficam do mesmo lado do corpo. Os pesquisadores acreditam que esse erro no tronco encef\u00e1lico \u00e9 a causa subjacente das anormalidades do movimento ocular associadas ao dist\u00farbio. A causa da escoliose progressiva no HGPPS n\u00e3o est\u00e1 clara. Pesquisadores est\u00e3o trabalhando para determinar por que os efeitos das muta\u00e7\u00f5es ROBO3 parecem estar limitados ao movimento horizontal dos olhos e escoliose."
+    },
+    {
+        "qid":"0000487-4",
+        "qtype":"inheritance",
+        "question":"A paralisia do olhar horizontal com a escoliose progressiva \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000487-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para paralisia horizontal do olhar com escoliose progressiva?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou gerenciamento de HGPPS: - Registro de Testes Gen\u00e9ticos: Paralisia do olhar, horizontal familiar, com escoliose progressiva Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e gerenciamento de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

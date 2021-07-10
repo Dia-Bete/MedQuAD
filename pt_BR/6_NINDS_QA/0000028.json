@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000028-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a aracnoidite?",
+        "answer":"A aracnoidite descreve um dist\u00farbio de dor causado pela inflama\u00e7\u00e3o do aracnoide, uma das membranas que rodeiam e protegem os nervos da medula espinhal. O aracnoide pode ficar inflamado devido a uma irrita\u00e7\u00e3o de produtos qu\u00edmicos, infec\u00e7\u00e3o de bact\u00e9rias ou v\u00edrus, como resultado de les\u00e3o direta na coluna, compress\u00e3o cr\u00f4nica dos nervos espinhal, ou complica\u00e7\u00f5es de cirurgia espinhal ou outros procedimentos espinhal invasivos. A inflama\u00e7\u00e3o \u00e0s vezes pode levar \u00e0 forma\u00e7\u00e3o de tecido cicatricial e ader\u00eancias, o que faz com que os nervos espinhales se mantenham unidos. Se a aracnoidite come\u00e7ar a interferir com a fun\u00e7\u00e3o de um ou mais desses nervos, pode causar uma s\u00e9rie de sintomas, incluindo dorm\u00eancia, formigueiro, e uma caracter\u00edstica queimadura e dor na parte inferior das costas ou pernas. Algumas pessoas com aracnoidite ter\u00e3o c\u00e3ibras musculares debilitantes, contra\u00e7\u00f5es ou espasmos. Tamb\u00e9m pode afetar a bexiga, o intestino e a fun\u00e7\u00e3o sexual. Em casos graves, a aracnoidite pode causar paralisia dos membros inferiores."
+    },
+    {
+        "qid":"0000028-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Aracnoidite?",
+        "answer":"A aracnoidite continua sendo uma condi\u00e7\u00e3o dif\u00edcil de tratar, e resultados a longo prazo s\u00e3o imprevis\u00edveis. A maioria dos tratamentos para aracnoidite est\u00e3o focados no al\u00edvio da dor e na melhoria dos sintomas que prejudicam a fun\u00e7\u00e3o di\u00e1ria. Um regime de controle da dor, fisioterafia, exerc\u00edcio e psicoterafia \u00e9 frequentemente recomendado. A interven\u00e7\u00e3o cir\u00fargica \u00e9 controversa, pois os resultados s\u00e3o geralmente pobres e proporcionam apenas al\u00edvio a curto prazo."
+    },
+    {
+        "qid":"0000028-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Aracnoidite?",
+        "answer":"A aracnoidite \u00e9 uma perturba\u00e7\u00e3o que causa dor cr\u00f4nica e d\u00e9ficits neurol\u00f3gicos e n\u00e3o melhora significativamente com o tratamento.A cirurgia s\u00f3 pode proporcionar al\u00edvio tempor\u00e1rio. A perspectiva de algu\u00e9m com arachnoidite \u00e9 complicada pelo fato de que o dist\u00farbio n\u00e3o tem padr\u00e3o previs\u00edvel ou gravidade dos sintomas."
+    },
+    {
+        "qid":"0000028-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a aracnoidite?",
+        "answer":"Dentro dos programas de pesquisa NINDS, a aracnoidite \u00e9 abordada principalmente atrav\u00e9s de estudos associados \u00e0 pesquisa sobre dor. NINDS persegue vigorosamente um programa de pesquisa buscando novos tratamentos para dor e les\u00e3o nervosa com o objetivo final de reverter condi\u00e7\u00f5es debilitantes como a aracnoidite."
+    }
+]

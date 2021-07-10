@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000162-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o os espasmos infantis?",
+        "answer":"Um espasmo infantil (IS) \u00e9 um tipo espec\u00edfico de convuls\u00e3o visto em uma s\u00edndrome da epilepsia da inf\u00e2ncia e da inf\u00e2ncia conhecida como S\u00edndrome do Oeste. A S\u00edndrome Ocidental \u00e9 caracterizada por espasmos infantis, regress\u00e3o do desenvolvimento, e um padr\u00e3o espec\u00edfico de eletroencefalografia (EEG) testes chamados hipsaritmia (ondas cerebrais ca\u00f3ticas). O in\u00edcio de espasmos infantis \u00e9 geralmente no primeiro ano de vida, normalmente entre 4-8 meses. As convuls\u00f5es consistem principalmente em uma repentina flex\u00e3o para a frente do corpo com endurecimento dos bra\u00e7os e pernas; algumas crian\u00e7as arqueiam as costas enquanto estendiam os bra\u00e7os e pernas. Os espasmos tendem a ocorrer ao despertar ou ap\u00f3s a alimenta\u00e7\u00e3o, e muitas vezes ocorrem em grupos de at\u00e9 100 espasmos de cada vez. Os beb\u00eas podem ter dezenas de aglomerados e v\u00e1rias centenas de espasmos por dia. Os espasmos infantis costumam parar aos cinco anos, mas podem ser substitu\u00eddos por outros tipos de convuls\u00f5es. Muitos dist\u00farbios subjacentes, como les\u00f5es ao nascimento, dist\u00farbios metab\u00f3licos e dist\u00farbios gen\u00e9ticos podem dar origem a espasmos, tornando importante identificar a causa subjacente. Em algumas crian\u00e7as, nenhuma causa pode ser encontrada."
+    },
+    {
+        "qid":"0000162-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Spasmos Infantis?",
+        "answer":"Tratamento com corticoster\u00f3ides como prednisona \u00e9 padr\u00e3o, apesar de efeitos colaterais graves podem ocorrer. V\u00e1rios novos medicamentos antiepil\u00e9pticos, como o topiramato, podem aliviar alguns sintomas. Vigabatrina (Sabril) foi aprovada pela Administra\u00e7\u00e3o de Alimentos e Drogas dos EUA para tratar espasmos infantis em crian\u00e7as com idade de um m\u00eas a dois anos. Algumas crian\u00e7as t\u00eam espasmos como resultado de les\u00f5es cerebrais, e remo\u00e7\u00e3o cir\u00fargica dessas les\u00f5es pode resultar em melhora."
+    },
+    {
+        "qid":"0000162-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva dos Spasmos Infantis?",
+        "answer":"O progn\u00f3stico para crian\u00e7as com IS depende das causas subjacentes das convuls\u00f5es. O progn\u00f3stico intelectual para crian\u00e7as com IS \u00e9 geralmente ruim porque muitos beb\u00eas com IS t\u00eam defici\u00eancia neurol\u00f3gica antes do in\u00edcio de espasmos. Os espasmos epil\u00e9pticos geralmente reduzem o n\u00famero por meio da inf\u00e2ncia, mas mais da metade das crian\u00e7as com IS desenvolver\u00e3o outros tipos de convuls\u00f5es. Parece haver uma rela\u00e7\u00e3o estreita entre o IS e a S\u00edndrome de Lennox-Gastaut, um dist\u00farbio epil\u00e9ptico da inf\u00e2ncia posterior."
+    },
+    {
+        "qid":"0000162-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Spasmos Infantis?",
+        "answer":"O NINDS apoia amplos e variados programas de pesquisa sobre epilepsia e outros dist\u00farbios convulsivos. Esta pesquisa tem como objetivo descobrir novas formas de prevenir, diagnosticar e tratar esses dist\u00farbios e, em \u00faltima an\u00e1lise, encontrar curas para eles. Com sorte, tratamentos mais eficazes e mais seguros, como agentes neuroprotetores, ser\u00e3o desenvolvidos para tratar a S\u00edndrome do Oeste e IS."
+    }
+]

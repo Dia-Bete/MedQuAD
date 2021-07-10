@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000676-1",
+        "qtype":"information",
+        "question":"Qual \u00e9 a paralisia de Bell?",
+        "answer":"A paralisia de Bell \u00e9 uma forma de paralisia facial tempor\u00e1ria que resulta de danos ou traumas em um dos nervos faciais. Este dist\u00farbio \u00e9 caracterizado pelo in\u00edcio repentino da paralisia facial que muitas vezes afeta apenas um lado e pode causar distor\u00e7\u00e3o facial significativa. Sintomas variam, mas podem incluir contra\u00e7\u00f5es, fraqueza, p\u00e1lpebra ou canto da boca ca\u00eddo, babando, olho ou boca seco, comprometimento do gosto, e l\u00e1grimas excessivas no olho. Embora a causa exata seja desconhecida, muitos pesquisadores acreditam que um v\u00edrus pode levar ao incha\u00e7o do 7o nervo craniano. Ester\u00f3ides, como prednisona, podem reduzir a inflama\u00e7\u00e3o e incha\u00e7o. Outros medicamentos usados para tratar a paralisia de Bell incluem aciclovir (para combater infec\u00e7\u00f5es virais) e aspirina, acetaminofeno, ou ibuprofeno (para aliviar a dor). Fisioterapia, massagem facial e acupuntura tamb\u00e9m foram usadas."
+    },
+    {
+        "qid":"0000676-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da paralisia de Bell?",
+        "answer":"Quais s\u00e3o os sintomas da paralisia de Bell?"
+    },
+    {
+        "qid":"0000676-3",
+        "qtype":"causes",
+        "question":"O que causa a paralisia do Bell?",
+        "answer":"O que causa a paralisia de Bell?"
+    },
+    {
+        "qid":"0000676-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a paralisia de Bell?",
+        "answer":"Como a paralisia do Bell pode ser tratada?"
+    }
+]

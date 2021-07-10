@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000760-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de osteoporose-pseudoglioma?",
+        "answer":"A s\u00edndrome de osteoporose-pseudoglioma \u00e9 uma condi\u00e7\u00e3o rara caracterizada por dilui\u00e7\u00e3o grave dos ossos (osteoporose) e anormalidades oculares que levam \u00e0 perda de vis\u00e3o. Em pessoas com essa condi\u00e7\u00e3o, a osteoporose \u00e9 geralmente reconhecida na inf\u00e2ncia. \u00c9 causada por uma escassez de minerais, como o c\u00e1lcio, nos ossos (diminui\u00e7\u00e3o da densidade mineral \u00f3ssea), o que torna os ossos quebradi\u00e7os e propensos \u00e0 fratura. Indiv\u00edduos afetados muitas vezes t\u00eam m\u00faltiplas fraturas \u00f3sseas, inclusive nos ossos que formam a coluna vertebral. M\u00faltiplas fraturas podem causar colapso das v\u00e9rtebras afetadas (v\u00e9rtebras compressas), curvatura lateral anormal da coluna (escoliose), estatura curta e deformidades dos membros. Diminui\u00e7\u00e3o da densidade mineral \u00f3ssea tamb\u00e9m pode causar suaviza\u00e7\u00e3o ou dilui\u00e7\u00e3o do cr\u00e2nio (craniotabes). A maioria dos indiv\u00edduos afetados tem vis\u00e3o prejudicada no nascimento ou no in\u00edcio da inf\u00e2ncia e s\u00e3o cegos pela jovem idade adulta. Os problemas de vis\u00e3o s\u00e3o geralmente causados por uma das v\u00e1rias condi\u00e7\u00f5es oculares, agrupadas como pseudoglioma, que afetam o tecido sens\u00edvel \u00e0 luz na parte de tr\u00e1s do olho (a retina), embora outras condi\u00e7\u00f5es oculares tenham sido identificadas em indiv\u00edduos afetados. Pseudogliomas s\u00e3o assim chamados porque, no exame, as condi\u00e7\u00f5es se assemelham a um tumor ocular conhecido como glioma retinal. Raramente, pessoas com s\u00edndrome de osteoporose-pseudoglioma t\u00eam sinais ou sintomas adicionais, tais como defici\u00eancia intelectual leve, t\u00f4nus muscular fraco (hipot\u00f4nia), articula\u00e7\u00f5es anormalmente flex\u00edveis, ou convuls\u00f5es."
+    },
+    {
+        "qid":"0000760-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de osteoporose-pseudoglioma?",
+        "answer":"A s\u00edndrome de osteoporose-pseudoglioma \u00e9 uma doen\u00e7a rara que ocorre em aproximadamente 1 em 2 milh\u00f5es de pessoas."
+    },
+    {
+        "qid":"0000760-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de osteoporose-pseudoglioma?",
+        "answer":"A s\u00edndrome de osteoporose-pseudoglioma \u00e9 causada por muta\u00e7\u00f5es no gene LRP5. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que participa de uma via de sinaliza\u00e7\u00e3o qu\u00edmica que afeta a forma como c\u00e9lulas e tecidos se desenvolvem. Em particular, a prote\u00edna LRP5 ajuda a regular a densidade mineral \u00f3ssea e desempenha um papel cr\u00edtico no desenvolvimento da retina. Muta\u00e7\u00f5es do gene LRP5 que causam s\u00edndrome de osteoporose-pseudoglioma impedem as c\u00e9lulas de produzir qualquer prote\u00edna LRP5 ou levar a uma prote\u00edna que n\u00e3o pode funcionar. A perda da fun\u00e7\u00e3o desta prote\u00edna interrompe as vias de sinaliza\u00e7\u00e3o qu\u00edmica que s\u00e3o necess\u00e1rias para a forma\u00e7\u00e3o de ossos e para o desenvolvimento normal da retina, levando \u00e0s anormalidades \u00f3sseas e oculares caracter\u00edsticas da s\u00edndrome de osteoporose-pseudoglioma."
+    },
+    {
+        "qid":"0000760-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de osteoporose-pseudoglioma \u00e9 herdada?",
+        "answer":"A s\u00edndrome de osteoporose-pseudoglioma \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene LRP5 em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o. No entanto, alguns portadores podem ter diminu\u00eddo a densidade mineral \u00f3ssea."
+    },
+    {
+        "qid":"0000760-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de osteoporose-pseudoglioma?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da s\u00edndrome de osteoporose-pseudoglioma: - Registro de Testes Gen\u00e9ticos: Osteoporose com pseudoglioma - Lucile Packard Children's Hospital em Stanford: Osteoporose Juvenil - MedlinePlus Enciclop\u00e9dia: Teste de Densidade Mineral \u00d3ssea - Manual de Merck Home Health Edi\u00e7\u00e3o: Osteoporose Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia Droga - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

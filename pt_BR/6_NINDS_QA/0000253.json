@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000253-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a S\u00edndrome de Sjgren?",
+        "answer":"A s\u00edndrome de Sjgren \u00e9 uma doen\u00e7a autoimune em que c\u00e9lulas imunes atacam e destruem as gl\u00e2ndulas que produzem l\u00e1grimas e saliva. A s\u00edndrome de Sjgren tamb\u00e9m est\u00e1 associada a dist\u00farbios reum\u00e1ticos como artrite reumatoide. Os sintomas distintivos do dist\u00farbio s\u00e3o boca seca e olhos secos. Al\u00e9m disso, a s\u00edndrome de Sjogren pode causar pele, nariz e sequeza vaginal, e pode afetar outros \u00f3rg\u00e3os do corpo, incluindo os rins, vasos sangu\u00edneos, pulm\u00f5es, f\u00edgado, p\u00e2ncreas e c\u00e9rebro. A s\u00edndrome de Sjgren afeta 1-4 milh\u00f5es de pessoas nos Estados Unidos. A maioria das pessoas tem mais de 40 anos no momento do diagn\u00f3stico. As mulheres s\u00e3o 9 vezes mais propensas a ter s\u00edndrome de Sjgren do que os homens."
+    },
+    {
+        "qid":"0000253-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a S\u00edndrome de Sjgren?",
+        "answer":"N\u00e3o h\u00e1 cura conhecida para a s\u00edndrome de Sjgren nem h\u00e1 um tratamento espec\u00edfico para restaurar a secre\u00e7\u00e3o de gl\u00e2ndulas. O tratamento \u00e9 geralmente sintom\u00e1tico e de apoio. Terapias de substitui\u00e7\u00e3o de humidade podem aliviar os sintomas de sequeza. Anti-inflamat\u00f3rios n\u00e3o esteroides podem ser usados para tratar sintomas musculoesquel\u00e9ticos. Para indiv\u00edduos com complica\u00e7\u00f5es graves, corticosteroides ou imunossupressores podem ser prescritos."
+    },
+    {
+        "qid":"0000253-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a S\u00edndrome de Sjgren?",
+        "answer":"A s\u00edndrome de Sjgren pode danificar os \u00f3rg\u00e3os vitais do corpo com sintomas que podem permanecer est\u00e1veis, piorar, ou entrar em remiss\u00e3o. Algumas pessoas podem experimentar apenas os sintomas leves de olhos e boca secos, enquanto outras passam por ciclos de boa sa\u00fade seguidos por doen\u00e7as graves. Muitos pacientes s\u00e3o capazes de tratar problemas sintom\u00e1ticamente. Outros s\u00e3o for\u00e7ados a lidar com vis\u00e3o borrada, desconforto ocular constante, infec\u00e7\u00f5es bucais recorrentes, gl\u00e2ndulas par\u00f3tidas inchadas, rouquid\u00e3o e dificuldade em engolir e comer. Fadiga debilitante e dor articular podem prejudicar seriamente a qualidade de vida."
+    },
+    {
+        "qid":"0000253-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a S\u00edndrome de Sjgren?",
+        "answer":"Os objetivos da pesquisa sobre dist\u00farbios como a s\u00edndrome de Sjgren focam em aumentar o conhecimento e compreens\u00e3o do dist\u00farbio, melhorar as t\u00e9cnicas diagn\u00f3sticas, testar interven\u00e7\u00f5es, e encontrar maneiras de tratar, prevenir e curar a doen\u00e7a."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0000258-1",
+        "qtype":"indication",
+        "question":"Quem deve tomar Ciprofloxacina Oftalmica e por que \u00e9 prescrita?",
+        "answer":""
+    },
+    {
+        "qid":"0000258-2",
+        "qtype":"usage",
+        "question":"Como Ciprofloxacina Oftalmica deve ser usada e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000258-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Ciprofloxacina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000258-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Ciprofloxacina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000258-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Ciprofloxacina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000258-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Ciprofloxacina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000258-8",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o de Ciprofloxacina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000258-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Ciprofloxacina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000258-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Ciprofloxacina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000258-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes da marca Ciprofloxacina Oftalmica?",
+        "answer":""
+    }
+]

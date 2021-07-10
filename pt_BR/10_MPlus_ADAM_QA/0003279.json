@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0003279-1",
+        "qtype":"information",
+        "question":"O que \u00e9 psicose?",
+        "answer":""
+    },
+    {
+        "qid":"0003279-2",
+        "qtype":"causes",
+        "question":"O que causa Psicose?",
+        "answer":""
+    },
+    {
+        "qid":"0003279-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da Psicose?",
+        "answer":""
+    },
+    {
+        "qid":"0003279-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar psicose?",
+        "answer":""
+    },
+    {
+        "qid":"0003279-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para psicose?",
+        "answer":""
+    },
+    {
+        "qid":"0003279-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Psicose?",
+        "answer":""
+    },
+    {
+        "qid":"0003279-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da Psicose?",
+        "answer":""
+    },
+    {
+        "qid":"0003279-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para psicose?",
+        "answer":""
+    },
+    {
+        "qid":"0003279-9",
+        "qtype":"prevention",
+        "question":"Como prevenir a psicose?",
+        "answer":""
+    }
+]

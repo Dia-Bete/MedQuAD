@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000115-1",
+        "qtype":"information",
+        "question":"O que \u00e9 p\u00eanfigo cr\u00f4nico benigno?",
+        "answer":"Pemfigos cr\u00f4nicos benignos, muitas vezes chamados de doen\u00e7a de Hailey-Hailey, \u00e9 uma condi\u00e7\u00e3o rara da pele que geralmente aparece no in\u00edcio da idade adulta. O dist\u00farbio \u00e9 caracterizado por \u00e1reas vermelhas, cruas e bolhas da pele que ocorrem mais frequentemente em dobras cut\u00e2neas, como a virilha, axilas, pesco\u00e7o e debaixo dos seios. Essas \u00e1reas inflamadas podem se tornar crusty ou escamosas e podem co\u00e7ar e queimar. Os problemas cut\u00e2neos tendem a piorar com a exposi\u00e7\u00e3o \u00e0 umidade (como o suor), a fric\u00e7\u00e3o e o tempo quente. A gravidade do pemfigo cr\u00f4nico benigno varia de epis\u00f3dios relativamente leves de irrita\u00e7\u00e3o cut\u00e2nea a \u00e1reas generalizadas e persistentes de pele crua e bolhas que interferem com as atividades di\u00e1rias. A pele afetada pode se infectar com bact\u00e9rias ou fungos, levando a dor e odor. Embora a condi\u00e7\u00e3o seja descrita como \"benigna\" (n\u00e3o cancerosa), em casos raros as les\u00f5es cut\u00e2neas podem desenvolver-se em uma forma de c\u00e2ncer de pele chamada carcinoma de c\u00e9lulas escamosas. Muitos indiv\u00edduos afetados tamb\u00e9m t\u00eam linhas brancas correndo o comprimento de suas unhas. Essas linhas n\u00e3o causam problemas, mas podem ser \u00fateis para diagnosticar pemfigos cr\u00f4nicos benignos."
+    },
+    {
+        "qid":"0000115-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por pemfigos cr\u00f4nicos benignos?",
+        "answer":"Penfigus cr\u00f4nico benigno \u00e9 uma condi\u00e7\u00e3o rara; sua preval\u00eancia \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000115-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas a penfigos cr\u00f4nicos benignos?",
+        "answer":"P\u00eanfigos cr\u00f4nicos benignos resultam de muta\u00e7\u00f5es no gene ATP2C1. Este gene fornece instru\u00e7\u00f5es para produzir uma prote\u00edna chamada hSPCA1, que \u00e9 encontrada em muitos tipos de c\u00e9lulas. A prote\u00edna hSPCA1 ajuda as c\u00e9lulas a armazenar c\u00e1lcio at\u00e9 que seja necess\u00e1rio. O c\u00e1lcio tem v\u00e1rias fun\u00e7\u00f5es cr\u00edticas nas c\u00e9lulas, incluindo a regula\u00e7\u00e3o do crescimento e divis\u00e3o celulares e ajudando as c\u00e9lulas a se apegarem umas \u00e0s outras (ader\u00eancia celular). A prote\u00edna hSPCA1 parece ser particularmente importante para a fun\u00e7\u00e3o normal das c\u00e9lulas chamadas queratin\u00f3citos, que s\u00e3o encontradas na camada externa da pele (a epiderme). Muta\u00e7\u00f5es no gene ATP2C1 reduzem a quantidade de prote\u00edna funcional hSPCA1 nas c\u00e9lulas. Essa anormalidade prejudica a capacidade das c\u00e9lulas de armazenar c\u00e1lcio normalmente. Por raz\u00f5es desconhecidas, este armazenamento anormal de c\u00e1lcio afeta queratin\u00f3citos mais do que outros tipos de c\u00e9lulas. A regula\u00e7\u00e3o anormal do c\u00e1lcio prejudica muitas fun\u00e7\u00f5es celulares, incluindo a ades\u00e3o celular. Como resultado, os queratin\u00f3citos n\u00e3o se apegam uns aos outros, o que faz com que a epiderme se torne fr\u00e1gil e menos resistente a traumas menores. Como a pele \u00e9 facilmente danificada, desenvolve \u00e1reas cruas, com bolhas, particularmente em dobras cut\u00e2neas onde h\u00e1 umidade e atrito."
+    },
+    {
+        "qid":"0000115-4",
+        "qtype":"inheritance",
+        "question":"Pemphigus cr\u00f4nico benigno \u00e9 herdado?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000115-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para pemfigos cr\u00f4nicos benignos?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo de pemphigus cr\u00f4nicos benignos: - American Osteoppathic College of Dermatology - Genetic Testing Registry: Familial benign pemphigus Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

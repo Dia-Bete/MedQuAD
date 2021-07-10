@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0001024-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar Progesterone e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0001024-2",
+        "qtype":"usage",
+        "question":"Como se deve usar Progesterona e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0001024-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Progesterona?",
+        "answer":""
+    },
+    {
+        "qid":"0001024-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Progesterona?",
+        "answer":""
+    },
+    {
+        "qid":"0001024-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Progesterona?",
+        "answer":""
+    },
+    {
+        "qid":"0001024-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Progesterona?",
+        "answer":""
+    },
+    {
+        "qid":"0001024-8",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o de Progesterona?",
+        "answer":""
+    },
+    {
+        "qid":"0001024-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Progesterona?",
+        "answer":""
+    },
+    {
+        "qid":"0001024-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Progesterona?",
+        "answer":""
+    },
+    {
+        "qid":"0001024-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de Progesterone?",
+        "answer":""
+    }
+]

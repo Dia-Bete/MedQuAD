@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0003883-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dor de test\u00edculo?",
+        "answer":""
+    },
+    {
+        "qid":"0003883-2",
+        "qtype":"causes",
+        "question":"O que causa dor no test\u00edculo?",
+        "answer":""
+    },
+    {
+        "qid":"0003883-3",
+        "qtype":"considerations",
+        "question":"O que fazer para dor de test\u00edculo?",
+        "answer":""
+    },
+    {
+        "qid":"0003883-4",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para dor de test\u00edculo?",
+        "answer":""
+    },
+    {
+        "qid":"0003883-5",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a dor de test\u00edculo?",
+        "answer":""
+    }
+]

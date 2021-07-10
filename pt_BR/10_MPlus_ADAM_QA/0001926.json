@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0001926-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o (s\u00e3o) hemorroidas?",
+        "answer":""
+    },
+    {
+        "qid":"0001926-2",
+        "qtype":"causes",
+        "question":"O que causa hemorroidas?",
+        "answer":""
+    },
+    {
+        "qid":"0001926-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas das hemorroidas?",
+        "answer":""
+    },
+    {
+        "qid":"0001926-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar hemorroidas?",
+        "answer":""
+    },
+    {
+        "qid":"0001926-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para hemorroidas?",
+        "answer":""
+    },
+    {
+        "qid":"0001926-6",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es das hemorroidas?",
+        "answer":""
+    },
+    {
+        "qid":"0001926-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para hemorroidas?",
+        "answer":""
+    },
+    {
+        "qid":"0001926-8",
+        "qtype":"prevention",
+        "question":"Como prevenir hemorroidas?",
+        "answer":""
+    }
+]

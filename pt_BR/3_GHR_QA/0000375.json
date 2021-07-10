@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000375-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) fibrodisplasia ossificans progressiva?",
+        "answer":"Fibrodisplasia ossificans progressiva (FOP) \u00e9 uma doen\u00e7a em que tecido muscular e tecido conjuntivo como tend\u00f5es e ligamentos s\u00e3o gradualmente substitu\u00eddos por osso (ossificado), formando osso fora do esqueleto (osso extra-esquel\u00e9tico ou heterot\u00f3pico) que limita o movimento. Este processo geralmente se torna percept\u00edvel na inf\u00e2ncia, come\u00e7ando pelo pesco\u00e7o e ombros e prosseguindo pelo corpo e pelos membros. A forma\u00e7\u00e3o extraesquel\u00e9tica do osso causa perda progressiva de mobilidade \u00e0 medida que as articula\u00e7\u00f5es se afetam. A incapacidade de abrir completamente a boca pode causar dificuldade em falar e comer. Com o tempo, pessoas com esse dist\u00farbio podem sentir desnutri\u00e7\u00e3o devido a seus problemas alimentares. Eles tamb\u00e9m podem ter dificuldades respirat\u00f3rias como resultado da forma\u00e7\u00e3o extra \u00f3ssea em torno da gaiola tor\u00e1cica que restringe a expans\u00e3o dos pulm\u00f5es. Qualquer trauma nos m\u00fasculos de um indiv\u00edduo com fibrodisplasia ossificans progressiva, como uma queda ou procedimentos m\u00e9dicos invasivos, pode desencadear epis\u00f3dios de incha\u00e7o muscular e inflama\u00e7\u00e3o (miosite) seguidos de ossifica\u00e7\u00e3o mais r\u00e1pida na \u00e1rea lesada. As inflama\u00e7\u00f5es tamb\u00e9m podem ser causadas por doen\u00e7as virais como a gripe. Pessoas com fibrodisplasia ossificans progressiva geralmente nascem com dedos grandes malformados. Esta anormalidade dos dedos grandes dos p\u00e9s \u00e9 uma caracter\u00edstica que ajuda a distinguir esse dist\u00farbio de outros problemas \u00f3sseos e musculares. Indiv\u00edduos afetados tamb\u00e9m podem ter dedos curtos e outras anormalidades esquel\u00e9ticas."
+    },
+    {
+        "qid":"0000375-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por fibrodisplasia ossificans progressiva?",
+        "answer":"Fibrodisplasia ossificans progressiva \u00e9 um dist\u00farbio muito raro, acredita-se que ocorre em aproximadamente 1 em 2 milh\u00f5es de pessoas em todo o mundo. V\u00e1rias centenas de casos foram relatados."
+    },
+    {
+        "qid":"0000375-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 fibrodisplasia ossificans progressiva?",
+        "answer":"Muta\u00e7\u00f5es no gene ACVR1 causam fibrodisplasia ossificans progressiva. O gene ACVR1 fornece instru\u00e7\u00f5es para produzir um membro de uma fam\u00edlia de prote\u00ednas chamada prote\u00edna morfogen\u00e9tica \u00f3ssea (BMP) receptores tipo I. A prote\u00edna ACVR1 \u00e9 encontrada em muitos tecidos do corpo, incluindo m\u00fasculo esquel\u00e9tico e cartilagem. Ajuda a controlar o crescimento e desenvolvimento dos ossos e m\u00fasculos, incluindo a substitui\u00e7\u00e3o gradual da cartilagem por ossos (ossifica\u00e7\u00e3o) que ocorre na matura\u00e7\u00e3o esquel\u00e9tica normal do nascimento at\u00e9 a idade adulta jovem. Pesquisadores acreditam que uma muta\u00e7\u00e3o no gene ACVR1 pode alterar a forma do receptor sob certas condi\u00e7\u00f5es e interromper mecanismos que controlam a atividade do receptor. Como resultado, o receptor pode estar constantemente ligado (ativa\u00e7\u00e3o constitutiva). A ativa\u00e7\u00e3o constitutiva do receptor causa crescimento excessivo do osso e cartilagem e fus\u00e3o das articula\u00e7\u00f5es, resultando nos sinais e sintomas da fibrodisplasia ossificans progressiva."
+    },
+    {
+        "qid":"0000375-4",
+        "qtype":"inheritance",
+        "question":"A fibrodisplasia ossificans progressiva \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. A maioria dos casos de fibrodisplasia ossifican progressiva resultam de novas muta\u00e7\u00f5es no gene. Esses casos ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia. Em um pequeno n\u00famero de casos, uma pessoa afetada herdou a muta\u00e7\u00e3o de um dos pais afetados."
+    },
+    {
+        "qid":"0000375-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para fibrodisplasia ossificans progressiva?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da fibrodisplasia ossificans progressiva: - Registro de Testes Gen\u00e9ticos: Miosite Progressiva ossificans Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

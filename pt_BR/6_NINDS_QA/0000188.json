@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000188-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Machado-Joseph?",
+        "answer":"A doen\u00e7a de Machado-Joseph (MJD), que tamb\u00e9m \u00e9 chamada de ataxia spinocerebelar tipo 3, \u00e9 uma rara ataxia heredit\u00e1ria (ataxia \u00e9 um termo m\u00e9dico que significa falta de controle muscular). A doen\u00e7a \u00e9 caracterizada por desajeita\u00e7\u00e3o progressiva lentamente e fraqueza nos bra\u00e7os e pernas, espasticidade, uma caminhada assombrosa facilmente confundida com embriaguez, dificuldade em falar e engolir, movimentos oculares involunt\u00e1rios, vis\u00e3o dupla e mic\u00e7\u00e3o frequente. Alguns indiv\u00edduos tamb\u00e9m t\u00eam distonia (contra\u00e7\u00f5es musculares sustentadas que causam tor\u00e7\u00e3o do corpo e membros, movimentos repetitivos, posturas anormais e rigidez) ou sintomas semelhantes aos da doen\u00e7a de Parkinson. Outros t\u00eam contra\u00e7\u00f5es no rosto ou na l\u00edngua, ou olhos peculiares. Quase todos os indiv\u00edduos com MJD t\u00eam problemas de vis\u00e3o, incluindo vis\u00e3o dupla ou vis\u00e3o borrada, perda da capacidade de distinguir cor e/ou contraste, e incapacidade de controlar os movimentos oculares."
+    },
+    {
+        "qid":"0000188-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Machado-Joseph?",
+        "answer":"MJD \u00e9 incur\u00e1vel, mas alguns sintomas da doen\u00e7a podem ser tratados. Para aqueles indiv\u00edduos que mostram caracter\u00edsticas parkinsonianas, a terapia com levodopa pode ajudar por muitos anos. O tratamento com drogas antiespasm\u00f3dicas, como o baclofeno, pode ajudar a reduzir a espasticidade. A toxina botul\u00ednica tamb\u00e9m pode tratar espasticidade grave, bem como alguns sintomas de distonia. Problemas de fala e problemas de engolir podem ser tratados com medica\u00e7\u00e3o e terapia fonoaudiol\u00f3gica. A fisioterapia pode ajudar os pacientes a lidar com defici\u00eancia associada a problemas de marcha. As ajudas f\u00edsicas, como caminhantes e cadeiras de rodas, podem ajudar com atividades di\u00e1rias."
+    },
+    {
+        "qid":"0000188-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a doen\u00e7a de Machado-Joseph?",
+        "answer":"A gravidade da doen\u00e7a est\u00e1 relacionada \u00e0 idade de in\u00edcio, com in\u00edcio mais precoce associado a formas mais graves da doen\u00e7a. Os sintomas podem come\u00e7ar a qualquer momento entre o in\u00edcio da adolesc\u00eancia e cerca de 70 anos de idade. MJD \u00e9 uma doen\u00e7a progressiva, significando que os sintomas pioram com o tempo. A expectativa de vida varia entre meia trinta para aqueles com formas graves de MJD at\u00e9 uma expectativa de vida normal para aqueles com formas suaves. A causa da morte para aqueles que morrem cedo \u00e9 a pneumonia de aspira\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000188-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a doen\u00e7a de Machado-Joseph?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Accidentes (NINDS) realiza pesquisa MJD em seus laborat\u00f3rios nos Institutos Nacionais de Sa\u00fade (NIH) e tamb\u00e9m apoia pesquisa MJD atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. Pesquisas em andamento incluem estudos para melhor entender os mecanismos gen\u00e9ticos, moleculares e celulares que subjacem a doen\u00e7as neurodegenerativas herdadas como a MJD. Outras \u00e1reas de pesquisa incluem o desenvolvimento de novas terapias para tratar os sintomas da MJD, esfor\u00e7os para identificar marcadores diagn\u00f3sticos e para melhorar os procedimentos diagn\u00f3sticos atuais para a doen\u00e7a, e estudos populacionais para identificar fam\u00edlias afetadas."
+    }
+]

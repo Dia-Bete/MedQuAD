@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0003789-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) linfoma de c\u00e9lulas Mantle?",
+        "answer":"Linfoma de c\u00e9lulas de manto (LCM) pertence a um grupo de doen\u00e7as conhecidas como linfomas n\u00e3o Hodgkins (LNH), que s\u00e3o c\u00e2nceres que afetam o sistema linf\u00e1tico (parte do sistema imunol\u00f3gico). MCL representa 6% de todos os linfomas n\u00e3o Hodgkin e \u00e9 encontrado principalmente em homens no in\u00edcio dos 60 anos. Linf\u00f3citos, que s\u00e3o gl\u00f3bulos brancos que comp\u00f5em o sistema linf\u00e1tico. Existem dois tipos principais: linfocitos B (c\u00e9lulas B) e linfocitos T (c\u00e9lulas T). Linfoma de c\u00e9lulas do manto \u00e9 um linfoma de c\u00e9lulas B que se desenvolve a partir de c\u00e9lulas B cancerosas dentro de uma regi\u00e3o do linfonodo conhecida como zona do manto. Embora os linfomas de c\u00e9lulas de manto sejam c\u00e2nceres de crescimento lento, no momento do diagn\u00f3stico, geralmente est\u00e3o difundidos nos linfonodos e requerem tratamento intensivo porque podem se tornar letais em um curto per\u00edodo de tempo."
+    },
+    {
+        "qid":"0003789-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do linfoma de c\u00e9lulas Mantle?",
+        "answer":"Quais s\u00e3o os sinais e sintomas do linfoma de c\u00e9lulas Mantle? Sintomas comuns de linfoma de c\u00e9lulas Mantle incluem fadiga, perda de apetite, e linfonodos aumentados, ba\u00e7o e/ou f\u00edgado. Outros sintomas podem incluir suores noturnos, febres altas inexplic\u00e1veis e perda de peso. A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para o linfoma de c\u00e9lulas Mantle. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Neoplasia hematol\u00f3gica 90% Linfadenopatia 90% Anorexia 50% Esplenomegalia 50% Perda de peso 50% A Ontologia Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0003789-3",
+        "qtype":"causes",
+        "question":"O que causa o linfoma de c\u00e9lulas Mantle?",
+        "answer":"O que causa o linfoma de c\u00e9lulas Mantle? A maioria dos linfomas n\u00e3o s\u00e3o herdados, mas sim uma doen\u00e7a adquirida em que o DNA dentro das c\u00e9lulas foi danificado. Danos ao DNA ocorrem por uma combina\u00e7\u00e3o de fatores diferentes. Muitos linfomas de c\u00e9lulas de manto est\u00e3o associados a uma transloca\u00e7\u00e3o cromossoma. Algumas causas de linfomas n\u00e3o Hodgkin (LNH) t\u00eam sido ligadas a infec\u00e7\u00f5es virais, incluindo o v\u00edrus Ebstein-Barr, HIV e herpesv\u00edrus humano 6. Tamb\u00e9m foi encontrado que imunodefici\u00eancias e fatores ambientais como corantes capilares e pesticidas podem levar a LNHs."
+    },
+    {
+        "qid":"0003789-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar o linfoma de c\u00e9lulas Mantle?",
+        "answer":"Como \u00e9 diagnosticado o linfoma de c\u00e9lulas Mantle? Linfoma de c\u00e9lulas de manto \u00e9 diagnosticado por uma bi\u00f3psia (remo\u00e7\u00e3o cir\u00fargica) dos linfonodos. Se os linfonodos n\u00e3o s\u00e3o facilmente acess\u00edveis para serem biopsiados, uma aspira\u00e7\u00e3o fina da agulha pode ser realizada, mas o diagn\u00f3stico n\u00e3o ser\u00e1 definido. Transloca\u00e7\u00f5es de cromossomo no linfoma de c\u00e9lulas Mantle podem ser encontradas por m\u00e9todos de testes moleculares gen\u00e9ticos como PCR e FISH."
+    },
+    {
+        "qid":"0003789-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o linfoma de c\u00e9lulas Mantle?",
+        "answer":"Como o limpoma de c\u00e9lulas de Mantle pode ser tratado? V\u00e1rios tratamentos est\u00e3o dispon\u00edveis para linfomas de c\u00e9lulas Mantle. Casos raros de linfomas de c\u00e9lulas de manto precoces podem ser tratados com radioterapia. Para est\u00e1gios mais avan\u00e7ados, o tratamento inclui quimioterapia, imunoterapia, transplante de medula \u00f3ssea e medica\u00e7\u00e3o."
+    }
+]

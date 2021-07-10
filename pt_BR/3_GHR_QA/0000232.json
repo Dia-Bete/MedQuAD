@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000232-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) insensibilidade cong\u00eanita \u00e0 dor com anhidrose?",
+        "answer":"A insensibilidade cong\u00e9nita \u00e0 dor com anhidrose (CIPA) tem duas caracter\u00edsticas: a incapacidade de sentir dor e temperatura, e a diminui\u00e7\u00e3o ou aus\u00eancia de suda\u00e7\u00e3o (anhidrose). Esta condi\u00e7\u00e3o tamb\u00e9m \u00e9 conhecida como neuropatia sensorial e auton\u00f4mica heredit\u00e1ria tipo IV. Os sinais e sintomas do CIPA aparecem precocemente, geralmente no nascimento ou durante a inf\u00e2ncia, mas com cuidadosa aten\u00e7\u00e3o m\u00e9dica, indiv\u00edduos afetados podem viver at\u00e9 a idade adulta. A incapacidade de sentir dor e temperatura muitas vezes leva a les\u00f5es graves repetidas. O auto-les\u00e3o n\u00e3o intencional \u00e9 comum em pessoas com CIPA, tipicamente mordendo a l\u00edngua, l\u00e1bios ou dedos, o que pode levar \u00e0 amputa\u00e7\u00e3o espont\u00e2nea da \u00e1rea afetada. Al\u00e9m disso, pessoas com CIPA curam lentamente de les\u00f5es cut\u00e2neas e \u00f3sseas. Trauma repetido pode levar a infec\u00e7\u00f5es \u00f3sseas cr\u00f4nicas (osteomielite) ou uma condi\u00e7\u00e3o chamada articula\u00e7\u00f5es Charcot, em que os ossos e tecidos circundantes articula\u00e7\u00f5es s\u00e3o destru\u00eddos. Normalmente, suar ajuda a esfriar a temperatura corporal. No entanto, em pessoas com CIPA, a anhidrose muitas vezes causa febres recorrentes, extremamente altas (hiperpirexia) e convuls\u00f5es causadas por alta temperatura (convuls\u00f5es febriis). Al\u00e9m das caracter\u00edsticas, h\u00e1 outros sinais e sintomas do CIPA. Muitos indiv\u00edduos afetados t\u00eam pele grossa e couroosa (lichenifica\u00e7\u00e3o) nas palmas das m\u00e3os ou unhas ou dedos dos p\u00e9s. Eles tamb\u00e9m podem ter manchas no couro cabeludo onde o cabelo n\u00e3o cresce (hipotricose). Cerca de metade das pessoas com CIPA mostram sinais de hiperatividade ou instabilidade emocional, e muitos indiv\u00edduos afetados t\u00eam defici\u00eancia intelectual. Algumas pessoas com CIPA t\u00eam um t\u00f4nus muscular fraco (hipot\u00f4nia) quando s\u00e3o jovens, mas a for\u00e7a muscular e o t\u00f4nus tornam-se mais normais \u00e0 medida que envelhecem."
+    },
+    {
+        "qid":"0000232-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela insensibilidade cong\u00eanita \u00e0 dor com anhidrose?",
+        "answer":"CIPA \u00e9 uma condi\u00e7\u00e3o rara; no entanto, a preval\u00eancia \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000232-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 insensibilidade cong\u00eanita \u00e0 dor com anhidrose?",
+        "answer":"Muta\u00e7\u00f5es no gene NTRK1 causam CIPA. O gene NTRK1 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna receptora que se liga a outra prote\u00edna chamada NGF. O receptor NTRK1 \u00e9 importante para a sobreviv\u00eancia das c\u00e9lulas nervosas (neur\u00f4nios). O receptor NTRK1 \u00e9 encontrado na superf\u00edcie das c\u00e9lulas, particularmente neur\u00f4nios que transmitem dor, temperatura e sensa\u00e7\u00f5es de toque (neur\u00f4nios sensoriais). Quando a prote\u00edna NGF se liga ao receptor NTRK1, sinais s\u00e3o transmitidos dentro da c\u00e9lula que dizem \u00e0 c\u00e9lula para crescer e se dividir, e que a ajudam a sobreviver. Muta\u00e7\u00f5es no gene NTRK1 levam a uma prote\u00edna que n\u00e3o pode transmitir sinais. Sem o sinal adequado, os neur\u00f4nios morrem por um processo de autodestrui\u00e7\u00e3o chamado apoptose. Perda de neur\u00f4nios sensoriais leva \u00e0 incapacidade de sentir dor em pessoas com CIPA. Al\u00e9m disso, as pessoas com CIPA perdem os nervos levando a suas gl\u00e2ndulas sudor\u00edparas, o que causa a anidrose observada em indiv\u00edduos afetados."
+    },
+    {
+        "qid":"0000232-4",
+        "qtype":"inheritance",
+        "question":"A insensibilidade cong\u00eanita \u00e0 dor com anhidrose \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000232-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para insensibilidade cong\u00eanita \u00e0 dor com anhidrose?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da CIPA: - Gene Review: Gene Review: Insensibilidade Cong\u00eanita \u00e0 Dor com Anhidrose - Registro de Testes Gen\u00e9ticos: Insensibilidade heredit\u00e1ria \u00e0 dor com Anhidrose Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

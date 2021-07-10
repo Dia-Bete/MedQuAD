@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0003682-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Lucey-Driscoll?",
+        "answer":"A s\u00edndrome de Lucey-Driscoll, uma forma de hiperbilirrubinemia familiar transit\u00f3ria, \u00e9 um dist\u00farbio metab\u00f3lico raro que leva a n\u00edveis muito elevados de bilirrubina no sangue de um rec\u00e9m-nascido. Beb\u00eas com este dist\u00farbio podem nascer com icter\u00edcia grave (pele amarela), olhos amarelos e letargia. Ocorre quando o corpo n\u00e3o rompe corretamente (metabolizar) uma certa forma de bilirrubina. Se n\u00e3o tratada, essa condi\u00e7\u00e3o pode causar convuls\u00f5es, problemas neurol\u00f3gicos (kernicterus) e at\u00e9 a morte. O tratamento para a s\u00edndrome de Lucey-Driscoll inclui fototerapia com luz azul (para tratar o alto n\u00edvel de bilirrubina no sangue) e uma transfus\u00e3o de troca \u00e9 \u00e0s vezes necess\u00e1ria. Diferentes padr\u00f5es de heran\u00e7a foram relatados e, em alguns casos, ocorre em indiv\u00edduos sem hist\u00f3rico familiar da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0003682-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome de Lucey-Driscoll?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da s\u00edndrome de Lucey-Driscoll? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para a s\u00edndrome de Lucey-Driscoll. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Heran\u00e7a autoss\u00f4mica recessiva - Par\u00e1lisia cerebral - Icter\u00edcia - Kernicterus - Hiperbilirrubinemia n\u00e3o conjugada neonatal - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0003682-3",
+        "qtype":"causes",
+        "question":"O que causa a s\u00edndrome de Lucey-Driscoll?",
+        "answer":"O que causa a s\u00edndrome de Lucey-Driscoll? A s\u00edndrome de Lucey-Driscoll \u00e9 causada por altos n\u00edveis de um inibidor da enzima conjugante da bilirrubina, que \u00e9 uma subst\u00e2ncia que limita a capacidade da bilirrubina para se ligar a uma enzima. Quando a bilirrubina n\u00e3o se liga eficientemente, ela se acumula na corrente sangu\u00ednea. Este inibidor \u00e9 pensado para ocorrer no sangue (s\u00e9rio) de mulheres gr\u00e1vidas, e provavelmente bloqueia a atividade enzim\u00e1tica necess\u00e1ria para o desenvolvimento do f\u00edgado fetal. Casos familiares podem resultar da mulher gr\u00e1vida com uma muta\u00e7\u00e3o no gene uridina difosfato-glucuronosiltransferase(UGT1A1)."
+    }
+]

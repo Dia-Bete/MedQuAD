@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000139-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Krabbe?",
+        "answer":"A doen\u00e7a de Krabbe \u00e9 um dist\u00farbio metab\u00f3lico raro e herdado em que quantidades prejudiciais de lip\u00eddios (materiais gordos como \u00f3leos e ceras) se acumulam em v\u00e1rias c\u00e9lulas e tecidos do corpo e destr\u00f3i c\u00e9lulas cerebrais. A doen\u00e7a de Krabbe, tamb\u00e9m conhecida como leucodistrofia de c\u00e9lulas glob\u00f3ides, \u00e9 caracterizada pela presen\u00e7a de c\u00e9lulas glob\u00f3ides (c\u00e9lulas que t\u00eam mais de um n\u00facleo) que quebram o revestimento protetor de mielina dos nervos. A doen\u00e7a de Krabbe \u00e9 causada por uma defici\u00eancia de galactocerebrosidase, uma enzima essencial para o metabolismo da mielina. A doen\u00e7a mais frequentemente afeta beb\u00eas, com in\u00edcio antes dos 6 meses de idade, mas pode ocorrer na adolesc\u00eancia ou na idade adulta. Os sintomas incluem deteriora\u00e7\u00e3o grave das habilidades mentais e motoras, fraqueza muscular, hipertonia (incapacidade de um m\u00fasculo se esticar), convuls\u00f5es miocl\u00f4nicas (contra\u00e7\u00f5es repentinas, tipo choque dos membros), e espasticidade (movimento involunt\u00e1rio e estranho). Outros sintomas podem incluir irritabilidade, febre inexplic\u00e1vel, cegueira, dificuldade em engolir e surdez."
+    },
+    {
+        "qid":"0000139-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Krabbe?",
+        "answer":"N\u00e3o h\u00e1 cura para a doen\u00e7a de Krabbe. Os resultados de um pequeno ensaio cl\u00ednico de crian\u00e7as com doen\u00e7a infantil Krabbe descobriram que crian\u00e7as que receberam c\u00e9lulas-tronco do cord\u00e3o umbilical de doadores n\u00e3o relacionados antes do in\u00edcio dos sintomas desenvolveram-se com pouco comprometimento neurol\u00f3gico. O transplante de medula pode ajudar algumas pessoas. Geralmente, o tratamento para o dist\u00farbio \u00e9 sintom\u00e1tico e de apoio. A fisioterapia pode ajudar a manter ou aumentar o t\u00f4nus muscular e a circula\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000139-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a doen\u00e7a de Krabbe?",
+        "answer":"A doen\u00e7a de Krabbe em lactentes geralmente \u00e9 fatal antes dos 2 anos. Indiv\u00edduos com uma forma posterior da doen\u00e7a geralmente t\u00eam um curso mais leve da doen\u00e7a e vivem significativamente mais tempo."
+    },
+    {
+        "qid":"0000139-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a doen\u00e7a de Krabbe?",
+        "answer":"A miss\u00e3o do Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Accidentes (NINDS) \u00e9 buscar conhecimento fundamental sobre o c\u00e9rebro e o sistema nervoso e usar esse conhecimento para reduzir a carga da doen\u00e7a neurol\u00f3gica. O NINDS \u00e9 um componente dos Institutos Nacionais de Sa\u00fade, o maior apoiador da pesquisa biom\u00e9dica no mundo. O transplante de c\u00e9lulas-tronco hamatopoi\u00e9ticas -- usando c\u00e9lulas-tronco de sangue ou medula \u00f3ssea do cord\u00e3o umbilical -- tem mostrado beneficiar alguns indiv\u00edduos quando administrados no in\u00edcio da doen\u00e7a. Cientistas planejam testar transplante de c\u00e9lulas estaminais hematopoi\u00e9ticas mais terapia g\u00eanica para ver se aumenta drasticamente a expectativa de vida em um modelo de rato da doen\u00e7a. Tamb\u00e9m em modo rato, cientistas financiados pela NINDS est\u00e3o testando uma abordagem combinada de tratamento que usa um v\u00edrus inofensivo para aumentar a produ\u00e7\u00e3o de prote\u00ednas, juntamente com transplante de c\u00e9lulas-tronco sangu\u00edneas e drogas baseadas em pequenas mol\u00e9culas, para reduzir a neuroinflama\u00e7\u00e3o, morte celular e degenera\u00e7\u00e3o de c\u00e9lulas nervosas observada na doen\u00e7a de Krabbe."
+    }
+]

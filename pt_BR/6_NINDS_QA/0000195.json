@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000195-1",
+        "qtype":"information",
+        "question":"O que \u00e9 um ataque isqu\u00eamico transit\u00f3rio?",
+        "answer":"Um ataque isqu\u00eamico transit\u00f3rio (TIA) \u00e9 um derrame transit\u00f3rio que dura apenas alguns minutos. Ocorre quando o suprimento de sangue para parte do c\u00e9rebro \u00e9 brevemente interrompido. Sintomas de TIA, que geralmente ocorrem de repente, s\u00e3o semelhantes aos de AVC, mas n\u00e3o duram tanto tempo. A maioria dos sintomas de um TIA desaparecem em uma hora, embora eles possam persistir por at\u00e9 24 horas. Os sintomas podem incluir: dorm\u00eancia ou fraqueza no rosto, bra\u00e7o ou perna, especialmente de um lado do corpo; confus\u00e3o ou dificuldade em falar ou entender a fala; dificuldade em ver em um ou ambos os olhos; e dificuldade em andar, tonturas ou perda de equil\u00edbrio e coordena\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000195-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o ataque isqu\u00eamico transit\u00f3rio?",
+        "answer":"Porque n\u00e3o h\u00e1 como dizer se os sintomas s\u00e3o de um TIA ou um AVC agudo, os pacientes devem assumir que todos os sintomas do tipo AVC sinalizam uma emerg\u00eancia e n\u00e3o devem esperar para ver se eles desaparecem. Uma avalia\u00e7\u00e3o r\u00e1pida (em 60 minutos) \u00e9 necess\u00e1ria para identificar a causa da AIT e determinar a terapia adequada. Dependendo do hist\u00f3rico m\u00e9dico de um paciente e dos resultados de um exame m\u00e9dico, o m\u00e9dico pode recomendar terapia medicamentosa ou cirurgia para reduzir o risco de acidente vascular cerebral em pessoas que tiveram um TIA. O uso de antiplaquet\u00e1rios, particularmente aspirina, \u00e9 um tratamento padr\u00e3o para pacientes em risco de acidente vascular cerebral. Pessoas com fibrila\u00e7\u00e3o atrial (batimento irregular do cora\u00e7\u00e3o) podem ser prescritos anticoagulantes."
+    },
+    {
+        "qid":"0000195-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o ataque isqu\u00eamico transit\u00f3rio?",
+        "answer":"Os TIAs s\u00e3o sinais de aviso de que uma pessoa est\u00e1 em risco para um derrame mais grave e debilitante. Cerca de um ter\u00e7o dos que t\u00eam um TIA ter\u00e1 um derrame agudo algum tempo no futuro. Muitos AVCs podem ser evitados por atender os sinais de alerta de TIAs e tratar fatores de risco subjacentes. Os fatores mais importantes relacionados a TIAs e acidente vascular cerebral s\u00e3o press\u00e3o arterial alta, tabagismo, doen\u00e7as card\u00edacas, car\u00f3tida, diabetes e forte consumo de \u00e1lcool. A ajuda m\u00e9dica est\u00e1 dispon\u00edvel para reduzir e eliminar esses fatores. Mudan\u00e7as de estilo de vida, como comer uma dieta equilibrada, manter o peso saud\u00e1vel, fazer exerc\u00edcio, e se matricular em programas de tabagismo e cessa\u00e7\u00e3o de \u00e1lcool tamb\u00e9m podem reduzir esses fatores."
+    },
+    {
+        "qid":"0000195-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para o ataque isqu\u00eamico transit\u00f3rio?",
+        "answer":"NINDS \u00e9 o principal apoiador de pesquisas sobre AVC e TIA nos EUA e patrocina estudos que v\u00e3o de ensaios cl\u00ednicos a investiga\u00e7\u00f5es de mecanismos biol\u00f3gicos b\u00e1sicos, bem como estudos com animais."
+    }
+]

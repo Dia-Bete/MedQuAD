@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000295-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) dist\u00farbio cong\u00eanito de DOLK da glicosila\u00e7\u00e3o?",
+        "answer":"O dist\u00farbio cong\u00eanito DOLK da glicosila\u00e7\u00e3o (DOLK-CDG, anteriormente conhecido como dist\u00farbio cong\u00eanito da glicosila\u00e7\u00e3o tipo Im) \u00e9 uma condi\u00e7\u00e3o herdada que muitas vezes afeta o cora\u00e7\u00e3o, mas tamb\u00e9m pode envolver outros sistemas corporais. O padr\u00e3o e a gravidade dos sinais e sintomas deste dist\u00farbio variam entre os indiv\u00edduos afetados. Indiv\u00edduos com DOLK-CDG normalmente desenvolvem sinais e sintomas da condi\u00e7\u00e3o durante a inf\u00e2ncia ou a inf\u00e2ncia. Quase todos os indiv\u00edduos com DOLK-CDG desenvolvem um cora\u00e7\u00e3o enfraquecido e aumentado (cardiomiopatia dilatada). Outros sinais e sintomas frequentes incluem convuls\u00f5es recorrentes; atraso no desenvolvimento; t\u00f4nus muscular ruim (hipot\u00f4nia); e pele seca e escamosa (ictiose). Menos comumente, indiv\u00edduos afetados podem ter caracter\u00edsticas faciais distintas, doen\u00e7a renal, anormalidades hormonais, ou problemas oculares. Indiv\u00edduos com DOLK-CDG normalmente n\u00e3o sobrevivem at\u00e9 a idade adulta, muitas vezes por causa de complica\u00e7\u00f5es relacionadas \u00e0 cardiomiopatia dilatada, e alguns n\u00e3o sobrevivem ap\u00f3s a inf\u00e2ncia."
+    },
+    {
+        "qid":"0000295-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pelo dist\u00farbio cong\u00eanito DOLK da glicosila\u00e7\u00e3o?",
+        "answer":"DOLK-CDG \u00e9 provavelmente uma condi\u00e7\u00e3o rara; pelo menos 18 casos foram relatados na literatura cient\u00edfica."
+    },
+    {
+        "qid":"0000295-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas ao dist\u00farbio cong\u00eanito DOLK da glicosila\u00e7\u00e3o?",
+        "answer":"O DOLK-CDG \u00e9 causado por muta\u00e7\u00f5es no gene DOLK. Este gene fornece instru\u00e7\u00f5es para fazer a enzima dolichol quinase, o que facilita o passo final da produ\u00e7\u00e3o de um composto chamado fosfato de dolichol. Este composto \u00e9 cr\u00edtico para um processo chamado glicosila\u00e7\u00e3o, que liga grupos de mol\u00e9culas de a\u00e7\u00facar (oligosaccharides) \u00e0s prote\u00ednas. A glicosila\u00e7\u00e3o muda as prote\u00ednas de forma importante para suas fun\u00e7\u00f5es. Durante a glicosila\u00e7\u00e3o, a\u00e7\u00facares s\u00e3o adicionados ao fosfato de dolicol para construir a cadeia de oligosac\u00e1rido. Uma vez que a cadeia \u00e9 formada, o fosfato de dolicol transporta o oligosac\u00e1rido para a prote\u00edna que precisa ser glicosilada e o liga a um local espec\u00edfico na prote\u00edna. Muta\u00e7\u00f5es no gene DOLK levam \u00e0 produ\u00e7\u00e3o de dolicol quinase anormal com atividade reduzida ou ausente. Sem o bom funcionamento da dolicol quinase, o fosfato de dolicol n\u00e3o \u00e9 produzido e a glicosila\u00e7\u00e3o n\u00e3o pode prosseguir normalmente. Em particular, uma prote\u00edna conhecida por estabilizar fibras musculares card\u00edacas, chamada alfa-distroglicano, mostrou ter reduzido a glicosila\u00e7\u00e3o em pessoas com DOLK-CDG. A glicosila\u00e7\u00e3o prejudicada do alfa-distroglicano interrompe sua fun\u00e7\u00e3o normal, que danifica as fibras musculares do cora\u00e7\u00e3o \u00e0 medida que repetidamente se contraem e relaxam. Com o tempo, as fibras se enfraquecem e se quebram, levando a cardiomiopatia dilatada. Os outros sinais e sintomas de DOLK-CDG s\u00e3o provavelmente devido \u00e0 glicosila\u00e7\u00e3o anormal de prote\u00ednas adicionais em outros \u00f3rg\u00e3os e tecidos."
+    },
+    {
+        "qid":"0000295-4",
+        "qtype":"inheritance",
+        "question":"A doen\u00e7a cong\u00eanita de DOLK \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000295-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o dist\u00farbio cong\u00eanito de DOLK da glicosila\u00e7\u00e3o?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo de DOLK-CDG: - Gene Review: Gene Review: Gene Disorders of N-Linked Glicosylation Pathway Vis\u00e3o geral - Genetic Testing Registry: Congenital Disorder of Glicosylation type 1M - MedlinePlus Enciclopedia: Dilated Cardiomiopathy Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

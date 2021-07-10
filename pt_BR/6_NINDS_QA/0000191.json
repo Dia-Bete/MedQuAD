@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000191-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Menkes?",
+        "answer":"A doen\u00e7a de Menkes \u00e9 causada por um gene defeituoso chamado ATPTA1 que regula o metabolismo do cobre no corpo. A doen\u00e7a afeta principalmente crian\u00e7as do sexo masculino. O cobre acumula-se em n\u00edveis anormalmente baixos no f\u00edgado e no c\u00e9rebro, mas em n\u00edveis superiores ao normal no revestimento renal e intestinal. Crian\u00e7as afetadas podem nascer prematuramente, mas parecem saud\u00e1veis ao nascer e se desenvolvem normalmente por 6 a 8 semanas. Ent\u00e3o os sintomas come\u00e7am, incluindo o t\u00f4nus muscular floppy, convuls\u00f5es, e falha em prosperar. A doen\u00e7a de Menkes tamb\u00e9m \u00e9 caracterizada pela temperatura corporal subnormal e pelo impressionantemente peculiar, que \u00e9 perverso, incolor ou cor de a\u00e7o, e quebra facilmente. Muitas vezes h\u00e1 neurodegenera\u00e7\u00e3o extensa na mat\u00e9ria cinzenta do c\u00e9rebro. Arterias no c\u00e9rebro podem ser torcidas com paredes internas fracturadas e divididas. Isso pode levar a ruptura ou bloqueio das art\u00e9rias. Ossos fracos (osteoporose) podem resultar em fraturas."
+    },
+    {
+        "qid":"0000191-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Menkes?",
+        "answer":"O tratamento com inje\u00e7\u00f5es di\u00e1rias de cobre pode melhorar o desfecho na doen\u00e7a de Menkes se come\u00e7ar dentro de dias ap\u00f3s o nascimento. Outro tratamento \u00e9 sintom\u00e1tico e de apoio."
+    },
+    {
+        "qid":"0000191-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a doen\u00e7a de Menkes?",
+        "answer":"Uma vez que a triagem do rec\u00e9m-nascido para esse transtorno n\u00e3o est\u00e1 dispon\u00edvel, e a detec\u00e7\u00e3o precoce \u00e9 pouco frequente porque os sinais cl\u00ednicos da doen\u00e7a de Menkes s\u00e3o sutis no in\u00edcio, a doen\u00e7a raramente \u00e9 tratada cedo o suficiente para fazer uma diferen\u00e7a significativa. O progn\u00f3stico para beb\u00eas com doen\u00e7a de Menkes \u00e9 ruim. A maioria das crian\u00e7as com doen\u00e7a de Menkes morre na primeira d\u00e9cada de vida."
+    },
+    {
+        "qid":"0000191-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a doen\u00e7a de Menkes?",
+        "answer":"Pesquisa recente patrocinada pelo NINDS desenvolveu um exame de sangue que poderia ser dado a rec\u00e9m-nascidos em risco para a doen\u00e7a de Menkes baseado em um hist\u00f3rico familiar positivo para o dist\u00farbio ou outras indica\u00e7\u00f5es. O teste mede 4 produtos qu\u00edmicos diferentes no sangue e, dependendo de seus n\u00edveis, pode diagnosticar com precis\u00e3o a presen\u00e7a da doen\u00e7a de Menkes antes que apare\u00e7am sintomas. Os resultados do estudo mostraram maiores taxas de sobreviv\u00eancia para crian\u00e7as com o tratamento de inje\u00e7\u00e3o de cobre mais precoce e melhorou, se n\u00e3o normal, 2. Pesquisa adicional est\u00e1 sendo realizada pelo Instituto Nacional Eunice Kennedy Shriver de Sa\u00fade Infantil e Desenvolvimento Humano, em colabora\u00e7\u00e3o com o NINDS, que aplica abordagens de terapia g\u00eanica para a doen\u00e7a de Menkes.3 1. Kaler, SG. A neurologia da doen\u00e7a do transportador de cobre STPAT: conceitos emergentes e tend\u00eancias futuras. Resenhas da Natureza Neurologia, 2001:7:15-19.. 2. Kaler SG, et al. Diagn\u00f3stico neonatal e tratamento da doen\u00e7a de Menkes. N Engl J Med 2008;358:605-14. 3. Donsante, A. et. Al. A adi\u00e7\u00e3o do gene ATPTA ao plexo cor\u00f3ide resulta em resgate a longo prazo do defeito letal de transporte de cobre em um modelo de rato da doen\u00e7a de Menkes. Terapia molecular (na imprensa em agosto de 2011)."
+    }
+]

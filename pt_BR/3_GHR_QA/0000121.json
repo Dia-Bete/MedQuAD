@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000121-1",
+        "qtype":"information",
+        "question":"O que \u00e9 beta-mannosidose?",
+        "answer":"A beta-mannosidose \u00e9 uma rara desordem herdada afetando a forma como certas mol\u00e9culas de a\u00e7\u00facar s\u00e3o processadas no corpo. Os sinais e sintomas da beta-mannosidose variam muito em gravidade, e a idade de in\u00edcio varia entre a inf\u00e2ncia e a adolesc\u00eancia. Quase todos os indiv\u00edduos com beta-mannosidose sofrem defici\u00eancia intelectual, e alguns retardaram o desenvolvimento motor e convuls\u00f5es. Indiv\u00edduos afetados podem ser extremamente introvertidos, propensos \u00e0 depress\u00e3o, ou ter problemas comportamentais como hiperatividade, impulsividade ou agress\u00e3o. Pessoas com beta-mannosidose podem experimentar um risco aumentado de infec\u00e7\u00f5es respirat\u00f3rias e auditivas, perda auditiva, defici\u00eancia de fala, dificuldades de degluti\u00e7\u00e3o, t\u00f4nus muscular ruim (hipot\u00f4nia), e sensa\u00e7\u00e3o reduzida ou outras anormalidades do sistema nervoso nas extremidades (neuropatia perif\u00e9rica). Eles tamb\u00e9m podem exibir caracter\u00edsticas faciais distintas e aglomerados de vasos sangu\u00edneos ampliados formando pequenas manchas vermelhas escuras na pele (angioqueratomas)."
+    },
+    {
+        "qid":"0000121-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela beta-mannosidose?",
+        "answer":"A beta-mannosidose acredita-se ser um dist\u00farbio muito raro. Aproximadamente 20 indiv\u00edduos afetados foram relatados em todo o mundo. \u00c9 dif\u00edcil determinar a incid\u00eancia espec\u00edfica de beta-mannosidose, porque pessoas com sintomas leves ou n\u00e3o espec\u00edficos podem nunca ser diagnosticadas."
+    },
+    {
+        "qid":"0000121-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 beta-mannosidose?",
+        "answer":"Muta\u00e7\u00f5es no gene MANBA causam beta-mannosidose. O gene MANBA fornece instru\u00e7\u00f5es para fazer a enzima beta-mannosidase. Esta enzima funciona nos lisossomos, que s\u00e3o compartimentos que digerem e reciclam materiais na c\u00e9lula. Dentro dos lisossomos, a enzima ajuda a quebrar complexos de mol\u00e9culas de a\u00e7\u00facar (oligosac\u00e1rides) ligadas a certas prote\u00ednas (glicoprote\u00ednas). A beta-mannosidase est\u00e1 envolvida no \u00faltimo passo deste processo, ajudando a quebrar complexos de duas mol\u00e9culas de a\u00e7\u00facar (disac\u00e1ridas) contendo uma mol\u00e9cula de a\u00e7\u00facar chamada mannose. Muta\u00e7\u00f5es no gene MANBA interferem na capacidade da enzima beta-mannosidase para desempenhar seu papel na decomposi\u00e7\u00e3o de dissac\u00e1ridos contendo mannose. Esses dissac\u00e1ridos gradualmente se acumulam nos lisossomos e causam avaria nas c\u00e9lulas, resultando em sinais e sintomas de beta-mannosidose."
+    },
+    {
+        "qid":"0000121-4",
+        "qtype":"inheritance",
+        "question":"A beta-mannosidose \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000121-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a beta-mannosidose?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da beta-mannosidose: - Registro de Testes Gen\u00e9ticos: Beta-D-mannosidose Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

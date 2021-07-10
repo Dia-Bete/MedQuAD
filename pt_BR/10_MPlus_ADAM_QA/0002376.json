@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0002376-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Leprosa?",
+        "answer":""
+    },
+    {
+        "qid":"0002376-2",
+        "qtype":"causes",
+        "question":"O que causa a Leprosa?",
+        "answer":""
+    },
+    {
+        "qid":"0002376-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da lepra?",
+        "answer":""
+    },
+    {
+        "qid":"0002376-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a lepra?",
+        "answer":""
+    },
+    {
+        "qid":"0002376-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Lepra?",
+        "answer":""
+    },
+    {
+        "qid":"0002376-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Leprosa?",
+        "answer":""
+    },
+    {
+        "qid":"0002376-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da Lepra?",
+        "answer":""
+    },
+    {
+        "qid":"0002376-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para a lepra?",
+        "answer":""
+    },
+    {
+        "qid":"0002376-9",
+        "qtype":"prevention",
+        "question":"Como prevenir a leprosa?",
+        "answer":""
+    }
+]

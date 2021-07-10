@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000057-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Canavan?",
+        "answer":"A doen\u00e7a de Canavan \u00e9 um dist\u00farbio neurol\u00f3gico ligado a genes em que o c\u00e9rebro degenera em tecido esponjoso cheio de espa\u00e7os microsc\u00f3picos cheios de fluidos. A doen\u00e7a de Canavana foi classificada como um grupo de dist\u00farbios gen\u00e9ticos conhecidos como leucodistrofias. Pesquisas recentes indicam que as c\u00e9lulas do c\u00e9rebro respons\u00e1veis pela fabrica\u00e7\u00e3o de bainhas de mielina, conhecidas como oligodendr\u00f3citos, n\u00e3o podem devidamente completar esta tarefa cr\u00edtica de desenvolvimento. As bainhas de mielina s\u00e3o a cobertura gorda que age como isolantes em torno de fibras nervosas no c\u00e9rebro, al\u00e9m de fornecer suporte nutricional para as c\u00e9lulas nervosas. Na doen\u00e7a de Canavana, muitos oligodendr\u00f3citos n\u00e3o maduram e morrem, deixando proje\u00e7\u00f5es de c\u00e9lulas nervosas conhecidas como ax\u00f5es vulner\u00e1veis e incapazes de funcionar corretamente. A doen\u00e7a de Canavana \u00e9 causada pela muta\u00e7\u00e3o no gene de uma enzima chamada aspartoacilase, que atua para quebrar a subst\u00e2ncia qu\u00edmica concentrada do c\u00e9rebro conhecida como N-acetil-aspartato. Os sintomas da doen\u00e7a de Canavan geralmente aparecem nos primeiros 3 a 6 meses de vida e progredem rapidamente. Os sintomas incluem falta de desenvolvimento motor, dificuldades de alimenta\u00e7\u00e3o, tom muscular anormal (fraqueza ou rigidez), e uma cabe\u00e7a anormalmente grande, mal controlada. Paralisia, cegueira ou perda auditiva tamb\u00e9m podem ocorrer. Crian\u00e7as s\u00e3o caracteristicamente quietas e ap\u00e1ticas. Embora a doen\u00e7a de Canavan possa ocorrer em qualquer grupo \u00e9tnico, \u00e9 mais frequente entre os judeus Ashkenazi do leste da Pol\u00f4nia, Litu\u00e2nia e o oeste da R\u00fassia, e entre os \u00e1rabes sauditas. A doen\u00e7a de Canavana pode ser identificada por um simples teste de sangue pr\u00e9-natal que verifica a enzima faltante ou muta\u00e7\u00f5es no gene que controla aspartoacilase. Ambos os pais devem ser portadores do gene defeituoso para ter um filho afetado. Quando ambos os pais s\u00e3o encontrados para carregar a muta\u00e7\u00e3o do gene Canavan, h\u00e1 um em quatro (25 por cento) chance em cada gravidez que a crian\u00e7a ser\u00e1 afetada com a doen\u00e7a de Canavan."
+    },
+    {
+        "qid":"0000057-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Doen\u00e7a de Canavana?",
+        "answer":"A doen\u00e7a de Canavan causa atrofia cerebral progressiva. N\u00e3o h\u00e1 cura, nem h\u00e1 um curso padr\u00e3o de tratamento. O tratamento \u00e9 sintom\u00e1tico e de apoio."
+    },
+    {
+        "qid":"0000057-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Doen\u00e7a de Canavana?",
+        "answer":"O progn\u00f3stico para a doen\u00e7a de Canavan \u00e9 ruim. A morte geralmente ocorre antes dos 10 anos, embora algumas crian\u00e7as possam sobreviver at\u00e9 os 20 anos."
+    },
+    {
+        "qid":"0000057-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a Doen\u00e7a de Canavan?",
+        "answer":"O gene da doen\u00e7a de Canavan foi localizado. Muitos laborat\u00f3rios oferecem rastreamento pr\u00e9-natal para esse transtorno \u00e0s popula\u00e7\u00f5es em risco. Cientistas desenvolveram modelos animais para esta doen\u00e7a e est\u00e3o usando os modelos para testar estrat\u00e9gias terap\u00eauticas potenciais. Tr\u00eas estrat\u00e9gias est\u00e3o atualmente sob investiga\u00e7\u00e3o: transfer\u00eancia de genes para o c\u00e9rebro para substituir o gene mutado para a enzima; terapia metab\u00f3lica para fornecer um metabolito perdido crucial (acetato); e terapia enzim\u00e1tica onde a enzima aspartoacilase \u00e9 projetada para ser capaz de entrar no c\u00e9rebro e \u00e9 injetada na corrente sangu\u00ednea. Resultados encorajadores foram obtidos usando essas estrat\u00e9gias."
+    }
+]

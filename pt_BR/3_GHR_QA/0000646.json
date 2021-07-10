@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000646-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Menkes?",
+        "answer":"A s\u00edndrome de Menkes \u00e9 uma desordem que afeta os n\u00edveis de cobre no corpo. \u00c9 caracterizado por cabelos esparsos e perversos; falha em ganhar peso e crescer \u00e0 taxa esperada (falha em prosperar); e deteriora\u00e7\u00e3o do sistema nervoso. Sinais e sintomas adicionais incluem t\u00f4nus muscular fraco (hipot\u00f4nia), tra\u00e7os faciais fracos, convuls\u00f5es, atraso no desenvolvimento e defici\u00eancia intelectual. Crian\u00e7as com s\u00edndrome de Menkes normalmente come\u00e7am a desenvolver sintomas durante a inf\u00e2ncia e muitas vezes n\u00e3o vivem mais de 3 anos. O tratamento precoce com cobre pode melhorar o progn\u00f3stico em alguns indiv\u00edduos afetados. Em casos raros, os sintomas come\u00e7am mais tarde na inf\u00e2ncia. A s\u00edndrome do chifre occipital (algumas vezes chamada cutis laxa) \u00e9 uma forma menos grave da s\u00edndrome de Menkes que come\u00e7a no in\u00edcio da inf\u00e2ncia. \u00c9 caracterizado por dep\u00f3sitos de c\u00e1lcio em forma de cunha em um osso na base do cr\u00e2nio (o osso occipital), cabelo grosso, e pele e articula\u00e7\u00f5es soltas."
+    },
+    {
+        "qid":"0000646-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Menkes?",
+        "answer":"A incid\u00eancia da s\u00edndrome de Menkes e da s\u00edndrome do chifre occipital \u00e9 estimada em 1 em 100 mil rec\u00e9m-nascidos."
+    },
+    {
+        "qid":"0000646-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Menkes?",
+        "answer":"Muta\u00e7\u00f5es no gene ATP7A causam s\u00edndrome de Menkes. O gene ATP7A fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que \u00e9 importante para regular os n\u00edveis de cobre no corpo. O cobre \u00e9 necess\u00e1rio para muitas fun\u00e7\u00f5es celulares, mas \u00e9 t\u00f3xico quando presente em quantidades excessivas. Muta\u00e7\u00f5es no gene ATP7A resultam em m\u00e1 distribui\u00e7\u00e3o de cobre para as c\u00e9lulas do corpo. O cobre acumula-se em alguns tecidos, como o intestino delgado e rins, enquanto o c\u00e9rebro e outros tecidos t\u00eam n\u00edveis incomummente baixos de cobre. A diminui\u00e7\u00e3o do suprimento de cobre pode reduzir a atividade de in\u00fameras enzimas que cont\u00eam cobre que s\u00e3o necess\u00e1rias para a estrutura e fun\u00e7\u00e3o do osso, pele, cabelo, vasos sangu\u00edneos e do sistema nervoso. Os sinais e sintomas da s\u00edndrome de Menkes e da s\u00edndrome do chifre occipital s\u00e3o causados pela redu\u00e7\u00e3o da atividade dessas enzimas que cont\u00eam cobre."
+    },
+    {
+        "qid":"0000646-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Menkes \u00e9 herdada?",
+        "answer":"A s\u00edndrome de Menkes \u00e9 herdada em um padr\u00e3o recessivo ligado a X. O gene associado a esta condi\u00e7\u00e3o est\u00e1 localizado no cromossomo X, que \u00e9 um dos dois cromossomos sexuais. Em machos (que t\u00eam apenas um cromossomo X), uma c\u00f3pia alterada do gene em cada c\u00e9lula \u00e9 suficiente para causar a condi\u00e7\u00e3o. Em f\u00eameas (que t\u00eam dois cromossomos X), uma muta\u00e7\u00e3o teria que ocorrer em ambas as c\u00f3pias do gene para causar a desordem. Porque \u00e9 improv\u00e1vel que as f\u00eameas tenham duas c\u00f3pias alteradas deste gene, os machos s\u00e3o afetados por dist\u00farbios recessivos ligados a X muito mais freq\u00fcentemente do que as f\u00eameas. Uma caracter\u00edstica da heran\u00e7a ligada a X \u00e9 que os pais n\u00e3o podem passar os tra\u00e7os ligados a X para seus filhos. Em cerca de um ter\u00e7o dos casos, a s\u00edndrome de Menkes \u00e9 causada por novas muta\u00e7\u00f5es no gene ATP7A. Pessoas com uma nova muta\u00e7\u00e3o n\u00e3o t\u00eam hist\u00f3rico da desordem em sua fam\u00edlia."
+    },
+    {
+        "qid":"0000646-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Menkes?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Menkes: - Gene Review: Gene Review: ATP7A-Related Copper Transport Disorders - Genetic Testing Registry: Menkes kinky-hair syndrome - MedlinePlus Encyclopedia: Copper in diet - MedlinePlus Encyclopedia: Menkes syndrome Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Medicina - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

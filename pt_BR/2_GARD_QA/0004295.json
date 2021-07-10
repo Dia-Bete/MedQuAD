@@ -1,0 +1,14 @@
+[
+    {
+        "qid":"0004295-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) ependimoma mixopapilar?",
+        "answer":"O ependimoma mixopapilar (MEPN) \u00e9 um ependimoma de crescimento lento (um tipo de glioma, que \u00e9 um tumor que surge do tecido de suporte do c\u00e9rebro). Eles tendem a ocorrer na parte inferior da coluna vertebral e s\u00e3o geralmente considerados como tumores benignos, de baixo grau ou grau I. A idade do diagn\u00f3stico varia de 6 a 82 anos. Sintomas de ependimoma est\u00e3o relacionados com a localiza\u00e7\u00e3o e tamanho do tumor e podem incluir n\u00e1useas, v\u00f4mitos, dores de cabe\u00e7a, dor, dorm\u00eancia, sintomas do intestino ou da bexiga, e v\u00e1rios outros sinais e sintomas. A causa dos ependimomas \u00e9 desconhecida. Eles s\u00e3o conhecidos por recidivar localmente (mais comumente em indiv\u00edduos diagnosticados na inf\u00e2ncia). O tratamento pode variar dependendo da localiza\u00e7\u00e3o, grau e se o tumor se espalhou para a coluna, mas normalmente inclui cirurgia agressiva. O gerenciamento tamb\u00e9m pode incluir quimioterapia e radioterapia."
+    },
+    {
+        "qid":"0004295-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o ependimoma mixopapilar?",
+        "answer":"Como o ependimoma mixopilar pode ser tratado? O tratamento padr\u00e3o do ependimoma mixopapilar \u00e9 cirurgia com o objetivo de remover o maior n\u00famero poss\u00edvel de tumores. Esse tipo de tumor pode ser curado se todo o tumor for removido durante a cirurgia, o que \u00e9 referido como ressec\u00e7\u00e3o total, e geralmente h\u00e1 uma vis\u00e3o favor\u00e1vel nesses casos. No entanto, a cirurgia \u00e9 tipicamente menos curativa em tumores grandes, multifocais ou estendidos fora da medula espinhal. Esses tumores t\u00eam o potencial de renascer ap\u00f3s o diagn\u00f3stico inicial e cirurgia (recidiva), particularmente em indiv\u00edduos diagnosticados como crian\u00e7as. Ap\u00f3s a cirurgia, a radioterapia pode ser considerada para destruir as c\u00e9lulas cancerosas que podem permanecer no corpo. O uso da quimioterapia como outro tratamento do ependimoma mixopapilar permanece controverso; a quimioterapia tem sido amplamente utilizada em indiv\u00edduos pedi\u00e1tricos devido a doen\u00e7as mais agressivas. A utilidade de terapias adicionais ap\u00f3s cirurgia n\u00e3o \u00e9 clara para o subconjunto de indiv\u00edduos com recorr\u00eancia ou em indiv\u00edduos em que a ressec\u00e7\u00e3o total n\u00e3o pode ser alcan\u00e7ada."
+    }
+]

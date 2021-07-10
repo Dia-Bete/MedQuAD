@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000785-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Perrault?",
+        "answer":"A s\u00edndrome de Perrault \u00e9 uma condi\u00e7\u00e3o rara que causa diferentes padr\u00f5es de sinais e sintomas em machos e f\u00eameas afetados. Uma caracter\u00edstica fundamental dessa condi\u00e7\u00e3o \u00e9 a perda auditiva, que ocorre tanto em homens como em mulheres. As f\u00eameas afetadas tamb\u00e9m t\u00eam anormalidades dos ov\u00e1rios. Problemas neurol\u00f3gicos ocorrem em alguns machos e f\u00eameas afetados. Na s\u00edndrome de Perrault, os problemas auditivos s\u00e3o causados por altera\u00e7\u00f5es no ouvido interno, que \u00e9 conhecido como perda auditiva neurossensorial. O comprometimento geralmente afeta as duas orelhas e pode estar presente no nascimento ou come\u00e7ar na inf\u00e2ncia. A menos que a audi\u00e7\u00e3o seja completamente prejudicada ao nascer, os problemas auditivos pioram com o tempo. As f\u00eameas com s\u00edndrome de Perrault t\u00eam ov\u00e1rios anormais ou faltantes (disgenesia ov\u00e1rica), embora suas genitais externas sejam normais. Garotas gravemente afetadas n\u00e3o come\u00e7am menstrua\u00e7\u00e3o aos 16 anos (amenorreia prim\u00e1ria), e a maioria nunca tem um per\u00edodo menstrual. Mulheres menos gravemente afetadas t\u00eam uma perda precoce da fun\u00e7\u00e3o ov\u00e1rica (insufici\u00eancia ov\u00e1rica prim\u00e1ria); seus per\u00edodos menstruais come\u00e7am na adolesc\u00eancia, mas elas se tornam menos frequentes e eventualmente param antes dos 40 anos. Mulheres com s\u00edndrome de Perrault podem ter dificuldade em conceber ou ser incapazes de ter filhos biol\u00f3gicos (inf\u00e9rteis). Problemas neurol\u00f3gicos em indiv\u00edduos com s\u00edndrome de Perrault podem incluir defici\u00eancia intelectual, dificuldade com movimentos de equil\u00edbrio e coordena\u00e7\u00e3o (ataxia), e perda de sensa\u00e7\u00e3o e fraqueza nos membros (neuropatia perif\u00e9rica). No entanto, nem todo mundo com essa condi\u00e7\u00e3o tem problemas neurol\u00f3gicos."
+    },
+    {
+        "qid":"0000785-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Perrault?",
+        "answer":"A s\u00edndrome de Perrault \u00e9 um dist\u00farbio raro, menos de 100 indiv\u00edduos afetados foram descritos na literatura m\u00e9dica. \u00c9 prov\u00e1vel que a condi\u00e7\u00e3o seja subdiagnosticada, porque os homens sem uma irm\u00e3 afetada provavelmente ser\u00e3o diagnosticados como tendo perda auditiva isolada (n\u00e3o-sindr\u00f4mica) em vez de s\u00edndrome de Perrault."
+    },
+    {
+        "qid":"0000785-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Perrault?",
+        "answer":"A s\u00edndrome de Perrault tem v\u00e1rias causas gen\u00e9ticas. Muta\u00e7\u00f5es do gene C10orf2, CLPP, HARS2, LARS2 ou HSD17B4 foram encontradas em um pequeno n\u00famero de indiv\u00edduos afetados. As prote\u00ednas produzidas a partir de v\u00e1rios desses genes, incluindo C10orf2, CLPP, HARS2 e LARS2, funcionam em estruturas celulares chamadas mitoc\u00f4ndrias, que convertem a energia dos alimentos em uma forma que as c\u00e9lulas podem usar. Embora o efeito dessas muta\u00e7\u00f5es gen\u00e9ticas na fun\u00e7\u00e3o mitocondrial seja desconhecido, os pesquisadores especulam que a interrup\u00e7\u00e3o da produ\u00e7\u00e3o de energia mitocondrial poderia subjacer aos sinais e sintomas da s\u00edndrome de Perrault. A prote\u00edna produzida a partir do gene HSD17B4 \u00e9 ativa em estruturas celulares chamadas peroxissomas, que cont\u00eam uma variedade de enzimas que decomp\u00f5em muitas subst\u00e2ncias diferentes em c\u00e9lulas. Desconhece-se como muta\u00e7\u00f5es neste gene afetam a fun\u00e7\u00e3o peroxissoma ou levam \u00e0 perda auditiva em homens e mulheres afetados e anormalidades ov\u00e1ricas em mulheres com s\u00edndrome de Perrault. \u00c9 prov\u00e1vel que outros genes que n\u00e3o foram identificados tamb\u00e9m estejam envolvidos nesta condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000785-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Perrault \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000785-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Perrault?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Perrault: - Gene Review: Gene Review: Perrault Syndrome - Gene Testing Registry: Gonadal Disgenesis with auditive disfunction, autosomal recessive heredity - Gene Testing Registry: Perrault Syndrome 2 - Genetic Testing Registry: Perrault Syndrome 4 - Genetic Testing Registry: Perrault Syndrome 5 Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

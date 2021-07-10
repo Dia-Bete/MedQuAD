@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0001681-1",
+        "qtype":"information",
+        "question":"O que \u00e9 uma pneumonia criptog\u00eanica organizadora?",
+        "answer":"A pneumonia criptog\u00eanica organizadora (COP) \u00e9 uma forma de pneumonia intersticial idiop\u00e1tica caracterizada por inflama\u00e7\u00e3o pulmonar e cicatrizes que obstruem as pequenas vias a\u00e9reas e sacos de ar dos pulm\u00f5es (alv\u00e9olos). Sinais e sintomas podem incluir sintomas tipo gripe, como tosse, febre, mal-estar, fadiga e perda de peso. O COP muitas vezes afeta adultos na meia-idade (40 a 60 anos de idade). A causa subjacente exata da condi\u00e7\u00e3o \u00e9 desconhecida (idiop\u00e1tica). O tratamento varia com base na gravidade da condi\u00e7\u00e3o, mas geralmente inclui glucocorticoides."
+    },
+    {
+        "qid":"0001681-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da pneumonia criptog\u00eanica organizadora?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da pneumonia criptog\u00eanica? Sinais e sintomas de pneumonia organizativa criptog\u00eanica (COP) variam, mas podem incluir: tosse n\u00e3o produtiva persistente Respira\u00e7\u00e3o dif\u00edcil ou laboriosa Febre Malaise Perda de peso Hemoptise (rarara)"
+    },
+    {
+        "qid":"0001681-3",
+        "qtype":"causes",
+        "question":"O que causa pneumonia criptog\u00eanica organizadora?",
+        "answer":"O que causa pneumonia organizadora criptog\u00eanica? A causa subjacente da pneumonia criptog\u00eanica organizadora (COP) \u00e9 desconhecida (idiop\u00e1tica). A pneumonia organizadora \u00e9 especificamente diagnosticada como COP quando, entre outras caracter\u00edsticas, n\u00e3o se encontra uma causa definida para a pneumonia organizadora. Em outras palavras, qualquer causa conhecida para a pneumonia deve ser descartada antes de declarar que uma pessoa \u00e9 afetada pelo COP. Outras formas de organiza\u00e7\u00e3o da pneumonia podem resultar de infec\u00e7\u00e3o (bact\u00e9rias, v\u00edrus, parasitas ou fungos); drogas; ou uma rea\u00e7\u00e3o \u00e0 radioterapia para c\u00e2ncer de mama. Organizar pneumonia tamb\u00e9m pode ser associado a dist\u00farbios espec\u00edficos, tais como alguns dist\u00farbios do tecido conjuntivo, neoplasias sangu\u00edneas (c\u00e2nceres), ou colite ulcerativa."
+    },
+    {
+        "qid":"0001681-4",
+        "qtype":"inheritance",
+        "question":"A pneumonia organizadora criptog\u00eanica \u00e9 herdada?",
+        "answer":"A pneumonia organizativa criptog\u00eanica \u00e9 herdada? N\u00e3o sabemos de nenhum caso familiar de pneumonia organizadora criptog\u00eanica (COP) na literatura m\u00e9dica, e para nosso conhecimento, n\u00e3o h\u00e1 evid\u00eancias de que algumas pessoas possam estar geneticamente predispostas a desenvolver COP."
+    },
+    {
+        "qid":"0001681-5",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar pneumonia criptog\u00eanica organizadora?",
+        "answer":"Como \u00e9 diagnosticada pneumonia criptog\u00eanica organizadora? Um diagn\u00f3stico de pneumonia criptog\u00eanica \u00e9 muitas vezes suspeito com base na presen\u00e7a de sinais e sintomas caracter\u00edsticos uma vez que outras condi\u00e7\u00f5es que causam caracter\u00edsticas semelhantes foram exclu\u00eddas. Isso inclui descartar outras causas conhecidas de organiza\u00e7\u00e3o da pneumonia. Testes adicionais, como tomografia computadorizada ou bi\u00f3psia pulmonar, podem confirmar o diagn\u00f3stico."
+    },
+    {
+        "qid":"0001681-6",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para pneumonia criptog\u00eanica organizadora?",
+        "answer":"Como pode ser tratada a pneumonia organizadora criptog\u00eanica? O tratamento da pneumonia organizadora criptog\u00eanica (COP) geralmente depende da gravidade da condi\u00e7\u00e3o. Por exemplo, pessoas que s\u00e3o levemente afetadas podem simplesmente ser monitoradas como alguns casos podem melhorar por conta pr\u00f3pria. Infelizmente, a maioria das pessoas com COP t\u00eam sintomas persistentes e/ou progressivos que exigir\u00e3o terapia. Nesses casos, glucocorticoides orais ou intravenosos podem ser administrados que muitas vezes resultam em r\u00e1pida melhoria dos sintomas."
+    }
+]

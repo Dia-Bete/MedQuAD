@@ -1,0 +1,44 @@
+[
+    {
+        "qid":"0000996-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) doen\u00e7a card\u00edaca coronariana?",
+        "answer":""
+    },
+    {
+        "qid":"0000996-2",
+        "qtype":"causes",
+        "question":"O que causa doen\u00e7a card\u00edaca coronariana?",
+        "answer":""
+    },
+    {
+        "qid":"0000996-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da doen\u00e7a card\u00edaca coronariana?",
+        "answer":""
+    },
+    {
+        "qid":"0000996-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a doen\u00e7a card\u00edaca coronariana?",
+        "answer":""
+    },
+    {
+        "qid":"0000996-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a card\u00edaca coronariana?",
+        "answer":""
+    },
+    {
+        "qid":"0000996-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a doen\u00e7a card\u00edaca coronariana?",
+        "answer":""
+    },
+    {
+        "qid":"0000996-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para doen\u00e7a card\u00edaca coronariana?",
+        "answer":""
+    }
+]

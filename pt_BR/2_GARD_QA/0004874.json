@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0004874-1",
+        "qtype":"information",
+        "question":"O que \u00e9 uma erup\u00e7\u00e3o p\u00farpura pigmentada?",
+        "answer":"Erup\u00e7\u00e3o p\u00farpura pigmentada \u00e9 uma condi\u00e7\u00e3o que causa les\u00f5es de pele castanha-roxa, mais comumente nas pernas inferiores. Em alguns casos, as les\u00f5es cut\u00e2neas causam comich\u00e3o grave. As les\u00f5es cut\u00e2neas podem se espalhar ao longo do tempo, ou esclarecer por conta pr\u00f3pria. A causa da erup\u00e7\u00e3o p\u00farpura pigmentada \u00e9 desconhecida."
+    },
+    {
+        "qid":"0004874-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da erup\u00e7\u00e3o p\u00farpura pigmentada?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da erup\u00e7\u00e3o p\u00farpura pigmentada? A erup\u00e7\u00e3o p\u00farpura pigmentada \u00e9 caracterizada por manchas castanhas vermelhas na pele. Essas manchas resultam de pequenos pontos vermelhos, \u00e0s vezes conhecidos como manchas de pimenta de cayena, que se agrupam para formar uma mancha vermelha plana. Com o tempo, essas manchas se tornam castanhas e depois desaparecem lentamente, durante semanas a meses. N\u00e3o houve sintomas sist\u00eamicos relatados com erup\u00e7\u00e3o p\u00farpura pigmentada. A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para erup\u00e7\u00e3o p\u00farpura pigmentada. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Anormalidade da pele - Heran\u00e7a dominante autoss\u00f4mica - In\u00edcio neonatal - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0004874-3",
+        "qtype":"causes",
+        "question":"O que causa erup\u00e7\u00e3o p\u00farpura pigmentada?",
+        "answer":"O que causa erup\u00e7\u00e3o p\u00farpura pigmentada? A causa da erup\u00e7\u00e3o p\u00farpura pigmentada \u00e9 desconhecida. Ocasionalmente, ocorre como uma rea\u00e7\u00e3o a um medicamento, aditivo alimentar, infec\u00e7\u00e3o viral ou ap\u00f3s o exerc\u00edcio. Em casos raros, parece haver um componente gen\u00e9tico."
+    },
+    {
+        "qid":"0004874-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para erup\u00e7\u00e3o p\u00farpura pigmentada?",
+        "answer":"Que tratamento est\u00e1 dispon\u00edvel para erup\u00e7\u00e3o p\u00farpura pigmentada? N\u00e3o h\u00e1 tratamento que tenha sido comprovado ser ben\u00e9fico para pessoas com erup\u00e7\u00e3o p\u00farpura pigmentada. No entanto, alguns tratamentos t\u00eam sido relatados para melhorar esta condi\u00e7\u00e3o, incluindo pentoxifilina, aminaftona e fotoquimioterapia (PUVA)."
+    }
+]

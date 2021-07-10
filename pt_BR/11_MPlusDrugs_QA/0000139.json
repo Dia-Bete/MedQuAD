@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0000139-1",
+        "qtype":"indication",
+        "question":"Quem deveria pegar Betametasone t\u00f3pico e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000139-2",
+        "qtype":"usage",
+        "question":"Como Betametasona Topical deve ser usada e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000139-3",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Betametasona t\u00f3pica?",
+        "answer":""
+    },
+    {
+        "qid":"0000139-4",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Betametasona t\u00f3pica?",
+        "answer":""
+    },
+    {
+        "qid":"0000139-5",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Betametasona t\u00f3pica?",
+        "answer":""
+    },
+    {
+        "qid":"0000139-6",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o da Betametasona t\u00f3pica?",
+        "answer":""
+    },
+    {
+        "qid":"0000139-7",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Betametasona t\u00f3pica?",
+        "answer":""
+    },
+    {
+        "qid":"0000139-8",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca da Betametasona t\u00f3pica?",
+        "answer":""
+    },
+    {
+        "qid":"0000139-9",
+        "qtype":"brand names of combination products",
+        "question":"Quais s\u00e3o os nomes das marcas de produtos combinados da Betametasona t\u00f3pica?",
+        "answer":""
+    }
+]

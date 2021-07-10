@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0001653-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) distrofia de Fuchs?",
+        "answer":""
+    },
+    {
+        "qid":"0001653-2",
+        "qtype":"causes",
+        "question":"O que causa a distrofia de Fuchs?",
+        "answer":""
+    },
+    {
+        "qid":"0001653-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da distrofia de Fuchs?",
+        "answer":""
+    },
+    {
+        "qid":"0001653-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a distrofia de Fuchs?",
+        "answer":""
+    },
+    {
+        "qid":"0001653-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a distrofia de Fuchs?",
+        "answer":""
+    },
+    {
+        "qid":"0001653-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a distrofia de Fuchs?",
+        "answer":""
+    },
+    {
+        "qid":"0001653-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para a distrofia de Fuchs?",
+        "answer":""
+    },
+    {
+        "qid":"0001653-8",
+        "qtype":"prevention",
+        "question":"Como prevenir a distrofia de Fuchs?",
+        "answer":""
+    }
+]

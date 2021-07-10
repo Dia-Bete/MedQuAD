@@ -1,0 +1,14 @@
+[
+    {
+        "qid":"0001783-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Gumma?",
+        "answer":""
+    },
+    {
+        "qid":"0001783-2",
+        "qtype":"causes",
+        "question":"O que causa Gumma?",
+        "answer":""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000795-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de fosfoglicerato mutase?",
+        "answer":"A defici\u00eancia de mutase de fosfoglicerato \u00e9 uma desordem que afeta principalmente os m\u00fasculos usados para o movimento (musculos esquel\u00e9ticos). Come\u00e7ando na inf\u00e2ncia ou adolesc\u00eancia, os indiv\u00edduos afetados sentem dor muscular ou c\u00e3ibras ap\u00f3s atividade f\u00edsica intensa. Algumas pessoas com essa condi\u00e7\u00e3o tamb\u00e9m t\u00eam epis\u00f3dios recorrentes de mioglobin\u00faria. A mioglobin\u00faria ocorre quando o tecido muscular se quebra anormalmente e libera uma prote\u00edna chamada mioglobina, que \u00e9 processada pelos rins e liberada na urina. Se n\u00e3o tratada, a mioglobin\u00faria pode levar a insufici\u00eancia renal. Em alguns casos de defici\u00eancia de mutase de fosfoglicerato, estruturas microsc\u00f3picas em forma de tubo chamados agregados tubulares s\u00e3o vistos em fibras musculares. N\u00e3o est\u00e1 claro como os agregados tubulares est\u00e3o associados com os sinais e sintomas do dist\u00farbio."
+    },
+    {
+        "qid":"0000795-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de fosfoglicerato mutase?",
+        "answer":"A defici\u00eancia de fosfoglicerato mutase \u00e9 uma condi\u00e7\u00e3o rara; cerca de 15 pessoas afetadas foram relatadas na literatura m\u00e9dica. Os indiv\u00edduos mais afetados foram afro-americanos."
+    },
+    {
+        "qid":"0000795-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de fosfoglicerato mutase?",
+        "answer":"A defici\u00eancia de mutase de fosfoglicerato \u00e9 causada por muta\u00e7\u00f5es no gene PGAM2. Este gene fornece instru\u00e7\u00f5es para fazer uma enzima chamada fosfoglicerato mutase, que est\u00e1 envolvida em um processo cr\u00edtico de produ\u00e7\u00e3o de energia em c\u00e9lulas conhecidas como glic\u00f3lise. Durante a glic\u00f3lise, a glicose de a\u00e7\u00facar simples \u00e9 quebrada para produzir energia. A vers\u00e3o de fosfoglicerato mutase produzida a partir do gene PGAM2 \u00e9 encontrada principalmente em c\u00e9lulas musculares esquel\u00e9ticas. Muta\u00e7\u00f5es no gene PGAM2 reduzem grandemente a atividade da mutase de fosfoglicerato, que interrompe a produ\u00e7\u00e3o de energia nestas c\u00e9lulas. Este defeito subjace \u00e0s c\u00e3ibras musculares e mioglobin\u00faria que ocorrem ap\u00f3s exerc\u00edcios extenuantes em indiv\u00edduos afetados."
+    },
+    {
+        "qid":"0000795-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de fosfoglicerato mutase \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene PGAM2 em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o. No entanto, pessoas que carregam uma c\u00f3pia alterada do gene PGAM2 podem ter algumas caracter\u00edsticas de defici\u00eancia de mutase fosfoglicerato, incluindo epis\u00f3dios de c\u00e3ibras musculares induzidas pelo exerc\u00edcio e mioglobin\u00faria."
+    },
+    {
+        "qid":"0000795-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para defici\u00eancia de mutase de fosfoglicerato?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da defici\u00eancia de mutase de fosfoglicerato: - Registro de Testes Gen\u00e9ticos: Doen\u00e7a de armazenamento de glicog\u00e9nio tipo X Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0004657-1",
+        "qtype":"information",
+        "question":"O que \u00e9 o carcinossarcoma ov\u00e1rico?",
+        "answer":"O carcinossarcoma ov\u00e1rico \u00e9 um c\u00e2ncer do ov\u00e1rio que \u00e9 composto por dois tipos de c\u00e9lulas, a saber, c\u00e9lulas de carcinoma e c\u00e9lulas de sarcoma. O carcinossarcoma ov\u00e1rico tamb\u00e9m \u00e9 conhecido como tumor m\u00faltiplo maligno do ov\u00e1rio. A idade m\u00e9dia das mulheres no momento do diagn\u00f3stico \u00e9 de 60 a 70 anos. Os sintomas podem incluir dor no abdome ou \u00e1rea p\u00e9lvica, incha\u00e7o ou incha\u00e7o do abdome, rapidamente sentir-se cheio ao comer ou outros problemas digestivos. A causa do carcinossarcoma ovariano \u00e9 atualmente desconhecida. O tratamento geralmente consiste em cirurgias (\u00e0s vezes chamadas debulking) e quimioterapia."
+    },
+    {
+        "qid":"0004657-2",
+        "qtype":"causes",
+        "question":"O que causa o carcinossarcoma ovariano?",
+        "answer":"H\u00e1 uma causa heredit\u00e1ria para o carcinossarcoma ov\u00e1rico? O carcinossarcoma ov\u00e1rico n\u00e3o \u00e9 causado por uma muta\u00e7\u00e3o gen\u00e9tica herdada. No entanto, um artigo na literatura m\u00e9dica sugere que uma muta\u00e7\u00e3o herdada no gene BRCA2 contribuiu para o desenvolvimento do carcinossarcoma ovariano em uma mulher."
+    },
+    {
+        "qid":"0004657-3",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o carcinossarcoma ovariano?",
+        "answer":"Como o carcinossarcoma ovariano pode ser tratado? Como o carcinossarcoma do ov\u00e1rio \u00e9 raro, n\u00e3o h\u00e1 diretrizes de tratamento estabelecidas. Decis\u00f5es de tratamento s\u00e3o baseadas nas caracter\u00edsticas \u00fanicas do diagn\u00f3stico de cada indiv\u00edduo. A National Integral Cancer Network (NCCN), um grupo de m\u00e9dicos e pesquisadores que se esfor\u00e7am para melhorar o tratamento do c\u00e2ncer, recomenda que as mulheres com carcinossarcoma ov\u00e1rico sejam tratadas de forma semelhante \u00e0s mulheres com carcinoma ov\u00e1rico (tamb\u00e9m chamado de c\u00e2ncer epitelial do ov\u00e1rio), que \u00e9 o tipo mais comum de c\u00e2ncer ov\u00e1rico. Atualmente, o tratamento para carcinossarcoma ovariano geralmente come\u00e7a com cirurgia para remover o maior n\u00famero poss\u00edvel de c\u00e2ncer. A quimioterapia pode ser usada para destruir as c\u00e9lulas cancerosas que podem estar no corpo ap\u00f3s a cirurgia. Medicamentos que cont\u00eam platina (como a cisplatina do f\u00e1rmaco) parecem ser as quimioterapias mais eficazes para o carcinossarcoma ovariano. Evid\u00eancias recentes sugerem que outro medicamento chamado ifosfamida pode aumentar a efetividade do tratamento quando usado em combina\u00e7\u00e3o com medicamentos \u00e0 base de platina."
+    }
+]

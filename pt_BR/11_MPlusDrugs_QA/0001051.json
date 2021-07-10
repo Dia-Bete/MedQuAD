@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0001051-1",
+        "qtype":"important warning",
+        "question":"Que aviso ou informa\u00e7\u00e3o importante eu deveria saber sobre a inje\u00e7\u00e3o de Ramucirumab?",
+        "answer":""
+    },
+    {
+        "qid":"0001051-2",
+        "qtype":"indication",
+        "question":"Quem deveria receber a inje\u00e7\u00e3o de Ramucirumab e por que \u00e9 prescrita?",
+        "answer":""
+    },
+    {
+        "qid":"0001051-3",
+        "qtype":"usage",
+        "question":"Como deve ser usada a inje\u00e7\u00e3o de Ramucirumab e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0001051-5",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre a inje\u00e7\u00e3o de Ramucirumab?",
+        "answer":""
+    },
+    {
+        "qid":"0001051-6",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com a inje\u00e7\u00e3o de Ramucirumab?",
+        "answer":""
+    },
+    {
+        "qid":"0001051-7",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de inje\u00e7\u00e3o de Ramucirumab?",
+        "answer":""
+    },
+    {
+        "qid":"0001051-8",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da inje\u00e7\u00e3o de Ramucirumab?",
+        "answer":""
+    },
+    {
+        "qid":"0001051-9",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o devo saber sobre a inje\u00e7\u00e3o de Ramucirumab?",
+        "answer":""
+    },
+    {
+        "qid":"0001051-10",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes da marca da inje\u00e7\u00e3o de Ramucirumab?",
+        "answer":""
+    }
+]

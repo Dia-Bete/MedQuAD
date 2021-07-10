@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0001295-1",
+        "qtype":"information",
+        "question":"O que \u00e9 S\u00edndrome de Olho Seco?",
+        "answer":""
+    },
+    {
+        "qid":"0001295-2",
+        "qtype":"causes",
+        "question":"O que causa S\u00edndrome de Olho Seco?",
+        "answer":""
+    },
+    {
+        "qid":"0001295-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome do olho seco?",
+        "answer":""
+    },
+    {
+        "qid":"0001295-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar S\u00edndrome de Olho Seco?",
+        "answer":""
+    },
+    {
+        "qid":"0001295-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome do olho seco?",
+        "answer":""
+    },
+    {
+        "qid":"0001295-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a s\u00edndrome de olho seco?",
+        "answer":""
+    },
+    {
+        "qid":"0001295-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da s\u00edndrome do olho seco?",
+        "answer":""
+    },
+    {
+        "qid":"0001295-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para s\u00edndrome de olho seco?",
+        "answer":""
+    },
+    {
+        "qid":"0001295-9",
+        "qtype":"prevention",
+        "question":"Como prevenir a s\u00edndrome de olho seco?",
+        "answer":""
+    }
+]

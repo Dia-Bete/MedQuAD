@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000342-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) s\u00edndrome autoinflamat\u00f3ria familiar fria?",
+        "answer":"A s\u00edndrome autoinflamat\u00f3ria familiar \u00e9 uma condi\u00e7\u00e3o que causa epis\u00f3dios de febre, erup\u00e7\u00e3o cut\u00e2nea e dor nas articula\u00e7\u00f5es ap\u00f3s exposi\u00e7\u00e3o a temperaturas frias. Esses epis\u00f3dios geralmente come\u00e7am na inf\u00e2ncia e ocorrem ao longo da vida. Pessoas com essa condi\u00e7\u00e3o geralmente sentem sintomas ap\u00f3s exposi\u00e7\u00e3o ao frio de uma hora ou mais, embora em alguns indiv\u00edduos apenas alguns minutos de exposi\u00e7\u00e3o seja necess\u00e1rio. Os sintomas podem ser atrasados at\u00e9 algumas horas ap\u00f3s a exposi\u00e7\u00e3o ao frio. Epis\u00f3dios duram em m\u00e9dia 12 horas, mas podem continuar por at\u00e9 3 dias. Em pessoas com s\u00edndrome autoinflamat\u00f3ria familiar fria, o sintoma mais comum que ocorre durante um epis\u00f3dio \u00e9 uma erup\u00e7\u00e3o cut\u00e2nea com coceira ou queimando. A erup\u00e7\u00e3o geralmente come\u00e7a no rosto ou extremidades e se espalha pelo resto do corpo. Ocasionalmente incha\u00e7o nas extremidades pode ocorrer. Al\u00e9m da erup\u00e7\u00e3o cut\u00e2nea, os epis\u00f3dios s\u00e3o caracterizados por febre, arrepios e dor nas articula\u00e7\u00f5es, afetando a maioria das vezes as m\u00e3os, joelhos e tornozelos. Vermelhid\u00e3o nos brancos do olho (conjuntivite), sudorese, sonol\u00eancia, dor de cabe\u00e7a, sede e n\u00e1useas tamb\u00e9m podem ocorrer durante um epis\u00f3dio deste dist\u00farbio."
+    },
+    {
+        "qid":"0000342-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome autoinflamat\u00f3ria do frio familiar?",
+        "answer":"A s\u00edndrome autoinflamat\u00f3ria familiar \u00e9 uma condi\u00e7\u00e3o muito rara, acredita-se que tenha uma preval\u00eancia de menos de 1 por milh\u00e3o de pessoas."
+    },
+    {
+        "qid":"0000342-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome auto-inflamat\u00f3ria familiar fria?",
+        "answer":"Muta\u00e7\u00f5es nos genes NLRP3 e NLRP12 causam s\u00edndrome autoinflamat\u00f3ria familiar fria. O gene NLRP3 (tamb\u00e9m conhecido como CIAS1) fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada criopirina, e o gene NLRP12 fornece instru\u00e7\u00f5es para fazer a prote\u00edna monarca-1. A criopirina e o monarca-1 pertencem a uma fam\u00edlia de prote\u00ednas chamadas dom\u00ednio de liga\u00e7\u00e3o a nucleot\u00eddeos e prote\u00ednas ricas em leucina contendo (NLR). Estas prote\u00ednas est\u00e3o envolvidas no sistema imunol\u00f3gico, ajudando a regular o processo de inflama\u00e7\u00e3o. A inflama\u00e7\u00e3o ocorre quando o sistema imunol\u00f3gico envia mol\u00e9culas de sinaliza\u00e7\u00e3o e gl\u00f3bulos brancos para um local de les\u00e3o ou doen\u00e7a para combater invasores microbianos e facilitar o reparo de tecidos. Quando isso foi feito, o corpo para (inibir) a resposta inflamat\u00f3ria para evitar danos em suas pr\u00f3prias c\u00e9lulas e tecidos. A criopirina est\u00e1 envolvida na montagem de um complexo molecular chamado inflamassoma, que ajuda a iniciar o processo inflamat\u00f3rio. Muta\u00e7\u00f5es no gene NLRP3 resultam em uma prote\u00edna de criopirina hiperativa que desencadeia inadequadamente uma resposta inflamat\u00f3ria. Monarch-1 est\u00e1 envolvido na inibi\u00e7\u00e3o da resposta inflamat\u00f3ria. Muta\u00e7\u00f5es no gene NLRP12 parecem reduzir a capacidade da prote\u00edna monarca-1 para inibir a inflama\u00e7\u00e3o. A deteriora\u00e7\u00e3o dos mecanismos do corpo para controlar a inflama\u00e7\u00e3o resulta nos epis\u00f3dios de erup\u00e7\u00e3o cut\u00e2nea, febre e dor nas articula\u00e7\u00f5es observadas na s\u00edndrome autoinflamat\u00f3ria familiar fria. N\u00e3o est\u00e1 claro por que epis\u00f3dios s\u00e3o desencadeados pela exposi\u00e7\u00e3o ao frio neste dist\u00farbio."
+    },
+    {
+        "qid":"0000342-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome auto-inflamat\u00f3ria familiar \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante de um pai afetado; uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000342-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome auto-inflamat\u00f3ria familiar fria?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de auto-inflama\u00e7\u00e3o fria familiar: - Registro de Testes Gen\u00e9ticos: S\u00edndrome de auto-inflama\u00e7\u00e3o fria familiar 2 - Registro de Testes Gen\u00e9ticos: Urtic\u00e1ria fria familiar Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

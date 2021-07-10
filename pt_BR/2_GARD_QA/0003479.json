@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0003479-1",
+        "qtype":"information",
+        "question":"O que \u00e9 fissura lar\u00edngea?",
+        "answer":"Uma fissura lar\u00edngea \u00e9 uma rara anormalidade da separa\u00e7\u00e3o entre a laringe, ou caixa de voz, e o es\u00f4fago. Normalmente, quando a laringe se desenvolve, \u00e9 completamente separada do es\u00f4fago, ent\u00e3o os alimentos engolidos v\u00e3o diretamente para o est\u00f4mago. Quando ocorre uma fissura lar\u00edngea, h\u00e1 uma abertura entre a laringe e o es\u00f4fago para que comida e l\u00edquido possam passar pela laringe para os pulm\u00f5es. Existem v\u00e1rios tipos diferentes de fissuras lar\u00edngeas (tipos I a IV), classificadas com base na extens\u00e3o da fissura."
+    },
+    {
+        "qid":"0003479-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da fissura lar\u00edngea?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da fissura lar\u00edngea? Os sintomas das fissuras lar\u00edngeas variam de estridor leve a dificuldades significativas para respirar e engolir. A gravidade dos sintomas depende da gravidade da fissura. Problemas de degluti\u00e7\u00e3o, um grito e dificuldades alimentares s\u00e3o comuns. Alimentar muitas vezes causa estridor, tosse, sufocamento, gagging, cianose, regurgita\u00e7\u00e3o, e infec\u00e7\u00f5es respirat\u00f3rias frequentes. Muitos indiv\u00edduos com fissuras lar\u00edngeas desenvolvem doen\u00e7a pulmonar cr\u00f4nica. A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para fissura lar\u00edngea. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Laringomalacia 90% Anormalidade da voz - Aspira\u00e7\u00e3o - Cianose - Estridor lar\u00edngeo - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0003479-3",
+        "qtype":"causes",
+        "question":"O que causa fissura lar\u00edngea?",
+        "answer":"O que causa fissura lar\u00edngea? Durante o desenvolvimento fetal, a traqueia e o es\u00f4fago come\u00e7am como um tubo. Eles mais tarde se separam quando uma parede de tecido conhecida como o septo traqueosof\u00e1gico se forma, dividindo o tubo original na traqueia e no es\u00f4fago. Se o septo traqueosof\u00e1gico falhar na forma\u00e7\u00e3o, a traqueia e o es\u00f4fago podem permanecer abertos um ao outro ou anormalmente em forma, causando anormalidades como uma fissura lar\u00edngea, f\u00edstula traqueosof\u00e1gica, ou atresia esof\u00e1gica. Exatamente por que essas anormalidades ocorrem \u00e9 desconhecido."
+    },
+    {
+        "qid":"0003479-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a fissura lar\u00edngea?",
+        "answer":"Como a fissura lar\u00edngea pode ser tratada? Terapias m\u00e9dicas e alimentares s\u00e3o muitas vezes os primeiros tratamentos para pacientes com fissura lar\u00edngea (especialmente tipo I e tipo II). [4126] A preven\u00e7\u00e3o do refluxo gastroesof\u00e1gico tamb\u00e9m \u00e9 importante em todos os tipos de fendas. As fissuras tipo I muitas vezes se corrigem com o tempo com o crescimento. Durante a inf\u00e2ncia, amamentar na posi\u00e7\u00e3o vertical ou espessamento da f\u00f3rmula pode ser necess\u00e1rio. Se esses tratamentos n\u00e3o s\u00e3o suficientes, pode ser recomendada cirurgia. Diferentes abordagens cir\u00fargicas foram propostas para o manejo da fissura lar\u00edngea. O momento e a abordagem da cirurgia podem diferir dependendo da gravidade dos sintomas, anormalidades associadas e tipo de fissura."
+    }
+]

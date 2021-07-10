@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001013-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Van der Woude?",
+        "answer":"A s\u00edndrome de Van der Woude \u00e9 uma condi\u00e7\u00e3o que afeta o desenvolvimento do rosto. Muitas pessoas com este dist\u00farbio nascem com um l\u00e1bio fendido, um paladar fendido (uma abertura no telhado da boca), ou ambos. Indiv\u00edduos afetados geralmente t\u00eam depress\u00f5es (pisos) perto do centro do l\u00e1bio inferior, que podem parecer \u00famidos devido \u00e0 presen\u00e7a de gl\u00e2ndulas salivares e mucosas nos po\u00e7os. Pequenos mont\u00edculos de tecido no l\u00e1bio inferior tamb\u00e9m podem ocorrer. Em alguns casos, pessoas com s\u00edndrome de Van der Woude t\u00eam dentes faltando. Pessoas com s\u00edndrome de Van der Woude que t\u00eam fissura de l\u00e1bio e/ou palato, como outros indiv\u00edduos com essas condi\u00e7\u00f5es faciais, t\u00eam um risco aumentado de atraso no desenvolvimento da linguagem, defici\u00eancias de aprendizagem, ou outros problemas cognitivos leves. O QI m\u00e9dio de indiv\u00edduos com s\u00edndrome de van der Woude n\u00e3o \u00e9 significativamente diferente do da popula\u00e7\u00e3o geral."
+    },
+    {
+        "qid":"0001013-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Van der Woude?",
+        "answer":"Acredita-se que a s\u00edndrome de Van der Woude ocorre em 1 em 35.000 a 1 em 100.000 pessoas, baseado em dados da Europa e \u00c1sia. A s\u00edndrome de Van der Woude \u00e9 a causa mais comum de fissura labial e palatina resultante de varia\u00e7\u00f5es em um \u00fanico gene, e esta condi\u00e7\u00e3o representa aproximadamente 1 em 50 casos como este."
+    },
+    {
+        "qid":"0001013-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Van der Woude?",
+        "answer":"Muta\u00e7\u00f5es no gene IRF6 causam s\u00edndrome de Van der Woude. O gene IRF6 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que desempenha um papel importante no desenvolvimento precoce. Esta prote\u00edna \u00e9 um fator de transcri\u00e7\u00e3o, o que significa que se liga (vindas) a regi\u00f5es espec\u00edficas do DNA e ajuda a controlar a atividade de genes particulares. A prote\u00edna IRF6 \u00e9 ativa em c\u00e9lulas que d\u00e3o origem a tecidos na cabe\u00e7a e no rosto. Tamb\u00e9m est\u00e1 envolvido no desenvolvimento de outras partes do corpo, incluindo a pele e genitais. Muta\u00e7\u00f5es no gene IRF6 que causam a s\u00edndrome de Van der Woude impedem que uma c\u00f3pia do gene em cada c\u00e9lula produza qualquer prote\u00edna funcional. A escassez da prote\u00edna IRF6 afeta o desenvolvimento e matura\u00e7\u00e3o dos tecidos no rosto, resultando nos sinais e sintomas da s\u00edndrome de van der Woude."
+    },
+    {
+        "qid":"0001013-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Van der Woude \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Na maioria dos casos, uma pessoa afetada tem um pai com a condi\u00e7\u00e3o. Ocasionalmente, um indiv\u00edduo que tem uma c\u00f3pia do gene alterado n\u00e3o mostra nenhum sinal ou sintomas do dist\u00farbio."
+    },
+    {
+        "qid":"0001013-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Van der Woude?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da s\u00edndrome de Van der Woude: - Gene Review: Gene Review: IRF6-Related Disorders - Genetic Testing Registry: Van der Woude syndrome Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001046-1",
+        "qtype":"information",
+        "question":"O que \u00e9 agammaglobulinemia ligada a X?",
+        "answer":"Agammaglobulinemia ligada a X (XLA) \u00e9 uma condi\u00e7\u00e3o que afeta o sistema imunol\u00f3gico e ocorre quase exclusivamente em homens. Pessoas com XLA t\u00eam muito poucas c\u00e9lulas B, que s\u00e3o gl\u00f3bulos brancos especializados que ajudam a proteger o corpo contra infec\u00e7\u00f5es. As c\u00e9lulas B podem amadurecer em c\u00e9lulas que produzem prote\u00ednas especiais chamadas anticorpos ou imunoglobulinas. Anticorpos se ligam a part\u00edculas e germes estranhos espec\u00edficos, marcando-os para destrui\u00e7\u00e3o. Indiv\u00edduos com XLA s\u00e3o mais suscet\u00edveis a infec\u00e7\u00f5es porque seu corpo produz poucos anticorpos. Crian\u00e7as com XLA geralmente s\u00e3o saud\u00e1veis nos primeiros 1 ou 2 meses de vida porque s\u00e3o protegidas por anticorpos adquiridos antes do nascimento de sua m\u00e3e. Depois desse tempo, os anticorpos maternos s\u00e3o removidos do corpo, e a crian\u00e7a afetada come\u00e7a a desenvolver infec\u00e7\u00f5es recorrentes. Em crian\u00e7as com XLA, as infec\u00e7\u00f5es geralmente levam mais tempo para melhorar e depois voltam, mesmo com antibi\u00f3ticos. As infec\u00e7\u00f5es bacterianas mais comuns que ocorrem em pessoas com XLA s\u00e3o infec\u00e7\u00f5es pulmonares (pneumonia e bronquite), infec\u00e7\u00f5es de ouvido (otite), olho rosa (conjuntivite), e infec\u00e7\u00f5es sinusais (sinusite). Infec\u00e7\u00f5es que causam diarreia cr\u00f4nica tamb\u00e9m s\u00e3o comuns. Infec\u00e7\u00f5es recorrentes podem causar danos aos \u00f3rg\u00e3os. Pessoas com XLA podem desenvolver infec\u00e7\u00f5es bacterianas graves, amea\u00e7adoras de vida; no entanto, indiv\u00edduos afetados n\u00e3o s\u00e3o particularmente vulner\u00e1veis a infec\u00e7\u00f5es causadas por v\u00edrus. Com tratamento para substituir anticorpos, as infec\u00e7\u00f5es geralmente podem ser evitadas, melhorando a qualidade de vida das pessoas com XLA."
+    },
+    {
+        "qid":"0001046-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por agammaglobulinemia ligada a X?",
+        "answer":"XLA ocorre em aproximadamente 1 em 200.000 rec\u00e9m-nascidos."
+    },
+    {
+        "qid":"0001046-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 agammaglobulinemia ligada a X?",
+        "answer":"Muta\u00e7\u00f5es no gene BTK causam XLA. Este gene fornece instru\u00e7\u00f5es para fazer a prote\u00edna BTK, que \u00e9 importante para o desenvolvimento de c\u00e9lulas B e o funcionamento normal do sistema imunol\u00f3gico. A maioria das muta\u00e7\u00f5es no gene BTK impedem a produ\u00e7\u00e3o de qualquer prote\u00edna BTK. A aus\u00eancia de prote\u00ednas BTK funcionais bloqueia o desenvolvimento de c\u00e9lulas B e leva \u00e0 falta de anticorpos. Sem anticorpos, o sistema imunol\u00f3gico n\u00e3o pode responder corretamente a invasores estranhos e prevenir infec\u00e7\u00f5es."
+    },
+    {
+        "qid":"0001046-4",
+        "qtype":"inheritance",
+        "question":"A agammaglobulinemia ligada a X \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o recessivo ligado a X. O gene associado a esta condi\u00e7\u00e3o est\u00e1 localizado no cromossomo X, que \u00e9 um dos dois cromossomos sexuais. Em machos (que t\u00eam apenas um cromossomo X), uma c\u00f3pia alterada do gene em cada c\u00e9lula \u00e9 suficiente para causar a condi\u00e7\u00e3o. Em f\u00eameas (que t\u00eam dois cromossomos X), uma muta\u00e7\u00e3o teria que ocorrer em ambas as c\u00f3pias do gene para causar a desordem. Porque \u00e9 improv\u00e1vel que as f\u00eameas tenham duas c\u00f3pias alteradas deste gene, os machos s\u00e3o afetados por dist\u00farbios recessivos ligados a X muito mais freq\u00fcentemente do que as f\u00eameas. Uma caracter\u00edstica da heran\u00e7a ligada a X \u00e9 que os pais n\u00e3o podem passar os tra\u00e7os ligados a X para seus filhos. Cerca de metade dos indiv\u00edduos afetados n\u00e3o t\u00eam hist\u00f3rico familiar de XLA. Na maioria desses casos, a m\u00e3e da pessoa afetada \u00e9 portadora de um gene BTK alterado. Os portadores n\u00e3o t\u00eam as anormalidades do sistema imunol\u00f3gico associadas ao XLA, mas podem passar o gene alterado para seus filhos. Em outros casos, a m\u00e3e n\u00e3o \u00e9 portadora e o indiv\u00edduo afetado tem uma nova muta\u00e7\u00e3o no gene BTK."
+    },
+    {
+        "qid":"0001046-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para agammaglobulinemia ligada a X?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo de agammaglobulinemia ligada a X: - Gene Review: Gene Review: X-Linked Agammaglobulinemia - Gene Testing Registry: X-linked agammaglobulinemia - MedlinePlus Enciclop\u00e9dia: Agammaglobulinemia Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Medicina - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

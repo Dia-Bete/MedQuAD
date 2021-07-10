@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000989-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Treacher Collins?",
+        "answer":"A s\u00edndrome de Traicher Collins \u00e9 uma condi\u00e7\u00e3o que afeta o desenvolvimento de ossos e outros tecidos do rosto. Os sinais e sintomas deste dist\u00farbio variam muito, variando de quase inaperceb\u00edvel a grave. Os indiv\u00edduos mais afetados t\u00eam ossos faciais subdesenvolvidos, particularmente os ossos da bochecha, e uma mand\u00edbula e queixo muito pequenos (micrognatia). Algumas pessoas com esta condi\u00e7\u00e3o tamb\u00e9m nascem com uma abertura no telhado da boca chamada de paladar fendido. Em casos graves, o subdesenvolvimento dos ossos faciais pode restringir as vias a\u00e9reas de uma crian\u00e7a afetada, causando problemas respirat\u00f3rios potencialmente fatais. Pessoas com s\u00edndrome de Treacher Collins muitas vezes t\u00eam olhos inclinados para baixo, pestanas esparsas, e um entalhe nas p\u00e1lpebras inferiores chamado coloboma das p\u00e1lpebras. Alguns indiv\u00edduos afetados t\u00eam anormalidades oculares adicionais que podem levar \u00e0 perda de vis\u00e3o. Esta condi\u00e7\u00e3o tamb\u00e9m \u00e9 caracterizada por ausentes, orelhas pequenas ou incomummente formadas. A perda auditiva ocorre em cerca de metade dos indiv\u00edduos afetados; a perda auditiva \u00e9 causada por defeitos dos tr\u00eas pequenos ossos no ouvido m\u00e9dio, que transmitem som, ou por subdesenvolvimento do canal auditivo. Pessoas com s\u00edndrome de Treacher Collins geralmente t\u00eam intelig\u00eancia normal."
+    },
+    {
+        "qid":"0000989-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Treacher Collins?",
+        "answer":"Esta condi\u00e7\u00e3o afeta 1 em 50.000 pessoas."
+    },
+    {
+        "qid":"0000989-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Treacher Collins?",
+        "answer":"Muta\u00e7\u00f5es no gene TCOF1, PORR1C, ou PORR1D podem causar s\u00edndrome de Treacher Collins. Muta\u00e7\u00f5es do gene TCOF1 s\u00e3o a causa mais comum do dist\u00farbio, representando 81 a 93% de todos os casos. Muta\u00e7\u00f5es de genes PORR1C e PORR1D causam mais 2% dos casos. Em indiv\u00edduos sem uma muta\u00e7\u00e3o identificada em um desses genes, a causa gen\u00e9tica da condi\u00e7\u00e3o \u00e9 desconhecida. As prote\u00ednas produzidas a partir dos genes TCOF1, PORR1C e PORR1D parecem desempenhar pap\u00e9is importantes no desenvolvimento precoce dos ossos e outros tecidos do rosto. Estas prote\u00ednas est\u00e3o envolvidas na produ\u00e7\u00e3o de uma mol\u00e9cula chamada RNA riboss\u00f4mico (RNr), um primo qu\u00edmico de DNA. O RNA riboss\u00f4mico ajuda a montar blocos de prote\u00ednas (amino\u00e1cidos) em novas prote\u00ednas, o que \u00e9 essencial para o funcionamento normal e a sobreviv\u00eancia das c\u00e9lulas. Muta\u00e7\u00f5es no gene TCOF1, PORR1C, ou PORR1D reduzem a produ\u00e7\u00e3o de RRNA. Pesquisadores especulam que uma diminui\u00e7\u00e3o na quantidade de ARNr pode desencadear a autodestrui\u00e7\u00e3o (apoptose) de certas c\u00e9lulas envolvidas no desenvolvimento de ossos e tecidos faciais. A morte celular anormal pode levar aos problemas espec\u00edficos com o desenvolvimento facial encontrados na s\u00edndrome de Treacher Collins. No entanto, n\u00e3o est\u00e1 claro por que os efeitos de uma redu\u00e7\u00e3o do ARNr s\u00e3o limitados ao desenvolvimento facial."
+    },
+    {
+        "qid":"0000989-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Treacher Collins \u00e9 herdada?",
+        "answer":"Quando a s\u00edndrome de Treacher Collins resulta de muta\u00e7\u00f5es no gene TCOF1 ou PORR1D, \u00e9 considerada uma condi\u00e7\u00e3o autoss\u00f4mica dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar o dist\u00farbio. Cerca de 60% desses casos resultam de novas muta\u00e7\u00f5es no gene e ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia. Nos demais casos autoss\u00f4micos dominantes, uma pessoa com s\u00edndrome de Treacher Collins herda o gene alterado de um pai afetado. Quando a s\u00edndrome de Treacher Collins \u00e9 causada por muta\u00e7\u00f5es no gene PORR1C, a condi\u00e7\u00e3o tem um padr\u00e3o autoss\u00f4mico recessivo de heran\u00e7a. A heran\u00e7a autoss\u00f4mica recessiva significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000989-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Treacher Collins?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Treacher Collins: - Gene Review: Gene Review: S\u00edndrome de Treacher Collins - Gene Testing Registry: Disostose Mandibulofacial, tipo de Treacher Collins, autoss\u00f4mico recessivo - Gene Testing Registry: S\u00edndrome de Treacher Collins - Gene Testing Registry: S\u00edndrome de Treacher Collins 1 - Genetic Testing Registry: S\u00edndrome de Treacher Collins 2 - MedlinePlus Encyclopedia: Micrognathia - MedlinePlus Encyclopedia: Pinna Anormalities and Low-Set Ears - MedlinePlus Encyclopedia: Treacher-Collins Syndrome Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia de Drogas - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000337-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de fator X?",
+        "answer":"A defici\u00eancia do fator X \u00e9 um dist\u00farbio sangrante raro que varia em gravidade entre os indiv\u00edduos afetados. Os sinais e sintomas dessa condi\u00e7\u00e3o podem come\u00e7ar em qualquer idade, embora os casos mais graves sejam evidentes na inf\u00e2ncia. A defici\u00eancia do fator X comumente causa hemorragias nasais, hematomas f\u00e1ceis, sangramento sob a pele, sangramento das gengivas, sangue na urina (hematr\u00eda), e hemorragia prolongada ou excessiva ap\u00f3s cirurgia ou trauma. Mulheres com defici\u00eancia de fator X podem ter sangramento menstrual pesado ou prolongado (menorragia) ou sangramento excessivo durante o parto, e podem estar em risco aumentado de perda da gravidez (erro). Sangramento em espa\u00e7os articulares (hemartrose) ocasionalmente ocorre. Indiv\u00edduos gravemente afetados t\u00eam um risco aumentado de sangramento dentro do cr\u00e2nio (hemorragia intracraniana), nos pulm\u00f5es (hemorragia pulmonar), ou no trato gastrointestinal, que pode ser potencialmente mortal."
+    },
+    {
+        "qid":"0000337-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de fator X?",
+        "answer":"A defici\u00eancia de fator X ocorre em aproximadamente 1 por milh\u00e3o de indiv\u00edduos em todo o mundo."
+    },
+    {
+        "qid":"0000337-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de fator X?",
+        "answer":"A forma herdada de defici\u00eancia de fator X, conhecida como defici\u00eancia de fator X cong\u00eanito, \u00e9 causada por muta\u00e7\u00f5es no gene F10, que fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada fator X de coagula\u00e7\u00e3o. Essa prote\u00edna desempenha um papel cr\u00edtico no sistema de coagula\u00e7\u00e3o, que \u00e9 uma s\u00e9rie de rea\u00e7\u00f5es qu\u00edmicas que formam co\u00e1gulos sangu\u00edneos em resposta a les\u00f5es. Algumas muta\u00e7\u00f5es de genes F10 que causam defici\u00eancia de fator X reduzem a quantidade de fator de coagula\u00e7\u00e3o X na corrente sangu\u00ednea, resultando em uma forma do dist\u00farbio chamado tipo I. Outras muta\u00e7\u00f5es do gene F10 resultam na produ\u00e7\u00e3o de uma prote\u00edna do fator X de coagula\u00e7\u00e3o com fun\u00e7\u00e3o prejudicada, levando \u00e0 defici\u00eancia do fator X tipo II. A redu\u00e7\u00e3o da quantidade ou fun\u00e7\u00e3o do fator X de coagula\u00e7\u00e3o impede que o sangue coagule normalmente, causando epis\u00f3dios de sangramento anormal que podem ser graves. Uma forma n\u00e3o herdada do dist\u00farbio, chamada defici\u00eancia de fator X adquirida, \u00e9 mais comum do que a forma cong\u00eanita. A defici\u00eancia de fator X adquirida pode ser causada por outros dist\u00farbios como doen\u00e7a hep\u00e1tica grave ou amiloidose sist\u00eamica, uma condi\u00e7\u00e3o envolvendo o ac\u00famulo de prote\u00ednas anormais chamadas amiloides. A defici\u00eancia de fator X adquirida tamb\u00e9m pode ser causada por certos medicamentos, como medicamentos que previnem a coagula\u00e7\u00e3o, ou por uma defici\u00eancia de vitamina K."
+    },
+    {
+        "qid":"0000337-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de fator X \u00e9 herdada?",
+        "answer":"Quando essa condi\u00e7\u00e3o \u00e9 causada por muta\u00e7\u00f5es no gene F10, ela \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o. A defici\u00eancia do fator X adquirido n\u00e3o \u00e9 herdada, e geralmente ocorre em indiv\u00edduos sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia."
+    },
+    {
+        "qid":"0000337-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a defici\u00eancia de fator X?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da defici\u00eancia de fator X: - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de fator X - MedlinePlus Enciclop\u00e9dia: Fator X Ensaio Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

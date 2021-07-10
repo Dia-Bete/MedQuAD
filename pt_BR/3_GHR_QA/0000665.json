@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000665-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de prote\u00edna trifuncional mitocondrial?",
+        "answer":"A defici\u00eancia de prote\u00edna trifuncional mitocondrial \u00e9 uma condi\u00e7\u00e3o rara que impede o corpo de converter certas gorduras em energia, particularmente durante per\u00edodos sem alimentos (jejum). Sinais e sintomas da defici\u00eancia de prote\u00edna trifuncional mitocondrial podem come\u00e7ar durante a inf\u00e2ncia ou mais tarde na vida. As caracter\u00edsticas que ocorrem durante a inf\u00e2ncia incluem dificuldades alimentares, falta de energia (letargia), baixo n\u00edvel de a\u00e7\u00facar no sangue (hipoglicemia), t\u00f4nus muscular fraco (hipot\u00f4nia) e problemas hep\u00e1ticos. Crian\u00e7as com este dist\u00farbio tamb\u00e9m est\u00e3o em alto risco para problemas card\u00edacos graves, dificuldades respirat\u00f3rias, coma e morte s\u00fabita. Sinais e sintomas da defici\u00eancia de prote\u00ednas trifuncionais mitocondriais que podem come\u00e7ar ap\u00f3s a inf\u00e2ncia incluem hipotonia, dor muscular, quebra de tecido muscular e perda de sensa\u00e7\u00e3o nas extremidades (neuropatia perif\u00e9rica). Problemas relacionados \u00e0 defici\u00eancia de prote\u00ednas trifuncionais mitocondriais podem ser desencadeados por per\u00edodos de jejum ou por doen\u00e7as como infec\u00e7\u00f5es virais. Este dist\u00farbio \u00e9 \u00e0s vezes confundido com a s\u00edndrome de Reye, uma dist\u00farbio grave que pode se desenvolver em crian\u00e7as enquanto elas parecem estar se recuperando de infec\u00e7\u00f5es virais como a varicela ou gripe. A maioria dos casos de s\u00edndrome de Reye est\u00e3o associados ao uso de aspirina durante estas infec\u00e7\u00f5es virais."
+    },
+    {
+        "qid":"0000665-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de prote\u00edna trifuncional mitocondrial?",
+        "answer":"A defici\u00eancia de prote\u00edna trifuncional mitocondrial \u00e9 uma doen\u00e7a rara, sua incid\u00eancia \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000665-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de prote\u00edna trifuncional mitocondrial?",
+        "answer":"Muta\u00e7\u00f5es nos genes HADHA e HADHB causam defici\u00eancia de prote\u00ednas trifuncionais mitocondriais. Esses genes fornecem instru\u00e7\u00f5es para fazer parte de um complexo enzim\u00e1tico chamado prote\u00edna trifuncional mitocondrial. Este complexo enzim\u00e1tico funciona em mitoc\u00f4ndrias, os centros de produ\u00e7\u00e3o de energia dentro das c\u00e9lulas. Como o nome sugere, a prote\u00edna trifuncional mitocondrial cont\u00e9m tr\u00eas enzimas que cada uma exerce uma fun\u00e7\u00e3o diferente. Este complexo enzim\u00e1tico \u00e9 necess\u00e1rio para quebrar (metabolizar) um grupo de gorduras chamado \u00e1cidos graxos de cadeia longa. \u00c1cidos graxos de cadeia longa s\u00e3o encontrados em alimentos como leite e certos \u00f3leos. Esses \u00e1cidos graxos s\u00e3o armazenados nos tecidos adiposos do corpo. Os \u00e1cidos gordos s\u00e3o uma grande fonte de energia para o cora\u00e7\u00e3o e os m\u00fasculos. Durante os per\u00edodos de jejum, os \u00e1cidos graxos tamb\u00e9m s\u00e3o uma importante fonte de energia para o f\u00edgado e outros tecidos. Muta\u00e7\u00f5es nos genes HADHA ou HADHB que causam defici\u00eancia de prote\u00ednas trifuncionais mitocondriais interrompem as tr\u00eas fun\u00e7\u00f5es deste complexo enzim\u00e1tico. Sem o suficiente desse complexo enzim\u00e1tico, \u00e1cidos graxos de cadeia longa de alimentos e gordura corporal n\u00e3o podem ser metabolizados e processados. Como resultado, estes \u00e1cidos graxos n\u00e3o s\u00e3o convertidos em energia, o que pode levar a algumas caracter\u00edsticas deste dist\u00farbio, como letargia e hipoglicemia. \u00c1cidos graxos de cadeia longa ou \u00e1cidos graxos parcialmente metabolizados tamb\u00e9m podem acumular e danificar o f\u00edgado, o cora\u00e7\u00e3o e os m\u00fasculos. Esta acumula\u00e7\u00e3o anormal causa os outros sinais e sintomas da defici\u00eancia de prote\u00edna trifuncional mitocondrial."
+    },
+    {
+        "qid":"0000665-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de prote\u00edna trifuncional mitocondrial \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000665-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para defici\u00eancia de prote\u00ednas trifuncionais mitocondriais?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da defici\u00eancia de prote\u00ednas trifuncionais mitocondriais: - Primeiro teste do beb\u00ea - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de prote\u00ednas trifuncionais mitocondriais - MedlinePlus Encyclopedia: Hipoglicemia - MedlinePlus Encyclopedia: Neuropatia Perif\u00e9rica Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

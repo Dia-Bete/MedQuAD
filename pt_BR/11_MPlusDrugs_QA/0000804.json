@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0000804-1",
+        "qtype":"indication",
+        "question":"Quem deveria pegar Minocycline Oral e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000804-2",
+        "qtype":"usage",
+        "question":"Como a Minociclina Oral deve ser usada e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000804-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Minociclina Oral?",
+        "answer":""
+    },
+    {
+        "qid":"0000804-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Minociclina Oral?",
+        "answer":""
+    },
+    {
+        "qid":"0000804-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Minociclina Oral?",
+        "answer":""
+    },
+    {
+        "qid":"0000804-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Minociclina Oral?",
+        "answer":""
+    },
+    {
+        "qid":"0000804-8",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o de Minociclina Oral?",
+        "answer":""
+    },
+    {
+        "qid":"0000804-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Minociclina Oral?",
+        "answer":""
+    },
+    {
+        "qid":"0000804-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Minociclina Oral?",
+        "answer":""
+    },
+    {
+        "qid":"0000804-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de Minocycline Oral?",
+        "answer":""
+    }
+]

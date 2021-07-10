@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0000022-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Cal\u00eandula?",
+        "answer":""
+    },
+    {
+        "qid":"0000022-2",
+        "qtype":"how effective is it",
+        "question":"Qu\u00e3o eficaz \u00e9 Cal\u00eandula?",
+        "answer":""
+    },
+    {
+        "qid":"0000022-3",
+        "qtype":"how does it work",
+        "question":"Qual \u00e9 a a\u00e7\u00e3o de Cal\u00eandula e como funciona?",
+        "answer":""
+    },
+    {
+        "qid":"0000022-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Cal\u00eandula?",
+        "answer":""
+    },
+    {
+        "qid":"0000022-5",
+        "qtype":"interactions with medications",
+        "question":"H\u00e1 intera\u00e7\u00f5es entre Cal\u00eandula e outros medicamentos?",
+        "answer":""
+    },
+    {
+        "qid":"0000022-6",
+        "qtype":"interactions with herbs and supplements",
+        "question":"H\u00e1 intera\u00e7\u00f5es entre Cal\u00eandula e ervas e suplementos?",
+        "answer":""
+    },
+    {
+        "qid":"0000022-7",
+        "qtype":"interactions with foods",
+        "question":"H\u00e1 intera\u00e7\u00f5es entre Cal\u00eandula e alimentos?",
+        "answer":""
+    },
+    {
+        "qid":"0000022-8",
+        "qtype":"dose",
+        "question":"Qual \u00e9 a dose de Cal\u00eandula?",
+        "answer":""
+    }
+]

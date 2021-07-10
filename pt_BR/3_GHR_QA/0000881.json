@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000881-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Roberts?",
+        "answer":"A s\u00edndrome de Roberts \u00e9 um dist\u00farbio gen\u00e9tico caracterizado por anormalidades no membro e no rosto. Os indiv\u00edduos afetados tamb\u00e9m crescem lentamente antes e depois do nascimento. Defici\u00eancia intelectual leve a grave ocorre em metade de todas as pessoas com s\u00edndrome de Roberts. Crian\u00e7as com s\u00edndrome de Roberts nascem com anormalidades dos quatro membros. Eles t\u00eam ossos de bra\u00e7os e pernas encurtados (hipom\u00e9lia), particularmente os ossos em seus antebra\u00e7os e pernas inferiores. Em casos graves, os membros podem ser t\u00e3o curtos que as m\u00e3os e os p\u00e9s est\u00e3o localizados muito perto do corpo (focom\u00e9lia). Pessoas com s\u00edndrome de Roberts tamb\u00e9m podem ter dedos e dedos dos p\u00e9s anormais ou faltando, e deformidades articulares (contraturas) ocorrem comumente nos cotovelos e joelhos. As anormalidades dos membros s\u00e3o muito semelhantes nos lados direito e esquerdo do corpo, mas os bra\u00e7os geralmente s\u00e3o mais severamente afetados do que as pernas. Indiv\u00edduos com s\u00edndrome de Roberts tipicamente t\u00eam in\u00fameras anormalidades faciais, incluindo uma abertura no l\u00e1bio (um l\u00e1bio fissura) com ou sem uma abertura no telhado da boca (palato fissura), um pequeno queixo (micrognatia), anormalidades no ouvido, olhos amplos (hipertelorismo), cantos exteriores dos olhos que apontam para baixo (fissuras palpebrais inclinadas para baixo), pequenas narinas, e um nariz bico. Eles podem ter um pequeno tamanho da cabe\u00e7a (microcefalia), e em casos graves indiv\u00edduos afetados t\u00eam uma protrus\u00e3o tipo saco do c\u00e9rebro (encefalocele) na frente de sua cabe\u00e7a. Al\u00e9m disso, pessoas com s\u00edndrome de Roberts podem ter anormalidades do cora\u00e7\u00e3o, rins e genitais. Crian\u00e7as com uma forma grave de s\u00edndrome de Roberts s\u00e3o muitas vezes mortas ou morrem pouco depois do nascimento. Indiv\u00edduos levemente afetados podem viver at\u00e9 a idade adulta. Uma condi\u00e7\u00e3o chamada s\u00edndrome de focomelia SC foi originalmente considerada como diferente da s\u00edndrome de Roberts; no entanto, agora \u00e9 considerada uma variante leve. \"SC\" representa as primeiras letras dos sobrenomes das duas fam\u00edlias diagnosticadas com este dist\u00farbio."
+    },
+    {
+        "qid":"0000881-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Roberts?",
+        "answer":"A s\u00edndrome de Roberts \u00e9 um dist\u00farbio raro, aproximadamente 150 indiv\u00edduos afetados foram relatados."
+    },
+    {
+        "qid":"0000881-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Roberts?",
+        "answer":"Muta\u00e7\u00f5es no gene ESCO2 causam s\u00edndrome de Roberts. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que \u00e9 importante para a separa\u00e7\u00e3o cromoss\u00f4mica adequada durante a divis\u00e3o celular. Antes que as c\u00e9lulas se dividam, devem copiar todos os cromossomos. O DNA copiado de cada cromossomo \u00e9 organizado em duas estruturas id\u00eanticas, chamadas cromatidas irm\u00e3s. A prote\u00edna ESCO2 desempenha um papel importante no estabelecimento da cola que mant\u00e9m as cromatidas irm\u00e3s juntas at\u00e9 que os cromossomos estejam prontos para se separar. Todas as muta\u00e7\u00f5es identificadas no gene ESCO2 impedem a c\u00e9lula de produzir qualquer prote\u00edna funcional ESCO2, o que faz com que parte da cola entre cromatidas irm\u00e3s esteja faltando ao redor do ponto de constri\u00e7\u00e3o do cromossomo (centr\u00f3mero). Na S\u00edndrome de Roberts, as c\u00e9lulas respondem ao apego anormal \u00e0 cromat\u00eddeo da irm\u00e3, atrasando a divis\u00e3o celular. Divis\u00e3o celular atrasada pode ser um sinal de que a c\u00e9lula deve ser autodestru\u00edda. Os sinais e sintomas da s\u00edndrome de Roberts podem resultar da perda de c\u00e9lulas de v\u00e1rios tecidos durante o desenvolvimento precoce. Como os indiv\u00edduos ligeiramente e gravemente afetados carecem de qualquer prote\u00edna funcional ESCO2, a causa subjacente da varia\u00e7\u00e3o na gravidade da doen\u00e7a permanece desconhecida. Pesquisadores suspeitam que outros fatores gen\u00e9ticos e ambientais podem estar envolvidos."
+    },
+    {
+        "qid":"0000881-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Roberts \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000881-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Roberts?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da s\u00edndrome de Roberts: - Gene Review: Gene Review: S\u00edndrome de Roberts - Gene Testing Registry: S\u00edndrome de Focomelia de Roberts-SC - MedlinePlus Encyclopedia: Deformidade de Contratura - MedlinePlus Encyclopedia: Microcefalia Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

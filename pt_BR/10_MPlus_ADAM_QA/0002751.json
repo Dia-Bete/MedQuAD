@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0002751-1",
+        "qtype":"information",
+        "question":"O que est\u00e1 quase se afogando?",
+        "answer":""
+    },
+    {
+        "qid":"0002751-2",
+        "qtype":"considerations",
+        "question":"O que fazer para perto de se afogar?",
+        "answer":""
+    },
+    {
+        "qid":"0002751-3",
+        "qtype":"causes",
+        "question":"Quais s\u00e3o as causas do afogamento?",
+        "answer":""
+    },
+    {
+        "qid":"0002751-4",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do afogamento?",
+        "answer":""
+    },
+    {
+        "qid":"0002751-5",
+        "qtype":"considerations",
+        "question":"O que fazer para perto de se afogar?",
+        "answer":""
+    },
+    {
+        "qid":"0002751-6",
+        "qtype":"considerations",
+        "question":"O que fazer para perto de se afogar?",
+        "answer":""
+    },
+    {
+        "qid":"0002751-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para se afogar?",
+        "answer":""
+    },
+    {
+        "qid":"0002751-8",
+        "qtype":"prevention",
+        "question":"Como evitar o afogamento?",
+        "answer":""
+    }
+]

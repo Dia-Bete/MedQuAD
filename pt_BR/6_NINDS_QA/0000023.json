@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000023-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Hip\u00f3xia Cerebral?",
+        "answer":"Hip\u00f3xia cerebral refere-se a uma condi\u00e7\u00e3o em que h\u00e1 uma diminui\u00e7\u00e3o do fornecimento de oxig\u00eanio no c\u00e9rebro, mesmo que haja fluxo sangu\u00edneo adequado. Afogando, estrangulando, sufocando, sufocando, parada card\u00edaca, trauma craniano, envenenamento por mon\u00f3xido de carbono, e complica\u00e7\u00f5es da anestesia geral podem criar condi\u00e7\u00f5es que podem levar a hip\u00f3xia cerebral. Sintomas de hipoxia cerebral leve incluem falta de aten\u00e7\u00e3o, mau ju\u00edzo, perda de mem\u00f3ria e diminui\u00e7\u00e3o da coordena\u00e7\u00e3o motora. C\u00e9lulas cerebrais s\u00e3o extremamente sens\u00edveis \u00e0 priva\u00e7\u00e3o de oxig\u00eanio e podem come\u00e7ar a morrer dentro de cinco minutos ap\u00f3s o suprimento de oxig\u00eanio ter sido cortado. Quando a hip\u00f3xia dura mais tempo, pode causar coma, convuls\u00f5es e at\u00e9 morte cerebral. Na morte cerebral, n\u00e3o h\u00e1 atividade mensur\u00e1vel no c\u00e9rebro, embora a fun\u00e7\u00e3o cardiovascular seja preservada. O suporte de vida \u00e9 necess\u00e1rio para a respira\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000023-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Hip\u00f3xia Cerebral?",
+        "answer":"O tratamento depende da causa subjacente da hip\u00f3xia, mas sistemas b\u00e1sicos de suporte vital t\u00eam que ser implantados: ventila\u00e7\u00e3o mec\u00e2nica para proteger as vias a\u00e9reas; fluidos, produtos sangu\u00edneos ou medicamentos para suportar a press\u00e3o arterial e frequ\u00eancia card\u00edaca; e medicamentos para suprimir convuls\u00f5es."
+    },
+    {
+        "qid":"0000023-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Hip\u00f3xia Cerebral?",
+        "answer":"A recupera\u00e7\u00e3o depende de quanto tempo o c\u00e9rebro foi privado de oxig\u00eanio e quantos danos cerebrais ocorreram, embora a intoxica\u00e7\u00e3o por mon\u00f3xido de carbono possa causar danos cerebrais dias a semanas ap\u00f3s o evento. A maioria das pessoas que fazem uma recupera\u00e7\u00e3o total s\u00f3 foram pouco inconscientes. Quanto mais tempo algu\u00e9m estiver inconsciente, maiores as chances de morte ou morte cerebral e menores as chances de uma recupera\u00e7\u00e3o significativa. Durante a recupera\u00e7\u00e3o, anomalias psicol\u00f3gicas e neurol\u00f3gicas como amn\u00e9sia, regress\u00e3o da personalidade, alucina\u00e7\u00f5es, perda de mem\u00f3ria, espasmos musculares e contra\u00e7\u00f5es musculares podem aparecer, persistir e ent\u00e3o resolver."
+    },
+    {
+        "qid":"0000023-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Hip\u00f3xia Cerebral?",
+        "answer":"O NINDS apoia e conduz estudos com o objetivo de entender condi\u00e7\u00f5es neurol\u00f3gicas que podem danificar o c\u00e9rebro, como a hip\u00f3xia cerebral. Os objetivos desses estudos s\u00e3o encontrar maneiras de prevenir e tratar essas condi\u00e7\u00f5es."
+    }
+]

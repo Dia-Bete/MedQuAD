@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0000100-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar Atovaquone e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000100-2",
+        "qtype":"usage",
+        "question":"Como deve ser usado Atovaquone e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000100-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Atovaquone?",
+        "answer":""
+    },
+    {
+        "qid":"0000100-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Atovaquone?",
+        "answer":""
+    },
+    {
+        "qid":"0000100-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Atovaquone?",
+        "answer":""
+    },
+    {
+        "qid":"0000100-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos de Atovaquone?",
+        "answer":""
+    },
+    {
+        "qid":"0000100-8",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o de Atovaquone?",
+        "answer":""
+    },
+    {
+        "qid":"0000100-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Atovaquone?",
+        "answer":""
+    },
+    {
+        "qid":"0000100-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Atovaquone?",
+        "answer":""
+    },
+    {
+        "qid":"0000100-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de Atovaquone?",
+        "answer":""
+    }
+]

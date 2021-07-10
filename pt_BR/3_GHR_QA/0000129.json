@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000129-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Blau?",
+        "answer":"A s\u00edndrome de Blau \u00e9 um dist\u00farbio inflamat\u00f3rio que afeta principalmente a pele, as articula\u00e7\u00f5es e os olhos. Os sinais e sintomas come\u00e7am na inf\u00e2ncia, geralmente antes dos 4 anos. Uma forma de inflama\u00e7\u00e3o da pele chamada dermatite granulomatosa \u00e9 tipicamente o primeiro sinal da s\u00edndrome de Blau. Esta condi\u00e7\u00e3o da pele causa uma erup\u00e7\u00e3o cut\u00e2nea persistente que pode ser escamosa ou envolver n\u00f3dulos duros que podem ser sentidos sob a pele. A erup\u00e7\u00e3o \u00e9 geralmente encontrada no torso, bra\u00e7os e pernas. A artrite \u00e9 outra caracter\u00edstica comum da s\u00edndrome de Blau. Em indiv\u00edduos afetados, a artrite \u00e9 caracterizada pela inflama\u00e7\u00e3o do revestimento das articula\u00e7\u00f5es (o sinovio). Esta inflama\u00e7\u00e3o, conhecida como sinovite, est\u00e1 associada a incha\u00e7o e dor nas articula\u00e7\u00f5es. A sinovite geralmente come\u00e7a nas articula\u00e7\u00f5es das m\u00e3os, p\u00e9s, pulsos e tornozelos. \u00c0 medida que a condi\u00e7\u00e3o piora, pode restringir o movimento diminuindo o alcance do movimento em muitas articula\u00e7\u00f5es. A maioria das pessoas com s\u00edndrome de Blau tamb\u00e9m desenvolve uve\u00edte, que \u00e9 incha\u00e7o e inflama\u00e7\u00e3o da camada m\u00e9dia do olho (a uvea). A uvea inclui a por\u00e7\u00e3o colorida do olho (a \u00edris) e tecidos relacionados que subjacem \u00e0 parte branca do olho (a esclera). A uve\u00edte pode causar irrita\u00e7\u00e3o e dor nos olhos, aumento da sensibilidade \u00e0 luz brilhante (fotofobia) e vis\u00e3o borrada. Outras estruturas no olho tamb\u00e9m podem se inflamar, incluindo a camada protetora externa do olho (a conjuntiva), as gl\u00e2ndulas lacrimais, o tecido sens\u00edvel \u00e0 luz especializado que alinha a parte de tr\u00e1s do olho (a retina), e o nervo que transporta informa\u00e7\u00f5es do olho para o c\u00e9rebro (o nervo \u00f3ptico). Inflama\u00e7\u00e3o de qualquer uma dessas estruturas pode levar a graves altera\u00e7\u00f5es visuais ou cegueira. Menos comumente, a s\u00edndrome de Blau pode afetar outras partes do corpo, incluindo o f\u00edgado, rins, c\u00e9rebro, vasos sangu\u00edneos, pulm\u00f5es e cora\u00e7\u00e3o. Inflama\u00e7\u00e3o envolvendo esses \u00f3rg\u00e3os e tecidos pode causar complica\u00e7\u00f5es que amea\u00e7am a vida."
+    },
+    {
+        "qid":"0000129-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Blau?",
+        "answer":"Embora a s\u00edndrome de Blau pare\u00e7a incomum, sua preval\u00eancia \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000129-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Blau?",
+        "answer":"A s\u00edndrome de Blau resulta de muta\u00e7\u00f5es no gene NOD2. A prote\u00edna produzida a partir deste gene ajuda a defender o corpo de invasores estranhos, como v\u00edrus e bact\u00e9rias, desempenhando v\u00e1rios pap\u00e9is essenciais na resposta imune, incluindo rea\u00e7\u00f5es inflamat\u00f3rias. Uma rea\u00e7\u00e3o inflamat\u00f3ria ocorre quando o sistema imunol\u00f3gico envia mol\u00e9culas de sinaliza\u00e7\u00e3o e gl\u00f3bulos brancos para um local de les\u00e3o ou doen\u00e7a para combater invasores microbianos e facilitar o reparo de tecidos. As muta\u00e7\u00f5es do gene NOD2 que causam a s\u00edndrome de Blau resultam em uma prote\u00edna NOD2 hiperativa, que pode desencadear uma rea\u00e7\u00e3o inflamat\u00f3ria anormal. No entanto, n\u00e3o est\u00e1 claro como a sobreativa\u00e7\u00e3o da prote\u00edna NOD2 causa o padr\u00e3o espec\u00edfico de inflama\u00e7\u00e3o afetando as articula\u00e7\u00f5es, olhos e pele que \u00e9 caracter\u00edstica da s\u00edndrome de Blau."
+    },
+    {
+        "qid":"0000129-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Blau \u00e9 herdada?",
+        "answer":"A s\u00edndrome de Blau \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. A maioria dos indiv\u00edduos afetados tem um pai com a condi\u00e7\u00e3o. Em alguns casos, pessoas com caracter\u00edsticas da s\u00edndrome de Blau n\u00e3o t\u00eam hist\u00f3rico familiar da condi\u00e7\u00e3o. Alguns pesquisadores acreditam que esses indiv\u00edduos t\u00eam uma vers\u00e3o n\u00e3o herdada do dist\u00farbio chamado sarcoidose precoce."
+    },
+    {
+        "qid":"0000129-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Blau?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Blau: - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Blau - Registro de Testes Gen\u00e9ticos: Sarcoidose, in\u00edcio precoce - Manual de Merck Vers\u00e3o do Consumidor: Vis\u00e3o geral da Dermatite - Manual de Merck Vers\u00e3o do Consumidor: Uveite Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000015-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Alpers?",
+        "answer":"A doen\u00e7a de Alpers \u00e9 uma s\u00edndrome progressiva, neurodesenvolvimental, deple\u00e7\u00e3o de DNA mitocondrial caracterizada por tr\u00eas sintomas cl\u00ednicos concomitantes: regress\u00e3o psicomotora (dem\u00eancia), convuls\u00f5es e doen\u00e7a hep\u00e1tica. \u00c9 uma doen\u00e7a autoss\u00f4mica recessiva causada pela muta\u00e7\u00e3o no gene para a DNA polimerase mitocondrial POLG. A doen\u00e7a ocorre em cerca de uma em cada 100.000 pessoas. A maioria dos indiv\u00edduos com doen\u00e7a de Alpers n\u00e3o apresentam sintomas ao nascer e se desenvolvem normalmente por semanas a anos antes do in\u00edcio dos sintomas. Diagn\u00f3stico \u00e9 estabelecido por testes para o gene POLG. Os sintomas normalmente ocorrem meses antes de amostras de tecido mostrarem a deple\u00e7\u00e3o de DNA mitocondrial, de modo que estes estudos de deple\u00e7\u00e3o n\u00e3o podem ser usados para o diagn\u00f3stico precoce. Cerca de 80% dos indiv\u00edduos com doen\u00e7a de Alpers desenvolvem sintomas nos dois primeiros anos de vida, e 20% desenvolvem sintomas entre 2 e 25 anos. Os primeiros sintomas do dist\u00farbio s\u00e3o geralmente inespec\u00edficos e podem incluir hipoglicemia secund\u00e1ria \u00e0 doen\u00e7a hep\u00e1tica subjacente, falha em prosperar, encefalopatia associada \u00e0 infec\u00e7\u00e3o, espasticidade, mioclono (perfura\u00e7\u00e3o involunt\u00e1ria de um m\u00fasculo ou grupo de m\u00fasculos), convuls\u00f5es, ou insufici\u00eancia hep\u00e1tica. Um aumento do n\u00edvel de prote\u00ednas \u00e9 observado na an\u00e1lise de l\u00edquido cefalorraquidiano. Cegueira cortical (perda de vis\u00e3o devido a danos na \u00e1rea do c\u00f3rtex que controla a vis\u00e3o) se desenvolve em cerca de 25% dos casos. Disfun\u00e7\u00e3o gastrointestinal e cardiomiopatia podem ocorrer. A dem\u00eancia \u00e9 tipicamente epis\u00f3dica e muitas vezes associada a uma infec\u00e7\u00e3o que ocorre enquanto outra doen\u00e7a est\u00e1 em processo. As convuls\u00f5es podem ser dif\u00edceis de controlar e convuls\u00f5es incessantes podem causar regress\u00e3o do desenvolvimento tamb\u00e9m. Dist\u00farbios \"como Alpers\" sem doen\u00e7a hep\u00e1tica s\u00e3o geneticamente diferentes e t\u00eam um curso cl\u00ednico diferente. Menos de um ter\u00e7o dos indiv\u00edduos com o fen\u00f3tipo \"como Alpers\" sem doen\u00e7a hep\u00e1tica t\u00eam muta\u00e7\u00f5es de POLG."
+    },
+    {
+        "qid":"0000015-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Alpers?",
+        "answer":"N\u00e3o h\u00e1 cura para a doen\u00e7a de Alpers e n\u00e3o h\u00e1 maneira de retardar sua progress\u00e3o. O tratamento \u00e9 sintom\u00e1tico e de apoio. Anticonvulsivos podem ser usados para tratar as convuls\u00f5es, mas \u00e0s vezes as convuls\u00f5es n\u00e3o respondem bem \u00e0 terapia, mesmo em doses altas. Portanto, o benef\u00edcio do controle de convuls\u00f5es deve ser pesos contra o que pode ser seda\u00e7\u00e3o excessiva do anticonvulsivante Valproato n\u00e3o deve ser usado, j\u00e1 que pode aumentar o risco de insufici\u00eancia hep\u00e1tica. A fisioterapia pode ajudar a aliviar a espasticidade e manter ou aumentar o t\u00f4nus muscular."
+    },
+    {
+        "qid":"0000015-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a doen\u00e7a de Alpers?",
+        "answer":"O progn\u00f3stico para indiv\u00edduos com doen\u00e7a de Alpers \u00e9 ruim. Aqueles com a doen\u00e7a geralmente morrem em sua primeira d\u00e9cada de vida. Convuls\u00f5es cont\u00ednuas e incessantes muitas vezes levam \u00e0 morte. Falha hep\u00e1tica e insufici\u00eancia cardiorrespirat\u00f3ria devido ao c\u00e9rebro, medula espinhal e envolvimento nervoso tamb\u00e9m podem ocorrer."
+    },
+    {
+        "qid":"0000015-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a doen\u00e7a de Alpers?",
+        "answer":"O NINDS apoia pesquisas sobre dist\u00farbios neurodegenerativos ligados ao gene, como a doen\u00e7a de Alpers. Os objetivos desta pesquisa s\u00e3o aumentar a compreens\u00e3o cient\u00edfica desses dist\u00farbios, e encontrar maneiras de preveni-los, tratar e cur\u00e1-los."
+    }
+]

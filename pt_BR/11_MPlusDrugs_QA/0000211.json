@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0000211-1",
+        "qtype":"indication",
+        "question":"Quem deveria pegar Cefixime e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000211-2",
+        "qtype":"usage",
+        "question":"Como se deve usar Cefixime e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000211-3",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Cefixime?",
+        "answer":""
+    },
+    {
+        "qid":"0000211-4",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Cefixime?",
+        "answer":""
+    },
+    {
+        "qid":"0000211-5",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Cefixime?",
+        "answer":""
+    },
+    {
+        "qid":"0000211-6",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos de Cefixime?",
+        "answer":""
+    },
+    {
+        "qid":"0000211-7",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Cefixime?",
+        "answer":""
+    },
+    {
+        "qid":"0000211-8",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Cefixime?",
+        "answer":""
+    },
+    {
+        "qid":"0000211-9",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Cefixime?",
+        "answer":""
+    },
+    {
+        "qid":"0000211-10",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes da marca Cefixime?",
+        "answer":""
+    }
+]

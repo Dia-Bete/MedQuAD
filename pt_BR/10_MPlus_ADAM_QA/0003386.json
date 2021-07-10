@@ -1,0 +1,44 @@
+[
+    {
+        "qid":"0003386-1",
+        "qtype":"information",
+        "question":"O que \u00e9 cardiomiopatia restritiva?",
+        "answer":""
+    },
+    {
+        "qid":"0003386-2",
+        "qtype":"causes",
+        "question":"O que causa cardiomiopatia restritiva?",
+        "answer":""
+    },
+    {
+        "qid":"0003386-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da cardiomiopatia restritiva?",
+        "answer":""
+    },
+    {
+        "qid":"0003386-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar cardiomiopatia restritiva?",
+        "answer":""
+    },
+    {
+        "qid":"0003386-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para cardiomiopatia restritiva?",
+        "answer":""
+    },
+    {
+        "qid":"0003386-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a cardiomiopatia restritiva?",
+        "answer":""
+    },
+    {
+        "qid":"0003386-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para cardiomiopatia restritiva?",
+        "answer":""
+    }
+]

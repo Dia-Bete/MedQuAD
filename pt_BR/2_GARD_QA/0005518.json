@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0005518-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de SCOT?",
+        "answer":"A defici\u00eancia de SCOT \u00e9 uma doen\u00e7a metab\u00f3lica causada por n\u00edveis reduzidos ou faltantes de 3-ceto\u00e1cido CoA transferase. Esta enzima \u00e9 necess\u00e1ria para o corpo usar cetonas. As cetonas s\u00e3o subst\u00e2ncias produzidas quando as c\u00e9lulas adiposas se degradam e s\u00e3o uma importante fonte de energia, especialmente quando h\u00e1 escassez de glicose. A defici\u00eancia de SCOT \u00e9 caracterizada por cetoacidose intermitente, com o primeiro epis\u00f3dio ocorrendo frequentemente em rec\u00e9m-nascidos ou beb\u00eas (6 a 20 meses). Em cetoacidose quetones se acumulam no corpo. Sintomas de cetoacidose podem variar, mas podem incluir dificuldade em respirar, alimenta\u00e7\u00e3o ruim, v\u00f4mitos, letargia, inconsci\u00eancia e coma. Crises precisam ser abordadas imediatamente. Felizmente, essas crises tendem a responder bem aos fluidos IV, incluindo glicose e bicarbonato de s\u00f3dio. Pacientes com desconfian\u00e7a de SCOT est\u00e3o livres de sintomas entre epis\u00f3dios. Esta defici\u00eancia pode ser causada por muta\u00e7\u00f5es no gene OXCT1."
+    },
+    {
+        "qid":"0005518-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da defici\u00eancia de SCOT?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da defici\u00eancia de SCOT? Sintomas de defici\u00eancia de SCOT incluem crises de cetoacidose que s\u00e3o muitas vezes causadas por estresse f\u00edsico, jejum, ou doen\u00e7a. Entre crises, pacientes n\u00e3o t\u00eam sintomas. Crescimento e desenvolvimento normais s\u00e3o esperados sob tratamento adequado que previne a ocorr\u00eancia de ataques cetoacid\u00f3ticos graves. A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para defici\u00eancia de SCOT. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Heran\u00e7a autoss\u00f4mica recessiva - cetoacidose epis\u00f3dica - Ceton\u00faria - Taquipneia - V\u00f3mitos - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0005518-3",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar defici\u00eancia de SCOT?",
+        "answer":"Como \u00e9 diagnosticada a defici\u00eancia de SCOT? Diagn\u00f3stico da defici\u00eancia de SCOT \u00e9 feito em pessoas que mostram os sinais e sintomas da condi\u00e7\u00e3o e que t\u00eam ausente ou redu\u00e7\u00e3o da atividade enzim\u00e1tica de SCOT."
+    },
+    {
+        "qid":"0005518-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a defici\u00eancia de SCOT?",
+        "answer":"Como a carnitina palmitoiltransferase I pode ser tratada? Tratamento de ataques hipocet\u00f3ticos hipoglic\u00e9micos devido \u00e0 defici\u00eancia de carnitina palmitoiltransferase I muitas vezes envolve tratamento r\u00e1pido com dextrose 10% por via intravenosa."
+    }
+]

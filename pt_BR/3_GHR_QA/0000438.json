@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000438-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) displasia de Greenberg?",
+        "answer":"A displasia de Greenberg \u00e9 uma condi\u00e7\u00e3o grave caracterizada por anormalidades \u00f3sseas espec\u00edficas no feto em desenvolvimento. Essa condi\u00e7\u00e3o \u00e9 fatal antes do nascimento. Os ossos dos indiv\u00edduos afetados n\u00e3o se desenvolvem corretamente, causando uma apar\u00eancia manchada distintiva chamada de osso comido de mariposa, que \u00e9 vis\u00edvel em imagens de raios X. Al\u00e9m disso, os ossos t\u00eam dep\u00f3sitos de c\u00e1lcio anormais (calcifica\u00e7\u00e3o ect\u00f3pica). Indiv\u00edduos afetados t\u00eam ossos extremamente curtos nos bra\u00e7os e pernas e v\u00e9rtebras anormalmente planas (platispondidamente). Outras anormalidades esquel\u00e9ticas podem incluir costelas curtas e dedos extras (polidactilia). Al\u00e9m disso, fetos afetados t\u00eam incha\u00e7o extenso do corpo causado pelo ac\u00famulo de l\u00edquido (hidropes fetais). A displasia de Greenberg tamb\u00e9m \u00e9 chamada de displasia esquel\u00e9tica (HEM), que reflete as caracter\u00edsticas mais comuns da doen\u00e7a."
+    },
+    {
+        "qid":"0000438-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela displasia de Greenberg?",
+        "answer":"A displasia de Greenberg \u00e9 uma condi\u00e7\u00e3o muito rara. Aproximadamente dez casos foram relatados na literatura cient\u00edfica."
+    },
+    {
+        "qid":"0000438-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 displasia de Greenberg?",
+        "answer":"Muta\u00e7\u00f5es no gene LBR causam displasia de Greenberg. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada receptor lamin B. Uma regi\u00e3o desta prote\u00edna, chamada dom\u00ednio esterol reductase, desempenha um papel importante na produ\u00e7\u00e3o (s\u00edntese) do colesterol. O colesterol \u00e9 um tipo de gordura que \u00e9 produzida no corpo e obtida a partir de alimentos provenientes de animais: ovos, carne, peixe e produtos l\u00e1cteos. O colesterol \u00e9 necess\u00e1rio para o desenvolvimento embrion\u00e1rio normal e tem fun\u00e7\u00f5es importantes antes e depois do nascimento. O colesterol \u00e9 um componente importante das membranas celulares e da subst\u00e2ncia protetora que cobre as c\u00e9lulas nervosas (mielina). Al\u00e9m disso, o colesterol desempenha um papel na produ\u00e7\u00e3o de certos horm\u00f4nios e \u00e1cidos digestivos. Durante a s\u00edntese de colesterol, a fun\u00e7\u00e3o de esterol reductase do receptor lamin B permite que a prote\u00edna realize um dos v\u00e1rios passos que convertem uma mol\u00e9cula chamada lanosterol em colesterol. Muta\u00e7\u00f5es do gene LBR envolvidas na displasia de Greenberg levam \u00e0 perda da fun\u00e7\u00e3o de esterol reductase do receptor lamin B, e pesquisas sugerem que essa perda causa a condi\u00e7\u00e3o. A aus\u00eancia da fun\u00e7\u00e3o de esterol reductase interrompe a s\u00edntese normal do colesterol dentro das c\u00e9lulas. Esta aus\u00eancia tamb\u00e9m pode permitir que subprodutos potencialmente t\u00f3xicos da s\u00edntese de colesterol se acumulem nos tecidos do corpo. Pesquisadores suspeitam que n\u00edveis baixos de colesterol ou um ac\u00famulo de outras subst\u00e2ncias interrompe o crescimento e desenvolvimento de muitas partes do corpo. N\u00e3o se sabe, no entanto, como uma perturba\u00e7\u00e3o da s\u00edntese de colesterol leva \u00e0s caracter\u00edsticas espec\u00edficas da displasia de Greenberg."
+    },
+    {
+        "qid":"0000438-4",
+        "qtype":"inheritance",
+        "question":"A displasia de Greenberg \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000438-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a displasia de Greenberg?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da displasia de Greenberg: - Registro de Testes Gen\u00e9ticos: displasia de Greenberg - Hospital Infantil Lurie de Chicago: Displasia Fetal Esquel\u00e9tica Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

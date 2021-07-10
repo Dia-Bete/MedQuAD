@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000068-1",
+        "qtype":"information",
+        "question":"O que \u00e9 arteriosclerose cerebral?",
+        "answer":"Arteriosclerose cerebral \u00e9 o resultado do espessamento e endurecimento das paredes das art\u00e9rias no c\u00e9rebro. Sintomas de arteriosclerose cerebral incluem dor de cabe\u00e7a, dor facial e vis\u00e3o prejudicada. Arteriosclerose cerebral pode causar s\u00e9rios problemas de sa\u00fade. Se as paredes de uma art\u00e9ria s\u00e3o muito grossas, ou um co\u00e1gulo de sangue se torna pego na passagem estreita, o fluxo de sangue para o c\u00e9rebro pode se bloquear e causar um AVC isqu\u00eamico. Quando o espessamento e endurecimento \u00e9 desigual, as paredes arteriais podem desenvolver bulbos (chamados aneurismas). Se um bulto se rompe, o sangramento no c\u00e9rebro pode causar um AVC hemorr\u00e1gico. Ambos os tipos de AVC podem ser fatais. A arteriosclerose cerebral tamb\u00e9m est\u00e1 relacionada a uma condi\u00e7\u00e3o conhecida como dem\u00eancia vascular, em que pequenos acidentes vasculares cerebrales sem sintomas causam danos cumulativos e morte aos neur\u00f4nios (c\u00e9lulas nervosas) no c\u00e9rebro. Mudan\u00e7as de personalidade nos idosos, como apatia, choro, transit\u00f3rio ou irritabilidade, podem indicar que arteriosclerose cerebral est\u00e1 presente no c\u00e9rebro. A tomografia computacional (TC) e a resson\u00e2ncia magn\u00e9tica (IRM) do c\u00e9rebro podem ajudar a revelar a presen\u00e7a de arteriosclerose cerebral antes do desenvolvimento de acidentes isqu\u00eamicos, acidentes hemorr\u00e1gicos ou dem\u00eancia vascular."
+    },
+    {
+        "qid":"0000068-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para arteriosclerose cerebral?",
+        "answer":"O tratamento para arteriosclerose cerebral pode incluir medicamentos ou cirurgia. Os m\u00e9dicos tamb\u00e9m podem recomendar tratamentos para ajudar as pessoas a controlar a press\u00e3o arterial alta, parar de fumar cigarros e reduzir os n\u00edveis de colesterol, todos os quais s\u00e3o fatores de risco para arteriosclerose cerebral."
+    },
+    {
+        "qid":"0000068-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva da arteriosclerose cerebral?",
+        "answer":"A arteriosclerose cerebral pode levar a eventos de sa\u00fade amea\u00e7adores de vida, como acidentes isqu\u00eamicos ou hemorr\u00e1gicos. Pessoas que sobrevivem ao AVC podem ter defici\u00eancias neurol\u00f3gicas e motoras a longo prazo."
+    },
+    {
+        "qid":"0000068-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para arteriosclerose cerebral?",
+        "answer":"O NINDS suporta um extenso programa de pesquisa sobre acidente vascular cerebral e condi\u00e7\u00f5es que podem levar a acidente vascular cerebral. Grande parte desta pesquisa tem como objetivo encontrar maneiras de prevenir e tratar condi\u00e7\u00f5es como arteriosclerose cerebral."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000065-1",
+        "qtype":"information",
+        "question":"O que \u00e9 defici\u00eancia de arginase?",
+        "answer":"A defici\u00eancia de arginase \u00e9 uma desordem herdada que faz com que a amino\u00e1cido arginina (um bloco de prote\u00ednas) e a am\u00f4nia se acumulem gradualmente no sangue. A amonia, que se forma quando as prote\u00ednas s\u00e3o quebradas no corpo, \u00e9 t\u00f3xica se os n\u00edveis se tornarem muito altos. O sistema nervoso \u00e9 especialmente sens\u00edvel aos efeitos do excesso de am\u00f4nia. A defici\u00eancia de arginase geralmente se torna evidente por volta dos 3 anos. A maioria das vezes aparece como rigidez, especialmente nas pernas, causada por tens\u00e3o anormal dos m\u00fasculos (espasticidade). Outros sintomas podem incluir crescimento mais lento do que o normal, atraso no desenvolvimento e eventual perda de marcos de desenvolvimento, defici\u00eancia intelectual, convuls\u00f5es, tremores e dificuldade com equil\u00edbrio e coordena\u00e7\u00e3o (ataxia). Ocasionalmente, refei\u00e7\u00f5es altas em prote\u00ednas ou estresse causado por doen\u00e7as ou per\u00edodos sem alimentos (jejum) podem causar am\u00f4nia para acumular mais rapidamente no sangue. Esse r\u00e1pido aumento na am\u00f4nia pode levar a epis\u00f3dios de irritabilidade, recusa de comer e v\u00f4mitos. Em alguns indiv\u00edduos afetados, sinais e sintomas de defici\u00eancia de arginase podem ser menos graves, e podem n\u00e3o aparecer at\u00e9 mais tarde na vida."
+    },
+    {
+        "qid":"0000065-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por defici\u00eancia de arginase?",
+        "answer":"A defici\u00eancia de arginase \u00e9 um dist\u00farbio muito raro; tem sido estimado que ocorre uma vez em cada 300.000 a 1.000.000 indiv\u00edduos."
+    },
+    {
+        "qid":"0000065-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de arginase?",
+        "answer":"Muta\u00e7\u00f5es no gene ARG1 causam defici\u00eancia de arginase. A defici\u00eancia de arginase pertence a uma classe de doen\u00e7as gen\u00e9ticas chamadas dist\u00farbios do ciclo da ureia. O ciclo da ureia \u00e9 uma sequ\u00eancia de rea\u00e7\u00f5es que ocorre nas c\u00e9lulas hep\u00e1ticas. Este ciclo processa o excesso de nitrog\u00eanio, gerado quando a prote\u00edna \u00e9 usada pelo corpo, para fazer um composto chamado ureia que \u00e9 excretado pelos rins. O gene ARG1 fornece instru\u00e7\u00f5es para fazer uma enzima chamada arginase. Esta enzima controla o passo final do ciclo da ureia, que produz ureia removendo nitrog\u00eanio da arginina. Em pessoas com defici\u00eancia de arginase, a arginase est\u00e1 danificada ou faltando, e a arginina n\u00e3o est\u00e1 quebrada corretamente. Como resultado, a ureia n\u00e3o pode ser produzida normalmente, e o excesso de nitrog\u00eanio se acumula no sangue sob a forma de am\u00f4nia. Acredita-se que o ac\u00famulo de am\u00f4nia e arginina cause problemas neurol\u00f3gicos e outros sinais e sintomas da defici\u00eancia de arginase."
+    },
+    {
+        "qid":"0000065-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de arginase \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000065-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para defici\u00eancia de arginase?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da defici\u00eancia de arginase: - Baby's First Test - Gene Review: Gene Review: Arginase Deficience - Gene Review: Gene Review: Urea Cycle Disorders Vis\u00e3o geral - Genetic Testing Registry: Arginase Deficience - MedlinePlus Enciclopedia: Anormalidade heredit\u00e1ria do ciclo da ureia Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

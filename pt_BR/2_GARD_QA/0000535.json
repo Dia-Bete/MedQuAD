@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000535-1",
+        "qtype":"information",
+        "question":"O que \u00e9 anemia hemol\u00edtica autoimune?",
+        "answer":"A anemia hemol\u00edtica autoimune (AIHA) ocorre quando seu sistema imunol\u00f3gico produz anticorpos que atacam seus gl\u00f3bulos vermelhos. Isso causa uma queda no n\u00famero de gl\u00f3bulos vermelhos, levando a anemia hemol\u00edtica. Sintomas podem incluir fraqueza incomum e fadiga com taquicardia e dificuldades respirat\u00f3rias, icter\u00edcia, urina escura e/ou esplenomegalia. AIHA pode ser prim\u00e1ria (idiop\u00e1tica) ou resultar de uma doen\u00e7a subjacente ou medica\u00e7\u00e3o. A condi\u00e7\u00e3o pode desenvolver-se gradualmente ou ocorrer de repente. Existem dois tipos principais de anemia hemol\u00edtica autoimune: anemia hemol\u00edtica de anticorpos quentes e anemia hemol\u00edtica de anticorpos frios. O tratamento pode incluir corticosteroides como prednisona, esplenectomia, imunossupressores e/ou transfus\u00f5es de sangue."
+    },
+    {
+        "qid":"0000535-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da anemia hemol\u00edtica autoimune?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da anemia hemol\u00edtica autoimune? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para anemia hemol\u00edtica autoimune. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Autoimunidade 90% Anemia hemol\u00edtica 90% Migra\u00edna 90% Fraqueza muscular 90% Pallor 90% Insufici\u00eancia respirat\u00f3ria 90% Anormalidade do f\u00edgado 50% Linfoma 50% Dor abdominal 7,5% Anormalidade da regula\u00e7\u00e3o da temperatura 7,5% Anormalidade da homeostase urin\u00e1ria 7,5% Arritmia 7,5% Insufici\u00eancia card\u00edaca congestiva 7,5% Esplenomegalia 7,5% Anormalidade do metabolismo/homeostase - Anemia hemol\u00edtica autoimune - Heran\u00e7a recessiva autoss\u00f4mica - A Ontologia Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0000535-3",
+        "qtype":"causes",
+        "question":"O que causa anemia hemol\u00edtica autoimune?",
+        "answer":"O que causa anemia hemol\u00edtica autoimune? Em cerca de metade dos casos, a causa da anemia hemol\u00edtica autoimune n\u00e3o pode ser determinada (idiop\u00e1tica ou prim\u00e1ria). Essa condi\u00e7\u00e3o tamb\u00e9m pode ser causada por ou ocorrer com outro dist\u00farbio (secund\u00e1rio) ou raramente, ocorrer ap\u00f3s o uso de certos medicamentos (como penicilina) ou depois de uma pessoa ter um transplante de c\u00e9lulas-tronco de sangue e medula. As causas secund\u00e1rias da anemia hemol\u00edtica autoimune incluem: doen\u00e7as autoimunes, como lupus Leucemia linfoc\u00edtica cr\u00f4nica Linfoma n\u00e3o Hodgkin e outros c\u00e2nceres de sangue v\u00edrus Epstein-Barr Cytomegalovirus Mycoplasma pneumonia Hepatite HIV"
+    },
+    {
+        "qid":"0000535-4",
+        "qtype":"inheritance",
+        "question":"A anemia hemol\u00edtica autoimune \u00e9 herdada?",
+        "answer":"A anemia hemol\u00edtica autoimune \u00e9 herdada? Em muitos casos, a causa da anemia hemol\u00edtica autoimune permanece desconhecida. Alguns pesquisadores acreditam que h\u00e1 m\u00faltiplos fatores envolvidos, incluindo influ\u00eancias gen\u00e9ticas e ambientais (multifatorial). Em um n\u00famero muito pequeno de casos, anemia hemol\u00edtica autoimune parece correr em fam\u00edlias. Nestes casos, parece seguir um padr\u00e3o autoss\u00f4mico recessivo de heran\u00e7a. Se voc\u00ea tem preocupa\u00e7\u00f5es sobre os riscos espec\u00edficos em sua fam\u00edlia, n\u00f3s o encorajamos a consultar um profissional de gen\u00e9tica."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000031-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) osso navicular acess\u00f3rio?",
+        "answer":"Um osso navicular acess\u00f3rio \u00e9 um pequeno osso localizado no meio do p\u00e9. Est\u00e1 perto do osso navicular, o osso que atravessa o p\u00e9 perto do \u00eambolo. \u00c9 um tra\u00e7o comum, estimado em aproximadamente 2 a 12% da popula\u00e7\u00e3o em geral e at\u00e9 14% das crian\u00e7as. Este osso pode desenvolver um bulto que pode causar irrita\u00e7\u00e3o, incha\u00e7o e dor. Clique aqui para ver um diagrama do p\u00e9."
+    },
+    {
+        "qid":"0000031-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do osso navicular acess\u00f3rio?",
+        "answer":"Quais s\u00e3o os sinais e sintomas do osso navicular acess\u00f3rio? O osso acess\u00f3rio navicular pode n\u00e3o causar sintomas, mas em alguns casos causa dor, sensibilidade ou irrita\u00e7\u00e3o no topo ou ao redor da empe\u00e7ada. Tamb\u00e9m pode causar que o p\u00e9 esteja anormalmente posicionado, e pode limitar o movimento normal do p\u00e9. Sintomas podem piorar com atividade aumentada ou sapatos apertados. A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para o osso navicular acess\u00f3rio. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Anormalidade do sistema esquel\u00e9tico - Heran\u00e7a dominante autoss\u00f4mica - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0000031-3",
+        "qtype":"causes",
+        "question":"O que causa o osso navicular do acess\u00f3rio?",
+        "answer":"Quais s\u00e3o as causas do osso acess\u00f3rio? A causa do osso acess\u00f3rio navicular \u00e9 desconhecida. Em alguns casos, a condi\u00e7\u00e3o pode estar relacionada ao desenvolvimento de p\u00e9 plano tamb\u00e9m conhecido como pes planus, em outros casos pode estar relacionada a repetidas entorses de p\u00e9 e tornozelo."
+    },
+    {
+        "qid":"0000031-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o osso navicular acess\u00f3rio?",
+        "answer":"Como o osso acess\u00f3rio pode ser tratado? Se o osso navicular acess\u00f3rio est\u00e1 causando sintomas, as atividades podem ser restritas e um sapato mais macio pode ser recomendado at\u00e9 que os sintomas desaparecem. Se os sintomas persistirem, um suporte especial e cuidadosamente feito pode ser tentado. Em crian\u00e7as a condi\u00e7\u00e3o geralmente se resolve quando a crian\u00e7a p\u00e1ra de crescer. Para pessoas com osso navicular acess\u00f3rio que apresentam sintomas graves, a cirurgia pode ser considerada para remover o crescimento \u00f3sseo. Outros tratamentos podem incluir anti-inflamat\u00f3rios n\u00e3o esteroides (AINEs), como ibuprofeno, colocando um peda\u00e7o de molusco em forma de donut em torno da \u00e1rea afetada para aliviar a dor e ternura, ou imobilizando a \u00e1rea com um elenco por seis semanas."
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0004229-1",
+        "qtype":"information",
+        "question":"O que \u00e9 pneumonia viral?",
+        "answer":""
+    },
+    {
+        "qid":"0004229-2",
+        "qtype":"causes",
+        "question":"O que causa pneumonia viral?",
+        "answer":""
+    },
+    {
+        "qid":"0004229-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da pneumonia viral?",
+        "answer":""
+    },
+    {
+        "qid":"0004229-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar pneumonia viral?",
+        "answer":""
+    },
+    {
+        "qid":"0004229-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para pneumonia viral?",
+        "answer":""
+    },
+    {
+        "qid":"0004229-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para pneumonia viral?",
+        "answer":""
+    },
+    {
+        "qid":"0004229-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da pneumonia viral?",
+        "answer":""
+    },
+    {
+        "qid":"0004229-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para pneumonia viral?",
+        "answer":""
+    },
+    {
+        "qid":"0004229-9",
+        "qtype":"prevention",
+        "question":"Como prevenir pneumonia viral?",
+        "answer":""
+    }
+]

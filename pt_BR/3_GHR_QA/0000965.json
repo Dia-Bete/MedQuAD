@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000965-1",
+        "qtype":"information",
+        "question":"Qual \u00e9 a defici\u00eancia intelectual relacionada ao SYNGAP1?",
+        "answer":"A defici\u00eancia intelectual relacionada ao SYNGAP1 \u00e9 um dist\u00farbio neurol\u00f3gico caracterizado por defici\u00eancia intelectual moderada a grave que \u00e9 evidente na inf\u00e2ncia. As primeiras caracter\u00edsticas s\u00e3o normalmente o atraso no desenvolvimento da fala e habilidades motoras, como sentar, ficar de p\u00e9 e caminhar. Muitas pessoas com essa condi\u00e7\u00e3o t\u00eam um t\u00f4nus muscular fraco (hipot\u00f4nia), o que contribui para a dificuldade com as habilidades motoras. Alguns indiv\u00edduos afetados perdem habilidades que j\u00e1 tinham adquirido (regress\u00e3o ao desenvolvimento). Outras caracter\u00edsticas da defici\u00eancia intelectual relacionada ao SYNGAP1 incluem crises recorrentes (epilepsia), hiperatividade e dist\u00farbios do espectro autista, que s\u00e3o condi\u00e7\u00f5es caracterizadas por comunica\u00e7\u00e3o prejudicada e intera\u00e7\u00e3o social; quase todos com defici\u00eancia intelectual relacionada ao SYNGAP1 desenvolve epilepsia, e cerca de metade tem um dist\u00farbio do espectro autista."
+    },
+    {
+        "qid":"0000965-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia intelectual relacionada ao SYNGAP1?",
+        "answer":"A defici\u00eancia intelectual relacionada ao SYNGAP1 \u00e9 uma forma relativamente comum de comprometimento cognitivo. Estima-se que seja respons\u00e1vel por 1 a 2 por cento dos casos de defici\u00eancia intelectual."
+    },
+    {
+        "qid":"0000965-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia intelectual relacionada ao SYNGAP1?",
+        "answer":"A defici\u00eancia intelectual relacionada ao SYNGAP1 \u00e9 causada por muta\u00e7\u00f5es no gene SYNGAP1. A prote\u00edna produzida a partir deste gene, chamado SynGAP, desempenha um papel importante nas c\u00e9lulas nervosas do c\u00e9rebro. \u00c9 encontrado nas jun\u00e7\u00f5es entre c\u00e9lulas nervosas (sin\u00e1psias) e ajuda a regular mudan\u00e7as nas sinapses que s\u00e3o cr\u00edticas para a aprendizagem e mem\u00f3ria. Muta\u00e7\u00f5es envolvidas nesta condi\u00e7\u00e3o impedem a produ\u00e7\u00e3o de prote\u00edna SynGAP funcional a partir de uma c\u00f3pia do gene, reduzindo a atividade da prote\u00edna nas c\u00e9lulas. Estudos mostram que uma redu\u00e7\u00e3o da atividade do SynGAP pode ter m\u00faltiplos efeitos nas c\u00e9lulas nervosas, incluindo empurrar sinapses para se desenvolver muito cedo. As anomalias resultantes interrompem as altera\u00e7\u00f5es sin\u00e1pticas no c\u00e9rebro que subjacem \u00e0 aprendizagem e mem\u00f3ria, levando a defici\u00eancia cognitiva e outros problemas neurol\u00f3gicos caracter\u00edsticos da defici\u00eancia intelectual relacionada ao SYNGAP1."
+    },
+    {
+        "qid":"0000965-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia intelectual relacionada ao SYNGAP1 \u00e9 herdada?",
+        "answer":"A defici\u00eancia intelectual relacionada ao SYNGAP1 \u00e9 classificada como uma condi\u00e7\u00e3o autoss\u00f4mica dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Quase todos os casos resultam de novas muta\u00e7\u00f5es no gene e ocorrem em pessoas sem hist\u00f3ria do dist\u00farbio em sua fam\u00edlia. Em pelo menos um caso, uma pessoa afetada herdou a muta\u00e7\u00e3o de um dos pais afetados."
+    },
+    {
+        "qid":"0000965-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para defici\u00eancia intelectual relacionada ao SYNGAP1?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou gerenciamento da defici\u00eancia intelectual relacionada ao SYNGAP1: - Eunice Kennedy Shriver National Institute of Child Health and Human Development: O que s\u00e3o os tratamentos para defici\u00eancias intelectuais e de desenvolvimento? - Registro de Testes Gen\u00e9ticos: Retardamento Mental, Autoss\u00f4mico Dominante 5 Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade:"
+    }
+]

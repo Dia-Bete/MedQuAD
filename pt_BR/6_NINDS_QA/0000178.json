@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000178-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Leigh?",
+        "answer":"A doen\u00e7a de Leigh \u00e9 uma rara doen\u00e7a neurometab\u00f3lica herdada que afeta o sistema nervoso central. Este dist\u00farbio progressivo come\u00e7a em lactentes entre tr\u00eas meses e dois anos.Raramente, ocorre em adolescentes e adultos.A doen\u00e7a de Leigh pode ser causada por muta\u00e7\u00f5es no DNA mitocondrial ou por defici\u00eancias de uma enzima chamada piruvato desidrogenase. Os sintomas da doen\u00e7a de Leigh geralmente progridem rapidamente. Os primeiros sinais podem ser m\u00e1 capacidade de suc\u00e7\u00e3o, e a perda de controle de cabe\u00e7a e habilidades motoras.Estes sintomas podem ser acompanhados de perda de apetite, v\u00f4mitos, irritabilidade, choro cont\u00ednuo e convuls\u00f5es. \u00c0 medida que o dist\u00farbio progride, os sintomas tamb\u00e9m podem incluir fraqueza generalizada, falta de t\u00f4nus muscular e epis\u00f3dios de acidose l\u00e1ctica, o que pode levar a comprometimento da fun\u00e7\u00e3o respirat\u00f3ria e renal. Na doen\u00e7a de Leighs, muta\u00e7\u00f5es gen\u00e9ticas no DNA mitocondrial interferem com as fontes de energia que executam c\u00e9lulas em uma \u00e1rea do c\u00e9rebro que desempenha um papel nos movimentos motores.A fun\u00e7\u00e3o prim\u00e1ria das mitocondrias \u00e9 converter a energia em glicose e \u00e1cidos graxos em uma subst\u00e2ncia chamada adenosina trifosfato (ATP). A energia do ATP impulsiona praticamente todas as fun\u00e7\u00f5es metab\u00f3licas de uma c\u00e9lula. Muta\u00e7\u00f5es gen\u00e9ticas no DNA mitocondrial, portanto, resultam em uma falta cr\u00f4nica de energia nestas c\u00e9lulas, que, por sua vez, afeta o sistema nervoso central e causa degenera\u00e7\u00e3o progressiva das fun\u00e7\u00f5es motoras. H\u00e1 tamb\u00e9m uma forma de doen\u00e7a de Leighs (chamada de doen\u00e7a de Leigh ligada a X) que \u00e9 o resultado de muta\u00e7\u00f5es em um gene que produz outro grupo de subst\u00e2ncias que s\u00e3o importantes para o metabolismo celular. Este gene s\u00f3 \u00e9 encontrado no cromossomo X."
+    },
+    {
+        "qid":"0000178-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Leigh?",
+        "answer":"O tratamento mais comum para a doen\u00e7a de Leigh \u00e9 tiamina ou vitamina B1. Bicarbonato de s\u00f3dio oral ou citrato de s\u00f3dio tamb\u00e9m pode ser prescrito para controlar a acidose l\u00e1ctica. Pesquisadores est\u00e3o testando dicloroacetato para estabelecer sua efetividade no tratamento da acidose l\u00e1ctica. Em indiv\u00edduos que t\u00eam a forma X-ligada da doen\u00e7a de Leighs, uma dieta alta em gordura e baixo em carboidrato pode ser recomendada."
+    },
+    {
+        "qid":"0000178-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a doen\u00e7a de Leigh?",
+        "answer":"O progn\u00f3stico para indiv\u00edduos com a doen\u00e7a de Leigh \u00e9 ruim. Indiv\u00edduos que n\u00e3o t\u00eam atividade do complexo mitocondrial IV e aqueles com defici\u00eancia de piruvato desidrogenase tendem a ter o pior progn\u00f3stico e morrem em poucos anos. Aqueles com defici\u00eancias parciais t\u00eam um melhor progn\u00f3stico, e podem viver at\u00e9 6 ou 7 anos de idade. Alguns sobreviveram at\u00e9 a metade dos anos de idade."
+    },
+    {
+        "qid":"0000178-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a Doen\u00e7a de Leigh?",
+        "answer":"O NINDS apoia e incentiva uma ampla gama de pesquisas b\u00e1sicas e cl\u00ednicas sobre dist\u00farbios neurogen\u00e9ticos como a doen\u00e7a de Leigh. O objetivo desta pesquisa \u00e9 entender o que causa esses dist\u00farbios e, em seguida, aplicar esses achados a novas maneiras de diagnostic\u00e1-los, trat\u00e1-los e preveni-los."
+    }
+]

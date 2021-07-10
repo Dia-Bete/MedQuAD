@@ -1,0 +1,68 @@
+[
+    {
+        "qid":"0000229-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar a Cetirizina e por que \u00e9 prescrita?",
+        "answer":""
+    },
+    {
+        "qid":"0000229-2",
+        "qtype":"usage",
+        "question":"Como a Cetirizina deve ser usada e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000229-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre a Cetirizina?",
+        "answer":""
+    },
+    {
+        "qid":"0000229-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Cetirizina?",
+        "answer":""
+    },
+    {
+        "qid":"0000229-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de cetirizina?",
+        "answer":""
+    },
+    {
+        "qid":"0000229-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Cetirizina?",
+        "answer":""
+    },
+    {
+        "qid":"0000229-8",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o da Cetirizina?",
+        "answer":""
+    },
+    {
+        "qid":"0000229-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Cetirizina?",
+        "answer":""
+    },
+    {
+        "qid":"0000229-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre a Cetirizina?",
+        "answer":""
+    },
+    {
+        "qid":"0000229-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca da Cetirizina?",
+        "answer":""
+    },
+    {
+        "qid":"0000229-12",
+        "qtype":"brand names of combination products",
+        "question":"Quais s\u00e3o os nomes das marcas de produtos combinados da Cetirizina?",
+        "answer":""
+    }
+]

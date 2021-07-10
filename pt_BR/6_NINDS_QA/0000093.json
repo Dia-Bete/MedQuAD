@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000093-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Opsoclonus Myoclonus?",
+        "answer":"Opsoclonus mioclonus \u00e9 um dist\u00farbio neurol\u00f3gico raro caracterizado por uma marcha inest\u00e1vel, tremendo, mioclonus (breve, espasmos musculares tipo choque), e opsoclonus (movimentos oculares irregulares e r\u00e1pidos). Outros sintomas podem incluir dificuldade em falar, fala mal articulada, ou incapacidade de falar. Uma diminui\u00e7\u00e3o do t\u00f4nus muscular, letargia, irritabilidade e mal-estar (um vago sentimento de desconforto corporal) tamb\u00e9m podem estar presentes. Opsoclonus mioclonus pode ocorrer em associa\u00e7\u00e3o com tumores ou infec\u00e7\u00f5es virais. \u00c9 frequentemente visto em crian\u00e7as com tumores."
+    },
+    {
+        "qid":"0000093-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o Opsoclonus Myoclonus?",
+        "answer":"O tratamento para o opsoclonus mioclonus pode incluir corticoster\u00f3ides ou ACTH (horm\u00f4nio adrenocorticotr\u00f3pico). Nos casos em que h\u00e1 um tumor presente, tratamento como quimioterapia, cirurgia ou radia\u00e7\u00e3o pode ser necess\u00e1rio."
+    },
+    {
+        "qid":"0000093-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Opsoclonus Myoclonus?",
+        "answer":"O progn\u00f3stico de opsoclonus mioclonus varia dependendo dos sintomas e da presen\u00e7a e tratamento de tumores. Com o tratamento da causa subjacente do dist\u00farbio, pode haver melhora dos sintomas. Os sintomas \u00e0s vezes recorrem sem aviso. Geralmente o dist\u00farbio n\u00e3o \u00e9 fatal."
+    },
+    {
+        "qid":"0000093-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Opsoclonus Myoclonus?",
+        "answer":"O NINDS apoia e conduz pesquisas sobre dist\u00farbios de movimento como o opsoclonus myoclonus. Estes estudos visam aumentar o conhecimento sobre esses dist\u00farbios e encontrar maneiras de preveni-los, tratar e cur\u00e1-los."
+    }
+]

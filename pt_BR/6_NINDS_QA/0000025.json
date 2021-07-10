@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000025-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a Afasia?",
+        "answer":"A afasia \u00e9 um dist\u00farbio neurol\u00f3gico causado por danos nas por\u00e7\u00f5es do c\u00e9rebro que s\u00e3o respons\u00e1veis pela produ\u00e7\u00e3o ou processamento de linguagem. Pode ocorrer de repente ou progressivamente, dependendo do tipo e localiza\u00e7\u00e3o do tecido cerebral envolvido. Sinais prim\u00e1rios do dist\u00farbio incluem dificuldade em se expressar ao falar, dificuldade em entender a fala, e dificuldade em ler e escrever. Afasia n\u00e3o \u00e9 uma doen\u00e7a, mas um sintoma de dano cerebral. Embora seja visto principalmente em indiv\u00edduos que sofreram um AVC, a afasia tamb\u00e9m pode resultar de um tumor cerebral, infec\u00e7\u00e3o, inflama\u00e7\u00e3o, les\u00e3o na cabe\u00e7a, ou dem\u00eancia que afetam regi\u00f5es do c\u00e9rebro associadas \u00e0 linguagem. Estima-se que cerca de 1 milh\u00e3o de pessoas nos Estados Unidos hoje sofrem de afasia. O tipo e gravidade da disfun\u00e7\u00e3o de linguagem depende da localiza\u00e7\u00e3o e extens\u00e3o precisas do tecido cerebral danificado. Geralmente, a afasia pode ser dividida em quatro grandes categorias: (1) afasia expressiva (tamb\u00e9m chamada afasia de Broca) envolve dificuldade em transmitir pensamentos atrav\u00e9s da fala ou escrita. A pessoa sabe o que quer dizer, mas n\u00e3o consegue encontrar as palavras que precisa. (2) Afasia receptiva (afasia de Wernicke) envolve dificuldade em entender a linguagem falada ou escrita. O indiv\u00edduo ouve a voz ou v\u00ea a impress\u00e3o, mas n\u00e3o consegue entender as palavras. (3) A afasia global resulta de danos graves e extensos nas \u00e1reas lingu\u00edsticas do c\u00e9rebro. As pessoas perdem quase todas as fun\u00e7\u00f5es lingu\u00edsticas, tanto a compreens\u00e3o quanto a express\u00e3o. Eles n\u00e3o conseguem falar ou entender o discurso, nem podem ler ou escrever. (4) Indiv\u00edduos com afasia an\u00f4mica ou amn\u00e9sia, a forma menos grave de afasia, t\u00eam dificuldade em usar os nomes corretos para objetos, pessoas, lugares ou eventos particulares."
+    },
+    {
+        "qid":"0000025-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Afasia?",
+        "answer":"Em alguns casos, um indiv\u00edduo vai se recuperar completamente de afasia sem tratamento. Na maioria dos casos, por\u00e9m, a terapia lingu\u00edstica deve come\u00e7ar o mais r\u00e1pido poss\u00edvel e ser adaptada \u00e0s necessidades individuais da pessoa. A reabilita\u00e7\u00e3o com um fonoaudi\u00f3logo envolve exerc\u00edcios extensos em que os indiv\u00edduos l\u00eaem, escrevem, seguem instru\u00e7\u00f5es e repitam o que ouvem. Terapia assistida por computador pode complementar a terapia de linguagem padr\u00e3o."
+    },
+    {
+        "qid":"0000025-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Afasia?",
+        "answer":"O resultado da afasia \u00e9 dif\u00edcil de prever, dada a variabilidade da condi\u00e7\u00e3o. Geralmente, as pessoas que s\u00e3o mais jovens ou t\u00eam menos danos cerebrais s\u00e3o melhores. A localiza\u00e7\u00e3o da les\u00e3o tamb\u00e9m \u00e9 importante e \u00e9 outra pista para progn\u00f3stico. Em geral, as pessoas tendem a recuperar habilidades na compreens\u00e3o da linguagem mais completamente do que aquelas habilidades envolvendo express\u00e3o."
+    },
+    {
+        "qid":"0000025-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Afasia?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas e o Instituto Nacional de Surdez e Outros Dist\u00farbios de Comunica\u00e7\u00e3o conduzem e apoiam uma ampla gama de investiga\u00e7\u00f5es cient\u00edficas para aumentar nossa compreens\u00e3o da afasia, encontrar melhores tratamentos, e descobrir m\u00e9todos melhorados para restaurar a fun\u00e7\u00e3o perdida para pessoas que t\u00eam afasia."
+    }
+]

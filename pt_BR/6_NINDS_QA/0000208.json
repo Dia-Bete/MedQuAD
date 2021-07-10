@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000208-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) miopatia?",
+        "answer":"As miopatias s\u00e3o dist\u00farbios neuromusculares em que o principal sintoma \u00e9 fraqueza muscular devido \u00e0 disfun\u00e7\u00e3o da fibra muscular. Outros sintomas da miopatia podem incluir c\u00e3ibras musculares, rigidez e espasmo. Miopatias podem ser herdadas (como as distrofias musculares) ou adquiridas (como c\u00e3ibras musculares comuns). Miopatias cong\u00eanitas s\u00e3o agrupadas do seguinte modo: miopatias cong\u00eanitas: caracterizadas por atrasos no desenvolvimento das habilidades motoras; anormalidades esquel\u00e9ticas e faciais s\u00e3o ocasionalmente evidentes ao nascimento distrofias musculares: caracterizadas por fraqueza progressiva nos m\u00fasculos volunt\u00e1rios; \u00e0s vezes evidentes miopatias mitocondriais: causadas por anormalidades gen\u00e9ticas nas mitocondrias, estruturas celulares que controlam a energia; incluem a s\u00edndrome de Kearns-Sayre, MELAS e doen\u00e7as de armazenamento de glicog\u00e9nio da MERRF do m\u00fasculo: causadas por muta\u00e7\u00f5es em genes que controlam o glicog\u00eanio e a glicose (a\u00e7\u00facar do sangue); incluem as doen\u00e7as de Pompe, Andersen e Cori: caracterizadas por mioglobin\u00farias inflamat\u00f3rias do metabolismo de um combust\u00edvel (mioglobina) necess\u00e1rio para o trabalho muscular; incluem McArdle, Tarui e doen\u00e7as de DiMauro dermatomiosite: complica\u00e7\u00f5es da miopatia e da miopatia dos m\u00fasculos:"
+    },
+    {
+        "qid":"0000208-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a miopatia?",
+        "answer":"Os tratamentos para as miopatias dependem da doen\u00e7a ou condi\u00e7\u00e3o e causas espec\u00edficas. O tratamento de suporte e sintom\u00e1tico pode ser o \u00fanico tratamento dispon\u00edvel ou necess\u00e1rio para alguns dist\u00farbios. O tratamento para outros dist\u00farbios pode incluir terapia medicamentosa, como imunossupressores, fisioterapia, for\u00e7amento para apoiar m\u00fasculos enfraquecidos, e cirurgia."
+    },
+    {
+        "qid":"0000208-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a miopatia?",
+        "answer":"O progn\u00f3stico para indiv\u00edduos com miopatia varia. Alguns indiv\u00edduos t\u00eam uma vida normal e pouca ou nenhuma defici\u00eancia. Para outros, no entanto, o dist\u00farbio pode ser progressivo, severamente incapacitante, amea\u00e7ador de vida, ou fatal."
+    },
+    {
+        "qid":"0000208-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a miopatia?",
+        "answer":"O NINDS apoia e conduz um extenso programa de pesquisa sobre dist\u00farbios neuromusculares como as miopatias. Grande parte desta pesquisa tem como objetivo aumentar a compreens\u00e3o cient\u00edfica desses dist\u00farbios, e encontrar maneiras de preveni-los, tratar e cur\u00e1-los."
+    }
+]

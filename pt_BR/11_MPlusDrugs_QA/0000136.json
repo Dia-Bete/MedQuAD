@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0000136-1",
+        "qtype":"indication",
+        "question":"Quem deve receber Bepotastine Oftalmic e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000136-2",
+        "qtype":"usage",
+        "question":"Como Bepotastina Oftalmic deve ser usada e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000136-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Bepotastina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000136-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Bepotastina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000136-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se eu esquecer uma dose de Bepotastine Oftalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0000136-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Bepotastina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000136-8",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Bepotastine Oftalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0000136-9",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Bepotastina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000136-10",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes da marca Bepotastine Oftalmic?",
+        "answer":""
+    }
+]

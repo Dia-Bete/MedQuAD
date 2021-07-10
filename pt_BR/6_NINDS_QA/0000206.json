@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000206-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Miastenia Gravis?",
+        "answer":"A miastenia gravis \u00e9 uma doen\u00e7a neuromuscular autoimune cr\u00f4nica caracterizada por v\u00e1rios graus de fraqueza dos m\u00fasculos esquel\u00e9ticos (volunt\u00e1rios) do corpo. Os sintomas variam de tipo e intensidade. A marca da miastenia gravis \u00e9 a fraqueza muscular que aumenta durante os per\u00edodos de atividade e melhora ap\u00f3s os per\u00edodos de repouso. Os m\u00fasculos que controlam os movimentos dos olhos e p\u00e1lpebras, express\u00e3o facial, mastiga\u00e7\u00e3o, conversa e degluti\u00e7\u00e3o est\u00e3o muitas vezes envolvidos, mas nem sempre. Os m\u00fasculos que controlam a respira\u00e7\u00e3o e os movimentos do pesco\u00e7o e membros tamb\u00e9m podem ser afetados. A miastenia gravis \u00e9 causada por um defeito na transmiss\u00e3o de impulsos nervosos para os m\u00fasculos. Normalmente, quando os impulsos descem pelo nervo, as termina\u00e7\u00f5es nervosas liberam uma subst\u00e2ncia neurotransmissor chamada acetilcolina. Na miastenia gravis, anticorpos produzidos pelo pr\u00f3prio sistema imunol\u00f3gico do corpo bloqueiam, alteram ou destruem os receptores de acetilcolina. Os primeiros sintomas not\u00e1veis da miastenia gravis podem ser fraqueza dos m\u00fasculos oculares, dificuldade em engolir, ou fala entorpecida. A miastenia gravis \u00e9 uma doen\u00e7a autoimune porque o sistema imunol\u00f3gico, que normalmente protege o corpo de organismos estranhos, ataca-se mal. N\u00e3o \u00e9 diretamente herdado nem contagioso."
+    },
+    {
+        "qid":"0000206-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Myastenia Gravis?",
+        "answer":"A miastenia gravis pode ser controlada. Alguns medicamentos melhoram a transmiss\u00e3o neuromuscular e aumentam a for\u00e7a muscular, e outros suprimem a produ\u00e7\u00e3o de anticorpos anormais. Esses medicamentos devem ser usados com cuidadoso acompanhamento m\u00e9dico porque podem causar efeitos colaterais importantes. Timectomia, a remo\u00e7\u00e3o cir\u00fargica da gl\u00e2ndula timo (que muitas vezes \u00e9 anormal naqueles com miastenia gravis), melhora os sintomas em certos indiv\u00edduos Outras terapias incluem plasmaferese, um procedimento em que anticorpos anormais s\u00e3o removidos do sangue, e alta dose de imunoglobulina intravenosa, que modifica temporariamente o sistema imunol\u00f3gico e fornece ao corpo anticorpos normais de sangue doado."
+    },
+    {
+        "qid":"0000206-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Myastenia Gravis?",
+        "answer":"Com o tratamento, a maioria dos indiv\u00edduos com miastenia pode melhorar significativamente sua fraqueza muscular. Alguns casos de miastenia gravis podem entrar em remiss\u00e3o temporariamente, e a fraqueza muscular pode desaparecer para que os medicamentos possam ser descontinuados. Em alguns casos, a grave fraqueza da miastenia gravis pode causar insufici\u00eancia respirat\u00f3ria, o que requer cuidados m\u00e9dicos de emerg\u00eancia imediatos."
+    },
+    {
+        "qid":"0000206-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Myastenia Gravis?",
+        "answer":"Cientistas est\u00e3o avaliando novos e melhorando os tratamentos atuais para a miastenia gravis. Diferentes f\u00e1rmacos est\u00e3o sendo testados, sozinhos ou em combina\u00e7\u00e3o com terapias medicamentosas existentes, para ver se s\u00e3o eficazes no tratamento do dist\u00farbio. Um estudo procura entender a base molecular da transmiss\u00e3o sin\u00e1ptica no sistema nervoso. Timectomia est\u00e1 sendo estudada em indiv\u00edduos que n\u00e3o t\u00eam timoma, para avaliar o benef\u00edcio a longo prazo que a cirurgia pode ter sobre a terapia m\u00e9dica sozinho. E os investigadores est\u00e3o examinando a seguran\u00e7a e efic\u00e1cia do transplante aut\u00f3logo de c\u00e9lulas estaminais hematopoi\u00e9ticas para tratar a miastenia grave e refrat\u00e1ria."
+    }
+]

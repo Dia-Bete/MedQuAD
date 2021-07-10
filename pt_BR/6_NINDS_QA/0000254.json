@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000254-1",
+        "qtype":"information",
+        "question":"O que \u00e9 apneia do sono?",
+        "answer":"A apneia do sono \u00e9 um dist\u00farbio comum do sono caracterizado por breves interrup\u00e7\u00f5es da respira\u00e7\u00e3o durante o sono. Esses epis\u00f3dios geralmente duram 10 segundos ou mais e ocorrem repetidamente durante a noite. Pessoas com apn\u00e9ia do sono acordar\u00e3o parcialmente enquanto lutam para respirar, mas pela manh\u00e3 n\u00e3o estar\u00e3o cientes dos dist\u00farbios em seu sono. O tipo mais comum de apneia do sono \u00e9 apneia obstrutiva do sono (OSA), causada pelo relaxamento do tecido mole na parte de tr\u00e1s da garganta que bloqueia a passagem do ar. A apneia central do sono (CSA) \u00e9 causada por irregularidades no c\u00e9rebro sinais normais para respirar. A maioria das pessoas com apneia do sono ter\u00e1 uma combina\u00e7\u00e3o de ambos os tipos. O sintoma distintivo do dist\u00farbio \u00e9 sonol\u00eancia diurna excessiva. Sintomas adicionais de apneia do sono incluem sono inquieto, ronco alto (com per\u00edodos de sil\u00eancio seguidos de gases), adormecimento durante o dia, dores de cabe\u00e7a matinais, problemas de concentra\u00e7\u00e3o, irritabilidade, esquecimento, mudan\u00e7as de humor ou comportamento, ansiedade e depress\u00e3o. Nem todo mundo que tem esses sintomas ter\u00e1 apneia do sono, mas \u00e9 recomend\u00e1vel que as pessoas que est\u00e3o experimentando mesmo alguns desses sintomas visitem seu m\u00e9dico para avalia\u00e7\u00e3o. A apneia do sono \u00e9 mais prov\u00e1vel em homens do que em mulheres, e em pessoas com excesso de peso ou obesidade."
+    },
+    {
+        "qid":"0000254-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para apneia do sono?",
+        "answer":"H\u00e1 uma variedade de tratamentos para a apneia do sono, dependendo de um indiv\u00edduo hist\u00f3ria m\u00e9dica e a gravidade do dist\u00farbio. A maioria dos regimes de tratamento come\u00e7a com mudan\u00e7as no estilo de vida, como evitar \u00e1lcool e medicamentos que relaxam o sistema nervoso central (por exemplo, sedativos e relaxantes musculares), perder peso e parar de fumar. Algumas pessoas s\u00e3o ajudadas por travesseiros especiais ou dispositivos que os impedem de dormir nas costas, ou aparelhos orais para manter as vias a\u00e9reas abertas durante o sono. Se esses m\u00e9todos conservadores s\u00e3o inadequados, os m\u00e9dicos muitas vezes recomendam a press\u00e3o positiva cont\u00ednua das vias a\u00e9reas (CPAP), na qual uma m\u00e1scara facial \u00e9 fixada a um tubo e uma m\u00e1quina que sopra ar pressurizado para dentro da m\u00e1scara e atrav\u00e9s das vias a\u00e9reas para mant\u00ea-la aberta. Tamb\u00e9m est\u00e3o dispon\u00edveis m\u00e1quinas que oferecem press\u00e3o positiva vari\u00e1vel das vias a\u00e9reas (VPAP) e press\u00e3o positiva autom\u00e1tica das vias a\u00e9reas (APAP). H\u00e1 tamb\u00e9m procedimentos cir\u00fargicos que podem ser usados para remover o tecido e ampliar as vias a\u00e9reas. Alguns indiv\u00edduos podem precisar de uma combina\u00e7\u00e3o de terapias para tratar com sucesso a apneia do sono."
+    },
+    {
+        "qid":"0000254-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva da Apneia do Sono?",
+        "answer":"Sem tratamento, a apneia do sono pode ser uma amea\u00e7a de vida. A sonol\u00eancia diurna excessiva pode fazer com que as pessoas adorme\u00e7am em momentos inapropriados, como quando dirigem. A apneia do sono tamb\u00e9m parece colocar indiv\u00edduos em risco de acidente vascular cerebral e ataques isqu\u00eamicos transit\u00f3rios (TIAs, tamb\u00e9m conhecido como mini-AVCs), e est\u00e1 associada com doen\u00e7a card\u00edaca coronariana, insufici\u00eancia card\u00edaca, batimento card\u00edaco irregular, ataque card\u00edaco e press\u00e3o arterial alta. Embora n\u00e3o haja cura para a apneia do sono, estudos recentes mostram que o tratamento bem sucedido pode reduzir o risco de problemas card\u00edacos e de press\u00e3o arterial."
+    },
+    {
+        "qid":"0000254-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Apneia do Sono?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Accidentes (NINDS) e outros institutos dos Institutos Nacionais de Sa\u00fade (NIH) realizam pesquisas relacionadas \u00e0 apneia do sono em laborat\u00f3rios do NIH, e tamb\u00e9m apoiam pesquisas adicionais atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. Grande parte desta pesquisa se concentra em encontrar melhores maneiras de prevenir, tratar e, em \u00faltima an\u00e1lise, curar dist\u00farbios do sono, como apneia do sono."
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0003443-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Rub\u00e9ola?",
+        "answer":""
+    },
+    {
+        "qid":"0003443-2",
+        "qtype":"causes",
+        "question":"O que causa Rubella?",
+        "answer":""
+    },
+    {
+        "qid":"0003443-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da Rub\u00e9ola?",
+        "answer":""
+    },
+    {
+        "qid":"0003443-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar Rubella?",
+        "answer":""
+    },
+    {
+        "qid":"0003443-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Rub\u00e9ola?",
+        "answer":""
+    },
+    {
+        "qid":"0003443-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Rubella?",
+        "answer":""
+    },
+    {
+        "qid":"0003443-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da Rub\u00e9ola?",
+        "answer":""
+    },
+    {
+        "qid":"0003443-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para Rub\u00e9ola?",
+        "answer":""
+    },
+    {
+        "qid":"0003443-9",
+        "qtype":"prevention",
+        "question":"Como prevenir a Rub\u00e9ola?",
+        "answer":""
+    }
+]

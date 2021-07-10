@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000792-1",
+        "qtype":"information",
+        "question":"O que \u00e9 fenilceton\u00faria?",
+        "answer":"A fenilceton\u00faria (comummente conhecida como PKU) \u00e9 uma doen\u00e7a herdada que aumenta os n\u00edveis de uma subst\u00e2ncia chamada fenilalanina no sangue. A fenilalanina \u00e9 um bloco de prote\u00ednas (um amino\u00e1cido) que \u00e9 obtido atrav\u00e9s da dieta. \u00c9 encontrado em todas as prote\u00ednas e em alguns ado\u00e7antes artificiais. Se a PKU n\u00e3o for tratada, a fenilalanina pode acumular n\u00edveis nocivos no corpo, causando defici\u00eancia intelectual e outros problemas graves de sa\u00fade. Os sinais e sintomas da PKU variam de leve a grave. A forma mais grave deste dist\u00farbio \u00e9 conhecida como PKU cl\u00e1ssico. Crian\u00e7as com PKU cl\u00e1ssico parecem normais at\u00e9 que tenham alguns meses de idade. Sem tratamento, essas crian\u00e7as desenvolvem defici\u00eancia intelectual permanente. Convuls\u00f5es, atraso no desenvolvimento, problemas comportamentais e dist\u00farbios psiqui\u00e1tricos tamb\u00e9m s\u00e3o comuns. Indiv\u00edduos n\u00e3o tratados podem ter um odor de mofo ou rato como um efeito colateral do excesso de fenilalanina no corpo. Crian\u00e7as com PKU cl\u00e1ssica tendem a ter pele e cabelo mais leves do que membros da fam\u00edlia n\u00e3o afetados e tamb\u00e9m s\u00e3o suscept\u00edveis de ter dist\u00farbios cut\u00e2neos como eczema. Formas menos graves dessa condi\u00e7\u00e3o, \u00e0s vezes chamadas de variante PKU e hiperfenilalaninemia n\u00e3o PKU, t\u00eam um menor risco de dano cerebral. Pessoas com casos muito leves talvez n\u00e3o precisem de tratamento com dieta com baixa fenilalanina. Os beb\u00eas nascidos de m\u00e3es com PKU e n\u00edveis n\u00e3o controlados de fenilalanina (mulheres que n\u00e3o seguem mais uma dieta com baixo teor de fenilalanina) t\u00eam um risco significativo de defici\u00eancia intelectual porque est\u00e3o expostos a n\u00edveis muito elevados de fenilalanina antes do nascimento. Esses beb\u00eas tamb\u00e9m podem ter um baixo peso ao nascer e crescer mais lentamente do que outras crian\u00e7as. Outros problemas m\u00e9dicos caracter\u00edsticos incluem defeitos card\u00edacos ou outros problemas card\u00edacos, um tamanho anormalmente pequeno da cabe\u00e7a (microcefalia), e problemas comportamentais. Mulheres com PKU e n\u00edveis n\u00e3o controlados de fenilalanina tamb\u00e9m t\u00eam um risco aumentado de perda de gravidez."
+    },
+    {
+        "qid":"0000792-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela fenilceton\u00faria?",
+        "answer":"A ocorr\u00eancia de PKU varia entre grupos \u00e9tnicos e regi\u00f5es geogr\u00e1ficas em todo o mundo. Nos Estados Unidos, PKU ocorre em 1 em 10.000 a 15.000 rec\u00e9m-nascidos. A maioria dos casos de PKU s\u00e3o detectados logo ap\u00f3s o nascimento por triagem de rec\u00e9m-nascidos, e o tratamento \u00e9 iniciado prontamente. Como resultado, os sinais e sintomas graves da PKU cl\u00e1ssica raramente s\u00e3o vistos."
+    },
+    {
+        "qid":"0000792-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 fenilceton\u00faria?",
+        "answer":"Muta\u00e7\u00f5es no gene da HAP causam fenilceton\u00faria. O gene PAH fornece instru\u00e7\u00f5es para fazer uma enzima chamada fenilalanina hidroxilase. Esta enzima converte o amino\u00e1cido fenilalanina em outros compostos importantes do corpo. Se muta\u00e7\u00f5es gen\u00e9ticas reduzirem a atividade da fenilalanina hidroxilase, a fenilalanina da dieta n\u00e3o \u00e9 processada de forma eficaz. Como resultado, este amino\u00e1cido pode acumular n\u00edveis t\u00f3xicos no sangue e outros tecidos. Como as c\u00e9lulas nervosas do c\u00e9rebro s\u00e3o particularmente sens\u00edveis aos n\u00edveis de fenilalanina, quantidades excessivas desta subst\u00e2ncia podem causar danos cerebrais. A PKU cl\u00e1ssica, a forma mais grave do dist\u00farbio, ocorre quando a atividade da fenilalanina hidroxilase \u00e9 severamente reduzida ou ausente. Pessoas com PKU cl\u00e1ssico n\u00e3o tratado t\u00eam n\u00edveis de fenilalanina o suficiente para causar danos cerebrais graves e outros problemas m\u00e9dicos graves. Muta\u00e7\u00f5es no gene PAH que permitem que a enzima mantenha alguma atividade resultam em vers\u00f5es mais leves desta condi\u00e7\u00e3o, como a variante PKU ou hiperfenilalaninemia n\u00e3o-PKU. Mudan\u00e7as em outros genes podem influenciar a gravidade da PKU, mas pouco se sabe sobre esses fatores gen\u00e9ticos adicionais."
+    },
+    {
+        "qid":"0000792-4",
+        "qtype":"inheritance",
+        "question":"A fenilceton\u00faria \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000792-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para fenilceton\u00faria?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou gerenciamento da fenilceton\u00faria: - Primeiro teste do beb\u00ea - Revis\u00e3o do gene: Revis\u00e3o do gene: Defici\u00eancia de fenilalanina Hidroxilase - Registro de Testes Gen\u00e9ticos: fenilceton\u00faria - MedlinePlus Enciclop\u00e9dia: fenilceton\u00faria - MedlinePlus Enciclop\u00e9dia: Triagem de fenilalanina s\u00e9rica Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e gerenciamento de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

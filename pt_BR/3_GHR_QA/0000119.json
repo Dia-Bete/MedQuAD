@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000119-1",
+        "qtype":"information",
+        "question":"O que \u00e9 beta talassemia?",
+        "answer":"Beta talassemia \u00e9 um dist\u00farbio do sangue que reduz a produ\u00e7\u00e3o de hemoglobina. A hemoglobina \u00e9 a prote\u00edna que cont\u00e9m ferro nos gl\u00f3bulos vermelhos que transporta oxig\u00eanio para as c\u00e9lulas em todo o corpo. Em pessoas com beta talassemia, baixos n\u00edveis de hemoglobina levam \u00e0 falta de oxig\u00eanio em muitas partes do corpo. Indiv\u00edduos afetados tamb\u00e9m t\u00eam uma escassez de gl\u00f3bulos vermelhos (anemia), o que pode causar pele p\u00e1lida, fraqueza, fadiga e complica\u00e7\u00f5es mais graves. Pessoas com beta talassemia t\u00eam um risco aumentado de desenvolver co\u00e1gulos sangu\u00edneos anormais. A talassemia beta \u00e9 classificada em dois tipos dependendo da gravidade dos sintomas: talassemia maior (tamb\u00e9m conhecida como anemia de Cooley) e talassemia interm\u00e9dia. Dos dois tipos, talassemia maior \u00e9 mais grave. Os sinais e sintomas da talassemia maior aparecem nos primeiros 2 anos de vida. Crian\u00e7as desenvolvem anemia que amea\u00e7a a vida. Eles n\u00e3o aumentam de peso e crescem \u00e0 taxa esperada (falha para prosperar) e podem desenvolver amarelamento da pele e brancos dos olhos (icter\u00edcia). Indiv\u00edduos afetados podem ter um aumento do ba\u00e7o, f\u00edgado e cora\u00e7\u00e3o, e seus ossos podem ser inadequados. Alguns adolescentes com talassemia maior experi\u00eancia retardou a puberdade. Muitas pessoas com talassemia maior t\u00eam sintomas t\u00e3o graves que precisam de transfus\u00f5es de sangue frequentes para reabastecer o suprimento de gl\u00f3bulos vermelhos. Com o tempo, um influxo de hemoglobina contendo ferro de transfus\u00f5es cr\u00f4nicas de sangue pode levar a uma acumula\u00e7\u00e3o de ferro no corpo, resultando em problemas de f\u00edgado, cora\u00e7\u00e3o e horm\u00f4nios. Talassemia interm\u00e9dia \u00e9 mais leve que talassemia maior. Os sinais e sintomas da talassemia interm\u00e9dia aparecem na inf\u00e2ncia ou mais tarde na vida. Indiv\u00edduos afetados t\u00eam anemia leve a moderada e tamb\u00e9m podem ter crescimento lento e anormalidades \u00f3sseas."
+    },
+    {
+        "qid":"0000119-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela beta talassemia?",
+        "answer":"Beta talassemia \u00e9 uma doen\u00e7a sangu\u00ednea bastante comum em todo o mundo. Milhares de crian\u00e7as com beta talassemia nascem todos os anos. Beta talassemia ocorre mais frequentemente em pessoas de pa\u00edses mediterr\u00e2nicos, Norte da \u00c1frica, Oriente M\u00e9dio, \u00cdndia, \u00c1sia Central e Sudeste da \u00c1sia."
+    },
+    {
+        "qid":"0000119-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 beta talassemia?",
+        "answer":"Muta\u00e7\u00f5es no gene HBB causam beta talassemia. O gene HBB fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada beta-globina. Beta-globina \u00e9 um componente (subunidade) da hemoglobina. A hemoglobina consiste em quatro subunidades proteicas, tipicamente duas subunidades de beta-globina e duas subunidades de outra prote\u00edna chamada alfa-globina. Algumas muta\u00e7\u00f5es no gene HBB impedem a produ\u00e7\u00e3o de qualquer beta-globina. A aus\u00eancia de beta-globina \u00e9 referida como beta-zero (B0) talassemia. Outras muta\u00e7\u00f5es do gene HBB permitem que alguns beta-globina sejam produzidos, mas em quantidades reduzidas. Uma quantidade reduzida de beta-globina \u00e9 chamada beta-plus (B+) talassemia. Ter talassemia B0 ou B+ n\u00e3o necessariamente prediz a gravidade da doen\u00e7a, entretanto; pessoas com ambos os tipos foram diagnosticadas com talassemia maior e talassemia interm\u00e9dia. A falta de beta-globina leva a uma quantidade reduzida de hemoglobina funcional. Sem hemoglobina suficiente, os gl\u00f3bulos vermelhos n\u00e3o se desenvolvem normalmente, causando uma escassez de gl\u00f3bulos vermelhos maduros. O baixo n\u00famero de gl\u00f3bulos vermelhos maduros leva a anemia e outros problemas de sa\u00fade associados em pessoas com beta talassemia."
+    },
+    {
+        "qid":"0000119-4",
+        "qtype":"inheritance",
+        "question":"A beta talassemia \u00e9 herdada?",
+        "answer":"Talassemia major e talassemia interm\u00e9dia s\u00e3o herdadas em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene HBB em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o. \u00c0s vezes, no entanto, pessoas com apenas uma muta\u00e7\u00e3o do gene HBB em cada c\u00e9lula desenvolvem anemia leve. Dizem que essas pessoas levemente afetadas t\u00eam talassemia menor. Em uma pequena porcentagem de fam\u00edlias, a muta\u00e7\u00e3o do gene HBB \u00e9 herdada de forma autoss\u00f4mica dominante. Nestes casos, uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar os sinais e sintomas da beta talassemia."
+    },
+    {
+        "qid":"0000119-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a beta talassemia?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da beta talassemia: - Gene Review: Gene Review: Beta-Talassemia - Gene Testing Registry: Beta-thalassemia, inclus\u00e3o dominante tipo de corpo - Gene Testing Registry: beta Talassemia - MedlinePlus Enciclopedia: Thalassemia Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0001987-1",
+        "qtype":"information",
+        "question":"Qual \u00e9 a doen\u00e7a de Hirschsprung?",
+        "answer":""
+    },
+    {
+        "qid":"0001987-2",
+        "qtype":"causes",
+        "question":"O que causa a doen\u00e7a de Hirschsprung?",
+        "answer":""
+    },
+    {
+        "qid":"0001987-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da doen\u00e7a de Hirschsprung?",
+        "answer":""
+    },
+    {
+        "qid":"0001987-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a doen\u00e7a de Hirschsprung?",
+        "answer":""
+    },
+    {
+        "qid":"0001987-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Hirschsprung?",
+        "answer":""
+    },
+    {
+        "qid":"0001987-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a doen\u00e7a de Hirschsprung?",
+        "answer":""
+    },
+    {
+        "qid":"0001987-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da doen\u00e7a de Hirschsprung?",
+        "answer":""
+    },
+    {
+        "qid":"0001987-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para a doen\u00e7a de Hirschsprung?",
+        "answer":""
+    }
+]

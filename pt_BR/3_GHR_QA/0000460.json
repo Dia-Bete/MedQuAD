@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000460-1",
+        "qtype":"information",
+        "question":"O que \u00e9 intoler\u00e2ncia \u00e0 frutose heredit\u00e1ria?",
+        "answer":"A intoler\u00e2ncia heredit\u00e1ria \u00e0 frutose \u00e9 uma condi\u00e7\u00e3o que afeta a capacidade de uma pessoa para digerir o a\u00e7\u00facar frutose. Fructose \u00e9 um simples a\u00e7\u00facar encontrado principalmente em frutas. Indiv\u00edduos afetados desenvolvem sinais e sintomas do dist\u00farbio na inf\u00e2ncia quando frutas, sucos ou outros alimentos contendo frutose s\u00e3o introduzidos na dieta. Depois de ingerir frutose, indiv\u00edduos com intoler\u00e2ncia heredit\u00e1ria \u00e0 frutose podem sentir n\u00e1useas, incha\u00e7o, dor abdominal, diarreia, v\u00f3mitos e baixo n\u00edvel de a\u00e7\u00facar no sangue (hipoglicemia). Crian\u00e7as afetadas podem falhar em crescer e ganhar peso \u00e0 taxa esperada (falha em prosperar). A ingest\u00e3o repetida de alimentos que cont\u00eam frutose pode causar danos no f\u00edgado e nos rins. O dano hep\u00e1tico pode resultar em um amarelamento da pele e brancos dos olhos (icter\u00edcia), um aumento do f\u00edgado (hepatomegalia), e doen\u00e7a hep\u00e1tica cr\u00f4nica (cirrose). A continua\u00e7\u00e3o da exposi\u00e7\u00e3o \u00e0 frutose pode resultar em convuls\u00f5es, coma e, em \u00faltima an\u00e1lise, morte por insufici\u00eancia hep\u00e1tica e renal. Devido \u00e0 gravidade dos sintomas vivenciados quando a frutose \u00e9 ingerida, a maioria das pessoas com intoler\u00e2ncia heredit\u00e1ria \u00e0 frutose desenvolvem um desgosto por frutas, sucos e outros alimentos que cont\u00eam frutose. A intoler\u00e2ncia heredit\u00e1ria \u00e0 frutose n\u00e3o deve ser confundida com uma condi\u00e7\u00e3o chamada malabsor\u00e7\u00e3o de frutose. Em pessoas com malabsor\u00e7\u00e3o de frutose, as c\u00e9lulas do intestino n\u00e3o podem absorver frutose normalmente, levando a incha\u00e7o, diarreia ou obstipa\u00e7\u00e3o, flatul\u00eancia e dor de est\u00f4mago. Acha-se que a m\u00e1 absor\u00e7\u00e3o de fructose afeta cerca de 40% dos indiv\u00edduos no hemisf\u00e9rio ocidental; sua causa \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000460-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela intoler\u00e2ncia heredit\u00e1ria \u00e0 frutose?",
+        "answer":"A incid\u00eancia de intoler\u00e2ncia heredit\u00e1ria \u00e0 frutose \u00e9 estimada em 1 em 20.000 a 30.000 indiv\u00edduos por ano em todo o mundo."
+    },
+    {
+        "qid":"0000460-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 intoler\u00e2ncia heredit\u00e1ria \u00e0 frutose?",
+        "answer":"Muta\u00e7\u00f5es no gene ALDOB causam intoler\u00e2ncia heredit\u00e1ria \u00e0 frutose. O gene ALDOB fornece instru\u00e7\u00f5es para fazer a enzima aldolase B. Esta enzima \u00e9 encontrada principalmente no f\u00edgado e est\u00e1 envolvida na quebra (metabolismo) da frutose para que este a\u00e7\u00facar possa ser usado como energia. A aldolase B \u00e9 respons\u00e1vel pelo segundo passo no metabolismo da fructose, que descomp\u00f5e a mol\u00e9cula de fructose-1-fosfato em outras mol\u00e9culas chamadas gliceralde\u00eddo e dihidroxiacetona fosfato. Muta\u00e7\u00f5es do gene ALDOB reduzem a fun\u00e7\u00e3o da enzima, prejudicando sua capacidade de metabolizar a frutose. A falta de aldolase B funcional resulta em um ac\u00famulo de fructose-1-fosfato em c\u00e9lulas hep\u00e1ticas. Esta acumula\u00e7\u00e3o \u00e9 t\u00f3xica, resultando na morte de c\u00e9lulas hep\u00e1ticas ao longo do tempo. Al\u00e9m disso, os produtos de degrada\u00e7\u00e3o da fructose-1-fosfata s\u00e3o necess\u00e1rios no corpo para produzir energia e manter os n\u00edveis de a\u00e7\u00facar no sangue. A combina\u00e7\u00e3o de diminui\u00e7\u00e3o da energia celular, baixo n\u00edvel de a\u00e7\u00facar no sangue, e morte de c\u00e9lulas do f\u00edgado leva \u00e0s caracter\u00edsticas da intoler\u00e2ncia heredit\u00e1ria \u00e0 frutose."
+    },
+    {
+        "qid":"0000460-4",
+        "qtype":"inheritance",
+        "question":"A intoler\u00e2ncia heredit\u00e1ria \u00e0 frutose \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000460-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a intoler\u00e2ncia heredit\u00e1ria \u00e0 frutose?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da intoler\u00e2ncia heredit\u00e1ria \u00e0 frutose: - Boston University: Especifics of Hereditary Fructose Intoler\u00e2ncia e seu diagn\u00f3stico - Gene Review: Gene Review: Hereditary Fructose Intoler\u00e2ncia - Gene Testing Registry: Hereditary Fructosuria - MedlinePlus Enciclopedia: Hereditary Fructose Intoler\u00e2ncia Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

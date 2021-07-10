@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000121-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a par\u00e1lisis de Todd?",
+        "answer":"A paralisia de Todd \u00e9 uma condi\u00e7\u00e3o neurol\u00f3gica vivenciada por indiv\u00edduos com epilepsia, em que uma convuls\u00e3o \u00e9 seguida por um breve per\u00edodo de paralisia tempor\u00e1ria. A paralisia pode ser parcial ou completa, mas geralmente ocorre em apenas um lado do corpo. A paralisia pode durar de meia hora a 36 horas, com uma m\u00e9dia de 15 horas, nesse ponto ela se resolve completamente. A paralisia de Todd tamb\u00e9m pode afetar a fala e a vis\u00e3o. Cientistas n\u00e3o sabem o que causa a paralisia de Todd. As teorias atuais prop\u00f5em processos biol\u00f3gicos no c\u00e9rebro que envolvem uma diminui\u00e7\u00e3o na produ\u00e7\u00e3o de energia dos neur\u00f4nios ou nos centros motores do c\u00e9rebro. \u00c9 importante distinguir a paralisia de Todd de um AVC, que pode se assemelhar, porque um AVC requer tratamento completamente diferente."
+    },
+    {
+        "qid":"0000121-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Paralisia de Todd?",
+        "answer":"N\u00e3o h\u00e1 tratamento para a paralisia de Todd. Os indiv\u00edduos devem descansar o mais confortavelmente poss\u00edvel at\u00e9 que a paralisia desapare\u00e7a."
+    },
+    {
+        "qid":"0000121-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Paralisia de Todd?",
+        "answer":"A paralisia de Todd indica que um indiv\u00edduo teve uma convuls\u00e3o epil\u00e9ptica. O resultado depende dos efeitos da convuls\u00e3o e do tratamento subsequente da epilepsia."
+    },
+    {
+        "qid":"0000121-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Todd's Paralysis?",
+        "answer":"O National Institute of Neurological Disorders and Stroke (NINDS) conduz pesquisa relacionada com a paralisia de Todd em suas cl\u00ednicas e laborat\u00f3rios nos Institutos Nacionais de Sa\u00fade (NIH), e apoia pesquisa adicional atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. Grande parte desta pesquisa se concentra em encontrar m\u00e9todos bem sucedidos para prevenir a paralisia de Todd em indiv\u00edduos com epilepsia."
+    }
+]

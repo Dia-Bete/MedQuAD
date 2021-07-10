@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000692-1",
+        "qtype":"information",
+        "question":"O que \u00e9 epilepsia rol\u00e2nica bengna?",
+        "answer":"A epilepsia rolandica benign \u00e9 a forma mais comum de epilepsia infantil. \u00c9 conhecido como \"benigno\" porque a maioria das crian\u00e7as supera a condi\u00e7\u00e3o pela puberdade, geralmente aos 14 anos de idade. Esta forma de epilepsia \u00e9 caracterizada por convuls\u00f5es envolvendo a parte do l\u00f3bulo frontal do c\u00e9rebro chamada de \u00e1rea rolandica. As convuls\u00f5es associadas a esta condi\u00e7\u00e3o normalmente ocorrem durante a noite. O tratamento geralmente n\u00e3o \u00e9 prescrito, j\u00e1 que a condi\u00e7\u00e3o tende a desaparecer pela puberdade."
+    },
+    {
+        "qid":"0000692-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da epilepsia rol\u00e2nica benigna?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da epilepsia rol\u00e2nica benigna? Pacientes com essa s\u00edndrome normalmente apresentam entre 3 e 13 anos com convuls\u00f5es noturnas. Os epis\u00f3dios geralmente come\u00e7am com contra\u00e7\u00f5es e rigidez do rosto, e muitas vezes acordam a crian\u00e7a. A atividade cl\u00f4nica causa uma sensa\u00e7\u00e3o de formigueiro de um lado da boca envolvendo a l\u00edngua, l\u00e1bios, chiclete e lado interno da bochecha. A convuls\u00e3o tamb\u00e9m pode envolver a garganta que pode tornar o discurso pouco claro e dif\u00edcil de entender. Ocasionalmente, ambos os lados do corpo podem ser afetados, o que pode levar \u00e0 perda de consci\u00eancia causando rigidez e movimentos de masturba\u00e7\u00e3o dos bra\u00e7os e pernas. A crian\u00e7a tamb\u00e9m pode ser incontinente. Depois de um epis\u00f3dio, uma crian\u00e7a pode estar sonolenta e adormecida por algumas horas. A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para epilepsia rol\u00e2nica benigna (BRE). Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Convuls\u00f5es bilaterais - EEG com ondas centrotemporais de pico focal - Espor\u00e1dico - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0000692-3",
+        "qtype":"causes",
+        "question":"O que causa epilepsia rol\u00e2nica benigna (BRE)?",
+        "answer":"O que causa epilepsia rol\u00e2nica benigna? A epilepsia rol\u00e2nica benigna \u00e9 uma s\u00edndrome gen\u00e9tica com um modo autoss\u00f4mico dominante de heran\u00e7a. Embora o gene associado \u00e0 condi\u00e7\u00e3o n\u00e3o tenha sido identificado, Neubauer et al. (1998) encontraram evid\u00eancias de liga\u00e7\u00e3o ao cromossomo 15q. A epilepsia miocl\u00f4nica juvenil foi mapeada na mesma regi\u00e3o."
+    },
+    {
+        "qid":"0000692-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a epilepsia rol\u00e2nica benigna?",
+        "answer":"Que tratamento est\u00e1 dispon\u00edvel para epilepsia rolandica benigna? Embora o tratamento n\u00e3o seja geralmente necess\u00e1rio, j\u00e1 que os epis\u00f3dios s\u00e3o pouco frequentes e s\u00e3o normalmente superados pela puberdade, anticonvulsivos como a carbamazepina."
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0000418-1",
+        "qtype":"information",
+        "question":"Qual \u00e9 a paralisia de Bell?",
+        "answer":""
+    },
+    {
+        "qid":"0000418-2",
+        "qtype":"causes",
+        "question":"O que causa a paralisia do Bell?",
+        "answer":""
+    },
+    {
+        "qid":"0000418-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da paralisia de Bell?",
+        "answer":""
+    },
+    {
+        "qid":"0000418-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a paralisia do Bell?",
+        "answer":""
+    },
+    {
+        "qid":"0000418-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a paralisia de Bell?",
+        "answer":""
+    },
+    {
+        "qid":"0000418-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a paralisia de Bell?",
+        "answer":""
+    },
+    {
+        "qid":"0000418-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da paralisia de Bell?",
+        "answer":""
+    },
+    {
+        "qid":"0000418-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para a paralisia do Bell?",
+        "answer":""
+    },
+    {
+        "qid":"0000418-9",
+        "qtype":"prevention",
+        "question":"Como evitar a paralisia do Bell?",
+        "answer":""
+    }
+]

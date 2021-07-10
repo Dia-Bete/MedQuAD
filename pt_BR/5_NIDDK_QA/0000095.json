@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000095-1",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da Dermatite Herpetiformis: Manifesta\u00e7\u00e3o da pele da doen\u00e7a cel\u00edaca (para profissionais de sa\u00fade)?",
+        "answer":"A dermatite herpetiformis \u00e9 caracterizada por pequenas p\u00e1pulas agrupadas e ves\u00edculas que irrompem sim\u00e9tricamente nos cotovelos, joelhos, n\u00e1degas, costas ou couro cabeludo. O rosto e a virilha tamb\u00e9m podem estar envolvidos. Uma sensa\u00e7\u00e3o de queimadura pode preceder a forma\u00e7\u00e3o da les\u00e3o. As les\u00f5es geralmente s\u00e3o arranhadas quando um paciente chega para um exame f\u00edsico, e a erup\u00e7\u00e3o pode aparecer como eros\u00f5es e excoria\u00e7\u00f5es. Pacientes com DH tamb\u00e9m podem ter defeitos de esmalte dent\u00e1rio em dentes permanentes, que \u00e9 outra manifesta\u00e7\u00e3o da doen\u00e7a cel\u00edaca. Menos de 20% das pessoas com DH t\u00eam sintomas de doen\u00e7a cel\u00edaca.3"
+    },
+    {
+        "qid":"0000095-2",
+        "qtype":"causes",
+        "question":"O que causa Dermatite Herpetiformis: Manifesta\u00e7\u00e3o da pele da doen\u00e7a cel\u00edaca (para profissionais de sa\u00fade)?",
+        "answer":"A dermatite herpetiformis \u00e9 causada pelo dep\u00f3sito de imunoglobulina A (IgA) na pele, que desencadeia mais rea\u00e7\u00f5es imunol\u00f3gicas resultando em forma\u00e7\u00e3o de les\u00f5es. DH \u00e9 uma manifesta\u00e7\u00e3o externa de uma resposta imune anormal ao gl\u00faten, em que anticorpos IgA formam contra o ant\u00edgeno da pele transglutaminase epid\u00e9rmica. Estudos familiares mostram que 5% dos parentes de 1o grau de uma pessoa com DH tamb\u00e9m ter\u00e3o DH. Mais 5% dos parentes de primeiro grau de uma pessoa com DH ter\u00e3o doen\u00e7a cel\u00edaca.4 V\u00e1rias outras doen\u00e7as autoimunes est\u00e3o associadas com DH, a mais comum sendo o hipotireoidismo."
+    },
+    {
+        "qid":"0000095-3",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar Dermatite Herpetiformis: Manifesta\u00e7\u00e3o da pele da doen\u00e7a cel\u00edaca (para profissionais de sa\u00fade)?",
+        "answer":"Uma bi\u00f3psia de pele \u00e9 o primeiro passo no diagn\u00f3stico de DH. A imunofluoresc\u00eancia direta da pele clinicamente normal adjacente a uma les\u00e3o mostra dep\u00f3sitos granulares de IgA na derme superior. Histologia da pele lesional pode mostrar microabscessos contendo neutr\u00f3filos e eosin\u00f3filos. No entanto, histologia pode revelar apenas excoria\u00e7\u00e3o devido \u00e0 comich\u00e3o intensa que os pacientes experimentam. Testes de sangue para anticorpos antiendomisiais ou anti-tecidos transglutaminase tamb\u00e9m podem sugerir doen\u00e7a cel\u00edaca. Testes de sangue para anticorpos da transglutaminase epid\u00e9rmica s\u00e3o positivos em mais de 90% dos casos.5 Todos esses testes se tornar\u00e3o negativos com a ades\u00e3o prolongada a uma dieta sem gl\u00faten. Uma bi\u00f3psia e sorologia positivas confirmam DH e devem ser tomadas como evid\u00eancia indireta de dano no intestino delgado. Uma bi\u00f3psia do intestino delgado n\u00e3o \u00e9 necess\u00e1ria para o diagn\u00f3stico de DH. No entanto, se sinais cl\u00ednicos de doen\u00e7a gastrointestinal s\u00e3o evidentes no exame, pode ser necess\u00e1rio um novo exame.2 Se dano intestinal \u00e9 evidente ou n\u00e3o, uma dieta sem gl\u00faten deve ser implementada porque a erup\u00e7\u00e3o cut\u00e2nea de DH \u00e9 sens\u00edvel ao gl\u00faten.4"
+    },
+    {
+        "qid":"0000095-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Dermatite Herpetiformis: Manifesta\u00e7\u00e3o da pele da doen\u00e7a cel\u00edaca (para profissionais de sa\u00fade)?",
+        "answer":"A sulfona dapsona pode proporcionar al\u00edvio imediato dos sintomas. Para pacientes que n\u00e3o podem tolerar dapsona, sulfapiridina ou sulfametoxipiridazina pode ser usado, embora esses medicamentos sejam menos eficazes que dapsona. Uma dieta estrita sem gl\u00faten \u00e9 o \u00fanico tratamento para a doen\u00e7a subjacente. Mesmo com uma dieta sem gl\u00faten, a terapia medicamentosa pode ter que ser continuada de alguns meses a dois anos. DH pode entrar em remiss\u00e3o, que \u00e9 definida como aus\u00eancia de les\u00f5es cut\u00e2neas e sintomas de DH por mais de 2 anos, sem tomar sulfonas ou outros tratamentos e n\u00e3o aderir a uma dieta sem gl\u00faten. Estudos de coorte mostrando remiss\u00e3o de DH fornecem suporte para reduzir a terapia de sulfona e desmame de uma dieta sem gl\u00faten em pacientes com DH.6 bem controlada."
+    }
+]

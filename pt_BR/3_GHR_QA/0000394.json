@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000394-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) fucosidose?",
+        "answer":"Fucosidose \u00e9 uma condi\u00e7\u00e3o que afeta muitas \u00e1reas do corpo, especialmente o c\u00e9rebro. Indiv\u00edduos afetados t\u00eam defici\u00eancia intelectual que piora com a idade, e muitos desenvolvem dem\u00eancia mais tarde na vida. Pessoas com essa condi\u00e7\u00e3o muitas vezes t\u00eam atraso no desenvolvimento de habilidades motoras como andar; as habilidades que eles adquirem se deterioram com o tempo. Sinais e sintomas adicionais de fucosidose incluem comprometimento do crescimento; desenvolvimento \u00f3sseo anormal (disostose multiplex); convuls\u00f5es; rigidez muscular anormal (espasticidade); aglomerados de vasos sangu\u00edneos ampliados formando pequenas manchas vermelhas escuras na pele (angioqueratomas); caracter\u00edsticas faciais distintas que s\u00e3o frequentemente descritas como \"coarse\", infec\u00e7\u00f5es respirat\u00f3rias recorrentes; e \u00f3rg\u00e3os abdominais anormalmente grandes (visceromegalia). Em casos graves, sintomas normalmente aparecem na inf\u00e2ncia, e indiv\u00edduos afetados geralmente vivem na inf\u00e2ncia tardia. Em casos mais leves, os sintomas come\u00e7am aos 1 ou 2 anos e os indiv\u00edduos afetados tendem a sobreviver at\u00e9 o meio da idade adulta. No passado, pesquisadores descreveram dois tipos dessa condi\u00e7\u00e3o com base nos sintomas e na idade de in\u00edcio, mas a opini\u00e3o atual \u00e9 que os dois tipos s\u00e3o na verdade um \u00fanico dist\u00farbio com sinais e sintomas que variam em gravidade."
+    },
+    {
+        "qid":"0000394-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela fucosidose?",
+        "answer":"Fucosidose \u00e9 uma condi\u00e7\u00e3o rara, cerca de 100 casos foram relatados em todo o mundo. Esta condi\u00e7\u00e3o parece ser mais prevalente na It\u00e1lia, Cuba e no sudoeste dos Estados Unidos."
+    },
+    {
+        "qid":"0000394-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 fucosidose?",
+        "answer":"Muta\u00e7\u00f5es no gene FUCA1 causam fucosidose. O gene FUCA1 fornece instru\u00e7\u00f5es para fazer uma enzima chamada alfa-L-fucosidase. Esta enzima desempenha um papel na decomposi\u00e7\u00e3o de complexos de mol\u00e9culas de a\u00e7\u00facar (oligosac\u00e1rides) ligados a certas prote\u00ednas (glicoprote\u00ednas) e gorduras (glicolipides). Alfa-L-fucosidase \u00e9 respons\u00e1vel por cortar (decifrar) uma mol\u00e9cula de a\u00e7\u00facar chamada fucosa para o final do processo de quebra. Muta\u00e7\u00f5es do gene FUCA1 reduzem ou eliminam severamente a atividade da enzima alfa-L-fucosidase. A falta de atividade enzim\u00e1tica resulta em uma degrada\u00e7\u00e3o incompleta de glicolip\u00eddeos e glicoprote\u00ednas. Esses compostos parcialmente decompostos gradualmente se acumulam dentro de v\u00e1rias c\u00e9lulas e tecidos em todo o corpo e causam o mau funcionamento das c\u00e9lulas. C\u00e9lulas cerebrais s\u00e3o particularmente sens\u00edveis \u00e0 acumula\u00e7\u00e3o de glicolip\u00eddeos e glicoprote\u00ednas, o que pode resultar em morte celular. Acha-se que a perda de c\u00e9lulas cerebrais causa os sintomas neurol\u00f3gicos da fucosidose. A acumula\u00e7\u00e3o de glicolip\u00eddeos e glicoprote\u00ednas tamb\u00e9m ocorre em outros \u00f3rg\u00e3os como o f\u00edgado, ba\u00e7o, pele, cora\u00e7\u00e3o, p\u00e2ncreas e rins, contribuindo para os sintomas adicionais da fucosidose."
+    },
+    {
+        "qid":"0000394-4",
+        "qtype":"inheritance",
+        "question":"A fucosidose \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000394-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a fucosidose?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da fucosidose: - Registro de Testes Gen\u00e9ticos: Fucosidose Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

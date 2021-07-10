@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000064-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Apert?",
+        "answer":"A s\u00edndrome de Apert \u00e9 um dist\u00farbio gen\u00e9tico caracterizado pela fus\u00e3o prematura de certos ossos do cr\u00e2nio (craniosinostose). Esta fus\u00e3o precoce impede que o cr\u00e2nio cres\u00e7a normalmente e afeta a forma da cabe\u00e7a e do rosto. Al\u00e9m disso, um n\u00famero variado de dedos dos dedos s\u00e3o fundidos juntos (sindactilia). Muitas das caracter\u00edsticas faciais da s\u00edndrome de Apert resultam da fus\u00e3o prematura dos ossos do cr\u00e2nio. A cabe\u00e7a \u00e9 incapaz de crescer normalmente, o que leva a uma apar\u00eancia afundada no meio do rosto, bulbos e olhos amplos, um nariz bico, e uma mand\u00edbula superior subdesenvolvida levando a dentes lotados e outros problemas dent\u00e1rios. Ockets escassos podem causar problemas de vis\u00e3o. A fus\u00e3o precoce dos ossos do cr\u00e2nio tamb\u00e9m afeta o desenvolvimento do c\u00e9rebro, o que pode interromper o desenvolvimento intelectual. Habilidades cognitivas em pessoas com s\u00edndrome de Apert variam de defici\u00eancia intelectual normal a leve ou moderada. Indiv\u00edduos com s\u00edndrome de Apert t\u00eam dedos e dedos dos p\u00e9s. A gravidade da fus\u00e3o varia; no m\u00ednimo, tr\u00eas d\u00edgitos em cada m\u00e3o e p\u00e9 s\u00e3o fundidos juntos. Nos casos mais graves, todos os dedos est\u00e3o fundidos. Menos comumente, as pessoas com esta condi\u00e7\u00e3o podem ter dedos extras ou dedos do p\u00e9 (polidactilia). Sinais e sintomas adicionais da s\u00edndrome de Apert podem incluir perda auditiva, sudorese incomummente pesada (hiperhidrose), pele oleosa com acne grave, manchas de cabelo faltando nas sobrancelhas, fus\u00e3o de ossos espinhal no pesco\u00e7o (v\u00e9rtebras cervical), e infec\u00e7\u00f5es recorrentes do ouvido que podem estar associadas a uma abertura no telhado da boca (uma fenda palatina)."
+    },
+    {
+        "qid":"0000064-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Apert?",
+        "answer":"A s\u00edndrome de Apert afeta 1 em 65.000 a 88.000 rec\u00e9m-nascidos."
+    },
+    {
+        "qid":"0000064-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Apert?",
+        "answer":"Muta\u00e7\u00f5es no gene FGFR2 causam s\u00edndrome de Apert. Este gene produz uma prote\u00edna chamada receptor de fator de crescimento de fibroblastos 2. Entre suas m\u00faltiplas fun\u00e7\u00f5es, esta prote\u00edna sinaliza c\u00e9lulas imaturos para se tornar c\u00e9lulas \u00f3sseas durante o desenvolvimento embrion\u00e1rio. Uma muta\u00e7\u00e3o em uma parte espec\u00edfica do gene FGFR2 altera a prote\u00edna e causa sinais prolongados, o que pode promover a fus\u00e3o prematura de ossos no cr\u00e2nio, m\u00e3os e p\u00e9s."
+    },
+    {
+        "qid":"0000064-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Apert \u00e9 herdada?",
+        "answer":"A s\u00edndrome de Apert \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Quase todos os casos de s\u00edndrome de Apert resultam de novas muta\u00e7\u00f5es no gene, e ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia. Indiv\u00edduos com s\u00edndrome de Apert, no entanto, podem passar ao longo da condi\u00e7\u00e3o para a pr\u00f3xima gera\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000064-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Apert?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Apert: - Gene Review: Gene Review: FGFR-Related Craniosynostose Syndromes - Genetic Testing Registry: Acrocephalosindacty type I - MedlinePlus Encyclopedia: Apert syndrome - MedlinePlus Encyclopedia: Webbing of the fingers or toes Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

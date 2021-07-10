@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0002307-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Fanconi Bickel?",
+        "answer":"A s\u00edndrome de Fanconi Bickel (FBS) \u00e9 uma doen\u00e7a rara de armazenamento de glicog\u00eanio caracterizada pelo ac\u00famulo de glicog\u00eanio no f\u00edgado e rins; disfun\u00e7\u00e3o tubular renal grave; e comprometimento do metabolismo de glicose e galactose. Sinais e sintomas come\u00e7am nos primeiros meses de vida e incluem falha em prosperar, urina\u00e7\u00e3o excessiva (poli\u00faria) e raquitismo, seguido por estatura curta e hepatoesplenomegalia na inf\u00e2ncia. A puberdade est\u00e1 atrasada. O FBS \u00e9 herdado de forma autoss\u00f4mica recessiva e \u00e9 causado por muta\u00e7\u00f5es no gene SLC2A2. O tratamento \u00e9 geralmente sintom\u00e1tico."
+    },
+    {
+        "qid":"0002307-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome de Fanconi Bickel?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da s\u00edndrome de Fanconi Bickel? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para a s\u00edndrome de Fanconi Bickel. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Distens\u00e3o abdominal - Heran\u00e7a autoss\u00f4mica recessiva - Acidose cr\u00f4nica - Diminui\u00e7\u00e3o da gordura subcut\u00e2nea - Aumento da fosfatase alcalina - Falha em prosperar - Aminoacid\u00faria generalizada - Glicos\u00faria - Hiperfosfat\u00faria - Hipocalemia - Hipofosfatemia - Hipouricemia - Defici\u00eancia do metabolismo da galactose - Malaabsor\u00e7\u00e3o - Osteomalacia - Pobre apetite - Disfun\u00e7\u00e3o tubular renal - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0002307-3",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Fanconi Bickel?",
+        "answer":"Como pode a s\u00edndrome de Fanconi Bickel ser tratada? O manejo da s\u00edndrome de Fanconi Bickel (FBS) geralmente se concentra nos sinais e sintomas da condi\u00e7\u00e3o. O tratamento inclui a substitui\u00e7\u00e3o de \u00e1gua e eletr\u00f3litos, e suplementos de vitamina D e fosfato para preven\u00e7\u00e3o de raquitismo hipofosfat\u00eamico. Embora existam dados limitados sobre a efic\u00e1cia do tratamento diet\u00e9tico para esta condi\u00e7\u00e3o, recomenda-se que os indiv\u00edduos afetados sigam uma dieta diab\u00e9tica restrita \u00e0 galactose, com frutose como principal fonte de carboidratos. Dieta e suplementos podem aliviar alguns dos sinais e sintomas da condi\u00e7\u00e3o, mas geralmente n\u00e3o melhoram o crescimento, resultando em estatura curta na idade adulta."
+    }
+]

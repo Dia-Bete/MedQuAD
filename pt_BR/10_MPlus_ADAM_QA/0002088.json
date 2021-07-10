@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0002088-1",
+        "qtype":"information",
+        "question":"O que \u00e9 uma doen\u00e7a card\u00edaca hipertensiva?",
+        "answer":""
+    },
+    {
+        "qid":"0002088-2",
+        "qtype":"causes",
+        "question":"O que causa doen\u00e7a card\u00edaca hipertensiva?",
+        "answer":""
+    },
+    {
+        "qid":"0002088-3",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para doen\u00e7a card\u00edaca hipertensiva?",
+        "answer":""
+    },
+    {
+        "qid":"0002088-4",
+        "qtype":"prevention",
+        "question":"Como prevenir doen\u00e7as card\u00edacas hipertensas?",
+        "answer":""
+    }
+]

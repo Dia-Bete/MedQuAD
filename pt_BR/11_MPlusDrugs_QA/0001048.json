@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0001048-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar o Raltegravir e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0001048-2",
+        "qtype":"usage",
+        "question":"Como o Raltegravir deve ser usado e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0001048-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre o Raltegravir?",
+        "answer":""
+    },
+    {
+        "qid":"0001048-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Raltegravir?",
+        "answer":""
+    },
+    {
+        "qid":"0001048-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Raltegravir?",
+        "answer":""
+    },
+    {
+        "qid":"0001048-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos de Raltegravir?",
+        "answer":""
+    },
+    {
+        "qid":"0001048-8",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o de Raltegravir?",
+        "answer":""
+    },
+    {
+        "qid":"0001048-9",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre o Raltegravir?",
+        "answer":""
+    },
+    {
+        "qid":"0001048-10",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes da marca de Raltegravir?",
+        "answer":""
+    }
+]

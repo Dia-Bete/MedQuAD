@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000022-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Von Hippel-Lindau?",
+        "answer":"A doen\u00e7a de von Hippel-Lindau (VHL) \u00e9 um dist\u00farbio gen\u00e9tico multisist\u00e9mico raro em que tumores n\u00e3o cancerosos crescem em certas partes do corpo. Hemgioblastomas de crescimento lento -- tumores benignos com muitos vasos sangu\u00edneos -- podem desenvolver-se no c\u00e9rebro, medula espinhal, retina dos olhos, e perto do ouvido interno. Cistas (sacos cheios de l\u00edquidos) podem se desenvolver em torno dos hemangioblastomas. Outros tipos de tumores se desenvolvem nas gl\u00e2ndulas suprarrenais, nos rins ou no p\u00e2ncreas. Os sintomas da VHL variam entre os indiv\u00edduos e dependem do tamanho e localiza\u00e7\u00e3o dos tumores. Os sintomas podem incluir dores de cabe\u00e7a, problemas de equil\u00edbrio e caminhada, tonturas, fraqueza dos membros, problemas de vis\u00e3o, surdez em um ouvido e press\u00e3o arterial alta. Indiv\u00edduos com BVS tamb\u00e9m est\u00e3o em maior risco do que o normal para certos tipos de c\u00e2ncer, especialmente o c\u00e2ncer de rins."
+    },
+    {
+        "qid":"0000022-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Von Hippel-Lindau (VHL)?",
+        "answer":"O tratamento para VHL varia de acordo com a localiza\u00e7\u00e3o e tamanho do tumor. Em geral, o objetivo do tratamento \u00e9 tratar os tumores antes de crescerem para um tamanho grande o suficiente para causar problemas permanentes colocando press\u00e3o no c\u00e9rebro ou medula espinhal. esta press\u00e3o pode bloquear o fluxo de fluido cefalorraquidiano no sistema nervoso, prejudicar a vis\u00e3o, ou criar surdez. O tratamento da maioria dos casos de VHL geralmente envolve cirurgia para remover os tumores antes que eles se tornem prejudiciais. Alguns tumores podem ser tratados com irradia\u00e7\u00e3o concentrada de alta dose. Indiv\u00edduos com BVS precisam de cuidadosa monitoriza\u00e7\u00e3o por um m\u00e9dico e/ou equipe m\u00e9dica familiarizada com o dist\u00farbio."
+    },
+    {
+        "qid":"0000022-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a doen\u00e7a de Von Hippel-Lindau (VHL)?",
+        "answer":"O progn\u00f3stico para indiv\u00edduos com BVS depende do n\u00famero, localiza\u00e7\u00e3o e complica\u00e7\u00f5es dos tumores. Sem tratamento, a VHL pode resultar em cegueira e/ou dano cerebral permanente. Com detec\u00e7\u00e3o precoce e tratamento, o progn\u00f3stico melhorou significativamente. A morte geralmente \u00e9 causada por complica\u00e7\u00f5es de tumores cerebrais ou c\u00e2ncer de rins."
+    },
+    {
+        "qid":"0000022-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a doen\u00e7a de Von Hippel-Lindau (VHL)?",
+        "answer":"A miss\u00e3o do Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Accidentes (NINDS) \u00e9 buscar conhecimento fundamental sobre o c\u00e9rebro e o sistema nervoso, e usar esse conhecimento para reduzir a carga da doen\u00e7a neurol\u00f3gica. O NINDS prossegue um vigoroso programa de pesquisa visando prevenir e tratar dist\u00farbios que causam tumores no c\u00e9rebro e medula espinhal, como a VHL. Um estudo de hist\u00f3ria natural espera aprender mais sobre o crescimento de tumores cerebrais e medulares, bem como cistos que se desenvolvem em associa\u00e7\u00e3o com eles em indiv\u00edduos com BVS. Os pesquisadores v\u00e3o examinar o qu\u00e3o r\u00e1pido os tumores crescem e tentar determinar quais fatores (como puberdade, gravidez, menopausa ou prote\u00ednas sangu\u00edneas) afetam o crescimento tumoral. Com base em achados laboratoriais, pesquisadores da NINDS est\u00e3o planejando ensaios de drogas para indiv\u00edduos com BVS. Por exemplo, os cientistas do NNDS esperam aprender se uma droga que combate outros c\u00e2nceres pode retardar o crescimento de hemangioblastomas em algumas pessoas com VHL. O Instituto Nacional de C\u00e2ncer do NIH realiza pesquisas com o objetivo de tratar tumores de rins em indiv\u00edduos com BVS, bem como estudos para identificar muta\u00e7\u00f5es g\u00eanicas em pessoas que est\u00e3o em risco de desenvolver a doen\u00e7a."
+    }
+]

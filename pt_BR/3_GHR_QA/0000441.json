@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000441-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) dem\u00eancia frontotemporal relacionada \u00e0 GRN?",
+        "answer":"A dem\u00eancia frontotemporal relacionada \u00e0 RG \u00e9 um transtorno cerebral progressivo que pode afetar o comportamento, a linguagem e o movimento. Os sintomas desse dist\u00farbio geralmente se tornam percept\u00edveis nos anos 50 ou 60 de uma pessoa, e as pessoas afetadas normalmente sobrevivem 6 a 7 anos ap\u00f3s a apari\u00e7\u00e3o dos sintomas. No entanto, as caracter\u00edsticas dessa condi\u00e7\u00e3o variam significativamente, mesmo entre os membros afetados da mesma fam\u00edlia. Mudan\u00e7as comportamentais s\u00e3o os sinais iniciais mais comuns de dem\u00eancia frontotemporal relacionada \u00e0 RG. Estas incluem mudan\u00e7as marcantes na personalidade, julgamento e perspicacia. Pode ser dif\u00edcil para os indiv\u00edduos afetados interagirem com outros de uma forma socialmente adequada. As pessoas afetadas tamb\u00e9m podem ser facilmente distra\u00eddas e incapazes de completar tarefas. Eles precisam cada vez mais de ajuda com cuidados pessoais e outras atividades da vida di\u00e1ria. Muitas pessoas com dem\u00eancia frontotemporal relacionada \u00e0 RGL desenvolvem problemas progressivos com a fala e a linguagem (af\u00e1sia). Indiv\u00edduos afetados podem ter dificuldade em falar, lembrar palavras e nomes (disnomia), e entender a fala. Com o tempo, eles podem perder completamente a capacidade de se comunicar. Algumas pessoas com dem\u00eancia frontotemporal relacionada com a GRN tamb\u00e9m desenvolvem dist\u00farbios de movimento, como parkinsonismo e s\u00edndrome corticobasal. Os sinais e sintomas destes dist\u00farbios incluem tremores, rigidez, movimentos incomummente lentos (bradicinesia), espasmos musculares involunt\u00e1rios (mioclono), tens\u00f5es musculares descontroladas (distonia), e uma incapacidade para realizar movimentos propositais (apraxia)."
+    },
+    {
+        "qid":"0000441-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela dem\u00eancia frontotemporal?",
+        "answer":"A dem\u00eancia frontotemporal relacionada \u00e0 RGN afeta 3 a 15 por 100 mil pessoas com 45 a 64 anos. Esta condi\u00e7\u00e3o representa 5 a 10 por cento de todos os casos de dem\u00eancia frontotemporal."
+    },
+    {
+        "qid":"0000441-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 dem\u00eancia frontotemporal relacionada \u00e0 RG?",
+        "answer":"A dem\u00eancia frontotemporal relacionada \u00e0 RGL resulta de muta\u00e7\u00f5es no gene RGL. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada granulina (tamb\u00e9m conhecida como progranulina). A granulina \u00e9 ativa em muitos tecidos diferentes no corpo, onde ajuda a controlar o crescimento, divis\u00e3o e sobreviv\u00eancia das c\u00e9lulas. A fun\u00e7\u00e3o de Granulin no c\u00e9rebro n\u00e3o \u00e9 bem compreendida, embora pare\u00e7a desempenhar um papel importante na sobreviv\u00eancia das c\u00e9lulas nervosas (neur\u00f4nios). A maioria das muta\u00e7\u00f5es no gene GRN impedem que qualquer granulina seja produzida a partir de uma c\u00f3pia do gene em cada c\u00e9lula. Como resultado, as c\u00e9lulas produzem apenas metade da quantidade usual de granulina. N\u00e3o est\u00e1 claro como a escassez desta prote\u00edna leva \u00e0s caracter\u00edsticas da dem\u00eancia frontotemporal relacionada com a GRN. No entanto, estudos mostraram que o dist\u00farbio \u00e9 caracterizado pela acumula\u00e7\u00e3o de uma prote\u00edna chamada TAR prote\u00edna de liga\u00e7\u00e3o ao DNA (TDP-43) em certas c\u00e9lulas cerebrais. A prote\u00edna TDP-43 forma aglomerados (agregados) que podem interferir nas fun\u00e7\u00f5es celulares e levar \u00e0 morte celular. Pesquisadores est\u00e3o trabalhando para determinar como muta\u00e7\u00f5es no gene GRN, e a perda resultante de granulina, est\u00e3o relacionadas a uma acumula\u00e7\u00e3o de TDP-43 no c\u00e9rebro. As caracter\u00edsticas da dem\u00eancia frontotemporal relacionada \u00e0 GRN resultam da perda gradual de neur\u00f4nios em regi\u00f5es pr\u00f3ximas \u00e0 frente do c\u00e9rebro chamadas de lobos frontais e temporais. Os l\u00f3bulos frontais est\u00e3o envolvidos no racioc\u00ednio, planejamento, julgamento e resolu\u00e7\u00e3o de problemas, enquanto os l\u00f3bulos temporais ajudam a processar audi\u00e7\u00e3o, fala, mem\u00f3ria e emo\u00e7\u00e3o. A morte de neur\u00f4nios nessas \u00e1reas causa problemas com muitas fun\u00e7\u00f5es cerebrais cr\u00edticas. No entanto, n\u00e3o est\u00e1 claro por que a perda de neur\u00f4nios ocorre nos l\u00f3bulos frontal e temporal mais frequentemente do que outras regi\u00f5es do c\u00e9rebro em pessoas com dem\u00eancia frontotemporal relacionada com o GRN."
+    },
+    {
+        "qid":"0000441-4",
+        "qtype":"inheritance",
+        "question":"A dem\u00eancia frontotemporal relacionada \u00e0 GRN \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Na maioria dos casos, uma pessoa afetada tem um pai e outros membros da fam\u00edlia com a condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000441-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a dem\u00eancia frontotemporal relacionada \u00e0 RG?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da dem\u00eancia frontotemporal relacionada com a GRN: - Family Caregiver Alliance - Gene Review: Gene Review: GRN-Related Frontotemporal Dementia - Genetic Testing Registry: Frontotemporal Demence, ubiquitin-positivo Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

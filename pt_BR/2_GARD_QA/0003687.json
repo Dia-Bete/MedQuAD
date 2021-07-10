@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0003687-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Lupus?",
+        "answer":"Lupus \u00e9 uma doen\u00e7a autoimune que pode afetar quase todos os \u00f3rg\u00e3os do corpo. Sintomas de l\u00fapus podem variar de muito leve a amea\u00e7ar a vida. H\u00e1 tr\u00eas tipos de l\u00fapus: l\u00fapus sist\u00eamico eritematoso, l\u00fapus discoide e l\u00fapus induzido por drogas. Pensa-se que a gen\u00e9tica desempenha um papel no desenvolvimento do l\u00fapus, juntamente com outros fatores ambientais e de estilo de vida. Estudos sugerem que v\u00e1rios genes diferentes podem estar envolvidos na determina\u00e7\u00e3o de uma pessoa probabilidade de desenvolver a doen\u00e7a, quais tecidos e \u00f3rg\u00e3os s\u00e3o afetados, e a gravidade da doen\u00e7a. O tratamento do l\u00fapus depende da gravidade da condi\u00e7\u00e3o e das partes do corpo afetadas. O tratamento pode incluir acetaminofeno, ibuprofeno, drogas antipal\u00fadicas, esteroides anti-inflamat\u00f3rios e/ou imunossupressores."
+    },
+    {
+        "qid":"0003687-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do Lupus?",
+        "answer":"             "
+    },
+    {
+        "qid":"0003687-3",
+        "qtype":"inheritance",
+        "question":"Lupus \u00e9 herdado?",
+        "answer":"O lupus \u00e9 herdado? A Funda\u00e7\u00e3o Lupus dos Americanos tem uma p\u00e1gina chamada Lupus heredit\u00e1rio? Isso fornece uma boa vis\u00e3o geral. Eles tamb\u00e9m t\u00eam uma p\u00e1gina de gen\u00e9tica para todos os seus conte\u00fados marcados como relacionados \u00e0 gen\u00e9tica. Medscape Reference tem uma revis\u00e3o em profundidade da gen\u00e9tica do lupus que foi escrita para profissionais de sa\u00fade, mas pode ser \u00fatil para qualquer um que procura informa\u00e7\u00f5es detalhadas. Voc\u00ea pode ter que se registrar para ver o artigo, mas o registro \u00e9 gratuito."
+    },
+    {
+        "qid":"0003687-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o Lupus?",
+        "answer":"Como o lupus pode ser tratado? Para informa\u00e7\u00f5es sobre o tratamento do l\u00fapus, voc\u00ea pode ler a publica\u00e7\u00e3o do Instituto Nacional de Artrite e Doen\u00e7as Musculoesquel\u00e9ticas e da Pele (NIAMS) chamada Handout on Health: Systemic Lupus Eritematosus. NIAMS \u00e9 a principal organiza\u00e7\u00e3o NIH para pesquisa e informa\u00e7\u00e3o sobre lupus."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000611-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Lynch?",
+        "answer":"A s\u00edndrome de Lynch, muitas vezes chamada de c\u00e2ncer colorretal n\u00e3o polip\u00f3sico heredit\u00e1rio (HNPCC), \u00e9 um dist\u00farbio herdado que aumenta o risco de muitos tipos de c\u00e2ncer, particularmente c\u00e2nceres do c\u00f3lon (intestino grande) e reto, que s\u00e3o chamados coletivamente de c\u00e2ncer colorretal. Pessoas com s\u00edndrome de Lynch tamb\u00e9m t\u00eam um risco aumentado de c\u00e2ncer de est\u00f4mago, intestino delgado, f\u00edgado, dutos da ves\u00edcula biliar, trato urin\u00e1rio superior, c\u00e9rebro e pele. Al\u00e9m disso, mulheres com este dist\u00farbio t\u00eam um alto risco de c\u00e2ncer dos ov\u00e1rios e revestimento do \u00fatero (o endom\u00e9trio). Pessoas com s\u00edndrome de Lynch podem ocasionalmente ter crescimentos (p\u00f3lipos) n\u00e3o cancerosos (benignos) no c\u00f3lon, chamados p\u00f3lipos do c\u00f3lon. Em indiv\u00edduos com este dist\u00farbio, p\u00f3lipos do c\u00f3lon ocorrem mais cedo, mas n\u00e3o em maior n\u00famero do que na popula\u00e7\u00e3o em geral."
+    },
+    {
+        "qid":"0000611-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Lynch?",
+        "answer":"Nos Estados Unidos, cerca de 140.000 novos casos de c\u00e2ncer colorretal s\u00e3o diagnosticados a cada ano. Aproximadamente 3% a 5% desses c\u00e2nceres s\u00e3o causados pela s\u00edndrome de Lynch."
+    },
+    {
+        "qid":"0000611-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Lynch?",
+        "answer":"Varia\u00e7\u00f5es no gene MLH1, MSH2, MSH6, PMS2 ou EPCAM aumentam o risco de desenvolver s\u00edndrome de Lynch. Os genes MLH1, MSH2, MSH6 e PMS2 est\u00e3o envolvidos no reparo de erros que ocorrem quando o DNA \u00e9 copiado em prepara\u00e7\u00e3o para a divis\u00e3o celular (um processo chamado de replica\u00e7\u00e3o de DNA). Muta\u00e7\u00f5es em qualquer um desses genes impedem o correto reparo de erros de replica\u00e7\u00e3o de DNA. \u00c0 medida que as c\u00e9lulas anormais continuam a se dividir, os erros acumulados podem levar ao crescimento celular descontrolado e possivelmente ao c\u00e2ncer. Muta\u00e7\u00f5es no gene EPCAM tamb\u00e9m levam a reparo de DNA prejudicado, embora o pr\u00f3prio gene n\u00e3o esteja envolvido neste processo. O gene EPCAM fica ao lado do gene MSH2 no cromossomo 2; certas muta\u00e7\u00f5es do gene EPCAM causam que o gene MSH2 seja desligado (inativado), interrompendo o reparo de DNA e levando a erros acumulados de DNA. Embora muta\u00e7\u00f5es nestes genes predisp\u00f5em os indiv\u00edduos ao c\u00e2ncer, nem todas as pessoas que carregam essas muta\u00e7\u00f5es desenvolvem tumores cancerosos."
+    },
+    {
+        "qid":"0000611-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Lynch \u00e9 herdada?",
+        "answer":"O risco de c\u00e2ncer da s\u00edndrome de Lynch \u00e9 herdado em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia herdada do gene alterado em cada c\u00e9lula \u00e9 suficiente para aumentar o risco de c\u00e2ncer. \u00c9 importante notar que as pessoas herdam um risco aumentado de c\u00e2ncer, n\u00e3o a pr\u00f3pria doen\u00e7a. Nem todas as pessoas que herdam muta\u00e7\u00f5es nesses genes desenvolver\u00e3o c\u00e2ncer."
+    },
+    {
+        "qid":"0000611-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Lynch?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Lynch: - American Medical Association and National Coalition for Health Professional Education in Genetics: Entender os fundamentos do teste gen\u00e9tico para o c\u00e2ncer colorretal heredit\u00e1rio - Gene Review: Gene Review: S\u00edndrome de Lynch - GeneFacts: S\u00edndrome de Lynch: Management - Genetic Testing Registry: C\u00e2ncer colorretal heredit\u00e1rio n\u00e3o polipose tipo 3 - Genetic Testing Registry: C\u00e2ncer colorretal heredit\u00e1rio n\u00e3o polipose tipo 4 - Genetic Testing Registry: C\u00e2ncer colorretal heredit\u00e1rio n\u00e3o polipose tipo 5 - Genetic Testing Registry: C\u00e2ncer colorretal heredit\u00e1rio n\u00e3o polipose tipo 8 - Genetic Testing Registry: S\u00edndrome de Lynch - Genetic Testing Registry: S\u00edndrome de Lynch I - Genetic Testing Registry: S\u00edndrome de Lynch II - Genomics Education Programme (UK) - MedlinePlus Enciclopedia: Colon Cancer - National Cancer Institute: Genetic Testing for Heredary Cancer Syndromes Syndromes"
+    }
+]

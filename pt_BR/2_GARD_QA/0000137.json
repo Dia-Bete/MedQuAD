@@ -1,0 +1,14 @@
+[
+    {
+        "qid":"0000137-1",
+        "qtype":"information",
+        "question":"O que \u00e9 s\u00edndrome de sofrimento respirat\u00f3rio agudo?",
+        "answer":"A s\u00edndrome de desconforto respirat\u00f3rio agudo (ARDS) \u00e9 uma doen\u00e7a pulmonar amea\u00e7adora de vida que impede que o oxig\u00eanio suficiente entre nos pulm\u00f5es e no sangue. Pessoas que desenvolvem SDRA muitas vezes est\u00e3o muito doentes com outra doen\u00e7a ou t\u00eam ferimentos graves. A condi\u00e7\u00e3o leva a uma acumula\u00e7\u00e3o de l\u00edquido nos sacos de ar que impede que o suficiente oxig\u00eanio passe para a corrente sangu\u00ednea. Sintomas podem incluir dificuldade em respirar, press\u00e3o arterial baixa e insufici\u00eancia de \u00f3rg\u00e3os, respira\u00e7\u00e3o r\u00e1pida e falta de ar."
+    },
+    {
+        "qid":"0000137-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para s\u00edndrome de sofrimento respirat\u00f3rio agudo?",
+        "answer":"Como pode a s\u00edndrome de sofrimento respirat\u00f3rio agudo (ARDS) ser tratada? Normalmente as pessoas com SDRA precisam estar em uma unidade de terapia intensiva (UTI). O objetivo do tratamento \u00e9 fornecer suporte respirat\u00f3rio e tratar a causa da SDRA. Isso pode envolver medicamentos para tratar infec\u00e7\u00f5es, reduzir a inflama\u00e7\u00e3o e remover l\u00edquido dos pulm\u00f5es. Uma m\u00e1quina de respira\u00e7\u00e3o \u00e9 usada para entregar altas doses de oxig\u00eanio e press\u00e3o cont\u00ednua chamada PEEP (press\u00e3o positiva final expirat\u00f3ria) para os pulm\u00f5es danificados. Os pacientes muitas vezes precisam ser sedados com medicamentos quando usam este equipamento. Algumas pesquisas sugerem que dar medicamentos para paralisar temporariamente uma pessoa com SDRA aumentar\u00e1 a chance de recupera\u00e7\u00e3o. O tratamento continua at\u00e9 que o paciente esteja bem o suficiente para respirar sozinho. Informa\u00e7\u00f5es mais detalhadas sobre o tratamento da SDRA podem ser acessadas atrav\u00e9s do National Heart, Lung and Blood Institute (NHLBI) e Medscape Reference. Um artigo detalhando a Terapia de Oxig\u00eanio tamb\u00e9m est\u00e1 dispon\u00edvel."
+    }
+]

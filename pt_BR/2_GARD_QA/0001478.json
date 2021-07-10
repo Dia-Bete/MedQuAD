@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0001478-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Anosmia Cong\u00eanita?",
+        "answer":"A anosmia cong\u00e9nita \u00e9 uma condi\u00e7\u00e3o muito rara em que as pessoas nascem com uma incapacidade permanente de cheirar. Pode ocorrer como uma anormalidade isolada (sem sintomas adicionais) ou estar associada a um dist\u00farbio gen\u00e9tico espec\u00edfico (como s\u00edndrome de Kallmann e insensibilidade cong\u00eanita \u00e0 dor). Cientistas suspeitam que a anosmia cong\u00eanita isolada ocorre devido ao desenvolvimento anormal do sistema olfativo (o sistema sensorial usado para o sentido do olfato) antes do nascimento. Isso pode incluir anormalidades da cavidade nasal, interrup\u00e7\u00f5es na via que transporta informa\u00e7\u00f5es do nariz para o c\u00e9rebro, e/ou malforma\u00e7\u00f5es da por\u00e7\u00e3o do c\u00e9rebro que processa o sentido do olfato. Infelizmente, atualmente n\u00e3o h\u00e1 cura ou tratamento conhecido para anosmia cong\u00eanita."
+    },
+    {
+        "qid":"0001478-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da Anosmia Cong\u00eanita?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da Anosmia Cong\u00eanita? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para anosmia cong\u00e9nita. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Anosmia - Heran\u00e7a dominante autoss\u00f4mica - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0001478-3",
+        "qtype":"causes",
+        "question":"O que causa anosmia cong\u00e9nita?",
+        "answer":"O que causa anosmia cong\u00eanita? A anosmia cong\u00e9nita pode ocorrer como uma anormalidade isolada ou estar associada a dist\u00farbios gen\u00e9ticos espec\u00edficos (como s\u00edndrome de Kallmann e insensibilidade cong\u00eanita \u00e0 dor). A maioria dos casos de anosmia cong\u00eanita isolada (n\u00e3o associada a sintomas adicionais) ocorrem esporadicamente em pessoas sem hist\u00f3rico familiar da condi\u00e7\u00e3o. Nestas pessoas, a exata causa subjacente da condi\u00e7\u00e3o \u00e9 desconhecida. Provavelmente, h\u00e1 mais de uma causa. Cientistas suspeitam que a condi\u00e7\u00e3o ocorre devido ao desenvolvimento anormal do sistema olfativo (o sistema sensorial usado para o sentido do olfato) antes do nascimento. Isso pode incluir anormalidades da cavidade nasal, interrup\u00e7\u00f5es na via que transporta informa\u00e7\u00f5es do nariz para o c\u00e9rebro, e/ou malforma\u00e7\u00f5es da por\u00e7\u00e3o do c\u00e9rebro que processa o sentido do olfato. Raramente, anosmia cong\u00eanita isolada pode afetar mais de um membro da fam\u00edlia. Isso sugere que pode haver um componente gen\u00e9tico em alguns casos. Um estudo descobriu que algumas pessoas afetadas por anosmia cong\u00eanita isolada t\u00eam altera\u00e7\u00f5es (muta\u00e7\u00f5es) em PROKR2 ou PROK2, dois genes que foram previamente relatados em pessoas com s\u00edndrome de Kallmann (uma condi\u00e7\u00e3o herdada associada com anosmia cong\u00eanita e outros sintomas). At\u00e9 o momento, n\u00e3o foram identificados outros genes causadores de doen\u00e7as."
+    },
+    {
+        "qid":"0001478-4",
+        "qtype":"inheritance",
+        "question":"A anosmia cong\u00e9nita \u00e9 herdada?",
+        "answer":"A anosmia cong\u00eanita \u00e9 herdada? A maioria dos casos de anosmia cong\u00eanita isolada (n\u00e3o associada a sintomas adicionais) ocorrem esporadicamente em pessoas sem hist\u00f3rico familiar da condi\u00e7\u00e3o. Raramente, mais de um membro da fam\u00edlia pode ser afetado. Nestas fam\u00edlias, a condi\u00e7\u00e3o parece ser herdada de uma forma autoss\u00f4mica dominante com menor penetra\u00e7\u00e3o. Anosmia cong\u00e9nita tamb\u00e9m pode ser associada a dist\u00farbios gen\u00e9ticos espec\u00edficos como s\u00edndrome de Kallmann e insensibilidade cong\u00eanita \u00e0 dor. Nesses casos, a heran\u00e7a varia de acordo com a condi\u00e7\u00e3o associada. Por exemplo, a s\u00edndrome de Kallmann pode ser herdada em uma forma autoss\u00f4mica dominante, autoss\u00f4mica recessiva ou X-ligada recessiva dependendo da causa gen\u00e9tica subjacente (pode ser causada por muta\u00e7\u00f5es em v\u00e1rios genes diferentes). A insensibilidade cong\u00eanita \u00e0 dor segue um padr\u00e3o autoss\u00f4mico recessivo de heran\u00e7a."
+    },
+    {
+        "qid":"0001478-5",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar anosmia cong\u00e9nita?",
+        "answer":"Como \u00e9 diagnosticada anosmia cong\u00eanita? Anosmia cong\u00eanita isolada (n\u00e3o associada a outros sintomas) \u00e9 um diagn\u00f3stico de exclus\u00e3o. Isso significa que o diagn\u00f3stico \u00e9 feito em pessoas com sinais e sintomas suspeitos uma vez que outras condi\u00e7\u00f5es que causam caracter\u00edsticas semelhantes foram descartadas. Quando uma pessoa afetada n\u00e3o se lembra de ser capaz de sentir o cheiro, os seguintes testes podem ser ordenados para apoiar um diagn\u00f3stico de anosmia cong\u00eanita: um exame f\u00edsico completo e hist\u00f3rico m\u00e9dico para procurar outras condi\u00e7\u00f5es que podem interferir com o sentido do cheiro Testes de cheiro, particularmente aqueles que determinam a menor quantidade de odor que algu\u00e9m pode detectar Imagem do c\u00e9rebro (como tomografia computadorizada e resson\u00e2ncia magn\u00e9tica) como algumas pessoas com anosmia cong\u00eanita t\u00eam malforma\u00e7\u00f5es na por\u00e7\u00e3o do brian que processa o cheiro endoscopia nasal para procurar anormalidades da cavidade nasal que podem interferir com o sentido do cheiro Teste nervoso olf\u00e1tico para avaliar interrup\u00e7\u00f5es na via que transporta informa\u00e7\u00f5es do nariz para o c\u00e9rebro"
+    },
+    {
+        "qid":"0001478-6",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Anosmia Cong\u00eanita?",
+        "answer":"Como podem ser tratadas as anosmias cong\u00eanitas? Infelizmente, atualmente n\u00e3o h\u00e1 cura ou tratamento conhecido para anosmia cong\u00eanita."
+    }
+]

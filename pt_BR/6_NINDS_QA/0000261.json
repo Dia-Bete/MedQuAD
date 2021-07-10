@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000261-1",
+        "qtype":"information",
+        "question":"O que \u00e9 isso?",
+        "answer":"Um AVC ocorre quando o suprimento de sangue para parte do c\u00e9rebro \u00e9 repentinamente interrompido ou quando um vaso sangu\u00edneo no c\u00e9rebro explode, derramando sangue para os espa\u00e7os que circundam as c\u00e9lulas cerebrais. C\u00e9lulas cerebrais morrem quando n\u00e3o recebem mais oxig\u00eanio e nutrientes do sangue ou h\u00e1 sangramento s\u00fabito dentro ou ao redor do c\u00e9rebro. Os sintomas de um acidente vascular cerebral incluem dorm\u00eancia ou fraqueza s\u00fabita, especialmente de um lado do corpo; confus\u00e3o s\u00fabita ou dificuldade em falar ou entender a fala; dificuldade s\u00fabita em ver em um ou ambos os olhos; dificuldade s\u00fabita em andar, tonturas, ou perda de equil\u00edbrio ou coordena\u00e7\u00e3o; ou dor de cabe\u00e7a s\u00fabita grave sem causa conhecida. H\u00e1 duas formas de acidente vascular cerebral: bloqueio isqu\u00eamico de um vaso sangu\u00edneo que abastece o c\u00e9rebro, e hemorragia hemorr\u00e1gica dentro ou ao redor do c\u00e9rebro."
+    },
+    {
+        "qid":"0000261-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Stroke?",
+        "answer":"Geralmente h\u00e1 tr\u00eas est\u00e1gios de tratamento para o AVC: preven\u00e7\u00e3o, terapia imediatamente ap\u00f3s o AVC, e reabilita\u00e7\u00e3o p\u00f3s-AVC. As terapias para prevenir um primeiro ou recorrente acidente vascular cerebral s\u00e3o baseadas no tratamento dos fatores de risco subjacentes de um indiv\u00edduo para o acidente vascular cerebral, como hipertens\u00e3o, fibrila\u00e7\u00e3o atrial e diabetes. Terapias agudas de AVC tentam parar um AVC enquanto isso est\u00e1 acontecendo dissolvendo rapidamente o co\u00e1gulo de sangue causando um AVC isqu\u00eamico ou parando o sangramento de um AVC hemorr\u00e1gico. A reabilita\u00e7\u00e3o p\u00f3s-AVC ajuda os indiv\u00edduos a superar defici\u00eancias que resultam de danos ao AVC. Medicamentos ou terapia medicamentosa \u00e9 o tratamento mais comum para acidente vascular cerebral. As classes mais populares de drogas usadas para prevenir ou tratar o acidente vascular cerebral s\u00e3o os antitromb\u00f3ticos (agentes antiplaquet\u00e1rios e anticoagulantes) e trombol\u00edticos."
+    },
+    {
+        "qid":"0000261-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Stroke?",
+        "answer":"Embora o AVC seja uma doen\u00e7a cerebral, pode afetar todo o corpo. Uma defici\u00eancia comum que resulta do acidente vascular cerebral \u00e9 a paralisia completa de um lado do corpo, chamada hemiplegia. Uma defici\u00eancia relacionada que n\u00e3o \u00e9 t\u00e3o debilitante como a paralisia \u00e9 fraqueza unilateral ou hemiparesia. O acidente vascular cerebral pode causar problemas com o pensamento, a consci\u00eancia, a aten\u00e7\u00e3o, a aprendizagem, o julgamento e a mem\u00f3ria. Sobreviventes de acidente vascular cerebral muitas vezes t\u00eam problemas para entender ou formar discurso. Um derrame pode levar a problemas emocionais. Pacientes com AVC podem ter dificuldade em controlar suas emo\u00e7\u00f5es ou podem expressar emo\u00e7\u00f5es inapropriadas. Muitos pacientes com AVC sofrem depress\u00e3o. Sobreviventes de acidente vascular cerebral tamb\u00e9m podem ter dorm\u00eancia ou sensa\u00e7\u00f5es estranhas. A dor \u00e9 muitas vezes pior nas m\u00e3os e nos p\u00e9s e \u00e9 piorada pelo movimento e as mudan\u00e7as de temperatura, especialmente as temperaturas frias. Derrame recorrente \u00e9 frequente; cerca de 25% das pessoas que se recuperam de seu primeiro derrame ter\u00e1 outro derrame em 5 anos."
+    },
+    {
+        "qid":"0000261-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Stroke?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Cl\u00ednicas (NINDS) realiza pesquisas sobre acidente vascular cerebral e ensaios cl\u00ednicos em seus laborat\u00f3rios e cl\u00ednicas nos Institutos Nacionais de Sa\u00fade (NIH), e atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. Atualmente, pesquisadores do NINDS est\u00e3o estudando os mecanismos de fatores de risco de acidente vascular cerebral e o processo de dano cerebral que resulta de acidente vascular cerebral. A pesquisa b\u00e1sica tamb\u00e9m se concentrou na gen\u00e9tica dos fatores de risco de AVC e AVC. Cientistas est\u00e3o trabalhando para desenvolver novas e melhores maneiras de ajudar o c\u00e9rebro a se reparar para restaurar fun\u00e7\u00f5es importantes. Novos avan\u00e7os na imagem e reabilita\u00e7\u00e3o mostraram que o c\u00e9rebro pode compensar a fun\u00e7\u00e3o perdida como resultado do acidente vascular cerebral."
+    }
+]

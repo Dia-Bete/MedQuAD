@@ -1,0 +1,44 @@
+[
+    {
+        "qid":"0000838-1",
+        "qtype":"indication",
+        "question":"Quem deve receber a inje\u00e7\u00e3o de Naloxone e por que \u00e9 prescrita?",
+        "answer":""
+    },
+    {
+        "qid":"0000838-2",
+        "qtype":"usage",
+        "question":"Como a inje\u00e7\u00e3o de naloxona deve ser usada e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000838-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre a inje\u00e7\u00e3o de naloxona?",
+        "answer":""
+    },
+    {
+        "qid":"0000838-5",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da inje\u00e7\u00e3o de naloxona?",
+        "answer":""
+    },
+    {
+        "qid":"0000838-6",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o da inje\u00e7\u00e3o de naloxona?",
+        "answer":""
+    },
+    {
+        "qid":"0000838-7",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o devo saber sobre a Inje\u00e7\u00e3o de Naloxona?",
+        "answer":""
+    },
+    {
+        "qid":"0000838-8",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca da Inje\u00e7\u00e3o de Naloxona?",
+        "answer":""
+    }
+]

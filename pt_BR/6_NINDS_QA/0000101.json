@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000101-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) dem\u00eancia com corpos Lewy?",
+        "answer":"Dem\u00eancia com corpos de Lewy (DLB) \u00e9 um dos tipos mais comuns de dem\u00eancia progressiva. As caracter\u00edsticas centrais do DLB incluem decl\u00ednio cognitivo progressivo, flutua\u00e7\u00f5es na alerta e aten\u00e7\u00e3o, alucina\u00e7\u00f5es visuais, e sintomas motores parkinsonianos, como a lentid\u00e3o do movimento, dificuldade em andar ou rigidez. As pessoas tamb\u00e9m podem sofrer de depress\u00e3o. Os sintomas do DLB s\u00e3o causados pela acumula\u00e7\u00e3o de corpos de Lewy acumulados bits de prote\u00edna alfa-sinucleina dentro dos n\u00facleos de neur\u00f4nios em \u00e1reas do c\u00e9rebro que controlam aspectos particulares da mem\u00f3ria e controle motor. Pesquisadores n\u00e3o sabem exatamente por que a alfa-sinucle\u00edna se acumula em corpos Lewy ou como os corpos Lewy causam os sintomas do DLB, mas sabem que o ac\u00famulo de alfa-sinucle\u00edna tamb\u00e9m est\u00e1 ligado \u00e0 doen\u00e7a de Parkinson, atrofia de m\u00faltiplos sistemas e v\u00e1rios outros dist\u00farbios, que s\u00e3o chamados de \"sinucleinopatias\". A semelhan\u00e7a dos sintomas entre DLB e Parkinson, e entre DLB e doen\u00e7a de Alzheimer, muitas vezes pode dificultar que um m\u00e9dico fa\u00e7a um diagn\u00f3stico definitivo. Al\u00e9m disso, corpos de Lewy s\u00e3o frequentemente encontrados no c\u00e9rebro de pessoas com doen\u00e7as de Parkinson e Alzheimer. Esses achados sugerem que DLB est\u00e1 relacionado a essas outras causas de dem\u00eancia ou que um indiv\u00edduo pode ter ambas as doen\u00e7as ao mesmo tempo. O DLB geralmente ocorre esporadicamente, em pessoas sem antecedentes familiares conhecidos da doen\u00e7a. No entanto, raros casos familiares foram relatados ocasionalmente."
+    },
+    {
+        "qid":"0000101-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a dem\u00eancia com corpos leves?",
+        "answer":"N\u00e3o h\u00e1 cura para DLB. Os tratamentos visam controlar os sintomas cognitivos, psiqui\u00e1tricos e motores do dist\u00farbio. Os inibidores da acetilcolinesterase, como donepezil e rivastigmina, s\u00e3o usados principalmente para tratar os sintomas cognitivos da DLB, mas tamb\u00e9m podem ser de algum benef\u00edcio na redu\u00e7\u00e3o dos sintomas psiqui\u00e1tricos e motores. Os m\u00e9dicos tendem a evitar prescrever antipsic\u00f3ticos para sintomas alucinat\u00f3rios da DLB devido ao risco de que a sensibilidade neurol\u00e9ptica possa piorar os sintomas motores. Alguns indiv\u00edduos com DLB podem se beneficiar com o uso da levodopa por sua rigidez e perda de movimento espont\u00e2neo."
+    },
+    {
+        "qid":"0000101-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a dem\u00eancia com os corpos de Lewy?",
+        "answer":"Como doen\u00e7a de Alzheimer e doen\u00e7a de Parkinson, o DLB \u00e9 um dist\u00farbio neurodegenerativo que resulta em deteriora\u00e7\u00e3o intelectual e funcional progressiva. N\u00e3o h\u00e1 terapias conhecidas para parar ou retardar a progress\u00e3o do DLB. A sobreviv\u00eancia m\u00e9dia ap\u00f3s o diagn\u00f3stico \u00e9 semelhante \u00e0 da doen\u00e7a de Alzheimer, cerca de 8 anos, com defici\u00eancia progressivamente crescente."
+    },
+    {
+        "qid":"0000101-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a dem\u00eancia com corpos Lewy?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS) e outros institutos dos Institutos Nacionais de Sa\u00fade realizam pesquisas relacionadas ao DLB em laborat\u00f3rios do NIH e apoiam pesquisas adicionais atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. Grande parte desta pesquisa se concentra em procurar as ra\u00edzes gen\u00e9ticas do DLB, explorar os mecanismos moleculares do ac\u00famulo de alfa-sinucle\u00edna, e descobrir como os corpos de Lewy causam os sintomas particulares do DLB e as outras sinucleinopatias. O objetivo da pesquisa NINDS \u00e9 encontrar melhores maneiras de prevenir, tratar e curar dist\u00farbios como o DLB."
+    }
+]

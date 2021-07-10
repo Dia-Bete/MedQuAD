@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0001187-1",
+        "qtype":"information",
+        "question":"O que \u00e9 diabetes quando voc\u00ea est\u00e1 doente?",
+        "answer":""
+    },
+    {
+        "qid":"0001187-2",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o diabetes quando voc\u00ea est\u00e1 doente?",
+        "answer":""
+    },
+    {
+        "qid":"0001187-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para diabetes quando voc\u00ea est\u00e1 doente?",
+        "answer":""
+    }
+]

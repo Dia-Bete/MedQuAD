@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0001798-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dermatofibrosarcoma protuberanos?",
+        "answer":"Dermatofibrosarcoma protuberanos \u00e9 um c\u00e2ncer incomum em que tumores surgem nas camadas mais profundas da pele. O tumor geralmente come\u00e7a como um pequeno peda\u00e7o de pele firme; pode ser roxo, vermelho ou cor de carne. \u00c9 comumente encontrada no tronco, geralmente no ombro e na \u00e1rea do peito. O tumor normalmente cresce lentamente, mas tem tend\u00eancia a recidivar depois de ser removido. Raramente se espalha por outras partes do corpo. A causa do DFSP \u00e9 desconhecida, mas a les\u00e3o na pele afetada pode ser um fator predisponente. O tratamento geralmente envolve remo\u00e7\u00e3o cir\u00fargica do tumor. Se o tumor n\u00e3o puder ser removido completamente, pode ser necess\u00e1ria terapia adicional. O acompanhamento regular \u00e9 importante para monitorar a recorr\u00eancia."
+    },
+    {
+        "qid":"0001798-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas de Dermatofibrosarcoma protuberanos?",
+        "answer":"Quais s\u00e3o os sinais e sintomas de Dermatofibrosarcoma protuberanos? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para Dermatofibrosarcoma protuberanos. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Neoplasia da pele 90% Sarcoma 90% Pele espessa 90% \u00falcera da pele 50% A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0001798-3",
+        "qtype":"causes",
+        "question":"O que causa Dermatofibrosarcoma protuberanos?",
+        "answer":"O que causa Dermatofibrosarcoma protuberanos? A causa do DFSP \u00e9 desconhecida, mas uma les\u00e3o na pele afetada pode ser um fator predisponente. Trauma no local afetado foi relatado em aproximadamente 10-20% dos pacientes. Avan\u00e7os recentes mostraram que em aproximadamente 90% dos casos, o dermatofibrosarcoma protuberanos est\u00e1 associado a um rearranjo (transloca\u00e7\u00e3o) de material gen\u00e9tico entre os cromossomos 17 e 22, o que resulta na fus\u00e3o de dois genes. O gene fundido produz uma prote\u00edna que alguns acreditam pode estimular as c\u00e9lulas a se multiplicar, levando \u00e0 forma\u00e7\u00e3o tumoral em dermatofibrosarcoma protuberanos. Este tipo de altera\u00e7\u00e3o g\u00eanica \u00e9 geralmente encontrado apenas em c\u00e9lulas tumorais e n\u00e3o \u00e9 herdado."
+    }
+]

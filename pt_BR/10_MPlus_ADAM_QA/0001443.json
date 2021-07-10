@@ -1,0 +1,44 @@
+[
+    {
+        "qid":"0001443-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Erythema nodosum?",
+        "answer":""
+    },
+    {
+        "qid":"0001443-2",
+        "qtype":"causes",
+        "question":"O que causa Erythema nodosum?",
+        "answer":""
+    },
+    {
+        "qid":"0001443-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas de Erythema nodosum?",
+        "answer":""
+    },
+    {
+        "qid":"0001443-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar Erythema nodosum?",
+        "answer":""
+    },
+    {
+        "qid":"0001443-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Erythema nodosum?",
+        "answer":""
+    },
+    {
+        "qid":"0001443-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Erythema nodosum?",
+        "answer":""
+    },
+    {
+        "qid":"0001443-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para Erythema nodosum?",
+        "answer":""
+    }
+]

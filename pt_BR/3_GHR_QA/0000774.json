@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000774-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) dist\u00farbio de dor extrema paroxismal?",
+        "answer":"O dist\u00farbio de dor extrema paroxismal \u00e9 uma condi\u00e7\u00e3o caracterizada por vermelhid\u00e3o da pele e calor (flushing) e ataques de dor intensa em v\u00e1rias partes do corpo. A \u00e1rea de rubor normalmente corresponde ao local da dor. Os ataques de dor vivenciados por pessoas com dist\u00farbio de dor extrema paroxismal geralmente duram segundos a minutos, mas em alguns casos podem durar horas. Esses ataques podem come\u00e7ar logo na inf\u00e2ncia. No in\u00edcio da vida, a dor \u00e9 normalmente concentrada na parte inferior do corpo, especialmente em torno do reto, e geralmente \u00e9 desencadeada por um movimento intestinal. Algumas crian\u00e7as podem desenvolver constipa\u00e7\u00e3o, o que \u00e9 considerado devido ao medo de desencadear um ataque de dor. Os ataques de dor nestas crian\u00e7as pequenas tamb\u00e9m podem ser acompanhados por convuls\u00f5es, batimentos card\u00edacos lentos ou pausas curtas na respira\u00e7\u00e3o (apn\u00e9ia). Como uma pessoa com dist\u00farbio paroxismal extrema dor envelhece, a localiza\u00e7\u00e3o da dor muda. Os ataques de dor mudam de afetar o corpo inferior para afetar a cabe\u00e7a e o rosto, especialmente os olhos e a mand\u00edbula. Ativadores desses ataques de dor incluem mudan\u00e7as na temperatura (como um vento frio) e sofrimento emocional, bem como comer alimentos picantes e beber bebidas frias. O dist\u00farbio da dor extrema paroxismal \u00e9 considerado uma forma de neuropatia perif\u00e9rica porque afeta o sistema nervoso perif\u00e9rico, que liga o c\u00e9rebro e a medula espinhal aos m\u00fasculos e \u00e0s c\u00e9lulas que detectam sensa\u00e7\u00f5es como o toque, o cheiro e a dor."
+    },
+    {
+        "qid":"0000774-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por dist\u00farbio de dor extrema paroxismal?",
+        "answer":"O dist\u00farbio de dor extrema paroxismal \u00e9 uma condi\u00e7\u00e3o rara; cerca de 80 indiv\u00edduos afetados foram descritos na literatura cient\u00edfica."
+    },
+    {
+        "qid":"0000774-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas ao dist\u00farbio paroxismal extremo da dor?",
+        "answer":"Muta\u00e7\u00f5es no gene SCN9A causam dor extrema paroxismal. O gene SCN9A fornece instru\u00e7\u00f5es para fazer uma parte (a subunidade alfa) de um canal de s\u00f3dio chamado NaV1.7. Canais de s\u00f3dio transportam \u00e1tomos de s\u00f3dio carregados positivamente (ions de s\u00f3dio) para as c\u00e9lulas e desempenham um papel fundamental na capacidade de uma c\u00e9lula para gerar e transmitir sinais el\u00e9tricos. Canais de s\u00f3dio NaV1,7 s\u00e3o encontrados em c\u00e9lulas nervosas chamadas nociceptores que transmitem sinais de dor para a medula espinhal e o c\u00e9rebro. As muta\u00e7\u00f5es do gene SCN9A que causam dist\u00farbio de dor extrema paroxismal resultam em canais de s\u00f3dio NaV1.7 que n\u00e3o se fecham completamente quando \u00e9 desligado, permitindo que os \u00edons de s\u00f3dio fluam anormalmente em nociceptores. Este aumento de \u00edons de s\u00f3dio aumenta a transmiss\u00e3o de sinais de dor, levando aos ataques de dor experimentados por pessoas com dist\u00farbio de dor extrema paroxismal. Desconhece-se por que os ataques de dor associados a esta condi\u00e7\u00e3o mudam de localiza\u00e7\u00e3o ao longo do tempo ou o que causa as outras caracter\u00edsticas dessa condi\u00e7\u00e3o, como convuls\u00f5es e mudan\u00e7as na respira\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000774-4",
+        "qtype":"inheritance",
+        "question":"O dist\u00farbio paroxismal extremo da dor \u00e9 herdado?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000774-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a dor extrema paroxismal?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo de dist\u00farbio de dor extrema paroxismal: - Registro de Testes Gen\u00e9ticos: Dist\u00farbio de dor extrema paroxismal Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

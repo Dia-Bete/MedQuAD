@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000427-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de armazenamento de glicog\u00eanio tipo VI?",
+        "answer":"A doen\u00e7a de armazenamento de glicog\u00eanio tipo VI (tamb\u00e9m conhecida como doen\u00e7a de GSDVI ou Hers) \u00e9 uma doen\u00e7a herdada causada pela incapacidade de quebrar um complexo a\u00e7\u00facar chamado glicog\u00eanio em c\u00e9lulas hep\u00e1ticas. A falta de quebra de glicog\u00eanio interfere na fun\u00e7\u00e3o normal do f\u00edgado. Os sinais e sintomas do GSDVI normalmente come\u00e7am na inf\u00e2ncia. O primeiro sinal \u00e9 geralmente um aumento do f\u00edgado (hepatomegalia). Indiv\u00edduos afetados tamb\u00e9m podem ter baixo n\u00edvel de a\u00e7\u00facar no sangue (hipoglicemia) ou uma acumula\u00e7\u00e3o de \u00e1cido l\u00e1ctico no corpo (acidose l\u00e1tica) durante per\u00edodos prolongados sem alimentos (jejum). Os sinais e sintomas do GSDVI tendem a melhorar com a idade; a maioria dos adultos com essa condi\u00e7\u00e3o n\u00e3o t\u00eam problemas de sa\u00fade relacionados."
+    },
+    {
+        "qid":"0000427-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela doen\u00e7a de armazenamento de glicog\u00eanio tipo VI?",
+        "answer":"A preval\u00eancia exata de GSDVI \u00e9 desconhecida. Pelo menos 11 casos foram relatados na literatura m\u00e9dica, embora essa condi\u00e7\u00e3o seja provavelmente subdiagnosticada porque pode ser dif\u00edcil de detectar em crian\u00e7as com sintomas leves ou adultos sem sintomas. GSDVI \u00e9 mais comum na popula\u00e7\u00e3o Mennonita Antiga, com uma incid\u00eancia estimada de 1 em 1.000 indiv\u00edduos."
+    },
+    {
+        "qid":"0000427-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 doen\u00e7a de armazenamento de glicog\u00eanio tipo VI?",
+        "answer":"Muta\u00e7\u00f5es no gene PYGL causam GSDVI. O gene PYGL fornece instru\u00e7\u00f5es para fazer uma enzima chamada glicog\u00eanio fosforilase hep\u00e1tica. Esta enzima \u00e9 encontrada apenas em c\u00e9lulas do f\u00edgado, onde quebra o glicog\u00eanio em um tipo de a\u00e7\u00facar chamado glucose-1-fosfato. Passos adicionais convertem glicose-1-fosfato em glicose, um a\u00e7\u00facar simples que \u00e9 a principal fonte de energia para a maioria das c\u00e9lulas do corpo. Muta\u00e7\u00f5es do gene PYGL impedem a fosforilase de glicog\u00eanio hep\u00e1tico de quebrar o glicog\u00eanio de forma eficaz. Como resultado, as c\u00e9lulas hep\u00e1ticas n\u00e3o podem usar glicog\u00eanio para energia. Como o glicog\u00eanio n\u00e3o pode ser quebrado, ele se acumula dentro das c\u00e9lulas do f\u00edgado, fazendo com que essas c\u00e9lulas se agrandem e disfuncionem."
+    },
+    {
+        "qid":"0000427-4",
+        "qtype":"inheritance",
+        "question":"A doen\u00e7a de armazenamento de glicog\u00eanio tipo VI \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000427-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de armazenamento de glicog\u00eanio tipo VI?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da doen\u00e7a de armazenamento de glicog\u00eanio tipo VI: - Gene Review: Gene Review: Glycogen Storage Disease Tipo VI - Genetic Testing Registry: Glycogen storage disease, tipo VI Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

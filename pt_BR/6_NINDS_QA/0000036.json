@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000036-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Disautonomia?",
+        "answer":"A disautonomia refere-se a um dist\u00farbio da fun\u00e7\u00e3o do sistema nervoso auton\u00f4mico (ANS) que geralmente envolve falha dos componentes simp\u00e1ticos ou parassimp\u00e1ticos do ANS, mas a disautonomia envolvendo a\u00e7\u00f5es excessivas ou hiperativas do ANS tamb\u00e9m pode ocorrer. Disautonomia pode ser local, como em reflexo distrofia simp\u00e1tica, ou generalizada, como em pura falha auton\u00f4mica. Pode ser aguda e revers\u00edvel, como na s\u00edndrome de Guillain-Barre, ou cr\u00f4nica e progressiva. V\u00e1rias condi\u00e7\u00f5es comuns como diabetes e alcoolismo podem incluir disautonomia. A disautonomia tamb\u00e9m pode ocorrer como uma condi\u00e7\u00e3o prim\u00e1ria ou em associa\u00e7\u00e3o com doen\u00e7as neurol\u00f3gicas degenerativas como a doen\u00e7a de Parkinson. Outras doen\u00e7as com disautonomia prim\u00e1ria generalizada incluem atrofia do sistema m\u00faltiplo e disautonomia familiar. As marcas da disautonomia generalizada devido \u00e0 fal\u00eancia simp\u00e1tica s\u00e3o impot\u00eancia (em homens) e uma queda na press\u00e3o arterial durante a posi\u00e7\u00e3o (hipotens\u00e3o ortost\u00e1tica). A atividade simp\u00e1tica excessiva pode se apresentar como hipertens\u00e3o ou pulso r\u00e1pido."
+    },
+    {
+        "qid":"0000036-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a disautonomia?",
+        "answer":"Geralmente n\u00e3o h\u00e1 cura para disautonomia. Formas secund\u00e1rias podem melhorar com o tratamento da doen\u00e7a subjacente. Em muitos casos, o tratamento da disautonomia prim\u00e1ria \u00e9 sintom\u00e1tico e de apoio. Medidas para combater a hipotens\u00e3o ortost\u00e1tica incluem eleva\u00e7\u00e3o da cabe\u00e7a da cama, bolo de \u00e1gua (infus\u00e3o r\u00e1pida de \u00e1gua administrada por via intravenosa), uma dieta com alto sal, e medicamentos como fludrocortisona e midodrina."
+    },
+    {
+        "qid":"0000036-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Dysautonomia?",
+        "answer":"A perspectiva de indiv\u00edduos com disautonomia depende da categoria diagn\u00f3stica em particular. Pessoas com disautonomia generalizada, cr\u00f4nica, progressiva, no contexto da degenera\u00e7\u00e3o do sistema nervoso central t\u00eam um progn\u00f3stico geralmente ruim a longo prazo. A morte pode ocorrer por pneumonia, insufici\u00eancia respirat\u00f3ria aguda, ou parada cardiopulmonar s\u00fabita."
+    },
+    {
+        "qid":"0000036-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Dysautonomia?",
+        "answer":"A NINDS apoia e conduz pesquisas sobre disautonomia. Esta pesquisa tem como objetivo descobrir formas de diagnosticar, tratar e, em \u00faltima an\u00e1lise, prevenir esses dist\u00farbios."
+    }
+]

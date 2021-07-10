@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0004331-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dor no pulso?",
+        "answer":""
+    },
+    {
+        "qid":"0004331-2",
+        "qtype":"causes",
+        "question":"O que causa dor no pulso?",
+        "answer":""
+    },
+    {
+        "qid":"0004331-3",
+        "qtype":"considerations",
+        "question":"O que fazer para a dor do pulso?",
+        "answer":""
+    },
+    {
+        "qid":"0004331-4",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para dor no pulso?",
+        "answer":""
+    },
+    {
+        "qid":"0004331-5",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a dor do pulso?",
+        "answer":""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000008-1",
+        "qtype":"information",
+        "question":"O que \u00e9 acromatopsia?",
+        "answer":"A cromatopsia \u00e9 uma condi\u00e7\u00e3o caracterizada por uma aus\u00eancia parcial ou total de vis\u00e3o de cor. Pessoas com acromatopsia completa n\u00e3o percebem nenhuma cor; v\u00eaem apenas preto, branco e tons de cinza. A cromatopsia incompleta \u00e9 uma forma mais leve da condi\u00e7\u00e3o que permite alguma discrimina\u00e7\u00e3o de cores. A acromatopsia tamb\u00e9m envolve outros problemas com a vis\u00e3o, incluindo um aumento da sensibilidade \u00e0 luz e ao brilho (fotofobia), movimentos involunt\u00e1rios dos olhos de costas e costas (nistagmus), e redu\u00e7\u00e3o significativa da acuidade visual (baixo acuidade visual). Indiv\u00edduos afetados tamb\u00e9m podem ter miopia (hiperopia) ou, menos comumente, miopia (miopia). Esses problemas de vis\u00e3o se desenvolvem nos primeiros meses de vida. A cromatopsia \u00e9 diferente das formas mais comuns de defici\u00eancia de vis\u00e3o de cores (tamb\u00e9m chamada cegueira de cores), em que as pessoas podem perceber a cor, mas t\u00eam dificuldade em distinguir entre certas cores, como o vermelho e o verde."
+    },
+    {
+        "qid":"0000008-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela acromatopsia?",
+        "answer":"A acromatopsia afeta 1 em 30.000 pessoas em todo o mundo. Acromatopsia completa \u00e9 mais comum do que acromatopsia incompleta. A acromatopsia completa ocorre frequentemente entre os ilh\u00e9us Pingelapese, que vivem em uma das Ilhas Caroline Oriental da Micron\u00e9sia. Entre 4 e 10 por cento das pessoas nesta popula\u00e7\u00e3o t\u00eam uma aus\u00eancia total de vis\u00e3o de cor."
+    },
+    {
+        "qid":"0000008-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 acromatopsia?",
+        "answer":"Acromatopsia resulta de mudan\u00e7as em um dos v\u00e1rios genes: GNCA3, GNCB3, GNAT2, PDE6C ou PDE6H. Uma muta\u00e7\u00e3o espec\u00edfica do gene GNCB3 subjace \u00e0 condi\u00e7\u00e3o dos ilh\u00e9us de Pingelapese. A cromatopsia \u00e9 uma desordem da retina, que \u00e9 o tecido sens\u00edvel \u00e0 luz na parte de tr\u00e1s do olho. A retina cont\u00e9m dois tipos de c\u00e9lulas receptoras de luz, chamadas varas e cones. Estas c\u00e9lulas transmitem sinais visuais do olho para o c\u00e9rebro atrav\u00e9s de um processo chamado fototransdu\u00e7\u00e3o. Rods fornecem vis\u00e3o em baixa luz (vis\u00e3o noturna). Os cones fornecem vis\u00e3o em luz brilhante (vis\u00e3o de luz do dia), incluindo vis\u00e3o de cores. Muta\u00e7\u00f5es em qualquer um dos genes listados acima impedem cones de reagir adequadamente \u00e0 luz, o que interfere na fototransdu\u00e7\u00e3o. Em pessoas com acromatopsia completa, os cones n\u00e3o s\u00e3o funcionais, e a vis\u00e3o depende inteiramente da atividade das varas. A perda da fun\u00e7\u00e3o do cone leva a uma falta total de vis\u00e3o de cor e causa os outros problemas de vis\u00e3o. Pessoas com acromatopsia incompleta mant\u00eam alguma fun\u00e7\u00e3o cone. Esses indiv\u00edduos t\u00eam vis\u00e3o de cor limitada, e seus outros problemas de vis\u00e3o tendem a ser menos graves. Algumas pessoas com acromatopsia n\u00e3o identificaram muta\u00e7\u00f5es em nenhum dos genes conhecidos. Nestes indiv\u00edduos, a causa do dist\u00farbio \u00e9 desconhecida. Outros fatores gen\u00e9ticos que n\u00e3o foram identificados provavelmente contribuem para esta condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000008-4",
+        "qtype":"inheritance",
+        "question":"A acromatopsia \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000008-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para acromatopsia?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da acromatopsia: - Gene Review: Gene Review: Acromatopsia - Gene Testing Registry: Acromatopsia - MedlinePlus Enciclop\u00e9dia: Color Vision Test Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

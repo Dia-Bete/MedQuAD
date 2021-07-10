@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0001593-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dor nos dedos?",
+        "answer":""
+    },
+    {
+        "qid":"0001593-2",
+        "qtype":"considerations",
+        "question":"O que fazer para dor nos dedos?",
+        "answer":""
+    },
+    {
+        "qid":"0001593-3",
+        "qtype":"causes",
+        "question":"O que causa dor nos dedos?",
+        "answer":""
+    },
+    {
+        "qid":"0001593-4",
+        "qtype":"considerations",
+        "question":"O que fazer para dor nos dedos?",
+        "answer":""
+    },
+    {
+        "qid":"0001593-5",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para dor nos dedos?",
+        "answer":""
+    },
+    {
+        "qid":"0001593-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para dor nos dedos?",
+        "answer":""
+    }
+]

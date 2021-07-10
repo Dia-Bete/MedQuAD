@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000142-1",
+        "qtype":"information",
+        "question":"O que \u00e9 neurodegenera\u00e7\u00e3o com acumula\u00e7\u00e3o de ferro cerebral?",
+        "answer":"A neurodegenera\u00e7\u00e3o com ac\u00famulo de ferro cerebral (NBIA) \u00e9 uma doen\u00e7a rara, herdada, do movimento neurol\u00f3gico caracterizada por um ac\u00famulo anormal de ferro no c\u00e9rebro e degenera\u00e7\u00e3o progressiva do sistema nervoso. Sintomas, que variam muito entre os pacientes e geralmente se desenvolvem durante a inf\u00e2ncia, podem incluir distonia (retor\u00e7\u00e3o lenta, contra\u00e7\u00f5es musculares distorcedoras dos membros, do rosto ou do tronco), disartria (dist\u00farbios ou fala lenta) coreoatetose (movimentos musculares secos involunt\u00e1rios, sem prop\u00f3sito), rigidez muscular (estreiteza n\u00e3o controlada dos m\u00fasculos), espasmos musculares repentinos, involunt\u00e1rios e/ou ataxia (incapacidade de coordenar movimentos), confus\u00e3o, desorienta\u00e7\u00e3o, convuls\u00f5es, estupor e dem\u00eancia. As altera\u00e7\u00f5es visuais tamb\u00e9m s\u00e3o comuns, mais frequentemente devido \u00e0 atrofia do nervo \u00f3ptico (atrofia \u00f3ptica) ou \u00e0 degenera\u00e7\u00e3o da camada retiniana na parte de tr\u00e1s do olho (degenera\u00e7\u00e3o retiniana O decl\u00ednio cognitivo ocorre em algumas formas de NBIA; a maioria dos indiv\u00edduos com NBIA n\u00e3o t\u00eam defici\u00eancia cognitiva. Diversos genes foram encontrados que causam NBIA."
+    },
+    {
+        "qid":"0000142-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para neurodegenera\u00e7\u00e3o com acumula\u00e7\u00e3o de ferro cerebral?",
+        "answer":"N\u00e3o h\u00e1 cura para a NBIA, nem h\u00e1 um curso padr\u00e3o de tratamento. O tratamento \u00e9 sintom\u00e1tico e de suporte, e pode incluir terapia f\u00edsica ou ocupacional, fisiologia do exerc\u00edcio e/ou patologia da fala. Muitos medicamentos est\u00e3o dispon\u00edveis para tratar os sintomas prim\u00e1rios de distonia e espasticidade, incluindo medicamentos orais, bomba de baclofeno intratecal (em que uma pequena bomba \u00e9 implantada sob a pele e \u00e9 programada para entregar uma quantidade espec\u00edfica de medicamentos em uma base regular), estimula\u00e7\u00e3o cerebral profunda, e inje\u00e7\u00e3o de toxina botul\u00ednica."
+    },
+    {
+        "qid":"0000142-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a neurodegenera\u00e7\u00e3o com acumula\u00e7\u00e3o de ferro cerebral?",
+        "answer":"A NBIA \u00e9 uma condi\u00e7\u00e3o progressiva. A maioria dos indiv\u00edduos vivencia per\u00edodos de r\u00e1pido decl\u00ednio duradouros de semanas a meses, com per\u00edodos relativamente est\u00e1veis no meio. A taxa de progress\u00e3o correlaciona com a idade no in\u00edcio, o que significa que crian\u00e7as com sintomas precoces tendem a correr mais mal. Para aqueles com in\u00edcio precoce, distonia e espasticidade podem eventualmente limitar a capacidade de andar, geralmente levando ao uso de uma cadeira de rodas pelos adolescentes. A expectativa de vida \u00e9 vari\u00e1vel, embora a morte prematura ocorra na NBIA. A morte precoce geralmente ocorre devido a complica\u00e7\u00f5es secund\u00e1rias como degluti\u00e7\u00e3o ou confinamento em uma cama ou cadeira de rodas, o que pode levar a uma m\u00e1 nutri\u00e7\u00e3o ou pneumonia de aspira\u00e7\u00e3o. Com cuidados m\u00e9dicos melhorados, entretanto, um maior n\u00famero de indiv\u00edduos afetados chegam \u00e0 idade adulta. Para aqueles com NBIA at\u00edpica e tardia, muitos s\u00e3o diagnosticados como adultos e vivem bem na idade adulta."
+    },
+    {
+        "qid":"0000142-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para neurodegenera\u00e7\u00e3o com acumula\u00e7\u00e3o de ferro cerebral?",
+        "answer":"A miss\u00e3o do Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Accidentes (NINDS) \u00e9 buscar conhecimento fundamental sobre o c\u00e9rebro e o sistema nervoso, e usar esse conhecimento para reduzir a carga da doen\u00e7a neurol\u00f3gica. Pesquisadores financiados pelo NINDS est\u00e3o desenvolvendo um modelo de rato de um dist\u00farbio NBIA para obter conhecimento das causas da doen\u00e7a e acelerar os esfor\u00e7os em curso para identificar terapia para trat\u00e1-la."
+    }
+]

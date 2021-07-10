@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000274-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) s\u00edndrome de surdez-distonia- neuronopatia \u00f3ptica?",
+        "answer":"A s\u00edndrome da neuronopatia \u00f3ptica da surdez-distonia (DDON), tamb\u00e9m conhecida como s\u00edndrome de Mohr-Tranebjrg, \u00e9 caracterizada por perda auditiva que come\u00e7a no in\u00edcio da vida, problemas com movimento, defici\u00eancia visual e problemas de comportamento. Essa condi\u00e7\u00e3o ocorre quase exclusivamente em homens. O primeiro sintoma da s\u00edndrome de DDON \u00e9 perda auditiva causada por dano nervoso no ouvido interno (perda auditiva sensorineural), que come\u00e7a na inf\u00e2ncia. A defici\u00eancia auditiva piora ao longo do tempo, e a maioria dos indiv\u00edduos afetados tem perda auditiva profunda aos 10 anos. Pessoas com s\u00edndrome de DDON normalmente come\u00e7am a desenvolver problemas de movimento durante a adolesc\u00eancia, embora o in\u00edcio desses sintomas varia entre os indiv\u00edduos afetados. Algumas pessoas experimentam tens\u00e3o involunt\u00e1ria dos m\u00fasculos (distonia), enquanto outras t\u00eam dificuldade em coordenar movimentos (ataxia). Os problemas com o movimento geralmente pioram com o tempo. Indiv\u00edduos com s\u00edndrome de DDON t\u00eam vis\u00e3o normal durante a inf\u00e2ncia, mas podem come\u00e7ar a desenvolver uma maior sensibilidade \u00e0 luz (fotofobia) ou outros problemas de vis\u00e3o durante a adolesc\u00eancia. Essas pessoas muitas vezes t\u00eam uma redu\u00e7\u00e3o progressiva lentamente na nitidez da vis\u00e3o (acuidade visual) e se tornam legalmente cegas em meio-adultos. Pessoas com essa condi\u00e7\u00e3o tamb\u00e9m podem ter problemas de comportamento, incluindo mudan\u00e7as de personalidade e comportamentos agressivos ou paranoicos. Eles tamb\u00e9m geralmente desenvolvem um decl\u00ednio gradual nas habilidades de pensamento e racioc\u00ednio (dem\u00eancia) em seus anos quarenta. A dura\u00e7\u00e3o de vida de indiv\u00edduos com s\u00edndrome de DDON depende da gravidade do dist\u00farbio. Pessoas com casos graves sobreviveram aos anos de adolesc\u00eancia, enquanto aqueles com casos mais leves viveram nos anos 60."
+    },
+    {
+        "qid":"0000274-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de neuronopatia de surdez-distonia-\u00f3ptica?",
+        "answer":"A s\u00edndrome de DDON \u00e9 uma doen\u00e7a rara, tem sido relatada em menos de 70 pessoas em todo o mundo."
+    },
+    {
+        "qid":"0000274-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de neuronopatia de surdez-distonia-\u00f3ptica?",
+        "answer":"Muta\u00e7\u00f5es no gene TIMM8A causam s\u00edndrome de DDON. A prote\u00edna produzida a partir deste gene \u00e9 encontrada dentro dos centros de produ\u00e7\u00e3o de energia das c\u00e9lulas (mitoc\u00f4ndrias). A prote\u00edna TIMM8A forma um complexo (um grupo de prote\u00ednas que trabalham juntas) com uma prote\u00edna muito semelhante chamada TIMM13. Este complexo funciona transportando outras prote\u00ednas dentro das mitoc\u00f4ndrias. A maioria das muta\u00e7\u00f5es no gene TIMM8A resultam na aus\u00eancia de prote\u00edna funcional TIMM8A dentro das mitoc\u00f4ndrias, o que impede a forma\u00e7\u00e3o do complexo TIMM8A/TIMM13. Pesquisadores acreditam que a falta deste complexo leva ao transporte anormal de prote\u00ednas, embora n\u00e3o seja claro como o transporte anormal de prote\u00ednas afeta a fun\u00e7\u00e3o das mitoc\u00f4ndrias e causa os sinais e sintomas da s\u00edndrome DDON."
+    },
+    {
+        "qid":"0000274-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome da neuronopatia da surdez-distonia-\u00f3ptica \u00e9 herdada?",
+        "answer":"A s\u00edndrome de DDON \u00e9 herdada em um padr\u00e3o recessivo ligado a X. O gene associado a esta condi\u00e7\u00e3o est\u00e1 localizado no cromossomo X, que \u00e9 um dos dois cromossomos sexuais. Em machos (que t\u00eam apenas um cromossomo X), uma c\u00f3pia alterada do gene em cada c\u00e9lula \u00e9 suficiente para causar a condi\u00e7\u00e3o. Em f\u00eameas (que t\u00eam dois cromossomos X), uma muta\u00e7\u00e3o teria que ocorrer em ambas as c\u00f3pias do gene para causar s\u00edndrome de DDON. Porque \u00e9 improv\u00e1vel que as f\u00eameas tenham duas c\u00f3pias alteradas deste gene, os machos s\u00e3o afetados por dist\u00farbios recessivos ligados a X muito mais freq\u00fcentemente do que as f\u00eameas. As f\u00eameas que carregam uma c\u00f3pia alterada do gene TIMM8A n\u00e3o s\u00e3o normalmente afetadas; no entanto, elas podem desenvolver leve perda auditiva e distonia. Uma caracter\u00edstica da heran\u00e7a ligada a X \u00e9 que os pais n\u00e3o podem passar os tra\u00e7os ligados a X para seus filhos."
+    },
+    {
+        "qid":"0000274-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de neuronopatia \u00f3ptica-distonia-surdez?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de neuronopatia \u00f3ptica-distonia-surdez: - Revis\u00e3o gen\u00e9tica: Revis\u00e3o gen\u00e9tica: S\u00edndrome de neuronopatia \u00f3ptica-distonia-surdez - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Mohr-Tranebjaerg Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

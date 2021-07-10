@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001054-1",
+        "qtype":"information",
+        "question":"O que \u00e9 nistagmo infantil ligado a X?",
+        "answer":"O nistagmo infantil ligado a X \u00e9 uma condi\u00e7\u00e3o caracterizada por movimentos oculares anormais. Nistagmus \u00e9 um termo que se refere a movimentos involunt\u00e1rios dos olhos. Em pessoas com essa condi\u00e7\u00e3o, o nistagmo est\u00e1 presente no nascimento ou se desenvolve nos primeiros seis meses de vida. Os movimentos oculares anormais podem piorar quando uma pessoa afetada est\u00e1 se sentindo ansiosa ou tenta olhar diretamente para um objeto. A gravidade do nistagmo varia, mesmo entre indiv\u00edduos afetados dentro da mesma fam\u00edlia. \u00c0s vezes, indiv\u00edduos afetados viram ou inclinam a cabe\u00e7a para compensar os movimentos oculares irregulares."
+    },
+    {
+        "qid":"0001054-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pelo nistagmo infantil ligado a X?",
+        "answer":"A incid\u00eancia de todas as formas de nistagmo infantil \u00e9 estimada em 1 em 5.000 rec\u00e9m-nascidos; no entanto, a incid\u00eancia precisa de nistagmo infantil ligado a X \u00e9 desconhecida."
+    },
+    {
+        "qid":"0001054-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas ao nistagmo infantil ligado a X?",
+        "answer":"Muta\u00e7\u00f5es no gene FRMD7 causam nistagmo infantil ligado a X. O gene FRMD7 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna cuja fun\u00e7\u00e3o exata \u00e9 desconhecida. Esta prote\u00edna \u00e9 encontrada principalmente em \u00e1reas do c\u00e9rebro que controlam o movimento dos olhos e no tecido sens\u00edvel \u00e0 luz na parte de tr\u00e1s do olho (retina). Pesquisas sugerem que muta\u00e7\u00f5es do gene FRMD7 causam nistagmo interrompendo o desenvolvimento de certas c\u00e9lulas nervosas no c\u00e9rebro e retina. Em algumas pessoas com nistagmo infantil ligado a X, nenhuma muta\u00e7\u00e3o no gene FRMD7 foi encontrada. A causa gen\u00e9tica do dist\u00farbio \u00e9 desconhecida nesses indiv\u00edduos. Pesquisadores acreditam que muta\u00e7\u00f5es em pelo menos outro gene, que n\u00e3o foi identificado, podem causar essa desordem."
+    },
+    {
+        "qid":"0001054-4",
+        "qtype":"inheritance",
+        "question":"O nistagmo infantil ligado a X \u00e9 herdado?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o ligado a X. Uma condi\u00e7\u00e3o \u00e9 considerada ligada a X se o gene mutado que causa a desordem est\u00e1 localizado no cromossomo X, um dos dois cromossomos sexuais em cada c\u00e9lula. Em machos (que t\u00eam apenas um cromossomo X), uma c\u00f3pia alterada do gene em cada c\u00e9lula \u00e9 suficiente para causar a condi\u00e7\u00e3o. Nas f\u00eameas (que t\u00eam duas c\u00f3pias do cromossomo X), uma c\u00f3pia alterada do gene em cada c\u00e9lula pode causar a condi\u00e7\u00e3o, embora as f\u00eameas afetadas possam ter sintomas menos graves do que os machos afetados. Aproximadamente metade das f\u00eameas com apenas uma c\u00f3pia alterada do gene FRMD7 em cada c\u00e9lula n\u00e3o t\u00eam sintomas dessa condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0001054-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para nistagmus infantil ligado a X?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo de nistagmus infantil ligado a X: - Gene Review: Gene Review: FRMD7-Related Infantil Nistagmus - Genetic Testing Registry: Infantil nistagmus, X-linked - MedlinePlus Encyclopedia: Nistagmus Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

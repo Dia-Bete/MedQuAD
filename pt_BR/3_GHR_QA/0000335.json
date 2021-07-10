@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000335-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de fator V?",
+        "answer":"A defici\u00eancia de fator V \u00e9 um dist\u00farbio sangrante raro. Os sinais e sintomas dessa condi\u00e7\u00e3o podem come\u00e7ar em qualquer idade, embora os casos mais graves sejam evidentes na inf\u00e2ncia. A defici\u00eancia do fator V comumente causa hemorragias nasais, hematomas f\u00e1ceis, sangramento sob a pele, sangramento das gengivas e sangramento prolongado ou excessivo ap\u00f3s cirurgia, trauma ou parto. Mulheres com defici\u00eancia de fator V podem ter sangramento menstrual pesado ou prolongado (menorragia). Sangramento em espa\u00e7os articulares (hemartrose) tamb\u00e9m pode ocorrer, embora seja raro. Indiv\u00edduos gravemente afetados t\u00eam um risco aumentado de sangramento dentro do cr\u00e2nio (hemorragia intracraniana), nos pulm\u00f5es (hemorragia pulmonar), ou no trato gastrointestinal, que pode ser potencialmente mortal."
+    },
+    {
+        "qid":"0000335-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de fator V?",
+        "answer":"A defici\u00eancia de fator V afeta 1 em 1 milh\u00e3o de pessoas. Essa condi\u00e7\u00e3o \u00e9 mais comum em pa\u00edses como o Ir\u00e3 e o sul da \u00cdndia, onde ela ocorre at\u00e9 dez vezes mais freq\u00fcente do que em pa\u00edses ocidentais."
+    },
+    {
+        "qid":"0000335-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de fator V?",
+        "answer":"A defici\u00eancia de fator V \u00e9 geralmente causada por muta\u00e7\u00f5es no gene F5, que fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada fator de coagula\u00e7\u00e3o V. Esta prote\u00edna desempenha um papel cr\u00edtico no sistema de coagula\u00e7\u00e3o, que \u00e9 uma s\u00e9rie de rea\u00e7\u00f5es qu\u00edmicas que formam co\u00e1gulos sangu\u00edneos em resposta a les\u00f5es. Muta\u00e7\u00f5es do gene F5 que causam defici\u00eancia de fator V impedem a produ\u00e7\u00e3o de fator de coagula\u00e7\u00e3o funcional V ou reduzem severamente a quantidade da prote\u00edna na corrente sangu\u00ednea. Pessoas com essa condi\u00e7\u00e3o normalmente t\u00eam menos de 10% dos n\u00edveis normais de fator de coagula\u00e7\u00e3o V no sangue; os indiv\u00edduos mais gravemente afetados t\u00eam menos de 1%. Uma quantidade reduzida de fator de coagula\u00e7\u00e3o funcional V impede que o sangue coagule normalmente, causando epis\u00f3dios de sangramento anormal que podem ser graves. Muito raramente, uma forma de defici\u00eancia de fator V \u00e9 causada por anticorpos anormais que reconhecem fator de coagula\u00e7\u00e3o V. Anticorpos normalmente se ligam a part\u00edculas e germes estranhos espec\u00edficos, marcando-os para destrui\u00e7\u00e3o, mas os anticorpos nesta forma de defici\u00eancia de fator V atacam uma prote\u00edna humana normal, levando a sua inativa\u00e7\u00e3o. Estes casos s\u00e3o chamados de defici\u00eancia de fator V adquirido e geralmente ocorrem em indiv\u00edduos que foram tratados com subst\u00e2ncias que estimulam a produ\u00e7\u00e3o de anticorpos anti-fator V, como trombina bovina usada durante procedimentos cir\u00fargicos. N\u00e3o h\u00e1 nenhuma causa gen\u00e9tica conhecida para esta forma da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000335-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de fator V \u00e9 herdada?",
+        "answer":"A defici\u00eancia do fator V \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene F5 em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Indiv\u00edduos com uma muta\u00e7\u00e3o em uma \u00fanica c\u00f3pia do gene F5 t\u00eam uma quantidade reduzida de fator de coagula\u00e7\u00e3o V em seu sangue e podem ter problemas de sangramento leves, embora a maioria n\u00e3o tenham efeitos relacionados \u00e0 sa\u00fade."
+    },
+    {
+        "qid":"0000335-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para defici\u00eancia de fator V?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da defici\u00eancia de fator V: - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de fator V - MedlinePlus Enciclop\u00e9dia: Defici\u00eancia de fator V Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

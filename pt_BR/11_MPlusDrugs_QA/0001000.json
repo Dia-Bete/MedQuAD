@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0001000-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar Polimixina B e Trimetoprim Oftalmol\u00f3gico e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0001000-2",
+        "qtype":"usage",
+        "question":"Como a Polimixina B e Trimetoprim Oftalmica devem ser usadas e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0001000-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Polimixina B e Trimetoprim Oftalmico?",
+        "answer":""
+    },
+    {
+        "qid":"0001000-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Polimixina B e Trimetoprim Oftalmico?",
+        "answer":""
+    },
+    {
+        "qid":"0001000-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se eu esquecer uma dose de Polimixina B e Trimetoprim Oftalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0001000-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Polimixina B e da Trimetoprim Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0001000-8",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Polimixina B e Trimetoprim Ophtalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0001000-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Polimixina B e Trimetoprim Ophtalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0001000-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Polimixina B e Trimetoprim Oftalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0001000-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de Polymyxin B e Trimetoprim Oftalmic?",
+        "answer":""
+    }
+]

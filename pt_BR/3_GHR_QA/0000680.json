@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000680-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a mucopolissacaridose tipo III?",
+        "answer":"Mucopolissacaridose tipo III (MPS III), tamb\u00e9m conhecida como s\u00edndrome de Sanfilippo, \u00e9 uma doen\u00e7a progressiva que afeta principalmente o c\u00e9rebro e a medula espinhal (sistema nervoso central). Pessoas com MPS III geralmente n\u00e3o apresentam nenhuma caracter\u00edstica da condi\u00e7\u00e3o ao nascer, mas come\u00e7am a mostrar sinais e sintomas do dist\u00farbio durante a inf\u00e2ncia. Crian\u00e7as afetadas t\u00eam problemas de fala e comportamento. Eles podem se tornar inquietos, destrutivos, ansiosos ou agressivos. Os dist\u00farbios do sono tamb\u00e9m s\u00e3o muito comuns em crian\u00e7as com MPS III. Essa condi\u00e7\u00e3o causa defici\u00eancia intelectual progressiva e a perda de habilidades adquiridas anteriormente (regress\u00e3o do desenvolvimento). Em fases posteriores do dist\u00farbio, pessoas com MPS III podem desenvolver convuls\u00f5es e dist\u00farbios de movimento. As caracter\u00edsticas f\u00edsicas do MPS III s\u00e3o menos pronunciadas que as de outros tipos de mucopolissacaridose. Indiv\u00edduos com MPS III tipicamente t\u00eam caracter\u00edsticas faciais levemente \"coarse\", uma cabe\u00e7a grande (macrocefalia), um f\u00edgado ligeiramente aumentado (hepatomegalia leve), e um macio desgaste em torno do abdome-bot\u00e3o (h\u00e9rnia umbilical) ou baixo abdome (h\u00e9rnia inguinal). Algumas pessoas com MPS III t\u00eam estatura curta, rigidez articular, ou disostose ligeira multiplex, o que se refere a m\u00faltiplas anormalidades esquel\u00e9ticas observadas na radiografia. Indiv\u00edduos afetados muitas vezes desenvolvem diarreia cr\u00f4nica e infec\u00e7\u00f5es respirat\u00f3rias superiores e auditivas recorrentes. Pessoas com MPS III tamb\u00e9m podem sofrer perda auditiva e problemas de vis\u00e3o. MPS III \u00e9 dividido em tipos IIIA, IIIB, IIIC e IIID, que se distinguem por sua causa gen\u00e9tica. Os diferentes tipos de MPS III t\u00eam sinais e sintomas semelhantes, embora as caracter\u00edsticas do MPS IIIA tipicamente apare\u00e7am mais cedo na vida e progredir mais rapidamente. Pessoas com MPS III geralmente vivem na adolesc\u00eancia ou na idade adulta."
+    },
+    {
+        "qid":"0000680-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela mucopolissacaridose tipo III?",
+        "answer":"MPS III \u00e9 o tipo mais comum de mucopolissacaridose; a incid\u00eancia estimada dos quatro tipos combinados \u00e9 de 1 em 70.000 rec\u00e9m-nascidos. MPS IIIA e MPS IIIB s\u00e3o muito mais comuns que MPS IIIC e MPS IIID."
+    },
+    {
+        "qid":"0000680-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 mucopolissacaridose tipo III?",
+        "answer":"Muta\u00e7\u00f5es nos genes GNS, HGSNAT, NAGLU e SGSH causam MPS III. Esses genes fornecem instru\u00e7\u00f5es para fazer enzimas envolvidas na degrada\u00e7\u00e3o de grandes mol\u00e9culas de a\u00e7\u00facar chamadas glicosaminoglicanos (GAGs). Os GAGs foram originalmente chamados de mucopolissacar\u00eddeos, que \u00e9 onde essa condi\u00e7\u00e3o obt\u00e9m seu nome. As enzimas GNS, HGSNAT, NAGLU e SGSH est\u00e3o envolvidas na degrada\u00e7\u00e3o gradual de um subconjunto de GAGs chamado sulfato de heparan. MPS IIIA \u00e9 causada por muta\u00e7\u00f5es no gene SGSH, e MPS IIIB \u00e9 causada por muta\u00e7\u00f5es do gene NAGLU. Muta\u00e7\u00f5es no gene HGSNAT resultam em MPS IIIC, e muta\u00e7\u00f5es do gene GNS causam MPS IIID. Muta\u00e7\u00f5es nestes genes reduzem ou eliminam a fun\u00e7\u00e3o enzim\u00e1tica. A falta de qualquer uma dessas enzimas interrompe a quebra do sulfato de heparano. Como resultado, o sulfato de heparan parcialmente quebrado acumula-se dentro das c\u00e9lulas, especificamente dentro dos lisossomos. Os lisossomos s\u00e3o compartimentos na c\u00e9lula que digerem e reciclam diferentes tipos de mol\u00e9culas. Condi\u00e7\u00f5es como o MPS III que causam a acumula\u00e7\u00e3o de mol\u00e9culas dentro dos lisossomos s\u00e3o chamadas de dist\u00farbios de armazenamento lisoss\u00f4micos. Pesquisadores acreditam que o ac\u00famulo de GAGs interfere com as fun\u00e7\u00f5es de outras prote\u00ednas dentro dos lisossomas e interrompe as fun\u00e7\u00f5es normais das c\u00e9lulas. Desconhece-se por que a acumula\u00e7\u00e3o de sulfato de heparan afeta principalmente o sistema nervoso central no MPS III."
+    },
+    {
+        "qid":"0000680-4",
+        "qtype":"inheritance",
+        "question":"Mucopolissacaridose tipo III \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000680-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para mucopolissacaridose tipo III?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da mucopolissacaridose tipo III: - Registro de Testes Gen\u00e9ticos: Mucopolissacaridose, MPS-III-A - Registro de Testes Gen\u00e9ticos: Mucopolissacaridose, MPS-III-B - Registro de Testes Gen\u00e9ticos: Mucopolissacaridose, MPS-III-C - Registro de Testes Gen\u00e9ticos: Mucopolissacaridose, MPS-III-D - MedlinePlus Enciclop\u00e9dia: S\u00edndrome de Sanfilippo - Sociedade Nacional de MPS: Um Guia para Entender MPS III Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

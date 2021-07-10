@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000301-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome da defici\u00eancia do transportador de dopamina?",
+        "answer":"A s\u00edndrome de defici\u00eancia de transportador de dopamina \u00e9 uma dist\u00farbio de movimento raro. A condi\u00e7\u00e3o tamb\u00e9m \u00e9 conhecida como parkinsonismo infantil-distonia porque os problemas com o movimento (distonia e parkinsonismo, descrito abaixo) geralmente come\u00e7am na inf\u00e2ncia e pioram com o tempo. No entanto, as caracter\u00edsticas da condi\u00e7\u00e3o \u00e0s vezes n\u00e3o aparecem at\u00e9 a inf\u00e2ncia ou mais tarde. Pessoas com s\u00edndrome de defici\u00eancia de transportador de dopamina desenvolvem um padr\u00e3o de contra\u00e7\u00f5es musculares involunt\u00e1rias e sustentadas conhecidas como distonia. A distonia \u00e9 generalizada (generalizada), afetando muitos m\u00fasculos diferentes. As c\u00e3ibras musculares cont\u00ednuas e espasmos causam dificuldade com atividades b\u00e1sicas, incluindo falar, comer, beber, pegar objetos e andar. \u00c0 medida que a condi\u00e7\u00e3o piora, indiv\u00edduos afetados desenvolvem parkinsonismo, que \u00e9 um grupo de anormalidades de movimento incluindo tremores, movimento incomummente lento (bradicinesia), rigidez, e uma incapacidade de segurar o corpo erguido e equilibrado (instabilidade postural). Outros sinais e sintomas que podem se desenvolver incluem movimentos oculares anormais; express\u00e3o facial reduzida (hipomimia); sono perturbado; epis\u00f3dios frequentes de pneumonia; e problemas com o sistema digestivo, incluindo um fluxo de rejei\u00e7\u00e3o do conte\u00fado do est\u00f4mago \u00e1cido para o es\u00f4fago (refluxo gastroesof\u00e1gico) e obstipa\u00e7\u00e3o. Pessoas com s\u00edndrome de defici\u00eancia de transportador de dopamina podem ter uma dura\u00e7\u00e3o de vida mais curta, embora os efeitos a longo prazo dessa condi\u00e7\u00e3o n\u00e3o sejam totalmente entendidos. Crian\u00e7as com essa condi\u00e7\u00e3o morreram de pneumonia e problemas respirat\u00f3rios. Quando os primeiros sinais e sintomas aparecem mais tarde na vida, indiv\u00edduos afetados podem sobreviver at\u00e9 a idade adulta."
+    },
+    {
+        "qid":"0000301-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de defici\u00eancia de transportador de dopamina?",
+        "answer":"A s\u00edndrome de defici\u00eancia de transportador de dopamina parece ser uma doen\u00e7a rara; apenas cerca de 20 indiv\u00edduos afetados foram descritos na literatura m\u00e9dica. Pesquisadores acreditam que a condi\u00e7\u00e3o \u00e9 provavelmente subdiagnosticada porque seus sinais e sintomas se sobrep\u00f5em com paralisia cerebral e outros dist\u00farbios de movimento."
+    },
+    {
+        "qid":"0000301-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de defici\u00eancia de transportador de dopamina?",
+        "answer":"A s\u00edndrome de defici\u00eancia de transportador de dopamina \u00e9 causada por muta\u00e7\u00f5es no gene SLC6A3. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada o transportador de dopamina. Esta prote\u00edna est\u00e1 incorporada na membrana de certas c\u00e9lulas nervosas (neur\u00f4nios) no c\u00e9rebro, onde transporta uma mol\u00e9cula chamada dopamina para a c\u00e9lula. Dopamina \u00e9 um mensageiro qu\u00edmico (neurotransmissor) que transmite sinais de um neur\u00f4nio para outro. A dopamina tem muitas fun\u00e7\u00f5es importantes, incluindo desempenhar pap\u00e9is complexos no pensamento (cogni\u00e7\u00e3o), motiva\u00e7\u00e3o, comportamento e controle do movimento. Muta\u00e7\u00f5es no gene SLC6A3 prejudicam ou eliminam a fun\u00e7\u00e3o do transportador de dopamina. A falta (defici\u00eancia) de transporte funcional interrompe o sinal de dopamina no c\u00e9rebro. Embora a dopamina tenha um papel cr\u00edtico no controle do movimento, n\u00e3o est\u00e1 claro como o sinal alterado da dopamina causa as anormalidades espec\u00edficas do movimento encontradas em pessoas com s\u00edndrome de defici\u00eancia do transportador de dopamina. Estudos sugerem que a idade em que os sinais e sintomas aparecem est\u00e1 relacionada a qu\u00e3o severamente a fun\u00e7\u00e3o do transportador de dopamina \u00e9 afetada. Indiv\u00edduos afetados que desenvolvem problemas de movimento come\u00e7ando na inf\u00e2ncia mais freq\u00fcentemente t\u00eam atividade de transporte que \u00e9 menos de 5% do normal. Aqueles cujos problemas de movimento aparecem na inf\u00e2ncia ou mais tarde tendem a ter n\u00edveis mais elevados de atividade do transportador, embora ainda sejam inferiores ao normal. Pesquisadores especulam que n\u00edveis mais elevados de atividade do transportador podem atrasar o in\u00edcio da doen\u00e7a nesses indiv\u00edduos."
+    },
+    {
+        "qid":"0000301-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de defici\u00eancia de transportador de dopamina \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000301-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para s\u00edndrome de defici\u00eancia de transportador de dopamina?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de defici\u00eancia do transportador de dopamina: - Revis\u00e3o de genes: Revis\u00e3o de genes: Doen\u00e7a de Parkinson Vis\u00e3o geral - Registro de Testes Gen\u00e9ticos: Parkinsonismo Infantil-distonia Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

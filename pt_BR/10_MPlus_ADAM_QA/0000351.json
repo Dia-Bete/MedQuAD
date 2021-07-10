@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0000351-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dermatite at\u00f3pica?",
+        "answer":""
+    },
+    {
+        "qid":"0000351-2",
+        "qtype":"causes",
+        "question":"O que causa dermatite at\u00f3pica?",
+        "answer":""
+    },
+    {
+        "qid":"0000351-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da dermatite at\u00f3pica?",
+        "answer":""
+    },
+    {
+        "qid":"0000351-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar dermatite at\u00f3pica?",
+        "answer":""
+    },
+    {
+        "qid":"0000351-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para dermatite at\u00f3pica?",
+        "answer":""
+    },
+    {
+        "qid":"0000351-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a dermatite at\u00f3pica?",
+        "answer":""
+    },
+    {
+        "qid":"0000351-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da dermatite at\u00f3pica?",
+        "answer":""
+    },
+    {
+        "qid":"0000351-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para dermatite at\u00f3pica?",
+        "answer":""
+    },
+    {
+        "qid":"0000351-9",
+        "qtype":"prevention",
+        "question":"Como prevenir a dermatite at\u00f3pica?",
+        "answer":""
+    }
+]

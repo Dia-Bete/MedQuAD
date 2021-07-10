@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000236-1",
+        "qtype":"information",
+        "question":"O que \u00e9 porencefalia?",
+        "answer":"A porencefalia \u00e9 uma desordem extremamente rara do sistema nervoso central em que um cisto ou cavidade cheia de l\u00edquido cefalorraquidiano se desenvolve no c\u00e9rebro. Geralmente \u00e9 o resultado de danos por acidente vascular cerebral ou infec\u00e7\u00e3o ap\u00f3s o nascimento (o tipo mais comum), mas tamb\u00e9m pode ser causado por desenvolvimento anormal antes do nascimento (que \u00e9 herdado e menos comum). Diagn\u00f3stico geralmente \u00e9 feito antes de uma crian\u00e7a atingir seu primeiro anivers\u00e1rio. Sintomas de porencefalia incluem atraso no crescimento e desenvolvimento, hemiplegia esp\u00e1stica (leve ou paralisia incompleta), hipotonia (baixo t\u00f4nus muscular), convuls\u00f5es (frequentemente espasmos infantis), e macrocefalia (cabe\u00e7a grande) ou microcefalia (cabe\u00e7a pequena). Crian\u00e7as com porencefalia podem ter desenvolvimento de fala ruim ou ausente, epilepsia, hidrocefalia (acumula\u00e7\u00e3o de l\u00edquido no c\u00e9rebro), contraturas espasm\u00e1ticas (aprimoramento ou encurtamento dos m\u00fasculos), e defici\u00eancia cognitiva."
+    },
+    {
+        "qid":"0000236-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Porencefalia?",
+        "answer":"O tratamento pode incluir fisioterapia, medicamentos para convuls\u00f5es, e a coloca\u00e7\u00e3o de um shunt no c\u00e9rebro para remover o excesso de l\u00edquido no c\u00e9rebro."
+    },
+    {
+        "qid":"0000236-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Porencefalia?",
+        "answer":"O progn\u00f3stico para crian\u00e7as com porencefalia varia de acordo com a localiza\u00e7\u00e3o e extens\u00e3o dos cistos ou cavidades. Algumas crian\u00e7as com este dist\u00farbio desenvolvem apenas problemas neurol\u00f3gicos menores e t\u00eam intelig\u00eancia normal, enquanto outras podem ser gravemente deficientes e morrer antes de sua segunda d\u00e9cada de vida."
+    },
+    {
+        "qid":"0000236-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Porencefalia?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS) e outros institutos dos Institutos Nacionais de Sa\u00fade (NIH) realizam pesquisas relacionadas \u00e0 porencefalia em laborat\u00f3rios do NIH e tamb\u00e9m apoiam pesquisas adicionais atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. Grande parte desta pesquisa explora os complexos mecanismos do desenvolvimento cerebral normal. Os conhecimentos obtidos com estes estudos fundamentais servir\u00e3o de base para desenvolver formas de prevenir a porecefalia e os outros dist\u00farbios cef\u00e1licos."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000035-1",
+        "qtype":"information",
+        "question":"O que \u00e9 autismo?",
+        "answer":"O dist\u00farbio aut\u00edstico (algumas vezes chamado autismo ou TEA cl\u00e1ssico) \u00e9 a condi\u00e7\u00e3o mais comum em um grupo de dist\u00farbios do desenvolvimento conhecidos como dist\u00farbios do espectro autista (TEA). Crian\u00e7as autistas t\u00eam dificuldades com a intera\u00e7\u00e3o social, exibem problemas com a comunica\u00e7\u00e3o verbal e n\u00e3o verbal, e exibem comportamentos repetitivos ou interesses estreitos e obsessivos. Esses comportamentos podem variar em impacto de leve a incapacitante. O autismo varia muito em sua gravidade e sintomas e pode ficar desconhecido, especialmente em crian\u00e7as ligeiramente afetadas ou quando defici\u00eancias mais debilitantes o mascaram. Os cientistas n\u00e3o t\u00eam certeza do que causa o autismo, mas \u00e9 prov\u00e1vel que tanto a gen\u00e9tica como o ambiente desempenhem um papel."
+    },
+    {
+        "qid":"0000035-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o Autismo?",
+        "answer":"N\u00e3o h\u00e1 cura para o autismo. Terapias e interven\u00e7\u00f5es comportamentais s\u00e3o projetadas para remediar sintomas espec\u00edficos e podem trazer melhorias substanciais. O plano de tratamento ideal coordena terapias e interven\u00e7\u00f5es que atendem as necessidades espec\u00edficas de crian\u00e7as individuais. As op\u00e7\u00f5es de tratamento incluem interven\u00e7\u00f5es educativas/bavaiorais, medicamentos e outras terapias. A maioria dos profissionais concorda que quanto mais cedo a interven\u00e7\u00e3o, melhor."
+    },
+    {
+        "qid":"0000035-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o Autismo?",
+        "answer":"Para muitas crian\u00e7as, os sintomas do autismo melhoram com o tratamento e com a idade. Algumas crian\u00e7as com autismo crescem para levar vidas normais ou quase normais. Crian\u00e7as cujas habilidades lingu\u00edsticas regredem no in\u00edcio da vida, geralmente antes dos 3 anos de idade, parecem estar em risco de desenvolver epilepsia ou atividade cerebral tipo convuls\u00e3o. Durante a adolesc\u00eancia, algumas crian\u00e7as com autismo podem ficar deprimidas ou sofrer problemas comportamentais. Os pais dessas crian\u00e7as devem estar prontos para ajustar o tratamento para o seu filho conforme necess\u00e1rio. Pessoas com TSA geralmente continuam precisando de servi\u00e7os e apoio \u00e0 medida que envelhecem, mas muitos s\u00e3o capazes de trabalhar com sucesso e viver independentemente ou dentro de um ambiente de apoio."
+    },
+    {
+        "qid":"0000035-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Autismo?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS) realiza pesquisas em seus laborat\u00f3rios nos Institutos Nacionais de Sa\u00fade (NIH) e tamb\u00e9m apoia pesquisas adicionais atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. Como parte da Lei de Sa\u00fade da Crian\u00e7a de 2000, os NINDS e tr\u00eas institutos irm\u00e3os formaram o Comit\u00ea de Coordena\u00e7\u00e3o do Autismo dos NIH para expandir, intensificar e coordenar a pesquisa do autismo dos NIHs. Como parte da Lei de Sa\u00fade da Crian\u00e7a de 2000, os NINDS e tr\u00eas institutos irm\u00e3os formaram o Comit\u00ea de Coordena\u00e7\u00e3o do Autismo dos NIH para expandir, intensificar e coordenar a pesquisa do autismo dos NIHs. Oito centros de pesquisa dedicados em todo o pa\u00eds foram criados como Centros de Excel\u00eancia em Pesquisa de Autismo para reunir pesquisadores e os recursos que eles precisam. Os Centros est\u00e3o realizando pesquisas b\u00e1sicas e cl\u00ednicas, incluindo investiga\u00e7\u00f5es sobre causas, diagn\u00f3stico, detec\u00e7\u00e3o precoce, preven\u00e7\u00e3o e tratamento do autismo."
+    }
+]

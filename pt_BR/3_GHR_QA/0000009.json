@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000009-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) s\u00edndrome da pele acral descascando?",
+        "answer":"A s\u00edndrome de descama\u00e7\u00e3o acral \u00e9 um dist\u00farbio de pele caracterizado por descama\u00e7\u00e3o indolor da camada superior da pele. O termo \"acral\" refere-se ao fato de que a pele descascada nesta condi\u00e7\u00e3o \u00e9 mais aparente nas m\u00e3os e p\u00e9s. Ocasionalmente, a descasca tamb\u00e9m ocorre nos bra\u00e7os e pernas. A descasca \u00e9 geralmente evidente desde o nascimento, embora a condi\u00e7\u00e3o tamb\u00e9m possa come\u00e7ar na inf\u00e2ncia ou mais tarde na vida. A descama\u00e7\u00e3o da pele \u00e9 piorada pela exposi\u00e7\u00e3o ao calor, umidade e outras formas de umidade, e atrito. A pele subjacente pode estar temporariamente vermelha e comich\u00e3o, mas normalmente cura sem cicatrizes. A s\u00edndrome da pele acral n\u00e3o est\u00e1 associada a nenhum outro problema de sa\u00fade."
+    },
+    {
+        "qid":"0000009-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome da pele acral?",
+        "answer":"A s\u00edndrome de descama\u00e7\u00e3o da pele acral \u00e9 uma condi\u00e7\u00e3o rara, com v\u00e1rias d\u00fazias de casos relatados na literatura m\u00e9dica. No entanto, como seus sinais e sintomas tendem a ser leves e semelhantes aos de outros dist\u00farbios cut\u00e2neos, a condi\u00e7\u00e3o \u00e9 provavelmente subdiagnosticada."
+    },
+    {
+        "qid":"0000009-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome da pele acral?",
+        "answer":"A s\u00edndrome da pele de descasca acral \u00e9 causada por muta\u00e7\u00f5es no gene TGM5. Este gene fornece instru\u00e7\u00f5es para fazer uma enzima chamada transglutaminase 5, que \u00e9 um componente da camada externa da pele (a epiderme). A transglutaminase 5 desempenha um papel cr\u00edtico na forma\u00e7\u00e3o de uma estrutura chamada o envelope celular cornificado, que rodeia as c\u00e9lulas epid\u00e9rmicas e ajuda a pele a formar uma barreira protetora entre o corpo e seu ambiente. Muta\u00e7\u00f5es do gene TGM5 reduzem a produ\u00e7\u00e3o de transglutaminase 5 ou impedem que as c\u00e9lulas produzam qualquer uma desta prote\u00edna. A escassez de transglutaminase 5 enfraquece o envelope celular cornificado, o que permite que as c\u00e9lulas ultraperif\u00e9ricas da epiderme se separem facilmente da pele subjacente e descasquem. Este descascar \u00e9 mais not\u00e1vel nas m\u00e3os e nos p\u00e9s provavelmente porque essas \u00e1reas tendem a ser fortemente expostas \u00e0 umidade e atrito."
+    },
+    {
+        "qid":"0000009-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de descama\u00e7\u00e3o acral \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000009-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome da pele acral?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da s\u00edndrome de descascamento da pele acral: - Birmingham Children's Hospital, Servi\u00e7o Nacional de Sa\u00fade (UK) - Genetic Testing Registry: Peeling skin syndrome, tipo acral Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

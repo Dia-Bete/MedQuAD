@@ -1,0 +1,14 @@
+[
+    {
+        "qid":"0002794-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Hennekam?",
+        "answer":"A s\u00edndrome de Hennekam \u00e9 uma condi\u00e7\u00e3o rara que afeta o sistema linf\u00e1tico. Os sinais e sintomas da condi\u00e7\u00e3o s\u00e3o geralmente percept\u00edveis ao nascer e variam significativamente de pessoa para pessoa, mesmo dentro da mesma fam\u00edlia. Pessoas afetadas geralmente experimentam linfangiectasia (vasos linf\u00e1ticos que est\u00e3o anormalmente expandidos), linfedema, e caracter\u00edsticas faciais distintas (i.e. uma apar\u00eancia aplanada no meio do rosto, p\u00e1lpebras inchadas, olhos amplamente espa\u00e7ados, orelhas pequenas, e uma boca pequena). Outras caracter\u00edsticas comuns incluem incapacidade intelectual, atraso de crescimento, problemas respirat\u00f3rios, camptodactilia (dedos permanentemente dobrados e dedos dos p\u00e9s) e sindactilia cut\u00e2nea (fus\u00e3o da pele entre os dedos dos p\u00e9s e os dedos dos p\u00e9s). A s\u00edndrome de Hennekam \u00e9 causada por altera\u00e7\u00f5es (muta\u00e7\u00f5es) nos genes CCBE1 ou FAT4 e \u00e9 herdada de forma autoss\u00f4mica recessiva. O tratamento \u00e9 baseado nos sinais e sintomas presentes em cada pessoa."
+    },
+    {
+        "qid":"0002794-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome de Hennekam?",
+        "answer":"            "
+    }
+]

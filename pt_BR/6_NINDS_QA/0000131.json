@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000131-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Hip\u00f3tonia?",
+        "answer":"Hipotonia \u00e9 um termo m\u00e9dico usado para descrever a diminui\u00e7\u00e3o do t\u00f4nus muscular. Normalmente, mesmo quando relaxados, os m\u00fasculos t\u00eam uma pequena quantidade de contra\u00e7\u00e3o que lhes d\u00e1 uma sensa\u00e7\u00e3o de pulveriza\u00e7\u00e3o e proporciona alguma resist\u00eancia ao movimento passivo. N\u00e3o \u00e9 o mesmo que a fraqueza muscular, embora as duas condi\u00e7\u00f5es possam coexistir. O tom muscular \u00e9 regulado por sinais que viajam do c\u00e9rebro para os nervos e dizem aos m\u00fasculos para se contrair. A hipotonia pode ocorrer por danos no c\u00e9rebro, medula espinhal, nervos ou m\u00fasculos. O dano pode ser resultado de trauma, fatores ambientais, ou transtornos gen\u00e9ticos, musculares ou do sistema nervoso central. Por exemplo, pode ser visto na s\u00edndrome de Down, distrofia muscular, paralisia cerebral, s\u00edndrome de Prader-Willi, distrofia miot\u00f4nica e doen\u00e7a de Tay-Sachs. \u00c0s vezes pode n\u00e3o ser poss\u00edvel encontrar o que causa a hipotonia. Crian\u00e7as com hipotonia t\u00eam uma qualidade floppy ou apar\u00eancia de boneca de trapo porque seus bra\u00e7os e pernas pendurados aos seus lados e eles t\u00eam pouco ou nenhum controle de cabe\u00e7a. Outros sintomas de hipotonia incluem problemas de mobilidade e postura, dificuldades respirat\u00f3rias e de fala, ligamento e laxismo articular, e maus reflexos. A hipotonia n\u00e3o afeta o intelecto. O oposto da hipotonia \u00e9 a hipertonia."
+    },
+    {
+        "qid":"0000131-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para hipotonia?",
+        "answer":"O tratamento come\u00e7a com uma avalia\u00e7\u00e3o diagn\u00f3stica completa, geralmente realizada por um neurologista, incluindo uma avalia\u00e7\u00e3o das habilidades motoras e sensoriais, equil\u00edbrio e coordena\u00e7\u00e3o, estado mental, reflexos e funcionamento dos nervos. Testes diagn\u00f3sticos que podem ser \u00fateis incluem uma TC ou resson\u00e2ncia magn\u00e9tica do c\u00e9rebro, um EMG para avaliar a fun\u00e7\u00e3o nervosa e muscular, ou um EEG para medir a atividade el\u00e9trica no c\u00e9rebro. Uma vez feito o diagn\u00f3stico, a condi\u00e7\u00e3o subjacente \u00e9 tratada primeiro, seguida de terapia sintom\u00e1tica e de suporte para a hipotonia. A fisioterapia pode melhorar o controle motor e a for\u00e7a corporal. Terapia ocupacional pode ajudar a reaprender maneiras de lidar com atividades da vida di\u00e1ria. A terapia fonoaudiol\u00f3gica pode ajudar a respirar, falar e engolir dificuldades. Terapia para beb\u00eas e crian\u00e7as pequenas tamb\u00e9m pode incluir programas de estimula\u00e7\u00e3o sensorial."
+    },
+    {
+        "qid":"0000131-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Hip\u00f3tonia?",
+        "answer":"A hipotonia pode ser uma condi\u00e7\u00e3o de vida. Em alguns casos, no entanto, o t\u00f4nus muscular melhora com o tempo."
+    },
+    {
+        "qid":"0000131-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Hipotonia?",
+        "answer":"O NINDS apoia pesquisas sobre condi\u00e7\u00f5es que podem resultar de dist\u00farbios neurol\u00f3gicos, como hipotonia. Grande parte desta pesquisa tem como objetivo aprender mais sobre essas condi\u00e7\u00f5es e encontrar maneiras de preveni-las e trat\u00e1-las."
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "qid":"0000750-1",
+        "qtype":"important warning",
+        "question":"Que aviso ou informa\u00e7\u00e3o importante eu deveria saber sobre Melphalan?",
+        "answer":""
+    },
+    {
+        "qid":"0000750-2",
+        "qtype":"indication",
+        "question":"Quem deve pegar Melphalan e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000750-3",
+        "qtype":"usage",
+        "question":"Como Melphalan deve ser usado e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000750-5",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Melphalan?",
+        "answer":""
+    },
+    {
+        "qid":"0000750-6",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Melphalan?",
+        "answer":""
+    },
+    {
+        "qid":"0000750-7",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Melphalan?",
+        "answer":""
+    },
+    {
+        "qid":"0000750-8",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos de Melphalan?",
+        "answer":""
+    },
+    {
+        "qid":"0000750-9",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Melphalan?",
+        "answer":""
+    },
+    {
+        "qid":"0000750-10",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Melphalan?",
+        "answer":""
+    },
+    {
+        "qid":"0000750-11",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Melphalan?",
+        "answer":""
+    },
+    {
+        "qid":"0000750-12",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de Melphalan?",
+        "answer":""
+    }
+]

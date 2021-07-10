@@ -1,0 +1,74 @@
+[
+    {
+        "qid":"0000060-1",
+        "qtype":"important warning",
+        "question":"Que aviso ou informa\u00e7\u00e3o importante eu deveria saber sobre Amitriptyline?",
+        "answer":""
+    },
+    {
+        "qid":"0000060-2",
+        "qtype":"indication",
+        "question":"Quem deveria pegar Amitriptyline e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000060-3",
+        "qtype":"usage",
+        "question":"Como a Amitriptyline deve ser usada e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000060-5",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Amitriptyline?",
+        "answer":""
+    },
+    {
+        "qid":"0000060-6",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Amitriptyline?",
+        "answer":""
+    },
+    {
+        "qid":"0000060-7",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Amitriptyline?",
+        "answer":""
+    },
+    {
+        "qid":"0000060-8",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Amitriptyline?",
+        "answer":""
+    },
+    {
+        "qid":"0000060-9",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Amitriptyline?",
+        "answer":""
+    },
+    {
+        "qid":"0000060-10",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Amitriptyline?",
+        "answer":""
+    },
+    {
+        "qid":"0000060-11",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Amitriptyline?",
+        "answer":""
+    },
+    {
+        "qid":"0000060-12",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca da Amitriptyline?",
+        "answer":""
+    },
+    {
+        "qid":"0000060-13",
+        "qtype":"brand names of combination products",
+        "question":"Quais s\u00e3o os nomes de marcas de produtos combinados da Amitriptyline?",
+        "answer":""
+    }
+]

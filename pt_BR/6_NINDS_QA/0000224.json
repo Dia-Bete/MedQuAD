@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000224-1",
+        "qtype":"information",
+        "question":"O que \u00e9 coreoatetose paroxismal?",
+        "answer":"A coreoatetose paroxismal \u00e9 um dist\u00farbio de movimento caracterizado por epis\u00f3dios ou ataques de movimentos involunt\u00e1rios dos membros, tronco e m\u00fasculos faciais. O dist\u00farbio pode ocorrer em v\u00e1rios membros de uma fam\u00edlia, ou apenas em um \u00fanico membro da fam\u00edlia. Antes de um ataque, alguns indiv\u00edduos experimentam tens\u00e3o muscular ou outros sintomas f\u00edsicos. Os movimentos involunt\u00e1rios precipitam alguns ataques, e outros ocorrem quando o indiv\u00edduo tem consumido \u00e1lcool ou cafe\u00edna, ou est\u00e1 cansado ou estressado. Os ataques podem durar de 10 segundos a mais de uma hora. Alguns indiv\u00edduos t\u00eam tens\u00e3o muscular ap\u00f3s um ataque. A coreoatetose paroxismal frequentemente come\u00e7a no in\u00edcio da adolesc\u00eancia. Um gene associado ao dist\u00farbio foi descoberto. O mesmo gene tamb\u00e9m est\u00e1 associado \u00e0 epilepsia."
+    },
+    {
+        "qid":"0000224-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a coreoatetose paroxismal?",
+        "answer":"A terapia medicamentosa, particularmente a carbamazepina, tem sido muito bem sucedida em reduzir ou eliminar ataques de coreoatetose paroxismal. Enquanto a carbamazepina n\u00e3o \u00e9 eficaz em todos os casos, outras drogas foram substitu\u00eddas com bom efeito."
+    },
+    {
+        "qid":"0000224-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva da coreoatetose paroxismal?",
+        "answer":"Geralmente, a coreoatetose paroxismal diminui com a idade, e muitos adultos t\u00eam uma remiss\u00e3o completa. Porque a terapia medicamentosa \u00e9 t\u00e3o eficaz, o progn\u00f3stico para o dist\u00farbio \u00e9 bom."
+    },
+    {
+        "qid":"0000224-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a coreoatetose paroxismal?",
+        "answer":"NINDS apoia e conduz pesquisas sobre dist\u00farbios de movimento como coreoatetose paroxismal. Grande parte desta pesquisa tem como objetivo encontrar maneiras de prevenir e tratar esses dist\u00farbios."
+    }
+]

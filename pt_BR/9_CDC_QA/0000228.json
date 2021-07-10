@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0000228-1",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para a doen\u00e7a do v\u00edrus Hendra? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"A transmiss\u00e3o do v\u00edrus Hendra aos humanos pode ocorrer ap\u00f3s exposi\u00e7\u00e3o a fluidos e tecidos corporais ou excre\u00e7\u00f5es de cavalos infectados com o v\u00edrus Hendra. Cavalos podem ser infectados ap\u00f3s exposi\u00e7\u00e3o ao v\u00edrus na urina de raposas voadoras infectadas. At\u00e9 o momento, nenhuma transmiss\u00e3o humana foi documentada."
+    },
+    {
+        "qid":"0000228-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da doen\u00e7a do v\u00edrus Hendra?",
+        "answer":"Ap\u00f3s uma incuba\u00e7\u00e3o de 9-16 dias, a infec\u00e7\u00e3o pelo v\u00edrus Hendra pode levar a doen\u00e7as respirat\u00f3rias com sinais e sintomas gripais graves. Em alguns casos, a doen\u00e7a pode progredir para encefalite. Embora a infec\u00e7\u00e3o pelo v\u00edrus Hendra seja rara, a fatalidade do caso \u00e9 alta: 4/7 (57%)."
+    },
+    {
+        "qid":"0000228-3",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para a doen\u00e7a do v\u00edrus Hendra? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"Os morcegos voadores de raposa (g\u00e9nero Pteropus) s\u00e3o o reservat\u00f3rio natural do v\u00edrus Hendra. Evid\u00eancias sorol\u00f3gicas para infec\u00e7\u00e3o por HeV foram encontradas em todas as quatro esp\u00e9cies de raposas voadoras australianas, mas a propaga\u00e7\u00e3o do v\u00edrus em cavalos \u00e9 limitada a regi\u00f5es costeiras e florestais na Austr\u00e1lia (Estados de Queensland e Nova Gales do Sul) (ver Mapa de Distribui\u00e7\u00e3o de Henipav\u00edrus). Pessoas de maior risco s\u00e3o aquelas que vivem dentro da distribui\u00e7\u00e3o das raposas voadoras e com exposi\u00e7\u00e3o ocupacional ou recreativa a cavalos que tiveram potencial contato com raposas voadoras na Austr\u00e1lia."
+    },
+    {
+        "qid":"0000228-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a doen\u00e7a do v\u00edrus Hendra?",
+        "answer":"Testes de laborat\u00f3rio que s\u00e3o usados para diagnosticar o v\u00edrus Hendra (HV) e o v\u00edrus Nipah (NV) incluem detec\u00e7\u00e3o de anticorpos por ELISA (IgG e IgM), rea\u00e7\u00e3o de polimerase em cadeia em tempo real (RT-PCR), e tentativas de isolamento de v\u00edrus. Na maioria dos pa\u00edses, manipular o v\u00edrus Hendra precisa ser feito em laborat\u00f3rios de alta conten\u00e7\u00e3o. O diagn\u00f3stico laboratorial de um paciente com hist\u00f3ria cl\u00ednica de HV ou NV pode ser feito durante a fase aguda e convalescente da doen\u00e7a usando uma combina\u00e7\u00e3o de testes, incluindo detec\u00e7\u00e3o de anticorpos no soro ou no l\u00edquido cefalorraquidiano (CSF), detec\u00e7\u00e3o de RNA viral (RT-PCR) no soro, LCR, ou toalhas na garganta, e isolamento do v\u00edrus do LCR ou toalhas na garganta."
+    },
+    {
+        "qid":"0000228-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a do v\u00edrus Hendra?",
+        "answer":"O f\u00e1rmaco ribavirina mostrou ser eficaz contra os v\u00edrus in vitro, mas a utilidade cl\u00ednica deste f\u00e1rmaco \u00e9 incerta. Uma terapia p\u00f3s-exposi\u00e7\u00e3o com um anticorpo neutralizante Nipah/Hendra, eficaz em modelos animais est\u00e1 em est\u00e1gios de desenvolvimento pr\u00e9-cl\u00ednico humano na Austr\u00e1lia."
+    },
+    {
+        "qid":"0000228-6",
+        "qtype":"prevention",
+        "question":"Como prevenir a doen\u00e7a do v\u00edrus Hendra?",
+        "answer":"A ocorr\u00eancia da doen\u00e7a em humanos tem sido associada apenas \u00e0 infec\u00e7\u00e3o de uma esp\u00e9cie intermedi\u00e1ria como cavalos. O reconhecimento precoce da doen\u00e7a no hospedeiro animal intermedi\u00e1rio \u00e9 provavelmente o meio mais crucial para limitar futuros casos humanos. A infec\u00e7\u00e3o pelo v\u00edrus Hendra pode ser evitada evitando cavalos doentes ou infectados com HeV e usando equipamentos de prote\u00e7\u00e3o individual apropriados quando o contato \u00e9 necess\u00e1rio, como nos procedimentos veterin\u00e1rios. Uma vacina comercial foi recentemente licenciada na Austr\u00e1lia para cavalos e pode ser ben\u00e9fica para outras esp\u00e9cies animais e eventualmente humanos."
+    }
+]

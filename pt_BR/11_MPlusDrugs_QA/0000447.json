@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0000447-1",
+        "qtype":"indication",
+        "question":"Quem deveria tomar Eritromicina Oftalmol\u00f3gica e por que \u00e9 prescrita?",
+        "answer":""
+    },
+    {
+        "qid":"0000447-2",
+        "qtype":"usage",
+        "question":"Como a Eritromicina Oftalmica deve ser usada e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000447-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Eritromicina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000447-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Eritromicina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000447-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Eritromicina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000447-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Eritromicina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000447-8",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o de Eritromicina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000447-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Eritromicina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000447-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Eritromicina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000447-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca da Eritromicina Oftalmica?",
+        "answer":""
+    }
+]

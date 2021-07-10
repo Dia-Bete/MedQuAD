@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000349-1",
+        "qtype":"information",
+        "question":"O que \u00e9 defici\u00eancia de glucocorticoide familiar?",
+        "answer":"A defici\u00eancia familiar de glucocorticoides \u00e9 uma condi\u00e7\u00e3o que ocorre quando as gl\u00e2ndulas suprarrenais, que s\u00e3o gl\u00e2ndulas produtoras de horm\u00f4nio localizadas em cima de cada rim, n\u00e3o produzem certos horm\u00f4nios chamados glucocorticoides. Esses horm\u00f4nios, que incluem cortisol e corticosterona, ajudam na fun\u00e7\u00e3o do sistema imunol\u00f3gico, desempenham um papel na manuten\u00e7\u00e3o dos n\u00edveis normais de a\u00e7\u00facar no sangue, ajudam a desencadear sinais de c\u00e9lulas nervosas no c\u00e9rebro, e servem muitos outros prop\u00f3sitos no corpo. A escassez de horm\u00f4nios suprarrenais (insufici\u00eancia suprarrenal) causa os sinais e sintomas da defici\u00eancia de glucocortic\u00f3ide familiar. Esses sinais e sintomas muitas vezes come\u00e7am na inf\u00e2ncia ou na inf\u00e2ncia. As crian\u00e7as mais afetadas primeiro desenvolvem baixo n\u00edvel de a\u00e7\u00facar no sangue (hipoglicemia). Essas crian\u00e7as hipoglic\u00e9micas podem falhar em crescer e ganhar peso \u00e0 taxa esperada (falha em prosperar). Se n\u00e3o tratada, hipoglicemia pode levar a convuls\u00f5es, dificuldades de aprendizagem e outros problemas neurol\u00f3gicos. Hipoglicemia que \u00e9 deixada sem tratamento por per\u00edodos prolongados pode levar a danos neurol\u00f3gicos e morte. Outras caracter\u00edsticas da defici\u00eancia de glucocorticoides familiares podem incluir infec\u00e7\u00f5es recorrentes e colora\u00e7\u00e3o da pele mais escura do que a de outros membros da fam\u00edlia (hiperpigmenta\u00e7\u00e3o). H\u00e1 m\u00faltiplos tipos de defici\u00eancia de glucocorticoides familiares, que se distinguem por sua causa gen\u00e9tica."
+    },
+    {
+        "qid":"0000349-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de glucocorticoide familiar?",
+        "answer":"A preval\u00eancia de defici\u00eancia de glucocorticoides familiares \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000349-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de glucocortic\u00f3ide familiar?",
+        "answer":"Muta\u00e7\u00f5es nos genes MC2R, MRAP e NNT representam a maioria dos casos de defici\u00eancia de glucocorticoides familiares; muta\u00e7\u00f5es em outros genes, alguns conhecidos e alguns n\u00e3o identificados, tamb\u00e9m podem causar essa condi\u00e7\u00e3o. O gene MC2R fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada receptor do horm\u00f4nio adrenocorticotr\u00f3pico (ACTH), que \u00e9 encontrada principalmente nas gl\u00e2ndulas adrenais. A prote\u00edna produzida a partir do gene MRAP transporta o receptor ACTH do interior da c\u00e9lula para a membrana celular. Quando o receptor ACTH est\u00e1 incorporado na membrana celular, ele \u00e9 ligado (ativado) pela prote\u00edna MRAP. Receptor ACTH ativado pode ent\u00e3o se ligar (vinda) ao ACTH, e esta liga\u00e7\u00e3o desencadeia as gl\u00e2ndulas suprarrenais para produzir glucocorticoides. Muta\u00e7\u00f5es do gene MC2R levam \u00e0 produ\u00e7\u00e3o de um receptor que n\u00e3o pode ser transportado para a membrana celular ou, se chegar \u00e0 membrana celular, n\u00e3o pode se ligar ao ACTH. Muta\u00e7\u00f5es do gene MRAP prejudicam o transporte do receptor ACTH para a membrana celular. Sem a liga\u00e7\u00e3o do receptor ACTH ao seu horm\u00f4nio, n\u00e3o h\u00e1 sinal para desencadear as gl\u00e2ndulas suprarrenais para produzir glucocorticoides. O gene NNT fornece instru\u00e7\u00f5es para fazer uma enzima chamada nicotinamida nucleotida transidrogenase. Esta enzima \u00e9 encontrada embutida na membrana interna de estruturas chamadas mitoc\u00f4ndrias, que s\u00e3o os centros de produ\u00e7\u00e3o de energia das c\u00e9lulas. Esta enzima ajuda a produzir uma subst\u00e2ncia chamada NADPH, que est\u00e1 envolvida na remo\u00e7\u00e3o de mol\u00e9culas potencialmente t\u00f3xicas chamadas esp\u00e9cies reativas de oxig\u00eanio que podem danificar DNA, prote\u00ednas e membranas celulares. Muta\u00e7\u00f5es de genes NNT prejudicam a capacidade da enzima para produzir NADPH, levando a um aumento de esp\u00e9cies reativas de oxig\u00eanio nos tecidos das gl\u00e2ndulas adrenais. Com o tempo, essas mol\u00e9culas t\u00f3xicas podem prejudicar a fun\u00e7\u00e3o das gl\u00e2ndulas suprarrenais e levar \u00e0 sua morte (apoptose), diminuindo a produ\u00e7\u00e3o de glucocorticoides."
+    },
+    {
+        "qid":"0000349-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de glucocorticoide familiar \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000349-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para defici\u00eancia de glucocorticoide familiar?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da defici\u00eancia de glucocorticoides familiares: - Registro de Testes Gen\u00e9ticos: Resist\u00eancia ao ACTH - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de glucocorticoides 2 - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de glucocorticoides 3 - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de glucocorticoides 4 - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de c\u00e9lulas assassinas naturais, isolados familiares Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

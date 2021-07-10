@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0000554-1",
+        "qtype":"information",
+        "question":"O que \u00e9 um n\u00f3dulo de peito?",
+        "answer":""
+    },
+    {
+        "qid":"0000554-2",
+        "qtype":"considerations",
+        "question":"O que fazer com o bulto do peito?",
+        "answer":""
+    },
+    {
+        "qid":"0000554-3",
+        "qtype":"causes",
+        "question":"O que causa o n\u00f3dulo do peito?",
+        "answer":""
+    },
+    {
+        "qid":"0000554-4",
+        "qtype":"considerations",
+        "question":"O que fazer com o bulto do peito?",
+        "answer":""
+    },
+    {
+        "qid":"0000554-5",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso falar com um m\u00e9dico para o bulto do peito?",
+        "answer":""
+    },
+    {
+        "qid":"0000554-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o bulto do peito?",
+        "answer":""
+    }
+]

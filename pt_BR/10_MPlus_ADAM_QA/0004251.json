@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0004251-1",
+        "qtype":"information",
+        "question":"O que \u00e9 vitiligo?",
+        "answer":""
+    },
+    {
+        "qid":"0004251-2",
+        "qtype":"causes",
+        "question":"O que causa o vitiligo?",
+        "answer":""
+    },
+    {
+        "qid":"0004251-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do vitiligo?",
+        "answer":""
+    },
+    {
+        "qid":"0004251-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar vitiligo?",
+        "answer":""
+    },
+    {
+        "qid":"0004251-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para vitiligo?",
+        "answer":""
+    },
+    {
+        "qid":"0004251-6",
+        "qtype":"support groups",
+        "question":"Onde encontrar apoio para pessoas com vitiligo?",
+        "answer":""
+    },
+    {
+        "qid":"0004251-7",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o vitiligo?",
+        "answer":""
+    },
+    {
+        "qid":"0004251-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para Vitiligo?",
+        "answer":""
+    }
+]

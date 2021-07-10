@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0004465-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Norum?",
+        "answer":"A doen\u00e7a de Norum \u00e9 um dist\u00farbio autoss\u00f4mico recessivo do metabolismo da lipoprote\u00edna que causa uma tr\u00edade t\u00edpica de opacidades c\u00f3rneas difusas, anemia hemol\u00edtica de c\u00e9lulas-alvo e protein\u00faria com falha renal (reno). Duas formas cl\u00ednicas s\u00e3o reconhecidas: defici\u00eancia familiar de LCAT e doen\u00e7a dos olhos de peixe. A defici\u00eancia familiar LCAT est\u00e1 associada a uma aus\u00eancia completa de atividades alfa e beta LCAT e resulta em anomalias de esterifica\u00e7\u00e3o envolvendo tanto HDL (atividade alfa-LCAT) e LDL (atividade beta-LCAT)."
+    },
+    {
+        "qid":"0004465-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da doen\u00e7a de Norum?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da doen\u00e7a de Norum? A doen\u00e7a de Norum \u00e9 marcada por baixos n\u00edveis plasm\u00e1ticos de HDL e nubla\u00e7\u00e3o da c\u00f3rnea devido ao ac\u00famulo de dep\u00f3sitos de colesterol na c\u00f3rnea ('olho de peixe'). A opacidade da c\u00f3rnea est\u00e1 frequentemente presente no nascimento, come\u00e7ando na periferia da c\u00f3rnea e progredindo gradualmente para o centro. Anemia hemol\u00edtica e protein\u00faria s\u00e3o outros achados comuns. Esta condi\u00e7\u00e3o tamb\u00e9m pode apresentar com: Papilledema (incha\u00e7o do nervo \u00f3ptico) com disfun\u00e7\u00e3o do abastecimento de sangue ocular, levando \u00e0 perda visual funcional Sinais de insufici\u00eancia renal, incluindo hipertens\u00e3o Sinais de aterosclerose Xantelasma (na doen\u00e7a terminal) Hepatomegalia Esplenomegalia Linfadenopatia A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para a doen\u00e7a de Norum. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Heran\u00e7a autoss\u00f4mica recessiva - Anemia hemol\u00edtica - Hipertrigliceridemia - Hipoalfalipoproteinemia - Anemia normocr\u00f4mica - Opacifica\u00e7\u00e3o do estroma da c\u00f3rnea - Protein\u00faria - Insufici\u00eancia renal - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0004465-3",
+        "qtype":"causes",
+        "question":"O que causa a doen\u00e7a de Norum?",
+        "answer":"O que causa a doen\u00e7a de Norum? A doen\u00e7a de Norum \u00e9 causada por defeitos no gene LCAT. As manifesta\u00e7\u00f5es cl\u00ednicas da defici\u00eancia de LCAT s\u00e3o provavelmente devido a um defeito na forma\u00e7\u00e3o de \u00e9ster de colesterol mediado por LCAT e, portanto, acumula\u00e7\u00e3o de colesterol n\u00e3o esterificado em certos tecidos, como a c\u00f3rnea, rins e eritr\u00f3citos (gl\u00f3bulos vermelhos)."
+    },
+    {
+        "qid":"0004465-4",
+        "qtype":"inheritance",
+        "question":"A doen\u00e7a de Norum \u00e9 herdada?",
+        "answer":"Como a doen\u00e7a de Norum \u00e9 herdada? A doen\u00e7a de Norum \u00e9 transmitida como um tra\u00e7o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o. Casos espor\u00e1dicos tamb\u00e9m foram relatados."
+    },
+    {
+        "qid":"0004465-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Norum?",
+        "answer":"Como a doen\u00e7a de Norum pode ser tratada? Tratamento sintom\u00e1tico para anemia, insufici\u00eancia renal e aterosclerose \u00e9 indicado. Terapia gen\u00e9tica LCAT ou transplante hep\u00e1tico teoricamente seria um tratamento de escolha para corrigir a fisiopatologia subjacente, mas nenhum dos procedimentos foi relatado. A curto prazo, transfus\u00e3o de sangue inteiro ou plasma foi tentada para substituir a enzima LCAT em alguns pacientes com defici\u00eancia familiar LCAT, mas n\u00e3o corrigiu anemia, protein\u00faria, ou lipoprote\u00edna anormalidades. A substitui\u00e7\u00e3o renal por di\u00e1lise \u00e9 necess\u00e1ria nos indiv\u00edduos que desenvolvem insufici\u00eancia renal. O transplante renal \u00e9 indicado em pacientes com defici\u00eancia familiar de LCAT e insufici\u00eancia renal. O transplante de c\u00f3rnea \u00e9 indicado em pacientes com opacidades c\u00f3rneas com vis\u00e3o severamente reduzida. Restri\u00e7\u00e3o da ingest\u00e3o de gordura pode ser aconselh\u00e1vel em pacientes com defici\u00eancia familiar de LCAT, mas nenhuma evid\u00eancia suporta seus potenciais benef\u00edcios. Devido ao pequeno, mas mensur\u00e1vel, risco de aterosclerose em pessoas com defici\u00eancia de LCAT, o exerc\u00edcio, sob a orienta\u00e7\u00e3o de um m\u00e9dico, teoricamente teria um papel na preven\u00e7\u00e3o dessa complica\u00e7\u00e3o."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000128-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) convuls\u00f5es febriis?",
+        "answer":"As convuls\u00f5es febriis s\u00e3o convuls\u00f5es ou convuls\u00f5es em lactentes ou crian\u00e7as pequenas que s\u00e3o causadas por uma febre. Na maioria das vezes, durante uma convuls\u00e3o febril, uma crian\u00e7a perde a consci\u00eancia e treme incontrolavelmente. Menos comumente, uma crian\u00e7a se torna r\u00edgida ou tem contra\u00e7\u00f5es em apenas uma por\u00e7\u00e3o do corpo. A maioria das convuls\u00f5es febriis durou um ou dois minutos, algumas podem ser t\u00e3o breves quanto alguns segundos, enquanto outras podem durar mais de 15 minutos. Aproximadamente uma em cada 25 crian\u00e7as ter\u00e1 pelo menos uma convuls\u00e3o febril. As convuls\u00f5es febriis geralmente ocorrem em crian\u00e7as entre 6 meses e 5 anos, com o risco atingindo o pico no segundo ano de vida. Quanto mais velha uma crian\u00e7a \u00e9 quando a primeira convuls\u00e3o febril ocorre, menos prov\u00e1vel \u00e9 que a crian\u00e7a tenha mais. Alguns fatores parecem aumentar o risco de uma crian\u00e7a ter convuls\u00f5es febriis recorrentes, incluindo idade jovem (menos de 18 meses) durante as primeiras convuls\u00f5es e ter membros da fam\u00edlia imediata com um hist\u00f3rico de convuls\u00f5es febriis."
+    },
+    {
+        "qid":"0000128-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para convuls\u00f5es febriis?",
+        "answer":"Uma crian\u00e7a que tem uma convuls\u00e3o febril n\u00e3o precisa ser hospitalizada. Se a convuls\u00e3o for prolongada ou for acompanhada de uma infec\u00e7\u00e3o grave, ou se a fonte da infec\u00e7\u00e3o n\u00e3o puder ser determinada, um m\u00e9dico pode recomendar que a crian\u00e7a seja hospitalizada para observa\u00e7\u00e3o. O uso di\u00e1rio prolongado de medicamentos anticonvulsivos geralmente n\u00e3o \u00e9 recomendado devido ao seu potencial para efeitos colaterais prejudiciais. Crian\u00e7as especialmente propensas a convuls\u00f5es febriis podem ser tratadas com medica\u00e7\u00e3o quando t\u00eam febre para reduzir o risco de ter outra convuls\u00e3o febril."
+    },
+    {
+        "qid":"0000128-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Febrile Convuls\u00f5es?",
+        "answer":"A grande maioria das convuls\u00f5es febris s\u00e3o curtas e inofensivas. N\u00e3o h\u00e1 evid\u00eancias de que convuls\u00f5es febriis causem danos cerebrais. As convuls\u00f5es m\u00faltiplas ou prolongadas s\u00e3o um fator de risco para epilepsia, mas a maioria das crian\u00e7as que sofrem convuls\u00f5es febriis n\u00e3o desenvolvem as convuls\u00f5es recorrentes que s\u00e3o caracter\u00edsticas da epilepsia. Certas crian\u00e7as que t\u00eam convuls\u00f5es febris enfrentam um risco aumentado de desenvolver epilepsia. Essas crian\u00e7as incluem aqueles que t\u00eam uma convuls\u00e3o febril que dura mais de 10 minutos, que t\u00eam convuls\u00f5es febriis que s\u00e3o longas ou afetam apenas uma parte do corpo, ou que sofrem convuls\u00f5es que ocorrem em 24 horas."
+    },
+    {
+        "qid":"0000128-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Febrile Convuls\u00f5es?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS) realiza pesquisas sobre convuls\u00f5es em seu centro de pesquisa em Bethesda, Maryland, e atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. Cientistas apoiados pela NINDS est\u00e3o explorando fatores de risco ambiental, biol\u00f3gico e gen\u00e9tico que podem tornar as crian\u00e7as suscet\u00edveis a crises febriis. Investigadores continuam monitorando o impacto a longo prazo que as convuls\u00f5es febriis podem ter na intelig\u00eancia, comportamento, realiza\u00e7\u00e3o escolar e o desenvolvimento da epilepsia. Investigadores tamb\u00e9m continuam a explorar quais drogas podem efetivamente tratar ou prevenir convuls\u00f5es febriis, e a identificar fatores que podem causar que uma crian\u00e7a que tem convuls\u00f5es febriis prolongadas para desenvolver epilepsia do lobo temporal."
+    }
+]

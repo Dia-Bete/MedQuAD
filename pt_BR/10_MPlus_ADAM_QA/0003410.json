@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0003410-1",
+        "qtype":"information",
+        "question":"O que \u00e9 febre reum\u00e1tica?",
+        "answer":""
+    },
+    {
+        "qid":"0003410-2",
+        "qtype":"causes",
+        "question":"O que causa febre reum\u00e1tica?",
+        "answer":""
+    },
+    {
+        "qid":"0003410-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da febre reum\u00e1tica?",
+        "answer":""
+    },
+    {
+        "qid":"0003410-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar febre reum\u00e1tica?",
+        "answer":""
+    },
+    {
+        "qid":"0003410-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a febre reum\u00e1tica?",
+        "answer":""
+    },
+    {
+        "qid":"0003410-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a febre reum\u00e1tica?",
+        "answer":""
+    },
+    {
+        "qid":"0003410-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da febre reum\u00e1tica?",
+        "answer":""
+    },
+    {
+        "qid":"0003410-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para a febre reum\u00e1tica?",
+        "answer":""
+    },
+    {
+        "qid":"0003410-9",
+        "qtype":"prevention",
+        "question":"Como prevenir a febre reum\u00e1tica?",
+        "answer":""
+    }
+]

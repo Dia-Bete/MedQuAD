@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000412-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de glicose fosfato isomerase?",
+        "answer":"A defici\u00eancia de glucose fosfato isomerase (GPI) \u00e9 uma doen\u00e7a herdada que afeta os gl\u00f3bulos vermelhos, que transportam oxig\u00eanio para os tecidos do corpo. Pessoas com este dist\u00farbio t\u00eam uma condi\u00e7\u00e3o conhecida como anemia hemol\u00edtica cr\u00f4nica, em que os gl\u00f3bulos vermelhos s\u00e3o quebrados (hem\u00f3lise subterr\u00e2nea) prematuramente, resultando em uma escassez de gl\u00f3bulos vermelhos (anemia). Anemia hemol\u00edtica cr\u00f4nica pode levar a pele incomummente p\u00e1lida (pallor), amarelamento dos olhos e pele (icter\u00edcia), cansa\u00e7o extremo (fadiga), falta de ar (dispneia), e uma frequ\u00eancia card\u00edaca r\u00e1pida (taquicardia). Um ba\u00e7o aumentado (esplenomegalia), um excesso de ferro no sangue, e pequenos dep\u00f3sitos semelhantes a pedras na ves\u00edcula biliar ou dutos biliares (pedras) tamb\u00e9m podem ocorrer neste dist\u00farbio. A anemia hemol\u00edtica na defici\u00eancia de GPI pode variar de leve a grave. Nos casos mais graves, os indiv\u00edduos afetados n\u00e3o sobrevivem at\u00e9 o nascimento. Indiv\u00edduos com doen\u00e7as mais leves podem sobreviver at\u00e9 a idade adulta. Pessoas com qualquer n\u00edvel de gravidade do dist\u00farbio podem ter epis\u00f3dios de hem\u00f3lise mais grave, chamada crises hemol\u00edticas, que podem ser desencadeadas por infec\u00e7\u00f5es bacterianas ou virais. Uma pequena porcentagem de indiv\u00edduos com defici\u00eancia de GPI tamb\u00e9m tem problemas neurol\u00f3gicos, incluindo defici\u00eancia intelectual e dificuldade em coordenar movimentos (ataxia)."
+    },
+    {
+        "qid":"0000412-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de glicose fosfato isomerase?",
+        "answer":"A defici\u00eancia de GPI \u00e9 uma rara causa de anemia hemol\u00edtica; sua preval\u00eancia \u00e9 desconhecida. Cerca de 50 casos foram descritos na literatura m\u00e9dica."
+    },
+    {
+        "qid":"0000412-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de glicose fosfato isomerase?",
+        "answer":"A defici\u00eancia de GPI \u00e9 causada por muta\u00e7\u00f5es no gene GPI, que fornece instru\u00e7\u00f5es para fazer uma enzima chamada glucose fosfato isomerase (GPI). Esta enzima tem duas fun\u00e7\u00f5es distintas baseadas em sua estrutura. Quando duas mol\u00e9culas GPI formam um complexo (homod\u00edmero), a enzima desempenha um papel num processo cr\u00edtico de produ\u00e7\u00e3o de energia conhecido como glic\u00f3lise, tamb\u00e9m chamado de via glicol\u00edtica. Durante a glic\u00f3lise, a glicose de a\u00e7\u00facar simples \u00e9 quebrada para produzir energia. Especificamente, a GPI est\u00e1 envolvida no segundo passo da via glicol\u00edtica; neste passo, uma mol\u00e9cula chamada glucose-6-fosfato \u00e9 convertida em outra mol\u00e9cula chamada fructose-6-fosfato. Quando GPI permanece uma \u00fanica mol\u00e9cula (um mon\u00f4mero) ela est\u00e1 envolvida no desenvolvimento e manuten\u00e7\u00e3o de c\u00e9lulas nervosas (neur\u00f5es). Neste contexto, muitas vezes \u00e9 conhecido como neuroleucina (NLK). Algumas muta\u00e7\u00f5es do gene GPI podem resultar em um homodimero menos est\u00e1vel, prejudicando a atividade da enzima na via glicol\u00edtica. O desequil\u00edbrio resultante de mol\u00e9culas envolvidas na via glicol\u00edtica eventualmente prejudica a capacidade dos gl\u00f3bulos vermelhos para manter sua estrutura, levando \u00e0 hem\u00f3lise. Outras muta\u00e7\u00f5es do gene GPI podem fazer com que o mon\u00f4mero se quebre mais facilmente, interferindo assim na sua fun\u00e7\u00e3o nas c\u00e9lulas nervosas. Al\u00e9m disso, a escassez de mon\u00f3meros dificulta a forma\u00e7\u00e3o de homod\u00edmeros, o que prejudica a via glicol\u00edtica. Essas muta\u00e7\u00f5es foram identificadas em indiv\u00edduos com defici\u00eancia de GPI que t\u00eam anemia hemol\u00edtica e problemas neurol\u00f3gicos."
+    },
+    {
+        "qid":"0000412-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de glicose fosfato isomerase \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000412-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para defici\u00eancia de glicose fosfato isomerase?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da defici\u00eancia de GPI: - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de glucosefosfato isomerase - Registro de Testes Gen\u00e9ticos: anemia hemol\u00edtica, n\u00e3o esferoc\u00edtica, devido \u00e0 defici\u00eancia de glucose fosfato isomerase - Instituto Nacional de Cora\u00e7\u00e3o, Pulm\u00e3o e Sangue: Como \u00e9 diagnosticada anemia hemol\u00edtica? Como \u00e9 tratada a anemia hemol\u00edtica? Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

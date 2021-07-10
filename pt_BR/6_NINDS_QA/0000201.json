@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000201-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) neuropatia motora multifocal?",
+        "answer":"A neuropatia motora multifocal \u00e9 um dist\u00farbio muscular progressivo caracterizado por fraqueza muscular nas m\u00e3os, com diferen\u00e7as de um lado do corpo para o outro nos m\u00fasculos espec\u00edficos envolvidos. Isso afeta os homens muito mais do que as mulheres. Os sintomas tamb\u00e9m incluem desperd\u00edcio muscular, c\u00e3ibras e contra\u00e7\u00f5es involunt\u00e1rias ou contra\u00e7\u00f5es dos m\u00fasculos da perna. O dist\u00farbio \u00e9 \u00e0s vezes confundido com esclerose lateral amiotr\u00f3fica (ALS, ou doen\u00e7a de Lou Gehrig), mas ao contr\u00e1rio da SLA, \u00e9 trat\u00e1vel. Um diagn\u00f3stico precoce e preciso permite que os pacientes se recuperem rapidamente."
+    },
+    {
+        "qid":"0000201-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para neuropatia motora multifocal?",
+        "answer":"O tratamento para neuropatia motora multifocal varia. Alguns indiv\u00edduos experimentam apenas sintomas leves e modestos e n\u00e3o requerem tratamento. Para outros, o tratamento geralmente consiste em imunoglobulina intravenosa (IVG) ou terapia imunossupressora com ciclofosfamida."
+    },
+    {
+        "qid":"0000201-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva da neuropatia motora multifocal?",
+        "answer":"A melhoria na for\u00e7a muscular geralmente come\u00e7a em 3 a 6 semanas ap\u00f3s o in\u00edcio do tratamento. A maioria dos pacientes que recebem tratamento precoce tem pouca, se alguma, defici\u00eancia. No entanto, h\u00e1 evid\u00eancias de progress\u00e3o lenta ao longo de muitos anos."
+    },
+    {
+        "qid":"0000201-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Neuropatia Motora Multifocal?",
+        "answer":"O NINDS apoia uma ampla gama de pesquisas sobre dist\u00farbios neuromusculares com o objetivo de encontrar maneiras de prevenir, tratar e, em \u00faltima an\u00e1lise, cur\u00e1-los."
+    }
+]

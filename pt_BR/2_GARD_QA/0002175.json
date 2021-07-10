@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0002175-1",
+        "qtype":"information",
+        "question":"O que \u00e9 um tremor essencial?",
+        "answer":"Tremor essencial \u00e9 o dist\u00farbio de movimento mais comum. \u00c9 caracterizado por agita\u00e7\u00e3o involunt\u00e1ria e r\u00edtmica (tremor), especialmente nas m\u00e3os, sem quaisquer outros sinais ou sintomas. \u00c9 distinto do tremor que resulta de outros dist\u00farbios ou causas conhecidas, como tremores vistos com a doen\u00e7a de Parkinson ou trauma craniano. A maioria dos casos de tremor essencial s\u00e3o heredit\u00e1rios. H\u00e1 cinco formas de tremor essencial que s\u00e3o baseadas em diferentes causas gen\u00e9ticas. V\u00e1rios genes, assim como o estilo de vida e fatores ambientais provavelmente desempenham um papel no risco de uma pessoa desenvolver essa condi\u00e7\u00e3o complexa. Em casos leves, o tratamento pode n\u00e3o ser necess\u00e1rio. Nos casos em que os sintomas interferem na vida di\u00e1ria, os medicamentos podem ajudar a aliviar os sintomas."
+    },
+    {
+        "qid":"0002175-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do tremor essencial?",
+        "answer":"Quais s\u00e3o os sinais e sintomas do tremor essencial? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para o tremor essencial. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Heran\u00e7a autoss\u00f4mica dominante - Dysartria - Tremor das m\u00e3os - Tremor postural - Progressivo - A Ontologia Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0002175-3",
+        "qtype":"causes",
+        "question":"O que causa tremor essencial?",
+        "answer":"O que causa tremores essenciais? As causas do tremor essencial s\u00e3o desconhecidas. Pesquisadores est\u00e3o estudando v\u00e1rias \u00e1reas (loci) em cromossomos particulares que podem estar ligados a tremor essencial, mas nenhuma associa\u00e7\u00e3o gen\u00e9tica espec\u00edfica foi confirmada. V\u00e1rios genes, assim como fatores ambientais, provavelmente est\u00e3o envolvidos no risco de um indiv\u00edduo desenvolver essa condi\u00e7\u00e3o complexa."
+    },
+    {
+        "qid":"0002175-4",
+        "qtype":"inheritance",
+        "question":"O tremor essencial \u00e9 herdado?",
+        "answer":"O tremor essencial \u00e9 herdado? Cerca de metade de todos os casos de tremor essencial parecem ocorrer por causa de uma muta\u00e7\u00e3o gen\u00e9tica. Isto \u00e9 chamado de tremor familiar. Nesses casos, o tremor essencial parece ser passado por gera\u00e7\u00f5es em fam\u00edlias, mas o padr\u00e3o de heran\u00e7a varia. Em muitas fam\u00edlias afetadas, a condi\u00e7\u00e3o parece ser herdada de uma forma autoss\u00f4mica dominante, o que significa que uma c\u00f3pia de um gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Em outras fam\u00edlias, o padr\u00e3o de heran\u00e7a n\u00e3o \u00e9 claro. Tremor essencial tamb\u00e9m pode aparecer em pessoas sem hist\u00f3ria do desordem em sua fam\u00edlia. Em algumas fam\u00edlias, h\u00e1 indiv\u00edduos que t\u00eam tremores essenciais enquanto outros t\u00eam outros dist\u00farbios de movimento, como tens\u00e3o muscular involunt\u00e1ria (distonia). A potencial conex\u00e3o gen\u00e9tica entre tremores essenciais e outros dist\u00farbios de movimento \u00e9 uma \u00e1rea ativa de pesquisa."
+    },
+    {
+        "qid":"0002175-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o tremor essencial?",
+        "answer":"Como pode ser tratado o tremor essencial? O tratamento para tremores essenciais pode n\u00e3o ser necess\u00e1rio a menos que os tremores interfiram com atividades di\u00e1rias ou causem constrangimento. Embora n\u00e3o haja cura definitiva para tremores essenciais, os medicamentos podem ajudar a aliviar os sintomas. Como os medicamentos funcionam dependem do paciente individual. Duas medica\u00e7\u00f5es usadas para tratar tremores incluem: Propranolol, uma droga que bloqueia a a\u00e7\u00e3o de subst\u00e2ncias estimulantes chamadas neurotransmissores, particularmente aquelas relacionadas com adrenalina Primidona, uma droga anticonvulsiva que tamb\u00e9m controla a fun\u00e7\u00e3o de alguns neurotransmissores Estes medicamentos podem ter efeitos colaterais significativos. Eliminar tremor \"desencadeadores\" como cafe\u00edna e outros estimulantes da dieta \u00e9 frequentemente recomendado. A fisioterapia pode ajudar a reduzir o tremor e melhorar a coordena\u00e7\u00e3o e o controle muscular de alguns pacientes. Mais detalhes sobre a gest\u00e3o de tremores essenciais podem ser acessados atrav\u00e9s dos seguintes links: http://www.mayoclinic.com/print/essential-tremor/DS00367/METHOD=print&DSECTION=all http://emedicine.medscape.com/article/1150290-tratamento"
+    }
+]

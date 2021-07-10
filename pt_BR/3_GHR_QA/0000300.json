@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000300-1",
+        "qtype":"information",
+        "question":"O que \u00e9 defici\u00eancia de dopamina beta-hidroxilase?",
+        "answer":"A defici\u00eancia de dopamina beta ()-hidroxilase \u00e9 uma condi\u00e7\u00e3o que afeta o sistema nervoso aut\u00f4nomo, que controla processos corporais involunt\u00e1rios como a regula\u00e7\u00e3o da press\u00e3o arterial e temperatura corporal. Problemas relacionados a este dist\u00farbio podem aparecer primeiro durante a inf\u00e2ncia. Sinais e sintomas precoces podem incluir epis\u00f3dios de v\u00f3mitos, desidrata\u00e7\u00e3o, diminui\u00e7\u00e3o da press\u00e3o arterial (hipotens\u00e3o), dificuldade em manter a temperatura corporal e baixo n\u00edvel de a\u00e7\u00facar no sangue (hipoglicemia). Indiv\u00edduos com defici\u00eancia de dopamina-hidroxilase normalmente experimentam uma queda acentuada na press\u00e3o arterial ao ficar de p\u00e9 (hipotens\u00e3o ortost\u00e1tica), o que pode causar tonturas, vis\u00e3o borrada, ou desmaio. Essa queda s\u00fabita da press\u00e3o arterial \u00e9 geralmente mais grave quando se levanta da cama de manh\u00e3, durante o tempo quente, e quando uma pessoa envelhece. Pessoas com defici\u00eancia de dopamina-hidroxilase experimentam fadiga extrema durante o exerc\u00edcio (intoler\u00e2ncia ao exerc\u00edcio) devido aos seus problemas mantendo uma press\u00e3o arterial normal. Outras caracter\u00edsticas da defici\u00eancia de dopamina-hidroxilase incluem p\u00e1lpebras ca\u00eddas (ptose), congest\u00e3o nasal, e uma incapacidade de ficar de p\u00e9 por um per\u00edodo prolongado de tempo. Machos afetados tamb\u00e9m podem experimentar ejacula\u00e7\u00e3o retr\u00f3grada, uma descarga de s\u00eamen para tr\u00e1s na bexiga. Caracter\u00edsticas menos comuns incluem uma gama incomummente grande de movimento articular (hipermobilidade) e fraqueza muscular."
+    },
+    {
+        "qid":"0000300-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de dopamina beta-hidroxilase?",
+        "answer":"A defici\u00eancia de dopamina-hidroxilase \u00e9 um dist\u00farbio muito raro. Menos de 20 indiv\u00edduos afetados, todos de ascend\u00eancia ocidental da Europa, foram descritos na literatura cient\u00edfica."
+    },
+    {
+        "qid":"0000300-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de dopamina beta-hidroxilase?",
+        "answer":"Muta\u00e7\u00f5es no gene DBH causam defici\u00eancia de dopamina-hidroxilase. O gene DBH fornece instru\u00e7\u00f5es para produzir a enzima dopamina-hidroxilase. Esta enzima converte a dopamina em noradrenalina, ambas s\u00e3o mensageiras qu\u00edmicas (neurotransmissores) que transmitem sinais entre as c\u00e9lulas nervosas. Muta\u00e7\u00f5es do gene DBH resultam na produ\u00e7\u00e3o de uma enzima dopamina-hidroxilase n\u00e3o funcional. Pessoas que carecem de dopamina-hidroxilase funcional n\u00e3o podem converter a dopamina em noradrenalina, o que leva a uma escassez de noradrenalina no corpo. A falta de noradrenalina causa dificuldade na regula\u00e7\u00e3o da press\u00e3o arterial e outros problemas do sistema nervoso aut\u00f4nomo observados na defici\u00eancia de dopamina-hidroxilase."
+    },
+    {
+        "qid":"0000300-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de dopamina beta-hidroxilase \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000300-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para defici\u00eancia de dopamina beta-hidroxilase?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da defici\u00eancia de dopamina beta-hidroxilase: - Revis\u00e3o de genes: Revis\u00e3o de genes: Defici\u00eancia de dopamina beta-hidroxilase - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de dopamina beta-hidroxilase - Centro de Disfun\u00e7\u00e3o Auton\u00f4mica Vanderbilt Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

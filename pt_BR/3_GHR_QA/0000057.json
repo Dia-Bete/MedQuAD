@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000057-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) anencefalia?",
+        "answer":"A anencefalia \u00e9 uma condi\u00e7\u00e3o que impede o desenvolvimento normal do c\u00e9rebro e os ossos do cr\u00e2nio. Essa condi\u00e7\u00e3o resulta quando uma estrutura chamada de tubo neural falha em fechar durante as primeiras semanas de desenvolvimento embrion\u00e1rio. O tubo neural \u00e9 uma camada de c\u00e9lulas que se desenvolve no c\u00e9rebro e na medula espinhal. Como a anencefalia \u00e9 causada por anormalidades do tubo neural, \u00e9 classificada como um defeito do tubo neural. Porque o tubo neural n\u00e3o consegue fechar corretamente, o c\u00e9rebro em desenvolvimento e a medula espinhal s\u00e3o expostos ao l\u00edquido amni\u00f3tico que cerca o feto no \u00fatero. Essa exposi\u00e7\u00e3o faz com que o tecido do sistema nervoso se quebre (degenerar). Como resultado, pessoas com anencefalia est\u00e3o faltando partes grandes do c\u00e9rebro chamadas de cerebro e cerebelo. Essas regi\u00f5es do c\u00e9rebro s\u00e3o necess\u00e1rias para o pensamento, a audi\u00e7\u00e3o, a vis\u00e3o, a emo\u00e7\u00e3o e o movimento de coordena\u00e7\u00e3o. Os ossos do cr\u00e2nio tamb\u00e9m est\u00e3o desaparecidos ou incompletamente formados. Porque essas anormalidades do sistema nervoso s\u00e3o t\u00e3o graves, quase todos os beb\u00eas com anencefalia morrem antes do nascimento ou dentro de algumas horas ou dias ap\u00f3s o nascimento."
+    },
+    {
+        "qid":"0000057-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela anencefalia?",
+        "answer":"A anencefalia \u00e9 um dos tipos mais comuns de defeito do tubo neural, afetando cerca de 1 em 1.000 gravidezes. No entanto, a maioria dessas gravidezes termina em aborto espont\u00e2neo, ent\u00e3o a preval\u00eancia dessa condi\u00e7\u00e3o em rec\u00e9m-nascidos \u00e9 muito menor. Estima-se que 1 em 10 mil beb\u00eas nos Estados Unidos nas\u00e7am com anencefalia."
+    },
+    {
+        "qid":"0000057-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 anencefalia?",
+        "answer":"A anencefalia \u00e9 uma condi\u00e7\u00e3o complexa que provavelmente \u00e9 causada pela intera\u00e7\u00e3o de m\u00faltiplos fatores gen\u00e9ticos e ambientais. Alguns desses fatores foram identificados, mas muitos permanecem desconhecidos. Mudan\u00e7as em dezenas de genes em indiv\u00edduos com anencefalia e em suas m\u00e3es podem influenciar o risco de desenvolver este tipo de defeito do tubo neural. O melhor estudado desses genes \u00e9 o MTHFR, que fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que est\u00e1 envolvida no processamento da vitamina folato (tamb\u00e9m chamada vitamina B9). Uma escassez (defici\u00eancia) desta vitamina \u00e9 um fator de risco estabelecido para defeitos do tubo neural. Altera\u00e7\u00f5es em outros genes relacionados ao processamento de folato e genes envolvidos no desenvolvimento do tubo neural tamb\u00e9m foram estudados como potenciais fatores de risco para a anencefalia. No entanto, nenhum desses genes parece desempenhar um papel importante na causa da condi\u00e7\u00e3o. Pesquisadores tamb\u00e9m examinaram fatores ambientais que poderiam contribuir para o risco de anencefalia. Como mencionado acima, a defici\u00eancia de folato parece desempenhar um papel significativo. Estudos mostraram que mulheres que tomam suplementos contendo \u00e1cido f\u00f3lico (a forma sint\u00e9tica de folato) antes de engravidar e muito cedo em sua gravidez s\u00e3o significativamente menos propensos a ter um beb\u00ea com um defeito do tubo neural, incluindo anencefalia. Outros poss\u00edveis fatores de risco materno para a anencefalia incluem diabetes mellitus, obesidade, exposi\u00e7\u00e3o a calor elevado (como febre ou uso de uma banheira de hidromassagem ou sauna) no in\u00edcio da gravidez, e o uso de certos medicamentos anticonvulsivos durante a gravidez. No entanto, n\u00e3o est\u00e1 claro como esses fatores podem influenciar o risco de anencefalia."
+    },
+    {
+        "qid":"0000057-4",
+        "qtype":"inheritance",
+        "question":"A anencefalia \u00e9 herdada?",
+        "answer":"A maioria dos casos de anencefalia s\u00e3o espor\u00e1dicos, o que significa que ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia. Uma pequena porcentagem de casos tem sido relatada para correr em fam\u00edlias; no entanto, a condi\u00e7\u00e3o n\u00e3o tem um padr\u00e3o claro de heran\u00e7a. Para os pais que tiveram uma crian\u00e7a com anencefalia, o risco de ter outra crian\u00e7a afetada \u00e9 aumentado em compara\u00e7\u00e3o com o risco na popula\u00e7\u00e3o em geral."
+    },
+    {
+        "qid":"0000057-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a anencefalia?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da anencefalia: - Hospital Infantil da Filad\u00e9lfia - Registro de Testes Gen\u00e9ticos: Anencefalo - Registro de Testes Gen\u00e9ticos: Defeito do tubo neural - Registro de Testes Gen\u00e9ticos: Defeitos do tubo neural, sensibilidade ao folato Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

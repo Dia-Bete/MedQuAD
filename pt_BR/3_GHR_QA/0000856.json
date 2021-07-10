@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000856-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de piruvato quinase?",
+        "answer":"A defici\u00eancia de piruvato quinase \u00e9 uma doen\u00e7a herdada que afeta os gl\u00f3bulos vermelhos, que transportam oxig\u00eanio para os tecidos do corpo. Pessoas com este dist\u00farbio t\u00eam uma condi\u00e7\u00e3o conhecida como anemia hemol\u00edtica cr\u00f4nica, em que os gl\u00f3bulos vermelhos s\u00e3o quebrados (hem\u00f3lise subterr\u00e2nea) prematuramente, resultando em uma escassez de gl\u00f3bulos vermelhos (anemia). Especificamente, a defici\u00eancia de piruvato quinase \u00e9 uma causa comum de um tipo de anemia hemol\u00edtica heredit\u00e1ria chamada anemia hemol\u00edtica n\u00e3o esferoc\u00edtica. Na anemia hemol\u00edtica n\u00e3o esferoc\u00edtica heredit\u00e1ria, os gl\u00f3bulos vermelhos n\u00e3o assumem uma forma esf\u00e9rica como em outras formas de anemia hemol\u00edtica. Anemia hemol\u00edtica cr\u00f4nica pode levar a pele incomummente p\u00e1lida (pallor), amarelamento dos olhos e pele (icter\u00edcia), cansa\u00e7o extremo (fadiga), falta de ar (dispneia), e uma frequ\u00eancia card\u00edaca r\u00e1pida (taquicardia). Um ba\u00e7o aumentado (esplenomegalia), um excesso de ferro no sangue, e pequenos dep\u00f3sitos semelhantes a pedras na ves\u00edcula biliar ou dutos biliares (pedras biliares) tamb\u00e9m s\u00e3o comuns neste dist\u00farbio. Em pessoas com defici\u00eancia de piruvato quinase, anemia hemol\u00edtica e complica\u00e7\u00f5es associadas podem variar de leve a grave. Alguns indiv\u00edduos afetados t\u00eam poucos ou nenhum sintoma. Casos graves podem amea\u00e7ar a vida na inf\u00e2ncia, e esses indiv\u00edduos afetados podem precisar de transfus\u00f5es de sangue regulares para sobreviver. Os sintomas deste dist\u00farbio podem piorar durante uma infec\u00e7\u00e3o ou gravidez."
+    },
+    {
+        "qid":"0000856-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de piruvato quinase?",
+        "answer":"A defici\u00eancia de piruvato quinase \u00e9 a causa mais comum herdada de anemia hemol\u00edtica n\u00e3o esferoc\u00edtica. Mais de 500 fam\u00edlias afetadas foram identificadas, e estudos sugerem que o dist\u00farbio pode ser subdiagnosticado porque casos leves podem n\u00e3o ser identificados. A defici\u00eancia de cinase piruvada \u00e9 encontrada em todos os grupos \u00e9tnicos. Sua preval\u00eancia foi estimada em 1 em 20.000 pessoas de ascend\u00eancia europeia. \u00c9 mais comum na popula\u00e7\u00e3o Amish da Ordem Velha da Pensilv\u00e2nia."
+    },
+    {
+        "qid":"0000856-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de piruvato quinase?",
+        "answer":"A defici\u00eancia de piruvato quinase \u00e9 causada por muta\u00e7\u00f5es no gene PKLR. O gene PKLR \u00e9 ativo no f\u00edgado e nos gl\u00f3bulos vermelhos, onde fornece instru\u00e7\u00f5es para fazer uma enzima chamada piruvato quinase. A enzima piruvato quinase est\u00e1 envolvida em um processo cr\u00edtico de produ\u00e7\u00e3o de energia conhecido como glic\u00f3lise. Durante a glic\u00f3lise, a glicose de a\u00e7\u00facar simples \u00e9 quebrada para produzir adenosina trifosfato (ATP), a principal fonte de energia da c\u00e9lula. Muta\u00e7\u00f5es do gene PKLR resultam em redu\u00e7\u00e3o da fun\u00e7\u00e3o da enzima piruvato quinase, causando uma escassez de ATP em gl\u00f3bulos vermelhos e aumento dos n\u00edveis de outras mol\u00e9culas produzidas mais cedo no processo de glic\u00f3lise. Os gl\u00f3bulos vermelhos anormais s\u00e3o coletados pelo ba\u00e7o e destru\u00eddos, causando anemia hemol\u00edtica e um ba\u00e7o aumentado. A escassez de gl\u00f3bulos vermelhos para transportar oxig\u00eanio pelo corpo leva \u00e0 fadiga, palidez e falta de ar. Ferro e uma mol\u00e9cula chamada bilirrubina s\u00e3o liberados quando os gl\u00f3bulos vermelhos s\u00e3o destru\u00eddos, resultando em um excesso destas subst\u00e2ncias circulando no sangue. Excesso de bilirrubina no sangue causa icter\u00edcia e aumenta o risco de desenvolver c\u00e1lculos biliares. A defici\u00eancia de piruvato quinase tamb\u00e9m pode ocorrer como efeito de outras doen\u00e7as do sangue, como leucemia. Estes casos s\u00e3o chamados de defici\u00eancia secund\u00e1ria de piruvato quinase e n\u00e3o s\u00e3o herdados."
+    },
+    {
+        "qid":"0000856-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de piruvato quinase \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000856-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para defici\u00eancia de piruvato quinase?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da defici\u00eancia de piruvato quinase: - Cincinnati Hospital Infantil Centro M\u00e9dico: Anemia Hemol\u00edtica - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de piruvato quinase de gl\u00f3bulos vermelhos - Johns Hopkins Medicina: Anemia Hemol\u00edtica Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

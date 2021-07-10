@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000706-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) miopatia com defici\u00eancia da enzima de montagem de aglomerados ferro-sulfuro?",
+        "answer":"A miopatia com defici\u00eancia da enzima de aglomera\u00e7\u00e3o ferro-sulfuro \u00e9 uma desordem herdada que afeta principalmente os m\u00fasculos usados para o movimento (m\u00fasculos esquel\u00e9ticos). Esta condi\u00e7\u00e3o geralmente n\u00e3o afeta outros tipos de m\u00fasculos, como o m\u00fasculo card\u00edaco. Desde a inf\u00e2ncia, indiv\u00edduos afetados experimentam fadiga extrema em resposta \u00e0 atividade f\u00edsica (intoler\u00e2ncia ao exerc\u00edcio). O esfor\u00e7o leve resulta em batimento card\u00edaco r\u00e1pido (taquicardia), falta de ar e fraqueza muscular e dor. No entanto, as pessoas com essa condi\u00e7\u00e3o normalmente t\u00eam for\u00e7a muscular normal quando est\u00e3o em repouso. A atividade f\u00edsica prolongada ou recorrente causa sinais e sintomas mais graves, incluindo uma quebra de tecido muscular (rabdomi\u00f3lise). A destrui\u00e7\u00e3o do tecido muscular libera uma prote\u00edna chamada mioglobina, que \u00e9 processada pelos rins e liberada na urina (mioglobin\u00faria). A mioglobina faz com que a urina seja vermelha ou marrom. Essa prote\u00edna tamb\u00e9m pode danificar os rins, em alguns casos levando a uma insufici\u00eancia renal potencialmente mortal. Na maioria dos indiv\u00edduos afetados, os problemas musculares associados a essa condi\u00e7\u00e3o n\u00e3o pioram com o tempo. No entanto, pelo menos duas pessoas com uma variante grave deste dist\u00farbio t\u00eam experimentado fraqueza muscular progressiva e desperd\u00edcio come\u00e7ando na inf\u00e2ncia."
+    },
+    {
+        "qid":"0000706-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela miopatia com defici\u00eancia da enzima de montagem de aglomerados ferro-sulfuro?",
+        "answer":"Esta condi\u00e7\u00e3o foi relatada em v\u00e1rias fam\u00edlias de ascend\u00eancias do norte da Su\u00e9cia."
+    },
+    {
+        "qid":"0000706-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 miopatia com defici\u00eancia da enzima de montagem de aglomerados ferro-sulfuro?",
+        "answer":"A miopatia com defici\u00eancia da enzima de aglomera\u00e7\u00e3o ferro-sulfuro \u00e9 causada por muta\u00e7\u00f5es no gene ISCU. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada enzima de aglomera\u00e7\u00e3o ferro-sulfuro. Como seu nome sugere, esta enzima est\u00e1 envolvida na forma\u00e7\u00e3o de aglomerados de \u00e1tomos de ferro e enxofre (aglomerados de Fe-S). Esses aglomerados s\u00e3o cr\u00edticos para a fun\u00e7\u00e3o de muitas prote\u00ednas diferentes, incluindo as necess\u00e1rias para o reparo de DNA e a regula\u00e7\u00e3o dos n\u00edveis de ferro. Prote\u00ednas contendo aglomerados de Fe-S tamb\u00e9m s\u00e3o necess\u00e1rias para a produ\u00e7\u00e3o de energia dentro das mitoc\u00f4ndrias, que s\u00e3o as estruturas celulares que convertem a energia dos alimentos em uma forma que as c\u00e9lulas podem usar. Muta\u00e7\u00f5es no gene ISCU limitam severamente a quantidade de enzima de aglomera\u00e7\u00e3o ferro-sulfuro que \u00e9 feita em c\u00e9lulas. A escassez desta enzima impede a produ\u00e7\u00e3o normal de prote\u00ednas que cont\u00eam aglomerados de Fe-S, que interrompe uma variedade de atividades celulares. Uma redu\u00e7\u00e3o na quantidade de ferro-sulfuro enzima de montagem de aglomerados \u00e9 particularmente prejudicial para as c\u00e9lulas musculares esquel\u00e9ticas. Dentro das mitoc\u00f4ndrias dessas c\u00e9lulas, a falta desta enzima causa problemas com a produ\u00e7\u00e3o de energia e uma sobrecarga de ferro. Esses defeitos levam \u00e0 intoler\u00e2ncia ao exerc\u00edcio e \u00e0s outras caracter\u00edsticas da miopatia com defici\u00eancia da enzima de montagem de aglomerados ferro-sulfuro."
+    },
+    {
+        "qid":"0000706-4",
+        "qtype":"inheritance",
+        "question":"A miopatia com defici\u00eancia da enzima de aglomera\u00e7\u00e3o ferro-sulfuro \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000706-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para miopatia com defici\u00eancia da enzima de montagem de aglomerados ferro-sulfuro?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da miopatia com defici\u00eancia de enzima de montagem de aglomerados ferro-sulfuro: - Revis\u00e3o de genes: Revis\u00e3o de genes: miopatia com defici\u00eancia de ISCU - Registro de Testes Gen\u00e9ticos: miopatia com acidose l\u00e1ctica, heredit\u00e1ria - MedlinePlus Enciclop\u00e9dia: Rabdomi\u00f3lise Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

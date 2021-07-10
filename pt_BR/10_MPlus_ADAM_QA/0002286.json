@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0002286-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) pedras do rim?",
+        "answer":""
+    },
+    {
+        "qid":"0002286-2",
+        "qtype":"causes",
+        "question":"O que causa pedras no rim?",
+        "answer":""
+    },
+    {
+        "qid":"0002286-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas das pedras do rim?",
+        "answer":""
+    },
+    {
+        "qid":"0002286-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar pedras do rim?",
+        "answer":""
+    },
+    {
+        "qid":"0002286-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para pedras do rim?",
+        "answer":""
+    },
+    {
+        "qid":"0002286-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva das pedras do rim?",
+        "answer":""
+    },
+    {
+        "qid":"0002286-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es das pedras do rim?",
+        "answer":""
+    },
+    {
+        "qid":"0002286-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para as pedras do rim?",
+        "answer":""
+    },
+    {
+        "qid":"0002286-9",
+        "qtype":"prevention",
+        "question":"Como prevenir as pedras do rim?",
+        "answer":""
+    }
+]

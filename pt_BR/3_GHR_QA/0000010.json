@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000010-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) displasia acrom\u00edtrica?",
+        "answer":"A displasia acrom\u00edtrica \u00e9 uma condi\u00e7\u00e3o caracterizada por estatura muito curta, membros curtos, articula\u00e7\u00f5es r\u00edgidas e caracter\u00edsticas faciais distintivas. Os rec\u00e9m-nascidos com displasia acrom\u00edtrica s\u00e3o de tamanho normal, mas o crescimento lento ao longo do tempo resulta em estatura curta. A altura m\u00e9dia dos adultos com este dist\u00farbio \u00e9 de cerca de 4 p\u00e9s, 2 polegadas para as mulheres e 4 p\u00e9s, 5 polegadas para os homens. Os ossos longos dos bra\u00e7os e pernas, e os ossos nas m\u00e3os e p\u00e9s, s\u00e3o mais curtos do que seria esperado para a altura do indiv\u00edduo. Outras caracter\u00edsticas esquel\u00e9ticas que ocorrem neste dist\u00farbio incluem mineraliza\u00e7\u00e3o lenta dos ossos (idade \u00f3ssea atrasada), ossos anormalmente moldados da coluna (vertebras), e movimento limitado das articula\u00e7\u00f5es. Indiv\u00edduos afetados muitas vezes desenvolvem s\u00edndrome do t\u00fanel carpal, que \u00e9 caracterizada por dorm\u00eancia, formigueiro e fraqueza nas m\u00e3os e nos dedos. Uma desalinhamento das articula\u00e7\u00f5es do quadril (displasia do quadril) tamb\u00e9m pode ocorrer neste dist\u00farbio. Esses problemas esquel\u00e9ticos e articulares podem requerer tratamento, mas os indiv\u00edduos mais afetados t\u00eam poucas limita\u00e7\u00f5es em suas atividades. Crian\u00e7as com displasia acr\u00f4mica podem ter um rosto redondo, sobrancelhas bem definidas, c\u00edlios longos, um nariz bulboso com narinas viradas, um longo espa\u00e7o entre o nariz e o l\u00e1bio superior (filtro), e uma boca pequena com l\u00e1bios grossos. Essas diferen\u00e7as faciais se tornam menos evidentes na idade adulta. Intelig\u00eancia n\u00e3o \u00e9 afetada neste dist\u00farbio, e a expectativa de vida \u00e9 geralmente normal."
+    },
+    {
+        "qid":"0000010-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por displasia acrom\u00edtrica?",
+        "answer":"A displasia acr\u00f3mica \u00e9 uma doen\u00e7a rara, sua preval\u00eancia \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000010-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 displasia acrom\u00edtrica?",
+        "answer":"A displasia acr\u00f3mica \u00e9 causada por muta\u00e7\u00f5es no gene FBN1, que fornece instru\u00e7\u00f5es para fazer uma grande prote\u00edna chamada fibrilina-1. Esta prote\u00edna \u00e9 transportada para fora das c\u00e9lulas para a matriz extracelular, que \u00e9 uma rede intrincada de prote\u00ednas e outras mol\u00e9culas que se formam nos espa\u00e7os entre c\u00e9lulas. Nesta matriz, mol\u00e9culas de fibrilina-1 se ligam um ao outro e a outras prote\u00ednas para formar filamentos semelhantes a fios chamados microfibrilas. As microfibrilas se tornam parte das fibras que fornecem for\u00e7a e flexibilidade aos tecidos conjuntivos, que suportam os ossos, pele e outros tecidos e \u00f3rg\u00e3os. Al\u00e9m disso, as microfibrilas armazenam mol\u00e9culas chamadas de fatores de crescimento, incluindo transformando o fator de crescimento beta (TGF-), e as liberam em v\u00e1rias horas para controlar o crescimento e reparo de tecidos e \u00f3rg\u00e3os em todo o corpo. A maioria das muta\u00e7\u00f5es do gene FBN1 que causam displasia acrom\u00edrica alteram os blocos de constru\u00e7\u00e3o de prote\u00ednas \u00fanicas na prote\u00edna da fibrilina-1. As muta\u00e7\u00f5es resultam em redu\u00e7\u00e3o e desorganiza\u00e7\u00e3o das microfibrilas. Sem microfibrilas normais suficientes para armazenar TGF, o fator de crescimento \u00e9 anormalmente ativo. Esses efeitos provavelmente contribuem para as anormalidades f\u00edsicas que ocorrem na displasia acrom\u00edtrica, mas os mecanismos n\u00e3o s\u00e3o claros."
+    },
+    {
+        "qid":"0000010-4",
+        "qtype":"inheritance",
+        "question":"A displasia acrom\u00edtrica \u00e9 herdada?",
+        "answer":"A displasia acr\u00f3mica \u00e9 uma condi\u00e7\u00e3o autoss\u00f4mica dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. A maioria dos casos resulta de novas muta\u00e7\u00f5es no gene e ocorre em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia. Em outros casos, uma pessoa afetada herda a muta\u00e7\u00e3o de um pai afetado."
+    },
+    {
+        "qid":"0000010-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para displasia acrom\u00edtrica?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da displasia acromicrica: - Registro de Testes Gen\u00e9ticos: Displasia acromicrica Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

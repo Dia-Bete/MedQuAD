@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000326-1",
+        "qtype":"information",
+        "question":"O que \u00e9 eritromelalgia?",
+        "answer":"A eritromelalgia \u00e9 uma condi\u00e7\u00e3o caracterizada por epis\u00f3dios de dor, vermelhid\u00e3o e incha\u00e7o em v\u00e1rias partes do corpo, particularmente nas m\u00e3os e p\u00e9s. Esses epis\u00f3dios geralmente s\u00e3o desencadeados pelo aumento da temperatura corporal, o que pode ser causado pelo exerc\u00edcio ou entrar em uma sala quente. Ingerir \u00e1lcool ou alimentos picantes tamb\u00e9m pode desencadear um epis\u00f3dio. Usar meias quentes, sapatos apertados ou luvas pode causar um epis\u00f3dio de dor t\u00e3o debilitante que pode impedir atividades di\u00e1rias como usar sapatos e caminhar. Os epis\u00f3dios de dor podem impedir que uma pessoa afetada v\u00e1 \u00e0 escola ou trabalhe regularmente. Os sinais e sintomas da eritromelalgia normalmente come\u00e7am na inf\u00e2ncia, embora indiv\u00edduos levemente afetados possam ter seu primeiro epis\u00f3dio de dor mais tarde na vida. \u00c0 medida que os indiv\u00edduos com eritromelalgia envelhecem e a doen\u00e7a progride, as m\u00e3os e os p\u00e9s podem estar constantemente vermelhos, e as \u00e1reas afetadas podem se estender das m\u00e3os aos bra\u00e7os, ombros e rosto, e dos p\u00e9s para as pernas inteiras. A eritromelalgia \u00e9 frequentemente considerada uma forma de neuropatia perif\u00e9rica porque afeta o sistema nervoso perif\u00e9rico, que liga o c\u00e9rebro e a medula espinhal aos m\u00fasculos e \u00e0s c\u00e9lulas que detectam sensa\u00e7\u00f5es como o toque, o cheiro e a dor."
+    },
+    {
+        "qid":"0000326-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela eritromelalgia?",
+        "answer":"A preval\u00eancia de eritromelalgia \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000326-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 eritromelalgia?",
+        "answer":"Muta\u00e7\u00f5es no gene SCN9A podem causar eritromealgia. O gene SCN9A fornece instru\u00e7\u00f5es para fazer uma parte (a subunidade alfa) de um canal de s\u00f3dio chamado NaV1.7. Canais de s\u00f3dio transportam \u00e1tomos de s\u00f3dio carregados positivamente (ions de s\u00f3dio) para as c\u00e9lulas e desempenham um papel fundamental na capacidade de uma c\u00e9lula para gerar e transmitir sinais el\u00e9tricos. Canais de s\u00f3dio NaV1,7 s\u00e3o encontrados em c\u00e9lulas nervosas chamadas nociceptores que transmitem sinais de dor para a medula espinhal e o c\u00e9rebro. As muta\u00e7\u00f5es do gene SCN9A que causam eritromelalgia resultam em canais de s\u00f3dio NaV1.7 que se abrem mais facilmente do que o normal e permanecem abertos mais tempo do que o normal, aumentando o fluxo de \u00edons de s\u00f3dio em nociceptores. Este aumento de \u00edons de s\u00f3dio aumenta a transmiss\u00e3o de sinais de dor, levando aos sinais e sintomas da eritromelalgia. Desconhece-se por que os epis\u00f3dios de dor associados \u00e0 eritromelalgia ocorrem principalmente nas m\u00e3os e nos p\u00e9s. Estima-se que 15% dos casos de eritromelalgia s\u00e3o causados por muta\u00e7\u00f5es no gene SCN9A. Outros casos s\u00e3o pensados para ter uma causa n\u00e3o gen\u00e9tica ou podem ser causados por muta\u00e7\u00f5es em um ou mais genes ainda n\u00e3o identificados."
+    },
+    {
+        "qid":"0000326-4",
+        "qtype":"inheritance",
+        "question":"A eritromelalgia \u00e9 herdada?",
+        "answer":"Alguns casos de eritromelalgia ocorrem em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Em alguns casos, uma pessoa afetada herda a muta\u00e7\u00e3o de um pai afetado. Outros casos resultam de novas muta\u00e7\u00f5es no gene e ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia."
+    },
+    {
+        "qid":"0000326-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a eritromelalgia?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da eritromealgia: - Gene Review: Gene Review: SCN9A-Related Herited Erythromealgia - Genetic Testing Registry: Primary Eritromealgia Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

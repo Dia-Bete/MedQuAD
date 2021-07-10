@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000707-1",
+        "qtype":"information",
+        "question":"O que \u00e9 miopatia de armazenamento de miosina?",
+        "answer":"A miopatia de armazenamento da miosina \u00e9 uma condi\u00e7\u00e3o que causa fraqueza muscular (miopatia) que n\u00e3o piora ou piora muito lentamente ao longo do tempo. Esta condi\u00e7\u00e3o \u00e9 caracterizada pela forma\u00e7\u00e3o de aglomerados de prote\u00ednas, que cont\u00eam uma prote\u00edna chamada miosina, dentro de certas fibras musculares. Os sinais e sintomas da miopatia de armazenamento de miosina geralmente se tornam percept\u00edveis na inf\u00e2ncia, embora possam ocorrer mais tarde. Devido \u00e0 fraqueza muscular, os indiv\u00edduos afetados podem come\u00e7ar a andar mais tarde do que de costume e ter uma caminhada, problemas para subir escadas e dificuldade em levantar os bra\u00e7os acima do n\u00edvel do ombro. A fraqueza muscular tamb\u00e9m faz com que alguns indiv\u00edduos acometidos tenham dificuldade em respirar."
+    },
+    {
+        "qid":"0000707-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela miopatia de armazenamento de miosina?",
+        "answer":"A miopatia de armazenamento de miosina \u00e9 uma condi\u00e7\u00e3o rara. Sua preval\u00eancia \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000707-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 miopatia de armazenamento de miosina?",
+        "answer":"Muta\u00e7\u00f5es no gene MYH7 causam miopatia de armazenamento de miosina. O gene MYH7 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna conhecida como cadeia pesada de beta ()-miosina card\u00edaca. Essa prote\u00edna \u00e9 encontrada no m\u00fasculo card\u00edaco e nas fibras do m\u00fasculo esquel\u00e9tico tipo I, um dos dois tipos de fibras que comp\u00f5em os m\u00fasculos que o corpo usa para o movimento. A cadeia pesada de miosina card\u00edaca \u00e9 o principal componente do filamento grosso em estruturas de c\u00e9lulas musculares chamadas sarcomeres. Sarcomeres, que s\u00e3o feitos de filamentos grossos e finos, s\u00e3o as unidades b\u00e1sicas de contra\u00e7\u00e3o muscular. Os filamentos grossos e finos se sobrep\u00f5em uns aos outros e se liberam, o que permite que os filamentos se movam em rela\u00e7\u00e3o uns aos outros para que os m\u00fasculos possam se contrair. Muta\u00e7\u00f5es no gene MYH7 levam \u00e0 produ\u00e7\u00e3o de uma prote\u00edna de cadeia pesada de miosina card\u00edaca alterada, que \u00e9 considerada menos capaz de formar filamentos grossos. As prote\u00ednas alteradas acumulam-se em fibras do m\u00fasculo esquel\u00e9tico tipo I, formando os aglomerados proteicos caracter\u00edsticos do dist\u00farbio. N\u00e3o est\u00e1 claro como essas mudan\u00e7as levam \u00e0 fraqueza muscular em pessoas com miopatia de armazenamento de miosina."
+    },
+    {
+        "qid":"0000707-4",
+        "qtype":"inheritance",
+        "question":"A miopatia de armazenamento de miosina \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000707-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para miopatia de armazenamento de miosina?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da miopatia de armazenamento de miosina: - Registro de Testes Gen\u00e9ticos: miopatia de armazenamento de miosina Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

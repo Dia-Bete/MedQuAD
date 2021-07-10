@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000372-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Feingold?",
+        "answer":"A s\u00edndrome de Feingold \u00e9 um dist\u00farbio que afeta muitas partes do corpo. Os sinais e sintomas dessa condi\u00e7\u00e3o variam entre os indiv\u00edduos afetados, mesmo entre os membros da mesma fam\u00edlia. Indiv\u00edduos com s\u00edndrome de Feingold t\u00eam anormalidades caracter\u00edsticas de seus dedos e dedos dos p\u00e9s. Quase todas as pessoas com essa condi\u00e7\u00e3o t\u00eam uma anormalidade espec\u00edfica da m\u00e3o chamada braquimesofalangia, que se refere ao encurtamento do segundo e quinto dedos. Outras anormalidades comuns incluem o quinto dedo que curva para dentro (clinodatilia), polegares subdesenvolvidos (hipoplasia thumb), e fus\u00e3o (sindactilia) do segundo e terceiro dedos dos p\u00e9s ou do quarto e quinto dedos dos p\u00e9s. Pessoas com s\u00edndrome de Feingold s\u00e3o frequentemente nascidas com um bloqueio em parte de seu sistema digestivo chamado atresia gastrointestinal. Na maioria dos casos, o bloqueio ocorre no es\u00f4fago (\u00e1tresia esof\u00e1gica) ou em parte do intestino delgado (\u00e1tresia duodenal). Outras caracter\u00edsticas comuns da s\u00edndrome de Feingold incluem um tamanho incomummente pequeno da cabe\u00e7a (microcefalia), uma mand\u00edbula pequena (micrognatia), uma abertura estreita das p\u00e1lpebras (cortas fissuras palpebrais), e defici\u00eancia de aprendizagem leve a moderada. Menos frequentemente, indiv\u00edduos afetados t\u00eam perda auditiva, comprometimento do crescimento, e anormalidades nos rins e no cora\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000372-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Feingold?",
+        "answer":"A s\u00edndrome de Feingold parece ser uma condi\u00e7\u00e3o rara, embora sua preval\u00eancia exata seja desconhecida."
+    },
+    {
+        "qid":"0000372-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Feingold?",
+        "answer":"Muta\u00e7\u00f5es no gene MYCN causam s\u00edndrome de Feingold. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que desempenha um papel importante na forma\u00e7\u00e3o de tecidos e \u00f3rg\u00e3os durante o desenvolvimento embrion\u00e1rio. Estudos em animais sugerem que essa prote\u00edna \u00e9 necess\u00e1ria para o desenvolvimento normal dos membros, cora\u00e7\u00e3o, rins, sistema nervoso, sistema digestivo e pulm\u00f5es. A prote\u00edna MYCN regula a atividade de outros genes ligando-se (ligando) a regi\u00f5es espec\u00edficas de DNA. Com base nessa a\u00e7\u00e3o, essa prote\u00edna \u00e9 chamada de fator de transcri\u00e7\u00e3o. Muta\u00e7\u00f5es no gene MYCN que causam a s\u00edndrome de Feingold impedem que uma c\u00f3pia do gene em cada c\u00e9lula produza qualquer prote\u00edna MYCN funcional. Como resultado, apenas metade da quantidade normal desta prote\u00edna est\u00e1 dispon\u00edvel para controlar a atividade de genes espec\u00edficos durante o desenvolvimento embrion\u00e1rio. Ainda n\u00e3o est\u00e1 claro como uma quantidade reduzida da prote\u00edna MYCN causa as caracter\u00edsticas espec\u00edficas da s\u00edndrome de Feingold."
+    },
+    {
+        "qid":"0000372-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Feingold \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000372-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Feingold?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Feingold: - Gene Review: Gene Review: Feingold Syndrome 1 - Gene Testing Registry: Feingold Syndrome 1 - Genetic Testing Registry: Feingold Syndrome 2 - MedlinePlus Enciclopedia: Duodenal Atresia - MedlinePlus Enciclopedia: Esof\u00e1gico Atresia - MedlinePlus Enciclopedia: Microcefalia - MedlinePlus Enciclopedia: Webbing of the Fingers or Toes Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

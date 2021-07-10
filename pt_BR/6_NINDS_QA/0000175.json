@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000175-1",
+        "qtype":"information",
+        "question":"O que \u00e9 S\u00edndrome Miast\u00eanica de Lambert-Eaton?",
+        "answer":"A S\u00edndrome Miast\u00e9nica Lambert-Eaton (LEMS) \u00e9 um dist\u00farbio da jun\u00e7\u00e3o neuromuscular, o local onde as c\u00e9lulas nervosas se encontram com as c\u00e9lulas musculares e ajudam a ativar os m\u00fasculos. \u00c9 causada por uma interrup\u00e7\u00e3o de impulsos el\u00e9tricos entre essas c\u00e9lulas nervosas e musculares. LEMS \u00e9 uma condi\u00e7\u00e3o autoimune; em tais dist\u00farbios o sistema imunol\u00f3gico, que normalmente protege o corpo de organismos estranhos, ataca erroneamente os tecidos do pr\u00f3prio corpo. A interrup\u00e7\u00e3o dos impulsos el\u00e9tricos est\u00e1 associada com anticorpos produzidos como consequ\u00eancia desta autoimunidade. Os sintomas incluem fraqueza muscular, sensa\u00e7\u00e3o de formigueiro nas \u00e1reas afetadas, fadiga e boca seca. O LEMS est\u00e1 intimamente associado ao c\u00e2ncer, em particular ao c\u00e2ncer de pulm\u00e3o de c\u00e9lulas pequenas. Mais da metade dos indiv\u00edduos diagnosticados com LEMS tamb\u00e9m desenvolvem c\u00e2ncer de pulm\u00e3o de c\u00e9lulas pequenas. O LEM pode aparecer at\u00e9 3 anos antes do diagn\u00f3stico do c\u00e2ncer."
+    },
+    {
+        "qid":"0000175-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a S\u00edndrome Miastenica de Lambert-Eaton?",
+        "answer":"N\u00e3o h\u00e1 cura para o LEMS. O tratamento \u00e9 direcionado a diminuir a resposta autoimune (por meio do uso de ester\u00f3ides, plasmaferese, ou alta dose de imunoglobulina intravenosa) ou melhorar a transmiss\u00e3o dos impulsos el\u00e9tricos interrompidos, dando medicamentos como di-amino piridina ou brometo de piridostigmina (Mestinon). Para pacientes com c\u00e2ncer de pulm\u00e3o de c\u00e9lulas pequenas, o tratamento do c\u00e2ncer \u00e9 a primeira prioridade."
+    },
+    {
+        "qid":"0000175-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a S\u00edndrome Miast\u00eanica de Lambert-Eaton?",
+        "answer":"O progn\u00f3stico para indiv\u00edduos com SGL varia. Aqueles com LEM n\u00e3o associados com malignidade t\u00eam um progn\u00f3stico benigno. Geralmente, a presen\u00e7a de c\u00e2ncer determina o progn\u00f3stico."
+    },
+    {
+        "qid":"0000175-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a S\u00edndrome Miastenica Lambert-Eaton?",
+        "answer":"O NINDS apoia pesquisas sobre dist\u00farbios neuromusculares como o LEMS com o objetivo final de encontrar maneiras de trat\u00e1-los, prevenir e cur\u00e1-los."
+    }
+]

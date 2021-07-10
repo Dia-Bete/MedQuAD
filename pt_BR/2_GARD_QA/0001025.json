@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001025-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) S\u00edndrome de compress\u00e3o da art\u00e9ria cel\u00edaca?",
+        "answer":"S\u00edndrome de compress\u00e3o da art\u00e9ria cel\u00edaca \u00e9 um dist\u00farbio raro caracterizado por dor abdominal cr\u00f4nica e recorrente relacionada \u00e0 compress\u00e3o da art\u00e9ria cel\u00edaca (que fornece sangue aos \u00f3rg\u00e3os abdominais superiores) pelo ligamento arcuado mediano (uma banda fibrosa muscular do diafragma). Geralmente apresenta sintomas de dor abdominal, perda de peso, e um b\u00eabado abdominal (sonido anormal de um vaso sangu\u00edneo quando bloqueado ou estreitado). A causa n\u00e3o \u00e9 totalmente compreendida; no entanto, suspeita-se que possa haver uma combina\u00e7\u00e3o de componentes vasculares (suprimentos de sangue) e neurog\u00eanicos (neurol\u00f3gicos) envolvidos. O diagn\u00f3stico \u00e9 geralmente confirmado com imagens como angiografia por TC, RM, ultrassom e arteriografia.A cirurgia \u00e9 atualmente a \u00fanica op\u00e7\u00e3o de tratamento e envolve a libera\u00e7\u00e3o do ligamento."
+    },
+    {
+        "qid":"0001025-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome de compress\u00e3o da art\u00e9ria cel\u00edaca?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da s\u00edndrome de compress\u00e3o da art\u00e9ria cel\u00edaca? Cl\u00e1ssicamente, indiv\u00edduos com s\u00edndrome de compress\u00e3o da art\u00e9ria cel\u00edaca apresentam uma tr\u00edade de dor abdominal ap\u00f3s a alimenta\u00e7\u00e3o, perda de peso (normalmente > 20 libras), e br\u00fajulas abdominais (sonido anormal de um vaso sangu\u00edneo quando bloqueado ou estreitado). Uma revis\u00e3o descobriu que a dor abdominal \u00e9 o sintoma mais comum, encontrado estar presente em aproximadamente 80% dos indiv\u00edduos, enquanto que a perda de peso foi encontrada em aproximadamente 48% e a acidez abdominal foi apreciada em aproximadamente 35%. Outros sintomas incluem: n\u00e1useas, diarreia, v\u00f4mitos e atraso no esvaziamento g\u00e1strico."
+    },
+    {
+        "qid":"0001025-3",
+        "qtype":"causes",
+        "question":"O que causa s\u00edndrome de compress\u00e3o da art\u00e9ria cel\u00edaca?",
+        "answer":"O que causa s\u00edndrome de compress\u00e3o da art\u00e9ria cel\u00edaca? A causa da s\u00edndrome da art\u00e9ria cel\u00edaca \u00e9 disputada. Embora inicialmente fosse causado por uma restri\u00e7\u00e3o do suprimento de sangue secund\u00e1ria \u00e0 compress\u00e3o da art\u00e9ria cel\u00edaca (fornece sangue aos \u00f3rg\u00e3os abdominais superiores) pelo ligamento arcuado mediano (uma banda fibrosa muscular do diafragma), outros fatores foram propostos. Tem sido sugerido que a disfun\u00e7\u00e3o nervosa pode tamb\u00e9m estar envolvida, o que pode explicar alguns dos sintomas associados, como dor e atraso no esvaziamento g\u00e1strico."
+    },
+    {
+        "qid":"0001025-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a s\u00edndrome de compress\u00e3o da art\u00e9ria cel\u00edaca?",
+        "answer":"Como \u00e9 diagnosticada a s\u00edndrome de compress\u00e3o da art\u00e9ria cel\u00edaca? Um diagn\u00f3stico de s\u00edndrome de compress\u00e3o da art\u00e9ria cel\u00edaca pode ser suspeito em pacientes de meia idade (40-60) mulheres com uma tr\u00edade de sintomas incluindo dor abdominal ap\u00f3s a alimenta\u00e7\u00e3o, perda de peso, e br\u00fajulas abdominais (sonido anormal de um vaso sangu\u00edneo quando bloqueado ou estreitado). A imagem abdominal \u00e9 usada para confirmar o diagn\u00f3stico e descartar outros dist\u00farbios semelhantes. As metodologias de imagem podem incluir: angiografia por TC, resson\u00e2ncia magn\u00e9tica, ultrassom e arteriografia."
+    },
+    {
+        "qid":"0001025-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de compress\u00e3o da art\u00e9ria cel\u00edaca?",
+        "answer":"Como a s\u00edndrome de compress\u00e3o da art\u00e9ria cel\u00edaca pode ser tratada? A cirurgia \u00e9 a \u00fanica op\u00e7\u00e3o de tratamento para s\u00edndrome de compress\u00e3o da art\u00e9ria cel\u00edaca. A cirurgia normalmente envolve descompress\u00e3o da art\u00e9ria cel\u00edaca dividindo as fibras do ligamento arqueado mediano e plexo cel\u00edaco (rede de nervos no abdome). A descompress\u00e3o cir\u00fargica tamb\u00e9m pode ser combinada com a coloca\u00e7\u00e3o de stent, angioplastia ou reconstru\u00e7\u00e3o vascular da art\u00e9ria cel\u00edaca."
+    }
+]

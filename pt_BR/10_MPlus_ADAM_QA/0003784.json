@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0003784-1",
+        "qtype":"information",
+        "question":"O que \u00e9 queimadura de sol?",
+        "answer":""
+    },
+    {
+        "qid":"0003784-2",
+        "qtype":"considerations",
+        "question":"O que fazer por Sunburn?",
+        "answer":""
+    },
+    {
+        "qid":"0003784-3",
+        "qtype":"causes",
+        "question":"O que causa Sunburn?",
+        "answer":""
+    },
+    {
+        "qid":"0003784-4",
+        "qtype":"considerations",
+        "question":"O que fazer por Sunburn?",
+        "answer":""
+    },
+    {
+        "qid":"0003784-5",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para Sunburn?",
+        "answer":""
+    },
+    {
+        "qid":"0003784-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Sunburn?",
+        "answer":""
+    }
+]

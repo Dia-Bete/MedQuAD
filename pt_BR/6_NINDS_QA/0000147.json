@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000147-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Refsum?",
+        "answer":"A doen\u00e7a do refsum adulto (ARD) \u00e9 uma doen\u00e7a gen\u00e9tica rara que causa fraqueza ou dorm\u00eancia das m\u00e3os e p\u00e9s (neuropatia perif\u00e9rica). Devido a uma anormalidade gen\u00e9tica, pessoas com doen\u00e7a de ARD carecem da enzima em peroxissomos que quebram o \u00e1cido fit\u00e2nico, um tipo de gordura encontrada em certos alimentos. Como resultado, n\u00edveis t\u00f3xicos de \u00e1cido fit\u00e2nico se acumulam no c\u00e9rebro, sangue e outros tecidos. A doen\u00e7a geralmente come\u00e7a no final da inf\u00e2ncia ou no in\u00edcio da idade adulta com o aumento da cegueira noturna devido \u00e0 degenera\u00e7\u00e3o da retina (retinite pigmentosa). Se a doen\u00e7a progredir, outros sintomas podem incluir surdez, perda do sentido do olfato (anosmia), problemas de equil\u00edbrio e coordena\u00e7\u00e3o (ataxia), pele seca e escamosa (ictiose), e anormalidades do batimento card\u00edaco (arritmias card\u00edacas). Alguns indiv\u00edduos ter\u00e3o ossos encurtados nos dedos dos dedos dos p\u00e9s, ou um quarto dedo dos p\u00e9s visivelmente encurtado. Embora a doen\u00e7a geralmente apare\u00e7a na inf\u00e2ncia, algumas pessoas n\u00e3o desenvolver\u00e3o sintomas at\u00e9 seus 40 ou 50 anos."
+    },
+    {
+        "qid":"0000147-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Refsum?",
+        "answer":"O tratamento prim\u00e1rio para ARD \u00e9 restringir ou evitar alimentos que contenham \u00e1cido fit\u00e2nico, incluindo produtos l\u00e1cteos; carne de bovino e cordeiro; e peixes gordos como atum, bacalhau e aglete. Alguns indiv\u00edduos tamb\u00e9m podem precisar de troca de plasma (plasmaferese) em que o sangue \u00e9 extra\u00eddo, filtrado e reinfundido de volta para o corpo, para controlar a acumula\u00e7\u00e3o de \u00e1cido fit\u00e2nico."
+    },
+    {
+        "qid":"0000147-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a doen\u00e7a de Refsum?",
+        "answer":"A ARD \u00e9 trat\u00e1vel porque o \u00e1cido fit\u00e2nico n\u00e3o \u00e9 produzido pelo corpo, mas s\u00f3 \u00e9 encontrado nos alimentos. Com tratamento, fraqueza muscular, dorm\u00eancia, e pele seca e escamosa geralmente desaparecem. No entanto, problemas de vis\u00e3o e audi\u00e7\u00e3o podem persistir e o sentido do olfato pode n\u00e3o voltar. Sem tratamento, a ARD pode levar \u00e0 morte s\u00fabita causada por anormalidades do batimento card\u00edaco."
+    },
+    {
+        "qid":"0000147-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a doen\u00e7a de Refsum?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS) apoia pesquisas relacionadas \u00e0 Doen\u00e7a do Refsum Adulto atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es de pesquisa em todo o pa\u00eds. A pesquisa est\u00e1 focada em encontrar melhores maneiras de prevenir, tratar e, em \u00faltima an\u00e1lise, curar ARD e outros dist\u00farbios peroxis\u00f4micos."
+    }
+]

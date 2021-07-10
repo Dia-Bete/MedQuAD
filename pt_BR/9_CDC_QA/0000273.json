@@ -1,0 +1,44 @@
+[
+    {
+        "qid":"0000273-12",
+        "qtype":"information",
+        "question":"O que s\u00e3o toxinas marinhas?",
+        "answer":"As toxinas marinhas s\u00e3o subst\u00e2ncias qu\u00edmicas que podem contaminar certos frutos do mar. Os frutos do mar contaminados com estes produtos qu\u00edmicos frequentemente parecem, cheiram e t\u00eam gosto normal. Quando os humanos comem marisco, a doen\u00e7a pode resultar."
+    },
+    {
+        "qid":"0000273-14",
+        "qtype":"exams and tests",
+        "question":"Como essas doen\u00e7as podem ser diagnosticadas para toxinas marinhas?",
+        "answer":"Diagn\u00f3stico de intoxica\u00e7\u00e3o por toxinas marinhas \u00e9 geralmente baseado em sintomas e um hist\u00f3rico de comer recentemente um tipo particular de frutos do mar. Os testes laboratoriais para a toxina espec\u00edfica em amostras de pacientes geralmente n\u00e3o s\u00e3o necess\u00e1rios porque isso requer t\u00e9cnicas especiais e equipamentos dispon\u00edveis apenas em laborat\u00f3rios especializados. Se suspeitarem, os restos de peixe ou marisco est\u00e3o dispon\u00edveis, eles podem ser testados para a presen\u00e7a da toxina mais facilmente. A identifica\u00e7\u00e3o da toxina espec\u00edfica n\u00e3o \u00e9 geralmente necess\u00e1ria para tratar pacientes porque n\u00e3o h\u00e1 tratamento espec\u00edfico."
+    },
+    {
+        "qid":"0000273-15",
+        "qtype":"treatment",
+        "question":"Como essas doen\u00e7as podem ser tratadas para Toxinas Marinhas?",
+        "answer":"Al\u00e9m de cuidados de apoio, h\u00e1 poucos tratamentos espec\u00edficos para intoxica\u00e7\u00e3o por ciguatera, intoxica\u00e7\u00e3o por marisco paral\u00edtico, intoxica\u00e7\u00e3o por marisco neurot\u00f3xico, ou intoxica\u00e7\u00e3o por marisco amn\u00e9sico. Antihistam\u00ednicos e epinefrina, no entanto, \u00e0s vezes, podem ser \u00fateis no tratamento dos sintomas de envenenamento de peixes escombrot\u00f3xicos. Mannitol intravenoso foi sugerido para o tratamento de envenenamento grave por ciguatera."
+    },
+    {
+        "qid":"0000273-17",
+        "qtype":"frequency",
+        "question":"Qu\u00e3o comuns s\u00e3o essas doen\u00e7as para Toxinas Marinhas?",
+        "answer":"Todos os anos, aproximadamente 30 casos de envenenamento por toxinas marinhas s\u00e3o relatados nos Estados Unidos. Porque os profissionais de sa\u00fade n\u00e3o s\u00e3o obrigados a relatar essas doen\u00e7as e porque muitos casos mais leves n\u00e3o s\u00e3o diagnosticados ou relatados, o n\u00famero real de envenenamentos pode ser muito maior. Envenenamentos t\u00f3xicos de frutos do mar s\u00e3o mais comuns no ver\u00e3o do que no inverno porque os dinoflagelados crescem bem nas esta\u00e7\u00f5es mais quentes. Estima-se pelos casos com dados dispon\u00edveis que uma pessoa morre a cada 4 anos de intoxica\u00e7\u00f5es t\u00f3xicas por marisco."
+    },
+    {
+        "qid":"0000273-18",
+        "qtype":"prevention",
+        "question":"O que posso fazer para evitar envenenamento por toxinas marinhas?",
+        "answer":"Diretrizes gerais para o consumo seguro de frutos do mar:"
+    },
+    {
+        "qid":"0000273-19",
+        "qtype":"information",
+        "question":"O que o governo est\u00e1 fazendo sobre essas doen\u00e7as para Toxinas Marinhas?",
+        "answer":"Alguns departamentos de sa\u00fade testam marisco colhido dentro de sua jurisdi\u00e7\u00e3o para monitorar o n\u00edvel de toxinas dinoflageladas e avaliar o risco de contamina\u00e7\u00e3o. Com base nos resultados desses testes, a colheita recreativa e comercial de frutos do mar pode ser proibida localmente durante os per\u00edodos de risco. Ag\u00eancias de regula\u00e7\u00e3o estaduais e federais monitoram casos relatados de intoxica\u00e7\u00e3o por toxinas marinhas, e departamentos de sa\u00fade investigam poss\u00edveis surtos e ideam medidas de controle. Os Centros de Controle e Preven\u00e7\u00e3o de Doen\u00e7as (CDC) fornecem apoio aos investigadores conforme necess\u00e1rio."
+    },
+    {
+        "qid":"0000273-20",
+        "qtype":"prevention",
+        "question":"O que mais pode ser feito para prevenir estas doen\u00e7as para Toxinas Marinhas?",
+        "answer":"\u00c9 importante avisar os servi\u00e7os de sa\u00fade p\u00fablica sobre at\u00e9 uma pessoa com intoxica\u00e7\u00e3o por toxina marinha. Os departamentos de sa\u00fade p\u00fablica podem ent\u00e3o investigar para determinar se um restaurante, cama de ostras, ou \u00e1rea de pesca tem um problema. Isso evita outras doen\u00e7as. Em qualquer ocorr\u00eancia de intoxica\u00e7\u00e3o alimentar, os consumidores devem notar alimentos comidos e congelar por\u00e7\u00f5es descomest\u00edveis caso precisem ser testados. Um teste comercial foi desenvolvido no Hava\u00ed para permitir que pessoas testem peixes capturados por esportes para ciguatoxinas."
+    }
+]

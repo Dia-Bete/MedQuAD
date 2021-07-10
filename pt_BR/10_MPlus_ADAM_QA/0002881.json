@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0002881-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a osteite fibrosa?",
+        "answer":""
+    },
+    {
+        "qid":"0002881-2",
+        "qtype":"causes",
+        "question":"O que causa a osteite fibrosa?",
+        "answer":""
+    },
+    {
+        "qid":"0002881-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da osteite fibrosa?",
+        "answer":""
+    },
+    {
+        "qid":"0002881-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a osteite fibrosa?",
+        "answer":""
+    },
+    {
+        "qid":"0002881-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a osteite fibrosa?",
+        "answer":""
+    },
+    {
+        "qid":"0002881-6",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da Osteite fibrosa?",
+        "answer":""
+    },
+    {
+        "qid":"0002881-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para oste\u00edte fibrosa?",
+        "answer":""
+    },
+    {
+        "qid":"0002881-8",
+        "qtype":"prevention",
+        "question":"Como prevenir a osteite fibrosa?",
+        "answer":""
+    }
+]

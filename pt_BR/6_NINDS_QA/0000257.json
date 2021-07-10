@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000257-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Infarto de Corda Espinal?",
+        "answer":"O infarto da medula espinhal \u00e9 um AVC dentro da medula espinhal ou das art\u00e9rias que a abastecem. \u00c9 causada por arteriosclerose ou um espessamento ou fechamento das art\u00e9rias principais para a medula espinhal. Frequentemente, o infarto da medula espinhal \u00e9 causado por uma forma espec\u00edfica de arteriosclerose chamada ateromatose, na qual um dep\u00f3sito ou ac\u00famulo de mat\u00e9ria contendo lip\u00eddios se forma dentro das art\u00e9rias. Sintomas, que geralmente aparecem em minutos ou algumas horas ap\u00f3s o infarto, podem incluir dor afiada intermitente ou dor nas costas, dor dolorosa nas pernas, fraqueza nas pernas, paralisia, perda de reflexos tendin\u00e1rios profundos, perda de dor e sensa\u00e7\u00e3o de temperatura, e incontin\u00eancia."
+    },
+    {
+        "qid":"0000257-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o Infarto de Corda Espinal?",
+        "answer":"O tratamento \u00e9 sintom\u00e1tico. Terapia f\u00edsica e ocupacional pode ajudar os indiv\u00edduos a se recuperar de fraqueza ou paralisia. Um cateter pode ser necess\u00e1rio para pacientes com incontin\u00eancia urin\u00e1ria."
+    },
+    {
+        "qid":"0000257-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o Infarto do Cord\u00e3o Espinal?",
+        "answer":"A recupera\u00e7\u00e3o depende da rapidez com que o tratamento \u00e9 recebido e da gravidade com que o corpo est\u00e1 comprometido. A par\u00e1lisis pode persistir por muitas semanas ou ser permanente. A maioria dos indiv\u00edduos tem uma boa chance de recupera\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000257-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para o Infarto do Cord\u00e3o Espinal?",
+        "answer":"NINDS conduz e apoia pesquisas sobre dist\u00farbios da medula espinhal, como o infarto da medula espinhal, com o objetivo de aprender mais sobre esses dist\u00farbios e encontrar maneiras de preveni-los e trat\u00e1-los."
+    }
+]

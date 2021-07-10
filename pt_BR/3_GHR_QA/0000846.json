@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000846-1",
+        "qtype":"information",
+        "question":"O que \u00e9 pseudoxantoma el\u00e1stico?",
+        "answer":"Pseudoxanthoma el\u00e1stico (PXE) \u00e9 uma desordem progressiva que se caracteriza pelo ac\u00famulo de dep\u00f3sitos de c\u00e1lcio e outros minerais (mineraliza\u00e7\u00e3o) em fibras el\u00e1sticas. Fibras el\u00e1sticas s\u00e3o um componente do tecido conjuntivo, que fornece for\u00e7a e flexibilidade \u00e0s estruturas em todo o corpo. Na PXE, a mineraliza\u00e7\u00e3o pode afetar fibras el\u00e1sticas na pele, olhos e vasos sangu\u00edneos, e menos frequentemente em outras \u00e1reas como o trato digestivo. Pessoas com PXE podem ter bultos amarelados chamados p\u00e1pulas em seus pesco\u00e7os, axilas, e outras \u00e1reas de pele que tocam quando uma articula\u00e7\u00e3o se curva (\u00e1reas flexoras). Eles tamb\u00e9m podem ter anormalidades nos olhos, tais como uma mudan\u00e7a nas c\u00e9lulas pigmentadas da retina (a camada de c\u00e9lulas sens\u00edveis \u00e0 luz na parte de tr\u00e1s do olho) conhecida como peau d'orange. Outra anormalidade ocular conhecida como stries angioides ocorre quando pequenas quebras se formam na camada de tecido sob a retina chamada membrana de Bruch. Sangramento e cicatrizes da retina tamb\u00e9m podem ocorrer, o que pode causar perda de vis\u00e3o. A mineraliza\u00e7\u00e3o dos vasos sangu\u00edneos que transportam sangue do cora\u00e7\u00e3o para o resto do corpo (arterias) pode causar outros sinais e sintomas de PXE. Por exemplo, pessoas com essa condi\u00e7\u00e3o podem desenvolver estreitamento das art\u00e9rias (arteriosclerose) ou uma condi\u00e7\u00e3o chamada claudica\u00e7\u00e3o que \u00e9 caracterizada por c\u00e3ibras e dor durante o exerc\u00edcio devido \u00e0 diminui\u00e7\u00e3o do fluxo sangu\u00edneo para os bra\u00e7os e pernas. Raramente, sangramento dos vasos sangu\u00edneos no trato digestivo tamb\u00e9m pode ocorrer."
+    },
+    {
+        "qid":"0000846-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pelo pseudoxantoma el\u00e1stico?",
+        "answer":"PXE afeta aproximadamente 1 em 50.000 pessoas em todo o mundo. Por raz\u00f5es que n\u00e3o s\u00e3o claras, esse dist\u00farbio \u00e9 diagnosticado duas vezes mais frequentemente nas mulheres que nos homens."
+    },
+    {
+        "qid":"0000846-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas ao pseudoxantoma el\u00e1stico?",
+        "answer":"Muta\u00e7\u00f5es no gene ABCC6 causam PXE. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada MRP6 (tamb\u00e9m conhecida como prote\u00edna ABCC6). Esta prote\u00edna \u00e9 encontrada principalmente em c\u00e9lulas do f\u00edgado e rins, com pequenas quantidades em outros tecidos, incluindo a pele, est\u00f4mago, vasos sangu\u00edneos e olhos. MRP6 \u00e9 pensado para transportar certas subst\u00e2ncias atrav\u00e9s da membrana celular; no entanto, as subst\u00e2ncias n\u00e3o foram identificadas. Alguns estudos sugerem que a prote\u00edna MRP6 estimula a libera\u00e7\u00e3o de uma mol\u00e9cula chamada adenosina trifosfato (ATP) das c\u00e9lulas atrav\u00e9s de um mecanismo desconhecido. O ATP pode ser dividido em outras mol\u00e9culas, incluindo monofosfato de adenosina (AMP) e pirofosfato. Pirofosfato ajuda a controlar a deposi\u00e7\u00e3o de c\u00e1lcio e outros minerais no corpo. Outros estudos sugerem que uma subst\u00e2ncia transportada pelo MRP6 est\u00e1 envolvida na ruptura do ATP. Essa subst\u00e2ncia n\u00e3o identificada ajuda a prevenir a mineraliza\u00e7\u00e3o dos tecidos. Muta\u00e7\u00f5es no gene ABCC6 levam a uma prote\u00edna MRP6 ausente ou n\u00e3o funcional. N\u00e3o est\u00e1 claro como a falta de prote\u00edna MRP6 corretamente funciona leva ao PXE. Esta escassez pode prejudicar a libera\u00e7\u00e3o de ATP das c\u00e9lulas. Como resultado, pouco pirofosfato \u00e9 produzido, e c\u00e1lcio e outros minerais se acumulam em fibras el\u00e1sticas da pele, olhos, vasos sangu\u00edneos e outros tecidos afetados pelo PXE. Alternativamente, uma falta de MRP6 funcional pode prejudicar o transporte de uma subst\u00e2ncia que normalmente impediria a mineraliza\u00e7\u00e3o, levando ao ac\u00famulo anormal de c\u00e1lcio e outros minerais caracter\u00edsticos da PXE."
+    },
+    {
+        "qid":"0000846-4",
+        "qtype":"inheritance",
+        "question":"O pseudoxantoma el\u00e1stico \u00e9 herdado?",
+        "answer":"O PXE \u00e9 herdado de forma autoss\u00f4mica recessiva, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. A maioria das vezes, os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carregam uma c\u00f3pia do gene mutado, mas n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o. Em alguns casos, um indiv\u00edduo afetado tem um pai afetado e um pai sem os sinais e sintomas do dist\u00farbio. Esta situa\u00e7\u00e3o se assemelha \u00e0 heran\u00e7a autoss\u00f4mica dominante, em que uma c\u00f3pia de um gene alterado em cada c\u00e9lula \u00e9 suficiente para causar um dist\u00farbio e a muta\u00e7\u00e3o \u00e9 tipicamente herdada de um dos pais afetados. Nestes casos de PXE, no entanto, o pai sem sintomas aparentes tem uma muta\u00e7\u00e3o do gene ABCC6. A prole afetada herda dois genes alterados, um de cada pai. Esta apar\u00eancia de heran\u00e7a autoss\u00f4mica dominante quando o padr\u00e3o \u00e9 realmente autoss\u00f4mico recessivo \u00e9 chamado pseudodomin\u00e2ncia."
+    },
+    {
+        "qid":"0000846-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o pseudoxantoma el\u00e1stico?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo de pseudoxanthoma el\u00e1stico: - Gene Review: Gene Review: Pseudoxanthoma Elasticum - Gene Testing Registry: Pseudoxanthoma el\u00e1stico Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

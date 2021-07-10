@@ -1,0 +1,14 @@
+[
+    {
+        "qid":"0000075-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a acrodisplasia escoliose?",
+        "answer":"Acrodisplasia escoliose \u00e9 uma condi\u00e7\u00e3o rara que foi relatada em dois irm\u00e3os. A condi\u00e7\u00e3o \u00e9 caracterizada por escoliose, braquidactilia (normalmente dedos curtos e dedos dos p\u00e9s), espina b\u00edfida occulta, e sinostose carpal (ossos fundidos do pulso). A causa gen\u00e9tica subjacente da condi\u00e7\u00e3o \u00e9 desconhecida, mas parece ser herdada de forma autoss\u00f4mica recessiva. O tratamento \u00e9 baseado nos sinais e sintomas presentes em cada pessoa."
+    },
+    {
+        "qid":"0000075-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da escoliose da Acrodisplasia?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da escoliose da Acrodisplasia? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para a escoliose da Acrodisplasia. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) S\u00edndrome de Braquidactily 90% Escoliose 90% Espina b\u00edfida oculta 50% Defeito de segmenta\u00e7\u00e3o vertebral 50% A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000550-1",
+        "qtype":"information",
+        "question":"O que \u00e9 o estadiamento do c\u00e2ncer de mama?",
+        "answer":""
+    },
+    {
+        "qid":"0000550-2",
+        "qtype":"information",
+        "question":"O que \u00e9 o estadiamento do c\u00e2ncer de mama?",
+        "answer":""
+    },
+    {
+        "qid":"0000550-3",
+        "qtype":"stages",
+        "question":"Quais s\u00e3o os est\u00e1gios do estadiamento do c\u00e2ncer de mama?",
+        "answer":""
+    },
+    {
+        "qid":"0000550-4",
+        "qtype":"stages",
+        "question":"Quais s\u00e3o os est\u00e1gios do estadiamento do c\u00e2ncer de mama?",
+        "answer":""
+    },
+    {
+        "qid":"0000550-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o estadiamento do c\u00e2ncer de mama?",
+        "answer":""
+    }
+]

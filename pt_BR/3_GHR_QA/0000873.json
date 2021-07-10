@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000873-1",
+        "qtype":"information",
+        "question":"O que \u00e9 fibrose retroperitoneal?",
+        "answer":"Fibrose retroperitoneal \u00e9 uma doen\u00e7a em que a inflama\u00e7\u00e3o e tecido cicatricial extenso (fibrose) ocorrem na parte de tr\u00e1s da cavidade abdominal, atr\u00e1s (retro-) da membrana que rodeia os \u00f3rg\u00e3os do sistema digestivo (o perit\u00f4nio). Esta \u00e1rea \u00e9 conhecida como espa\u00e7o retroperitoneal. Fibrose retroperitoneal pode ocorrer em qualquer idade, mas aparece mais frequentemente entre os 40 e 60 anos. O tecido inflamado caracter\u00edstico da fibrose retroperitoneal normalmente causa um aumento gradual da dor no abd\u00f4men inferior, nas costas ou no lado. Outros sintomas surgem do bloqueio do fluxo sangu\u00edneo para e de v\u00e1rias partes do corpo inferior, devido ao desenvolvimento de tecido cicatricial em torno dos vasos sangu\u00edneos. A fibrose geralmente se desenvolve primeiro ao redor da aorta, que \u00e9 o grande vaso sangu\u00edneo que distribui sangue do cora\u00e7\u00e3o para o resto do corpo. Vasos sangu\u00edneos adicionais, incluindo a veia cava inferior, que retorna sangue da parte inferior do corpo para o cora\u00e7\u00e3o, tamb\u00e9m podem estar envolvidos. Obstru\u00e7\u00e3o do fluxo sangu\u00edneo de e para as pernas pode resultar em dor, altera\u00e7\u00f5es na cor e incha\u00e7o nestes membros. A defici\u00eancia do fluxo sangu\u00edneo nos intestinos pode levar \u00e0 morte (necrose) do tecido intestinal, dor intensa e sangramento excessivo (hemorragia). Em homens, o fluxo sangu\u00edneo reduzido de volta para o cora\u00e7\u00e3o (fluxo venoso) pode causar incha\u00e7o do escroto. Como os rins est\u00e3o localizados no espa\u00e7o retroperitoneal, a fibrose retroperitoneal pode resultar em bloqueio dos ur\u00e9teres, que s\u00e3o tubos que transportam urina de cada rim para a bexiga. Tais bloqueios podem levar a diminui\u00e7\u00e3o ou aus\u00eancia do fluxo de urina e insufici\u00eancia renal. Quando os rins falham, subst\u00e2ncias t\u00f3xicas se acumulam no sangue e nos tecidos, levando a n\u00e1useas, v\u00f3mitos, perda de peso, comich\u00e3o, um baixo n\u00famero de gl\u00f3bulos vermelhos (anemia), e altera\u00e7\u00f5es na fun\u00e7\u00e3o cerebral."
+    },
+    {
+        "qid":"0000873-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por fibrose retroperitoneal?",
+        "answer":"A fibrose retroperitoneal ocorre em 1 em 200.000 a 500.000 pessoas por ano. O dist\u00farbio ocorre aproximadamente duas vezes mais vezes nos homens do que nas mulheres, mas a raz\u00e3o para essa diferen\u00e7a n\u00e3o \u00e9 clara."
+    },
+    {
+        "qid":"0000873-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 fibrose retroperitoneal?",
+        "answer":"Nenhum gene associado \u00e0 fibrose retroperitoneal foi identificado. A fibrose retroperitoneal ocasionalmente ocorre com dist\u00farbios autoimunes, que resultam quando o sistema imunol\u00f3gico falha e ataca os \u00f3rg\u00e3os e tecidos do pr\u00f3prio corpo. Pesquisadores sugerem que o sistema imunol\u00f3gico pode estar envolvido no desenvolvimento da fibrose retroperitoneal. Eles prop\u00f5em que o sistema imunol\u00f3gico pode estar reagindo anormalmente aos vasos sangu\u00edneos danificados pela acumula\u00e7\u00e3o de gordura (aterosclerose) ou a certas drogas, infec\u00e7\u00f5es, ou trauma. Em muitos casos, a raz\u00e3o da rea\u00e7\u00e3o anormal do sistema imunol\u00f3gico \u00e9 desconhecida. Tais casos s\u00e3o descritos como idiop\u00e1ticos."
+    },
+    {
+        "qid":"0000873-4",
+        "qtype":"inheritance",
+        "question":"A fibrose retroperitoneal \u00e9 herdada?",
+        "answer":"A maioria dos casos de fibrose retroperitoneal s\u00e3o espor\u00e1dicos, o que significa que ocorrem em pessoas sem hist\u00f3ria aparente do dist\u00farbio em sua fam\u00edlia. Em casos raros, a condi\u00e7\u00e3o tem sido relatada para ocorrer em alguns membros da mesma fam\u00edlia, mas o padr\u00e3o de heran\u00e7a \u00e9 desconhecido."
+    },
+    {
+        "qid":"0000873-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para fibrose retroperitoneal?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da fibrose retroperitoneal: - Johns Hopkins Medicina Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000491-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Hutchinson-Gilford progeria?",
+        "answer":"A s\u00edndrome de Hutchinson-Gilford progeria \u00e9 uma condi\u00e7\u00e3o gen\u00e9tica caracterizada pela apar\u00eancia dram\u00e1tica e r\u00e1pida do envelhecimento come\u00e7ando na inf\u00e2ncia. Crian\u00e7as afetadas normalmente parecem normais no nascimento e no in\u00edcio da inf\u00e2ncia, mas ent\u00e3o crescem mais lentamente do que outras crian\u00e7as e n\u00e3o aumentam de peso \u00e0 taxa esperada (falha para prosperar). Eles desenvolvem uma apar\u00eancia facial caracter\u00edstica, incluindo olhos proeminentes, um nariz fino com uma ponta de bico, l\u00e1bios finos, um queixo pequeno, e orelhas sobressalentes. A s\u00edndrome de Hutchinson-Gilford progeria tamb\u00e9m causa perda de cabelo (alop\u00e9cia), pele envelhecida, anormalidades nas articula\u00e7\u00f5es, e perda de gordura sob a pele (gordura subcut\u00e2nea). Esta condi\u00e7\u00e3o n\u00e3o interrompe o desenvolvimento intelectual ou o desenvolvimento de habilidades motoras como sentar, ficar de p\u00e9 e caminhar. Pessoas com s\u00edndrome de Hutchinson-Gilford experimentam endurecimento grave das art\u00e9rias (arteriosclerose) come\u00e7ando na inf\u00e2ncia. Essa condi\u00e7\u00e3o aumenta grandemente as chances de ter um ataque card\u00edaco ou um derrame cerebral em uma idade jovem. Essas complica\u00e7\u00f5es graves podem piorar com o tempo e s\u00e3o amea\u00e7adoras de vida para os indiv\u00edduos afetados."
+    },
+    {
+        "qid":"0000491-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Hutchinson-Gilford?",
+        "answer":"Essa condi\u00e7\u00e3o \u00e9 muito rara, relata-se que ocorre em 1 em 4 milh\u00f5es de rec\u00e9m-nascidos em todo o mundo. Mais de 130 casos foram relatados na literatura cient\u00edfica desde que a condi\u00e7\u00e3o foi descrita pela primeira vez em 1886."
+    },
+    {
+        "qid":"0000491-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Hutchinson-Gilford?",
+        "answer":"Muta\u00e7\u00f5es no gene LMNA causam s\u00edndrome de Hutchinson-Gilford. O gene LMNA fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada lamina A. Esta prote\u00edna desempenha um papel importante na determina\u00e7\u00e3o da forma do n\u00facleo dentro das c\u00e9lulas. \u00c9 um componente essencial do envelope nuclear, que \u00e9 a membrana que rodeia o n\u00facleo. Muta\u00e7\u00f5es que causam a s\u00edndrome da progeria de Hutchinson-Gilford resultam na produ\u00e7\u00e3o de uma vers\u00e3o anormal da prote\u00edna lamina A. A prote\u00edna alterada torna o envelope nuclear inst\u00e1vel e progressivamente danifica o n\u00facleo, tornando as c\u00e9lulas mais propensas a morrer prematuramente. Pesquisadores est\u00e3o trabalhando para determinar como essas mudan\u00e7as levam \u00e0s caracter\u00edsticas da s\u00edndrome de Hutchinson-Gilford."
+    },
+    {
+        "qid":"0000491-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Hutchinson-Gilford \u00e9 herdada?",
+        "answer":"A s\u00edndrome de Hutchinson-Gilford progeria \u00e9 considerada uma condi\u00e7\u00e3o autoss\u00f4mica dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar o dist\u00farbio. A condi\u00e7\u00e3o resulta de novas muta\u00e7\u00f5es no gene LMNA, e quase sempre ocorre em pessoas sem hist\u00f3ria do dist\u00farbio em sua fam\u00edlia."
+    },
+    {
+        "qid":"0000491-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Hutchinson-Gilford?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Hutchinson-Gilford progeria: - Gene Review: Gene Review: Hutchinson-Gilford Progeria Syndrome - Gene Testing Registry: Hutchinson-Gilford Syndrome - MedlinePlus Enciclopedia: Progeria Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

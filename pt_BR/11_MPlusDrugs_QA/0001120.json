@@ -1,0 +1,68 @@
+[
+    {
+        "qid":"0001120-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar bicarbonato de s\u00f3dio e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0001120-2",
+        "qtype":"usage",
+        "question":"Como o bicarbonato de s\u00f3dio deve ser usado e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0001120-3",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre o bicarbonato de s\u00f3dio?",
+        "answer":""
+    },
+    {
+        "qid":"0001120-4",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com bicarbonato de s\u00f3dio?",
+        "answer":""
+    },
+    {
+        "qid":"0001120-5",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de bicarbonato de s\u00f3dio?",
+        "answer":""
+    },
+    {
+        "qid":"0001120-6",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos do bicarbonato de s\u00f3dio?",
+        "answer":""
+    },
+    {
+        "qid":"0001120-7",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o de bicarbonato de s\u00f3dio?",
+        "answer":""
+    },
+    {
+        "qid":"0001120-8",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de bicarbonato de s\u00f3dio?",
+        "answer":""
+    },
+    {
+        "qid":"0001120-9",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre o bicarbonato de s\u00f3dio?",
+        "answer":""
+    },
+    {
+        "qid":"0001120-10",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes da marca de bicarbonato de s\u00f3dio?",
+        "answer":""
+    },
+    {
+        "qid":"0001120-11",
+        "qtype":"brand names of combination products",
+        "question":"Quais s\u00e3o os nomes de marcas de produtos combinados de bicarbonato de s\u00f3dio?",
+        "answer":""
+    }
+]

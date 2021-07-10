@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0004102-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Moebius?",
+        "answer":"A s\u00edndrome de Moebius \u00e9 uma condi\u00e7\u00e3o neurol\u00f3gica rara que afeta principalmente os m\u00fasculos que controlam a express\u00e3o facial e o movimento dos olhos. Sinais e sintomas da condi\u00e7\u00e3o podem incluir fraqueza ou paralisia dos m\u00fasculos faciais; alimenta\u00e7\u00e3o, degluti\u00e7\u00e3o e problemas de asfixia; baba excessiva; olhos cruzados; falta de express\u00e3o facial; sensibilidade ocular; palato alto ou fendido; problemas auditivos; anomalias dent\u00e1rias; anomalias \u00f3sseas nas m\u00e3os e p\u00e9s; e/ou dificuldades de fala. Crian\u00e7as afetadas muitas vezes experimentam atraso no desenvolvimento de habilidades motoras (como rastejar e caminhar), embora a maioria eventualmente adquira essas habilidades. A s\u00edndrome de Moebius \u00e9 causada pela aus\u00eancia ou subdesenvolvimento dos nervos cranianos 6o e 7o, que controlam o movimento dos olhos e a express\u00e3o facial. Outros nervos cranianos tamb\u00e9m podem ser afetados. N\u00e3o h\u00e1 cura para a s\u00edndrome de Moebius, mas cuidados e tratamento adequados d\u00e3o a muitos indiv\u00edduos uma expectativa de vida normal."
+    },
+    {
+        "qid":"0004102-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome de Moebius?",
+        "answer":"            "
+    },
+    {
+        "qid":"0004102-3",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Moebius \u00e9 herdada?",
+        "answer":"A s\u00edndrome de Moebius \u00e9 herdada? A maioria dos casos de s\u00edndrome de Moebius n\u00e3o s\u00e3o herdados e ocorrem como casos isolados em indiv\u00edduos sem hist\u00f3rico da condi\u00e7\u00e3o em sua fam\u00edlia (esporadicamente). Uma pequena porcentagem de casos de s\u00edndrome de Moebius tem sido familiar (ocorrendo em mais de um indiv\u00edduo em uma fam\u00edlia), mas n\u00e3o houve um padr\u00e3o consistente de heran\u00e7a entre todas as fam\u00edlias afetadas. Em algumas fam\u00edlias o padr\u00e3o tem sido sugestivo de heran\u00e7a autoss\u00f4mica dominante, enquanto em outras fam\u00edlias tem sido sugestivo de heran\u00e7a autoss\u00f4mica recessiva ou X-ligada recessiva."
+    }
+]

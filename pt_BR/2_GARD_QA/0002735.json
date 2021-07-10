@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0002735-1",
+        "qtype":"information",
+        "question":"Qual \u00e9 a encefalite de Hashimoto?",
+        "answer":"A encefalite de Hashimoto (HE) \u00e9 uma condi\u00e7\u00e3o caracterizada por in\u00edcio de confus\u00e3o com n\u00edvel alterado de consci\u00eancia; convuls\u00f5es; e masturba\u00e7\u00e3o de m\u00fasculos (mioclono). Psicose, incluindo alucina\u00e7\u00f5es visuais e del\u00edrios paran\u00f3icos, tamb\u00e9m foi relatada. A causa exata de HE n\u00e3o \u00e9 conhecida, mas pode envolver uma anormalidade autoimune ou inflamat\u00f3ria. Est\u00e1 associado \u00e0 tireoidite de Hashimoto, mas a natureza da rela\u00e7\u00e3o entre as duas condi\u00e7\u00f5es n\u00e3o \u00e9 clara. A maioria das pessoas com HE responde bem \u00e0 corticoterapia ou outras terapias imunossupressoras, e os sintomas normalmente melhoram ou se resolvem ao longo de alguns meses."
+    },
+    {
+        "qid":"0002735-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da encefalite de Hashimoto?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da encefalite de Hashimoto? Os sintomas da encefalite de Hashimoto podem variar entre as pessoas afetadas. Eles mais freq\u00fcentemente incluem in\u00edcio s\u00fabito ou subacudo de confus\u00e3o com altera\u00e7\u00e3o da consci\u00eancia. Algumas pessoas afetadas t\u00eam v\u00e1rios epis\u00f3dios recorrentes de d\u00e9ficits neurol\u00f3gicos com disfun\u00e7\u00e3o cognitiva. Outros experimentam um curso mais progressivo caracterizado por defici\u00eancia cognitiva lentamente progressiva com dem\u00eancia, confus\u00e3o, alucina\u00e7\u00f5es ou sonol\u00eancia. Em alguns casos, pode ocorrer uma r\u00e1pida deteriora\u00e7\u00e3o do coma. Al\u00e9m de confus\u00e3o e altera\u00e7\u00f5es do estado mental, os sintomas podem incluir convuls\u00f5es e mioclonos ou tremores. Psicose, incluindo alucina\u00e7\u00f5es visuais e del\u00edrios paran\u00f3icos, tamb\u00e9m foi relatada."
+    },
+    {
+        "qid":"0002735-3",
+        "qtype":"causes",
+        "question":"O que causa a encefalite de Hashimoto?",
+        "answer":"O que causa a encefalite de Hashimoto? A causa exata da encefalite de Hashimoto (HE) \u00e9 desconhecida, mas acha-se que se relaciona com processos autoimunes ou outros autoinflamat\u00f3rios. Embora esteja associada \u00e0 tireoidite de Hashimoto, a natureza exata da rela\u00e7\u00e3o entre as duas condi\u00e7\u00f5es n\u00e3o \u00e9 clara. N\u00e3o parece estar diretamente relacionado com hipotireoidismo ou hipertireoidismo."
+    },
+    {
+        "qid":"0002735-4",
+        "qtype":"inheritance",
+        "question":"A encefalite de Hashimoto \u00e9 herdada?",
+        "answer":"A encefalite de Hashimoto \u00e9 herdada? Estamos cientes de apenas um caso em que mais de uma pessoa da mesma fam\u00edlia tinha a encefalite de Hashimoto (HE). Para o nosso conhecimento, nenhum outro caso de HE familiar tem sido relatado; HE normalmente ocorre em pessoas sem hist\u00f3rico familiar da condi\u00e7\u00e3o (esporadicamente). HE pode ocorrer em associa\u00e7\u00e3o com outros dist\u00farbios autoimunes, ent\u00e3o HE pode se desenvolver devido a uma intera\u00e7\u00e3o entre genes que predisp\u00f5em uma pessoa (gens de suscetibilidade) e desencadeadores ambientais."
+    },
+    {
+        "qid":"0002735-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a encefalite de Hashimoto?",
+        "answer":"Como a encefalite de Hashimoto pode ser tratada? O manejo m\u00e9dico da encefalite de Hashimoto (HE) geralmente envolve corticoster\u00f3ides e tratamento de anormalidades da tireoide (se presente). A dose ideal de esteroides orais n\u00e3o \u00e9 conhecida. A maioria dos pacientes com HE responde \u00e0 terapia com esteroides. Os sintomas normalmente melhoram ou se resolvem ao longo de alguns meses. Decis\u00f5es sobre a dura\u00e7\u00e3o do tratamento com ester\u00f3ides e a taxa de redu\u00e7\u00e3o dos ester\u00f3ides s\u00e3o baseadas na resposta do indiv\u00edduo ao tratamento. O tratamento pode durar at\u00e9 dois anos em alguns pacientes. Pessoas com HE que sofrem repetidas reca\u00eddas HE, n\u00e3o respondem a esteroides, e/ou n\u00e3o podem tolerar o tratamento com esteroides foram tratadas com outros medicamentos imunossupressores, como azatioprina e ciclofosfamida. A imunoglobulina intravenosa e a plasmaferese tamb\u00e9m foram usadas."
+    }
+]

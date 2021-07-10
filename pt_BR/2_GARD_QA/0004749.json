@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0004749-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Pars planite?",
+        "answer":"Pars planite \u00e9 uma doen\u00e7a do olho que \u00e9 caracterizada pela inflama\u00e7\u00e3o da \u00e1rea estreitada (pars plana) entre a parte colorida do olho (iris) e o coroide. Isso pode levar a vis\u00e3o borrada, manchas escuras e flutuantes na vis\u00e3o, e perda progressiva da vis\u00e3o. \u00c0 medida que a condi\u00e7\u00e3o avan\u00e7a, cataratas, descolamento da retina, ou edema macular (l\u00edquido dentro da retina) podem se desenvolver. Pars planite mais frequentemente afeta os homens jovens e geralmente n\u00e3o est\u00e1 associado a qualquer outra doen\u00e7a ou sintomas (idiop\u00e1ticos); no entanto, pode ser associado a outras condi\u00e7\u00f5es autoimunes, como esclerose m\u00faltipla e sarcoidose. O tratamento normalmente inclui corticosteroides, imunossupressores e/ou cirurgia."
+    },
+    {
+        "qid":"0004749-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas de Pars planite?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da pars planite? Pars planite \u00e9 caracterizada pela inflama\u00e7\u00e3o da \u00e1rea estreita (pars plana) entre a parte colorida do olho (iris) e o coroide. Isso pode levar a vis\u00e3o borrada, manchas escuras e flutuantes na vis\u00e3o, e perda progressiva da vis\u00e3o. Aproximadamente 80% dos casos s\u00e3o bilaterais (afetando ambos os olhos), embora um olho seja tipicamente mais afetado do que o outro. \u00c0 medida que a condi\u00e7\u00e3o avan\u00e7a, cataratas, descolamento da retina, ou edema macular (l\u00edquido dentro da retina) podem se desenvolver."
+    },
+    {
+        "qid":"0004749-3",
+        "qtype":"causes",
+        "question":"O que causa Pars planite?",
+        "answer":"O que causa a pars planite? A exata causa subjacente da pars planite \u00e9 desconhecida. Cientistas suspeitam que \u00e9 uma condi\u00e7\u00e3o autoimune em que o sistema imunol\u00f3gico do corpo ataca erroneamente tecidos saud\u00e1veis (certas partes dos olhos, neste caso). Isso \u00e9 tamb\u00e9m apoiado pelo fato de que a pars planite \u00e0s vezes est\u00e1 associada a outras condi\u00e7\u00f5es autoimunes, como esclerose m\u00faltipla e sarcoidose. Embora a maioria dos casos ocorram esporadicamente em pessoas sem hist\u00f3rico familiar da condi\u00e7\u00e3o, a pars planite raramente pode afetar mais de um membro da fam\u00edlia. Nestes casos, pode haver um componente gen\u00e9tico; no entanto, um gene causador de doen\u00e7a e padr\u00e3o de heran\u00e7a espec\u00edfico n\u00e3o foram identificados."
+    },
+    {
+        "qid":"0004749-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar Pars planite?",
+        "answer":"Como \u00e9 diagnosticada a pars planite? Pars planite \u00e9 normalmente diagnosticado com base em um exame ocular especializado. Durante o exame, o oftalmologista normalmente ver\u00e1 grupos de gl\u00f3bulos brancos presos no globo ocular que s\u00e3o chamados de bolas de neve (ou \"exsudato inflamat\u00f3rio\"). Se esses aglomerados est\u00e3o localizados na Pars Plana, eles s\u00e3o conhecidos como bancos de neve. Os bancos de neve s\u00e3o considerados um sinal de pars planite. Muitas vezes \u00e9 recomendado que pessoas com mais de 25 anos com pars planite tenham uma resson\u00e2ncia magn\u00e9tica do c\u00e9rebro e da coluna para descartar a esclerose m\u00faltipla."
+    },
+    {
+        "qid":"0004749-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Pars planite?",
+        "answer":"Como a pars planite pode ser tratada? A primeira abordagem para tratar a pars planite \u00e9 col\u00edrio de corticosteroides ou inje\u00e7\u00f5es perto do olho para controlar a inflama\u00e7\u00e3o. Medicamentos anti-inflamat\u00f3rios n\u00e3o ester\u00f3ides (AINEs, incluindo aspirina) ou medicamentos ester\u00f3ides (como prednisona) podem ser tomados por via oral. Se essas estrat\u00e9gias n\u00e3o forem bem sucedidas, outros medicamentos podem ser administrados para reduzir a resposta imune do corpo (medicamentos chamados imunossupressores, como metotrexato). Se os medicamentos n\u00e3o forem eficazes, a cirurgia pode ser considerada. Crioterapia foi realizada em pessoas afetadas para remover o tecido ocular que tem inflama\u00e7\u00e3o. Embora esta cirurgia tenha sido demonstrada ser eficaz para restaurar a clareza da vis\u00e3o, h\u00e1 preocupa\u00e7\u00f5es de que possa causar danos a outras partes do olho. Outra cirurgia, conhecida como vitrectomia, pode ser feita para remover l\u00edquido turvo (humor v\u00edtreo) do olho."
+    }
+]

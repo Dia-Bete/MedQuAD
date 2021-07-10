@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000751-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) s\u00edndrome oftalmo-acrom\u00ealica?",
+        "answer":"A s\u00edndrome oftalmo-acrom\u00ealica \u00e9 uma condi\u00e7\u00e3o que resulta em malforma\u00e7\u00f5es dos olhos, m\u00e3os e p\u00e9s. As caracter\u00edsticas desta condi\u00e7\u00e3o est\u00e3o presentes desde o nascimento. Os olhos est\u00e3o muitas vezes ausentes ou gravemente subdesenvolvidos (anoftalmia), ou podem ser anormalmente pequenos (microftalmia). Geralmente ambos os olhos s\u00e3o afetados similarmente nesta condi\u00e7\u00e3o, mas se apenas um olho \u00e9 pequeno ou faltando, o outro olho pode ter um defeito como uma abertura ou divis\u00e3o em suas estruturas (coloboma). A malforma\u00e7\u00e3o de m\u00e3os e p\u00e9s mais comum observada na s\u00edndrome oftalmo-acrom\u00ealica \u00e9 faltando dedos ou dedos dos p\u00e9s (oligodactilia). Outras malforma\u00e7\u00f5es frequentes incluem dedos ou dedos do p\u00e9 que s\u00e3o fundidos juntos (sindactilia) ou dedos extras ou dedos do p\u00e9 (polidactilia). Essas malforma\u00e7\u00f5es esquel\u00e9ticas s\u00e3o frequentemente descritas como acrom\u00e9ticas, o que significa que ocorrem nos ossos que est\u00e3o longe do centro do corpo. Anomalias esquel\u00e9ticas adicionais envolvendo os ossos longos dos bra\u00e7os e pernas ou os ossos espinhal (vertebras) tamb\u00e9m podem ocorrer. Indiv\u00edduos afetados podem ter caracter\u00edsticas faciais distintas, uma abertura no l\u00e1bio com ou sem abertura no telhado da boca, ou defici\u00eancia intelectual."
+    },
+    {
+        "qid":"0000751-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome oftalmo-acrom\u00ealica?",
+        "answer":"Desconhece-se a preval\u00eancia da s\u00edndrome oftalmo-acrom\u00ealica; aproximadamente 35 casos foram relatados na literatura m\u00e9dica."
+    },
+    {
+        "qid":"0000751-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome oftalmo-acrom\u00ealica?",
+        "answer":"Muta\u00e7\u00f5es no gene SMOC1 causam s\u00edndrome oftalmo-acrom\u00e9tica. O gene SMOC1 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada prote\u00edna 1 de liga\u00e7\u00e3o de c\u00e1lcio modular secretada (SMOC-1). Esta prote\u00edna \u00e9 encontrada em membranas do por\u00e3o, que s\u00e3o finas, estruturas semelhantes a folhas que suportam as c\u00e9lulas em muitos tecidos e ajudam a ancorar as c\u00e9lulas uns aos outros durante o desenvolvimento embrion\u00e1rio. A prote\u00edna SMOC-1 se liga (vindas) a muitas prote\u00ednas diferentes e \u00e9 pensado para regular mol\u00e9culas chamadas fatores de crescimento que estimulam o crescimento e desenvolvimento de tecidos em todo o corpo. Esses fatores de crescimento desempenham pap\u00e9is importantes na forma\u00e7\u00e3o esquel\u00e9tica, modelagem normal (patterning) dos membros, bem como forma\u00e7\u00e3o e desenvolvimento dos olhos. A prote\u00edna SMOC-1 tamb\u00e9m provavelmente promove a matura\u00e7\u00e3o (diferencia\u00e7\u00e3o) de c\u00e9lulas que constroem ossos, chamados osteoblastos. Muta\u00e7\u00f5es do gene SMOC1 muitas vezes resultam em uma prote\u00edna SMOC-1 n\u00e3o funcional. A perda de SMOC-1 pode interromper a sinaliza\u00e7\u00e3o do fator de crescimento, o que prejudicaria o desenvolvimento normal do esqueleto, membros e olhos. Essas altera\u00e7\u00f5es provavelmente subjacentes \u00e0 anoftalmia e malforma\u00e7\u00f5es esquel\u00e9ticas da s\u00edndrome oftalmo-acrom\u00ealica. N\u00e3o est\u00e1 claro como muta\u00e7\u00f5es do gene SMOC1 levam a outras caracter\u00edsticas dessa condi\u00e7\u00e3o. Algumas pessoas com s\u00edndrome oftalmo-acrom\u00ealica n\u00e3o t\u00eam uma muta\u00e7\u00e3o identificada no gene SMOC1. A causa da condi\u00e7\u00e3o nesses indiv\u00edduos \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000751-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome oftalmo-acrom\u00ealica \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000751-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome oftalmo-acrom\u00ealica?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da s\u00edndrome oftalmo-acrom\u00ealica: - Registro de Testes Gen\u00e9ticos: Anoftalmos com anomalias de membros Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

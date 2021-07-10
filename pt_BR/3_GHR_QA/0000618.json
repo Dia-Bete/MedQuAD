@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000618-1",
+        "qtype":"information",
+        "question":"O que \u00e9 mal de Meleda?",
+        "answer":"Mal de Meleda \u00e9 uma doen\u00e7a rara da pele que come\u00e7a no in\u00edcio da inf\u00e2ncia. Indiv\u00edduos afetados t\u00eam uma condi\u00e7\u00e3o conhecida como queratoderma palmoplantar, na qual a pele das palmas das m\u00e3os e das solas dos p\u00e9s torna-se espessa, dura e callada. Em mal de Meleda, a pele espessa tamb\u00e9m \u00e9 encontrada na parte de tr\u00e1s das m\u00e3os e p\u00e9s e nos pulsos e tornozelos. Al\u00e9m disso, indiv\u00edduos afetados podem ter almofadas grossas e \u00e1speras nas articula\u00e7\u00f5es dos dedos dos dedos dos p\u00e9s e nos cotovelos e joelhos. Algumas pessoas com mal de Meleda t\u00eam infec\u00e7\u00f5es f\u00fangicas recorrentes na pele espessa, o que pode levar a um forte odor. Outras caracter\u00edsticas desta doen\u00e7a podem incluir dedos curtos e dedos do p\u00e9 (braquidactilia), anormalidades unhas, pele vermelha em volta da boca, e sudorese excessiva (hiperhidrose)."
+    },
+    {
+        "qid":"0000618-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pelo mal de Meleda?",
+        "answer":"Mal de Meleda \u00e9 um dist\u00farbio raro, sua preval\u00eancia \u00e9 desconhecida. A desordem foi identificada pela primeira vez na ilha croata de Mjlet (chamada Meleda em italiano) e desde ent\u00e3o foi encontrada em popula\u00e7\u00f5es de todo o mundo."
+    },
+    {
+        "qid":"0000618-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas ao mal de Meleda?",
+        "answer":"Mal de Meleda \u00e9 causada por muta\u00e7\u00f5es no gene SLURP1. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que interage com outras prote\u00ednas, chamadas receptores, e provavelmente est\u00e1 envolvida na sinaliza\u00e7\u00e3o dentro das c\u00e9lulas. Estudos mostram que a prote\u00edna SLURP-1 pode ligar (bind) aos receptores nicot\u00ednicos de acetilcolina (nAChRs) na pele. Atrav\u00e9s da intera\u00e7\u00e3o com esses receptores, a prote\u00edna SLURP-1 \u00e9 considerada envolvida no controle do crescimento e divis\u00e3o (prolifera\u00e7\u00e3o), matura\u00e7\u00e3o (diferencia\u00e7\u00e3o) e sobreviv\u00eancia das c\u00e9lulas cut\u00e2neas. Muta\u00e7\u00f5es no gene SLURP1 levam a pouca ou nenhuma prote\u00edna SLURP-1 no corpo. N\u00e3o est\u00e1 claro como a falta desta prote\u00edna leva aos problemas cut\u00e2neos que ocorrem no mal de Meleda. Pesquisadores especulam que sem SLURP-1, a atividade dos genes controlados pela sinaliza\u00e7\u00e3o nAChR \u00e9 alterada, levando ao crescimento excessivo de c\u00e9lulas da pele ou sobreviv\u00eancia de c\u00e9lulas que normalmente teriam morrido. O excesso de c\u00e9lulas pode resultar em espessamento da pele. N\u00e3o est\u00e1 claro por que a pele nas m\u00e3os e nos p\u00e9s \u00e9 particularmente afetada."
+    },
+    {
+        "qid":"0000618-4",
+        "qtype":"inheritance",
+        "question":"Mal de Meleda \u00e9 herdado?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000618-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para mal de Meleda?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo de mal de Meleda: - Funda\u00e7\u00e3o para Ictiose e Tipos de Pele Relacionados: Palmoplantar Keratodermas - Registro de Testes Gen\u00e9ticos: Acroerythrokeratoderma Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

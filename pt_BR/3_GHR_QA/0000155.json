@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000155-1",
+        "qtype":"information",
+        "question":"O que \u00e9 defici\u00eancia de translocase de carnitina-acilcarnitina?",
+        "answer":"Carnitina-acilcarnitina translocase (CACT) defici\u00eancia \u00e9 uma condi\u00e7\u00e3o que impede o corpo de usar certas gorduras para a energia, particularmente durante per\u00edodos sem alimentos (jejum). Os sinais e sintomas dessa doen\u00e7a geralmente come\u00e7am logo ap\u00f3s o nascimento e podem incluir problemas respirat\u00f3rios, convuls\u00f5es e batimentos card\u00edacos irregulares (arritmia). Indiv\u00edduos afetados tipicamente t\u00eam baixo n\u00edvel de a\u00e7\u00facar no sangue (hipoglicemia) e baixo n\u00edvel de cetonas, que s\u00e3o produzidas durante a degrada\u00e7\u00e3o de gorduras e usadas para a energia. Juntos, estes sinais s\u00e3o chamados de hipoglicemia hipocet\u00f3tica. Pessoas com defici\u00eancia de CACT tamb\u00e9m geralmente t\u00eam excesso de am\u00f4nia no sangue (hiperammonemia), um aumento do f\u00edgado (hepatomegalia), e um m\u00fasculo card\u00edaco enfraquecido (cardiomiopatia). Muitos beb\u00eas com defici\u00eancia de CACT n\u00e3o sobrevivem ao per\u00edodo rec\u00e9m-nascido. Alguns indiv\u00edduos afetados t\u00eam uma forma menos grave da condi\u00e7\u00e3o e n\u00e3o desenvolvem sinais e sintomas at\u00e9 a inf\u00e2ncia. Esses indiv\u00edduos est\u00e3o em risco de insufici\u00eancia hep\u00e1tica, danos no sistema nervoso, coma e morte s\u00fabita."
+    },
+    {
+        "qid":"0000155-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de translocase de carnitina-acilcarnitina?",
+        "answer":"A defici\u00eancia de CACT \u00e9 muito rara, pelo menos 30 casos foram relatados."
+    },
+    {
+        "qid":"0000155-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de translocase de carnitina-acilcarnitina?",
+        "answer":"Muta\u00e7\u00f5es no gene SLC25A20 causam defici\u00eancia de CACT. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada translocase de carnitina-acilcarnitina (CACT). Esta prote\u00edna \u00e9 essencial para oxida\u00e7\u00e3o de \u00e1cidos graxos, um processo multifase que quebra (metaboliza) as gorduras e as converte em energia. A oxida\u00e7\u00e3o de \u00e1cidos gordos ocorre dentro das mitoc\u00f4ndrias, que s\u00e3o os centros de produ\u00e7\u00e3o de energia nas c\u00e9lulas. Um grupo de gorduras chamado \u00e1cidos graxos de cadeia longa deve ser ligado a uma subst\u00e2ncia conhecida como carnitina para entrar em mitoc\u00f4ndrias. Uma vez que esses \u00e1cidos graxos s\u00e3o unidos com carnitina, a prote\u00edna CACT os transporta para mitoc\u00f4ndrias. Os \u00e1cidos gordos s\u00e3o uma grande fonte de energia para o cora\u00e7\u00e3o e os m\u00fasculos. Durante os per\u00edodos de jejum, os \u00e1cidos graxos tamb\u00e9m s\u00e3o uma importante fonte de energia para o f\u00edgado e outros tecidos. Embora muta\u00e7\u00f5es no gene SLC25A20 alterem a estrutura da prote\u00edna CACT de diferentes maneiras, todas elas levam a uma escassez (defici\u00eancia) do transportador. Sem prote\u00edna CACT funcional suficiente, \u00e1cidos graxos de cadeia longa n\u00e3o podem ser transportados para mitoc\u00f4ndrias. Como resultado, esses \u00e1cidos gordos n\u00e3o s\u00e3o convertidos em energia. A redu\u00e7\u00e3o da produ\u00e7\u00e3o de energia pode levar a algumas caracter\u00edsticas da defici\u00eancia de CACT, como hipoglicemia hipocet\u00f3tica. \u00c1cidos gordos e acilcarnitinas de cadeia longa (\u00e1cidos gordos ainda ligados \u00e0 carnitina) tamb\u00e9m podem se acumular em c\u00e9lulas e danificar o f\u00edgado, o cora\u00e7\u00e3o e os m\u00fasculos. Esta acumula\u00e7\u00e3o anormal causa os outros sinais e sintomas do dist\u00farbio."
+    },
+    {
+        "qid":"0000155-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de translocase de carnitina-acilcarnitina \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000155-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a defici\u00eancia de translocase de carnitina-acilcarnitina?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da defici\u00eancia de CACT: - Primeiro teste do beb\u00ea - FOD (Dist\u00farbios de Oxida\u00e7\u00e3o de Fatty) Grupo de Apoio Familiar: Abordagem Diagn\u00f3stica aos Dist\u00farbios de Oxida\u00e7\u00e3o de Fat - Informa\u00e7\u00f5es para Clinistas - Registro de Testes Gen\u00e9ticos: Carnitina acilcarnitina translocase defici\u00eancia Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000947-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) displasia espondiloepifiseal congenita?",
+        "answer":"A displasia espondiloepifiseal congenita \u00e9 um dist\u00farbio de crescimento \u00f3sseo herdado que resulta em estatura curta (enanismo), anormalidades esquel\u00e9ticas, e problemas com vis\u00e3o e audi\u00e7\u00e3o. Esta condi\u00e7\u00e3o afeta os ossos da coluna (espondilo-) e as extremidades (epifises) de ossos longos nos bra\u00e7os e pernas. A cong\u00eanita indica que a condi\u00e7\u00e3o est\u00e1 presente desde o nascimento. Pessoas com displasia espondiloepifiseal cong\u00eanita t\u00eam estatura curta desde o nascimento, com um tronco e pesco\u00e7o muito curtos e membros encurtados. Suas m\u00e3os e p\u00e9s, no entanto, geralmente s\u00e3o de tamanho m\u00e9dio. A altura do adulto varia de 3 p\u00e9s a pouco mais de 4 p\u00e9s. Curvatura anormal da coluna (quifoscoliose e lordose) torna-se mais grave durante a inf\u00e2ncia. A instabilidade dos ossos espinhal (vertebras) no pesco\u00e7o pode aumentar o risco de les\u00e3o da medula espinhal. Outras caracter\u00edsticas esquel\u00e9ticas incluem v\u00e9rtebras aplacadas (platispondidamente); uma anormalidade da articula\u00e7\u00e3o do quadril que faz com que os ossos da parte superior da perna se virem para dentro (coxa vara); uma deformidade do p\u00e9 chamado p\u00e9-de-bol; e um peito largo, em forma de barril. O desenvolvimento anormal do t\u00f3rax pode causar problemas com a respira\u00e7\u00e3o. A artrite e a diminui\u00e7\u00e3o da mobilidade articular muitas vezes se desenvolvem no in\u00edcio da vida. Pessoas com displasia espondiloepifiseal cong\u00eanita t\u00eam altera\u00e7\u00f5es leves nas suas caracter\u00edsticas faciais. Os ossos da bochecha perto do nariz podem parecer aplanados. Algumas crian\u00e7as nascem com uma abertura no telhado da boca (uma fenda no palato). A miopia grave \u00e9 comum, assim como outros problemas oculares que podem prejudicar a vis\u00e3o. Cerca de um quarto das pessoas com essa condi\u00e7\u00e3o t\u00eam perda auditiva."
+    },
+    {
+        "qid":"0000947-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela displasia espondiloepifiseal congenita?",
+        "answer":"Essa condi\u00e7\u00e3o \u00e9 rara, a incid\u00eancia exata \u00e9 desconhecida. Mais de 175 casos foram relatados na literatura cient\u00edfica."
+    },
+    {
+        "qid":"0000947-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 displasia espondiloepifiseal congenita?",
+        "answer":"A displasia espondiloepifiseal congenita \u00e9 um de um espectro de dist\u00farbios esquel\u00e9ticos causados por muta\u00e7\u00f5es no gene COL2A1. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que forma col\u00e1geno tipo II. Este tipo de col\u00e1geno \u00e9 encontrado principalmente na cartilagem e no gel claro que enche o globo ocular (o v\u00edtreo). O gene COL2A1 \u00e9 essencial para o desenvolvimento normal de ossos e outros tecidos que formam a estrutura de suporte do corpo (tecidos conectivos). Muta\u00e7\u00f5es no gene COL2A1 interferem na montagem de mol\u00e9culas de col\u00e1geno tipo II, o que impede que os ossos e outros tecidos conjuntivos se desenvolvam corretamente."
+    },
+    {
+        "qid":"0000947-4",
+        "qtype":"inheritance",
+        "question":"A displasia espondiloepifiseal \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000947-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para displasia espondiloepifiseal congenita?",
+        "answer":"Estes recursos abordam o diagn\u00f3stico ou manejo da displasia espondiloepifis\u00e1ria cong\u00eanita: - Registro de Testes Gen\u00e9ticos: Displasia espondiloepifis\u00e1ria cong\u00eanita - MedlinePlus Encyclopedia: Clubfoot - MedlinePlus Encyclopedia: Lordose - MedlinePlus Encyclopedia: Detache Retinal - MedlinePlus Encyclopedia: Escoliose Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

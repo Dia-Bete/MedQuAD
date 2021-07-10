@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000115-1",
+        "qtype":"information",
+        "question":"O que \u00e9 meningite e encefalite?",
+        "answer":"Meningite \u00e9 uma infec\u00e7\u00e3o das meninges, as membranas que rodeiam o c\u00e9rebro e a medula espinhal. Encefalite \u00e9 inflama\u00e7\u00e3o do pr\u00f3prio c\u00e9rebro. As causas de encefalite e meningite incluem v\u00edrus, bact\u00e9rias, fungos e parasitas. Qualquer um pode ter encefalite ou meningite.Inflama\u00e7\u00e3o de encefalite e meningite produzem uma ampla gama de sintomas. Sintomas de encefalite incluem febre s\u00fabita, dores de cabe\u00e7a, v\u00f4mitos, sensibilidade aumentada \u00e0 luz, pesco\u00e7o e costas r\u00edgidos, confus\u00e3o e julgamento prejudicado, sonol\u00eancia, m\u00fasculos fracos, uma marcha desajeitada e inest\u00e1vel, e irritabilidade. Em casos mais graves, as pessoas podem ter problemas com fala ou audi\u00e7\u00e3o, problemas de vis\u00e3o e alucina\u00e7\u00f5es. Sintomas que podem requerer tratamento de emerg\u00eancia incluem perda de consci\u00eancia, convuls\u00f5es, fraqueza muscular, ou dem\u00eancia s\u00fabita grave. Sintomas de meningite, que podem aparecer de repente, muitas vezes incluem febre alta, dor de cabe\u00e7a grave e persistente, rigidez no pesco\u00e7o, n\u00e1useas, sensibilidade \u00e0 luz brilhante, e v\u00f4mitos. Mudan\u00e7as de comportamento como confus\u00e3o, sonol\u00eancia e dificuldade em acordar tamb\u00e9m podem ocorrer. Em lactentes, sintomas de meningite ou encefalite podem incluir febre, v\u00f3mitos, letargia, rigidez corporal, irritabilidade inexplic\u00e1vel, e um fontanel completo ou abultante (a mancha macia no topo da cabe\u00e7a). Qualquer um que tenha sintomas de meningite ou encefalite deve ver um m\u00e9dico imediatamente."
+    },
+    {
+        "qid":"0000115-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Meningite e Encefalite?",
+        "answer":"Qualquer um que tenha sintomas de meningite ou encefalite deve ver um m\u00e9dico imediatamente. Antibi\u00f3ticos para a maioria dos tipos de meningite podem reduzir grandemente o risco de morrer da doen\u00e7a. Medicamentos antivirais podem ser prescritos para encefalite viral ou outras infec\u00e7\u00f5es virais graves.As anticonvulsivas s\u00e3o usadas para prevenir ou tratar convuls\u00f5es. Tapetes corticosteroides podem reduzir o incha\u00e7o cerebral e inflama\u00e7\u00e3o. Medicamentos de venda livre podem ser usados para febre e dor de cabe\u00e7a. Indiv\u00edduos com encefalite ou meningite bacteriana s\u00e3o geralmente hospitalizados para tratamento. Indiv\u00edduos afetados com dificuldades respirat\u00f3rias podem necessitar de respira\u00e7\u00e3o artificial."
+    },
+    {
+        "qid":"0000115-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Meningite e Encefalite?",
+        "answer":"O progn\u00f3stico para pessoas com encefalite ou meningite varia. Alguns casos s\u00e3o leves, curtos e relativamente benignos e indiv\u00edduos t\u00eam recupera\u00e7\u00e3o completa, embora o processo possa ser lento. Indiv\u00edduos que apresentam sintomas leves podem se recuperar em 2-4 semanas. Outros casos s\u00e3o graves, e comprometimento permanente ou morte \u00e9 poss\u00edvel. A fase aguda da encefalite pode durar de 1 a 2 semanas, com resolu\u00e7\u00e3o gradual ou s\u00fabita da febre e sintomas neurol\u00f3gicos. Indiv\u00edduos tratados para meningite bacteriana normalmente mostram algum al\u00edvio em 48-72 horas. Sintomas neurol\u00f3gicos podem requerer muitos meses antes da recupera\u00e7\u00e3o completa. Com diagn\u00f3stico precoce e tratamento r\u00e1pido, a maioria dos indiv\u00edduos se recupera de meningite. No entanto, em alguns casos, a doen\u00e7a progride t\u00e3o rapidamente que a morte ocorre nas primeiras 48 horas, apesar do tratamento precoce."
+    },
+    {
+        "qid":"0000115-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Meningite e Encefalite?",
+        "answer":"A miss\u00e3o do Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Accidentes (NINDS) \u00e9 buscar conhecimento fundamental sobre o c\u00e9rebro e o sistema nervoso e usar esse conhecimento para reduzir a carga da doen\u00e7a neurol\u00f3gica. O NINDS \u00e9 um componente dos Institutos Nacionais de Sa\u00fade, o principal apoiador da pesquisa biom\u00e9dica no mundo. Os esfor\u00e7os de pesquisa atuais incluem uma melhor compreens\u00e3o de como o sistema nervoso central responde \u00e0 inflama\u00e7\u00e3o no c\u00e9rebro, bem como para entender melhor os mecanismos moleculares envolvidos na prote\u00e7\u00e3o e ruptura da barreira hematoencef\u00e1lica, o que poderia levar ao desenvolvimento de novos tratamentos para v\u00e1rias doen\u00e7as neuroinflamat\u00f3rias, como meningite e encefalite."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0002634-1",
+        "qtype":"information",
+        "question":"O que \u00e9 microcefalia?",
+        "answer":""
+    },
+    {
+        "qid":"0002634-2",
+        "qtype":"causes",
+        "question":"O que causa a Microcefalia?",
+        "answer":""
+    },
+    {
+        "qid":"0002634-3",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para microcefalia?",
+        "answer":""
+    },
+    {
+        "qid":"0002634-4",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Microcefalia?",
+        "answer":""
+    }
+]

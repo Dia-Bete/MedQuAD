@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000171-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) S\u00edndrome de Klippel-Trenaunay (KTS)?",
+        "answer":"A s\u00edndrome de Klippel-Trenaunay (KTS) \u00e9 uma malforma\u00e7\u00e3o cong\u00eanita rara envolvendo vasos sangu\u00edneos e linf\u00e1ticos e crescimento anormal de tecido mole e \u00f3sseo. Os sintomas t\u00edpicos incluem hemangiomas (crescimentos benignos anormais na pele que consistem em massas de vasos sangu\u00edneos) e varizes. Dedos dos p\u00e9s, dedos dos p\u00e9s, ou dedos extras, podem estar presentes. Em alguns casos, hemorragia interna pode ocorrer como resultado de malforma\u00e7\u00f5es dos vasos sangu\u00edneos envolvendo \u00f3rg\u00e3os como est\u00f4mago, reto, vagina, f\u00edgado, ba\u00e7o, bexiga, rins, pulm\u00f5es ou cora\u00e7\u00e3o. Indiv\u00edduos tamb\u00e9m est\u00e3o em risco para co\u00e1gulos de sangue. A causa do dist\u00farbio \u00e9 desconhecida. Um dist\u00farbio similar de mancha de vinho do porto em que indiv\u00edduos t\u00eam anomalias vasculares no rosto, bem como no c\u00e9rebro, \u00e9 s\u00edndrome de esturgo-Weber. Esses indiv\u00edduos podem ter convuls\u00f5es e defici\u00eancia mental. Em alguns casos, as caracter\u00edsticas da s\u00edndrome de Klippel-Trenaunay e da s\u00edndrome de Sturge-Weber coincidem. Outra condi\u00e7\u00e3o sobreposta \u00e9 a s\u00edndrome de Parkes-Weber, que \u00e9 caracterizada por conectividade anormal entre o sistema arterial e venoso (f\u00edstulas arteriovenosas)."
+    },
+    {
+        "qid":"0000171-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a S\u00edndrome de Klippel-Trenaunay (KTS)?",
+        "answer":"N\u00e3o h\u00e1 cura para o KTS. O tratamento \u00e9 sintom\u00e1tico. Cirurgia laser pode diminuir ou apagar algumas les\u00f5es cut\u00e2neas. A cirurgia pode corrigir discrep\u00e2ncias no tamanho dos membros, mas dispositivos ortop\u00e9dicos podem ser mais apropriados."
+    },
+    {
+        "qid":"0000171-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a S\u00edndrome de Klippel-Trenaunay (KTS)?",
+        "answer":"O KTS \u00e9 frequentemente um dist\u00farbio progressivo, e complica\u00e7\u00f5es podem ser amea\u00e7adoras de vida. No entanto, muitos indiv\u00edduos podem viver bem enquanto controlam seus sintomas."
+    },
+    {
+        "qid":"0000171-4",
+        "qtype":"research",
+        "question":"que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a S\u00edndrome de Klippel-Trenaunay (KTS)?",
+        "answer":"O NINDS apoia pesquisas sobre dist\u00farbios cong\u00eanitos, como o KTS, com o objetivo de encontrar novos meios para trat\u00e1-los e preveni-los."
+    }
+]

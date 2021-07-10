@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000538-1",
+        "qtype":"information",
+        "question":"O que \u00e9 seq\u00fc\u00eancia isolada de Pierre Robin?",
+        "answer":"Seq\u00fc\u00eancia de Pierre Robin \u00e9 um conjunto de anormalidades que afetam a cabe\u00e7a e o rosto, consistindo de uma pequena mand\u00edbula inferior (micrognatia), uma l\u00edngua que \u00e9 colocada mais para tr\u00e1s do que o normal (glossoptose), e uma abertura no telhado da boca (uma fenda palatina). Esta condi\u00e7\u00e3o \u00e9 descrita como uma \"seq\u00fc\u00eancia\" porque uma de suas caracter\u00edsticas, uma mand\u00edbula inferior subdesenvolvida (mand\u00edbula), provoca uma sequ\u00eancia de eventos antes do nascimento que causam os outros sinais e sintomas. Especificamente, ter uma mand\u00edbula anormalmente pequena afeta a coloca\u00e7\u00e3o da l\u00edngua e forma\u00e7\u00e3o do palato, levando \u00e0 glossoptose e fenda palatina. A combina\u00e7\u00e3o de caracter\u00edsticas caracter\u00edsticas da sequ\u00eancia de Pierre Robin pode causar dificuldade em respirar e problemas para comer no in\u00edcio da vida. Como resultado, alguns beb\u00eas afetados t\u00eam uma incapacidade de crescer e ganhar peso \u00e0 taxa esperada (falha para prosperar). Em algumas crian\u00e7as com a sequ\u00eancia de Pierre Robin, o crescimento da mand\u00edbula alcan\u00e7a, e estes indiv\u00edduos t\u00eam queixos de tamanho normal. Algumas pessoas t\u00eam seq\u00fc\u00eancia de Pierre Robin como parte de uma s\u00edndrome que afeta outros \u00f3rg\u00e3os e tecidos no corpo, como displasia colom\u00e9lica ou s\u00edndrome de Sticker. Essas inst\u00e2ncias s\u00e3o descritas como sindr\u00f4micas. Quando a sequ\u00eancia de Pierre Robin ocorre por si s\u00f3, ela \u00e9 descrita como n\u00e3o sindromica ou isolada. Aproximadamente 20 a 40 por cento dos casos de sequ\u00eancia de Pierre Robin s\u00e3o isolados."
+    },
+    {
+        "qid":"0000538-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela sequ\u00eancia isolada de Pierre Robin?",
+        "answer":"Seq\u00fc\u00eancia isolada de Pierre Robin afeta 1 em 8.500 a 14.000 pessoas."
+    },
+    {
+        "qid":"0000538-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 sequ\u00eancia isolada de Pierre Robin?",
+        "answer":"Mudan\u00e7as no DNA perto do gene SOX9 s\u00e3o a causa gen\u00e9tica mais comum da sequ\u00eancia isolada de Pierre Robin. \u00c9 prov\u00e1vel que altera\u00e7\u00f5es em outros genes, alguns dos quais n\u00e3o foram identificados, tamb\u00e9m causem sequ\u00eancia isolada de Pierre Robin. O gene SOX9 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que desempenha um papel cr\u00edtico na forma\u00e7\u00e3o de v\u00e1rios tecidos e \u00f3rg\u00e3os diferentes durante o desenvolvimento embrion\u00e1rio. A prote\u00edna SOX9 regula a atividade de outros genes, especialmente aqueles que s\u00e3o importantes para o desenvolvimento do esqueleto, incluindo a mand\u00edbula. As altera\u00e7\u00f5es gen\u00e9ticas associadas \u00e0 sequ\u00eancia isolada de Pierre Robin ocorrem perto do gene SOX9. Essas anormalidades s\u00e3o consideradas para interromper regi\u00f5es de DNA chamadas potenciadores que normalmente regulam a atividade do gene SOX9, reduzindo a atividade do gene SOX9. Como resultado, a prote\u00edna SOX9 n\u00e3o pode controlar adequadamente os genes essenciais para o desenvolvimento normal da mand\u00edbula inferior, causando micrognatia, e consequentemente, glossoptose e fenda palatina."
+    },
+    {
+        "qid":"0000538-4",
+        "qtype":"inheritance",
+        "question":"A sequ\u00eancia isolada de Pierre Robin \u00e9 herdada?",
+        "answer":"Seq\u00fc\u00eancia isolada de Pierre Robin geralmente n\u00e3o \u00e9 herdada. Isso normalmente resulta de novas mudan\u00e7as gen\u00e9ticas e ocorre em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia. Quando a condi\u00e7\u00e3o \u00e9 herdada, segue um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do DNA alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000538-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a sequ\u00eancia isolada de Pierre Robin?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou gerenciamento da sequ\u00eancia isolada de Pierre Robin: - Hospital Infantil de Boston: Fissura de l\u00e1bio e paladar de fissura Tratamento e cuidados - Registro de Testes Gen\u00e9ticos: Sequ\u00eancia de Robin - Hospital Infantil de Seattle: Tratamentos de Sequ\u00eancia de Robin Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e gerenciamento de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

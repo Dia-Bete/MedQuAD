@@ -1,0 +1,44 @@
+[
+    {
+        "qid":"0000077-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) insufici\u00eancia renal aguda?",
+        "answer":""
+    },
+    {
+        "qid":"0000077-2",
+        "qtype":"causes",
+        "question":"O que causa insufici\u00eancia renal aguda?",
+        "answer":""
+    },
+    {
+        "qid":"0000077-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da insufici\u00eancia renal aguda?",
+        "answer":""
+    },
+    {
+        "qid":"0000077-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar insufici\u00eancia renal aguda?",
+        "answer":""
+    },
+    {
+        "qid":"0000077-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para insufici\u00eancia renal aguda?",
+        "answer":""
+    },
+    {
+        "qid":"0000077-6",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para insufici\u00eancia renal aguda?",
+        "answer":""
+    },
+    {
+        "qid":"0000077-7",
+        "qtype":"prevention",
+        "question":"Como prevenir insufici\u00eancia renal aguda?",
+        "answer":""
+    }
+]

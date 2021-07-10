@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000629-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) diabetes maternamente herdada e surdez?",
+        "answer":"Diabetes e surdez maternas (MIDD) s\u00e3o uma forma de diabetes que muitas vezes \u00e9 acompanhada de perda auditiva, especialmente de tons elevados. A diabetes no MIDD \u00e9 caracterizada por n\u00edveis elevados de a\u00e7\u00facar no sangue (hiperglicemia) decorrente de uma escassez de insulina hormonal, que regula a quantidade de a\u00e7\u00facar no sangue. No MIDD, a diabetes e a perda auditiva geralmente se desenvolvem no meio da idade adulta, embora a idade em que ocorrem varie da inf\u00e2ncia at\u00e9 a idade adulta tardia. Normalmente, a perda auditiva ocorre antes da diabetes. Algumas pessoas com MIDD desenvolvem um dist\u00farbio ocular chamado distrofia da retina macular, que \u00e9 caracterizado por manchas coloridas no tecido sens\u00edvel \u00e0 luz que reveste a parte de tr\u00e1s do olho (a retina). Esse dist\u00farbio geralmente n\u00e3o causa problemas de vis\u00e3o em pessoas com MIDD. Indiv\u00edduos com MIDD tamb\u00e9m podem sentir c\u00e3ibras musculares ou fraqueza, particularmente durante o exerc\u00edcio, problemas card\u00edacos, doen\u00e7a renal e obstipa\u00e7\u00e3o. Indiv\u00edduos com MIDD s\u00e3o muitas vezes mais baixos que seus pares."
+    },
+    {
+        "qid":"0000629-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por diabetes maternamente herdada e surdez?",
+        "answer":"Cerca de 1% das pessoas com diabetes t\u00eam MIDD. A condi\u00e7\u00e3o \u00e9 mais comum na popula\u00e7\u00e3o japonesa e foi encontrada em popula\u00e7\u00f5es em todo o mundo."
+    },
+    {
+        "qid":"0000629-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as mudan\u00e7as gen\u00e9ticas relacionadas com diabetes e surdez heredit\u00e1rias maternas?",
+        "answer":"Muta\u00e7\u00f5es no gene MT-TL1, MT-TK, ou MT-TE causam MIDD. Estes genes s\u00e3o encontrados no DNA mitocondrial, que \u00e9 parte de estruturas celulares chamadas mitocondrias. Embora a maioria do DNA seja embalada em cromossomos dentro do n\u00facleo celular, as mitoc\u00f4ndrias tamb\u00e9m t\u00eam uma pequena quantidade de seu pr\u00f3prio DNA (conhecido como DNA mitoc\u00f4ndrico ou DNA mt). Os genes MT-TL1, MT-TK e MT-TE fornecem instru\u00e7\u00f5es para fazer mol\u00e9culas chamadas RNAs de transfer\u00eancia, que s\u00e3o primos qu\u00edmicos do DNA. Essas mol\u00e9culas ajudam a montar blocos de prote\u00ednas (amino\u00e1cidos) em prote\u00ednas que funcionam. O gene MT-TL1 fornece instru\u00e7\u00f5es para fazer uma forma espec\u00edfica de tRNA que \u00e9 designada como tRNALEU(UUR). Durante a montagem de prote\u00ednas, esta mol\u00e9cula liga-se \u00e0 leucina amino\u00e1cida (Leu) e insere-a nos locais apropriados na prote\u00edna em crescimento. Da mesma forma, a prote\u00edna produzida a partir do gene MT-TK, chamado tRNALIS, liga-se \u00e0 amino\u00e1cido lisina (Lys) e insere-a em prote\u00ednas sendo montadas. Al\u00e9m disso, a prote\u00edna produzida a partir do gene MT-TE, chamado tRNAGlu, liga-se ao \u00e1cido glut\u00e2mico amino\u00e1cido (Glu) e adiciona-o ao crescimento de prote\u00ednas. Estas mol\u00e9culas de tRNA s\u00f3 est\u00e3o presentes em mitoc\u00f4ndrias, e elas ajudam a montar prote\u00ednas que est\u00e3o envolvidas na produ\u00e7\u00e3o de energia para c\u00e9lulas. Em certas c\u00e9lulas do p\u00e2ncreas chamadas c\u00e9lulas beta, as mitoc\u00f4ndrias tamb\u00e9m desempenham um papel no controle da quantidade de a\u00e7\u00facar (glucose) na corrente sangu\u00ednea. Em resposta a n\u00edveis elevados de glicose, mitoc\u00f4ndrias ajudam a desencadear a libera\u00e7\u00e3o de insulina, o que estimula as c\u00e9lulas a absorver a glicose do sangue. Muta\u00e7\u00f5es no gene MT-TL1, MT-TK, ou MT-TE reduzem a capacidade do tRNA para adicionar amino\u00e1cidos \u00e0s prote\u00ednas em crescimento, o que retarda a produ\u00e7\u00e3o de prote\u00ednas em mitoc\u00f4ndrias e prejudica seu funcionamento. Pesquisadores acreditam que a interrup\u00e7\u00e3o da fun\u00e7\u00e3o mitocondrial diminui a capacidade da mitocondria para ajudar a desencadear a libera\u00e7\u00e3o de insulina. Em pessoas com essa condi\u00e7\u00e3o, a diabetes resulta quando as c\u00e9lulas beta n\u00e3o produzem insulina suficiente para regular o a\u00e7\u00facar no sangue de forma eficaz. Pesquisadores n\u00e3o determinaram como as muta\u00e7\u00f5es levam \u00e0 perda auditiva ou as outras caracter\u00edsticas do MIDD."
+    },
+    {
+        "qid":"0000629-4",
+        "qtype":"inheritance",
+        "question":"A diabetes maternamente herdada e a surdez herdada?",
+        "answer":"MIDD \u00e9 herdado em um padr\u00e3o mitocondrial, que tamb\u00e9m \u00e9 conhecido como heran\u00e7a materna. Este padr\u00e3o de heran\u00e7a se aplica aos genes contidos no ADNmt. Como as c\u00e9lulas \u00f3vulas, mas n\u00e3o as espermatozoides, contribuem com mitoc\u00f4ndrias para o embri\u00e3o em desenvolvimento, as crian\u00e7as s\u00f3 podem herdar dist\u00farbios resultantes de muta\u00e7\u00f5es de ADNmt de sua m\u00e3e. Esses dist\u00farbios podem aparecer em cada gera\u00e7\u00e3o de uma fam\u00edlia e podem afetar ambos os machos e f\u00eameas, mas os pais n\u00e3o passam tra\u00e7os associados com mudan\u00e7as no DNA mt para seus filhos. A maioria das c\u00e9lulas do corpo cont\u00e9m milhares de mitoc\u00f4ndrias, cada uma com uma ou mais c\u00f3pias de ADNmt. Essas c\u00e9lulas podem ter uma mistura de mitoc\u00f4ndrias contendo DNA mutado e n\u00e3o mutado (heteroplasmia). Acredita-se que a gravidade do MIDD esteja associada \u00e0 porcentagem de mitoc\u00f4ndrias com a muta\u00e7\u00e3o do ADNmt."
+    },
+    {
+        "qid":"0000629-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para diabetes e surdez heredit\u00e1rias maternas?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo do MIDD: - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Diabetes-Sortesia transmitida maternamente Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

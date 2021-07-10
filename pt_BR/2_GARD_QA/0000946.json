@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0000946-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) S\u00edndrome Cardiofaciocut\u00e2nea?",
+        "answer":"A s\u00edndrome cardiofaciocut\u00e2nea (CFC) \u00e9 um dist\u00farbio que afeta muitas partes do corpo, particularmente o cora\u00e7\u00e3o (cardio-), o rosto (facio-), e a pele e o cabelo (cut\u00e2neo). Pessoas com essa condi\u00e7\u00e3o tamb\u00e9m t\u00eam atraso no desenvolvimento e defici\u00eancia intelectual, geralmente variando de moderado a grave. Os sinais e sintomas da s\u00edndrome cardiofaciocut\u00e2nea se sobrep\u00f5em significativamente aos de outras duas doen\u00e7as gen\u00e9ticas, a s\u00edndrome de Costello e a s\u00edndrome de Noonan. As tr\u00eas s\u00edndromes s\u00e3o parte de um grupo de doen\u00e7as relacionadas chamadas as RASopatias e elas se distinguem por sua causa gen\u00e9tica e padr\u00f5es espec\u00edficos de sinais e sintomas; no entanto, pode ser dif\u00edcil distinguir essas condi\u00e7\u00f5es na inf\u00e2ncia. O sindrome de CFC \u00e9 causado por muta\u00e7\u00f5es no BRAF (75%-80% dos casos), MAP2K1, MAP2K2 ou gene KRAS (em menos de 5% dos casos). A s\u00edndrome de CFC \u00e9 uma condi\u00e7\u00e3o autoss\u00f4mica dominante, entretanto, a maioria dos casos t\u00eam resultado de novas muta\u00e7\u00f5es g\u00eanicas e ocorreram em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia. O tratamento \u00e9 sintom\u00e1tico e pode incluir cirurgia para corrigir os problemas card\u00edacos."
+    },
+    {
+        "qid":"0000946-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome cardiofaciocut\u00e2nea?",
+        "answer":"            "
+    },
+    {
+        "qid":"0000946-3",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome cardiofaciocut\u00e2nea?",
+        "answer":"Como pode a comich\u00e3o associada \u00e0 s\u00edndrome cardiofaciocut\u00e2nea ser tratada? Xerose (pele seca) e prurido (comich\u00e3o) associados \u00e0 s\u00edndrome cardiofaciocut\u00e2nea podem ser aliviados aumentando a quantidade de umidade no ar ou usando lo\u00e7\u00f5es hidratantes. Se surgirem sinais de infec\u00e7\u00e3o, o tratamento com antibi\u00f3ticos pode ser necess\u00e1rio."
+    }
+]

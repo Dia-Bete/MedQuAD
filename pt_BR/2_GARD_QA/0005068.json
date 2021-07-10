@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0005068-1",
+        "qtype":"information",
+        "question":"Qual \u00e9 a angina variante de Prinzmetal?",
+        "answer":"A angina variante de Prinzmetal \u00e9 caracterizada por epis\u00f3dios recorrentes de dor no peito que ocorrem enquanto um indiv\u00edduo est\u00e1 em repouso. Esta condi\u00e7\u00e3o \u00e9 uma forma de angina inst\u00e1vel porque os epis\u00f3dios n\u00e3o ocorrem em um padr\u00e3o previs\u00edvel. A angina variante de Prinzmetal pode ocorrer espontaneamente, ou pode ser causada por exposi\u00e7\u00e3o ao frio, estresse emocional, abstin\u00eancia de \u00e1lcool, ou vasoconstrito medicamentos. Os sintomas dessa condi\u00e7\u00e3o geralmente respondem ao tratamento. Indiv\u00edduos com angina de Prinzmetals podem ter maior risco de ataque card\u00edaco ou arritmia."
+    },
+    {
+        "qid":"0005068-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da angina variante de Prinzmetal?",
+        "answer":"Quais s\u00e3o os sintomas da angina variante de Prinzmetal? O sintoma principal da angina variante de Prinzmetal \u00e9 dor tor\u00e1cica (angina) com as seguintes caracter\u00edsticas: Ocorros sob o osso tor\u00e1cico Descrevido como apertar, constri\u00e7\u00e3o, aperto, press\u00e3o, esmagamento \u00c9 geralmente grave e pode irradiar para o pesco\u00e7o, mand\u00edbula, ombro ou bra\u00e7o Muitas vezes ocorre no repouso Normalmente ocorre na mesma hora todos os dias, geralmente entre a meia-noite e 8am. Dura\u00e7\u00e3o da dor \u00e9 de 5 a 30 minutos A dor \u00e9 aliviada pela nitroglicerina Perda de consci\u00eancia"
+    },
+    {
+        "qid":"0005068-3",
+        "qtype":"causes",
+        "question":"O que causa a angina variante de Prinzmetal?",
+        "answer":"O que causa a angina variante de Prinzmetal? A angina variante de Prinzmetal \u00e9 causada por espasmos da art\u00e9ria coron\u00e1ria. Um espasmo da art\u00e9ria coron\u00e1ria \u00e9 uma contra\u00e7\u00e3o tempor\u00e1ria, abrupta e focal (restrita a um local) dos m\u00fasculos na parede de uma art\u00e9ria no cora\u00e7\u00e3o. Este espasmo constringe a art\u00e9ria, atrasando ou interrompendo o fluxo sangu\u00edneo. Um espasmo prolongado pode causar dor no peito, ou mesmo um ataque card\u00edaco (infarto do mioc\u00e1rdio)."
+    },
+    {
+        "qid":"0005068-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a angina variante de Prinzmetal?",
+        "answer":"Qual \u00e9 o tratamento para a angina variante de Prinzmetal? O objetivo do tratamento \u00e9 controlar a dor no peito e prevenir o ataque card\u00edaco. Nitroglicerina ou outros medicamentos com nitrato podem ser prescritos para aliviar a dor no peito. Bloqueadores de canais de c\u00e1lcio podem ser cronicamente necess\u00e1rios. Estes medicamentos alargam os vasos sangu\u00edneos para melhorar o fluxo de sangue e oxig\u00eanio. Os medicamentos tamb\u00e9m podem incluir beta-bloqueadores; no entanto, em alguns indiv\u00edduos, beta-bloqueadores podem ser prejudiciais."
+    }
+]

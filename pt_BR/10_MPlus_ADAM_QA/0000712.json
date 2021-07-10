@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0000712-1",
+        "qtype":"information",
+        "question":"O que est\u00e1 relacionado com a UTI do cateter?",
+        "answer":""
+    },
+    {
+        "qid":"0000712-2",
+        "qtype":"causes",
+        "question":"O que causa UTI relacionada ao Cateter?",
+        "answer":""
+    },
+    {
+        "qid":"0000712-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da UTI relacionada ao cateter?",
+        "answer":""
+    },
+    {
+        "qid":"0000712-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar UTI relacionada ao cateter?",
+        "answer":""
+    },
+    {
+        "qid":"0000712-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a ITU relacionada ao cateter?",
+        "answer":""
+    },
+    {
+        "qid":"0000712-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a ITU relacionada ao Cateter?",
+        "answer":""
+    },
+    {
+        "qid":"0000712-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para a UTI relacionada ao cateter?",
+        "answer":""
+    },
+    {
+        "qid":"0000712-8",
+        "qtype":"prevention",
+        "question":"Como prevenir a ITU relacionada ao cateter?",
+        "answer":""
+    }
+]

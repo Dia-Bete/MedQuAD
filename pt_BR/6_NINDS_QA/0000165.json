@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000165-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Whipple?",
+        "answer":"A doen\u00e7a de Whipple \u00e9 uma doen\u00e7a bacteriana infecciosa multisist\u00e9mica que interfere na capacidade do corpo de metabolizar gorduras. Causado pela bact\u00e9ria Tropheryma whipplei, o dist\u00farbio pode afetar qualquer sistema no corpo, incluindo o c\u00e9rebro, olhos, cora\u00e7\u00e3o, articula\u00e7\u00f5es e pulm\u00f5es, mas geralmente ocorre no sistema gastrointestinal. Sintomas neurol\u00f3gicos ocorrem em at\u00e9 40% dos indiv\u00edduos e podem incluir dem\u00eancia, anormalidades dos movimentos musculares oculares e faciais, dores de cabe\u00e7a, convuls\u00f5es, perda de controle muscular, perda de mem\u00f3ria, fraqueza e problemas de vis\u00e3o. Os sintomas gastrointestinais podem incluir diarreia, perda de peso, fadiga, fraqueza, sangramento abdominal e dor. Febre, tosse, anemia, danos card\u00edacos e pulmonares, escurecimento da pele e dor nas articula\u00e7\u00f5es tamb\u00e9m podem estar presentes. A doen\u00e7a \u00e9 mais comum em homens e sintomas neurol\u00f3gicos s\u00e3o mais comuns em indiv\u00edduos que t\u00eam doen\u00e7a abdominal grave, Raramente, sintomas neurol\u00f3gicos podem aparecer sem sintomas gastrointestinais e podem imitar sintomas de quase qualquer doen\u00e7a neurol\u00f3gica."
+    },
+    {
+        "qid":"0000165-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Whipple?",
+        "answer":"O tratamento padr\u00e3o para a doen\u00e7a de Whipple \u00e9 um curso prolongado de antibi\u00f3ticos (at\u00e9 dois anos), incluindo penicilina e cefriaxona ou doxiciclina com hidroxicloroquina. Drogas sulfonamidas, como sulfadizina ou solfametoxazol, podem tratar sintomas neurol\u00f3gicos. Doen\u00e7a neurol\u00f3gica de Whipple recidivante. (marcado por ataques de agravamento dos sintomas) \u00e0s vezes \u00e9 tratado com uma combina\u00e7\u00e3o de antibi\u00f3ticos e inje\u00e7\u00f5es semanais de interfr\u00e3o gamma, uma subst\u00e2ncia feita pelo corpo que ativa o sistema imunol\u00f3gico."
+    },
+    {
+        "qid":"0000165-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a doen\u00e7a de Whipple?",
+        "answer":"Geralmente, o tratamento antibi\u00f3tico a longo prazo para destruir as bact\u00e9rias pode aliviar os sintomas e curar a doen\u00e7a. Se n\u00e3o for tratada, a doen\u00e7a \u00e9 progressiva e fatal. Indiv\u00edduos com envolvimento do sistema nervoso central geralmente t\u00eam um pior progn\u00f3stico e podem ficar com incapacidade neurol\u00f3gica permanente. Defici\u00eancias podem persistir e reca\u00eddas ainda podem ocorrer em indiv\u00edduos que recebem tratamento apropriado de forma oportuna. O progn\u00f3stico pode melhorar com o reconhecimento, diagn\u00f3stico e tratamento do dist\u00farbio."
+    },
+    {
+        "qid":"0000165-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a doen\u00e7a de Whipple?",
+        "answer":"A miss\u00e3o do Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e AVC (NINDS) \u00e9 buscar conhecimento fundamental do c\u00e9rebro e do sistema nervoso e usar esse conhecimento para reduzir a carga da doen\u00e7a neurol\u00f3gica. O NINDS apoia uma ampla gama de pesquisas sobre dist\u00farbios que afetam o sistema nervoso central. O Instituto Nacional de Diabetes e Doen\u00e7as Digestivas e Renais tamb\u00e9m apoia pesquisas sobre dist\u00farbios como a doen\u00e7a de Whipple. Grande parte desta pesquisa tem como objetivo aprender mais sobre esses dist\u00farbios e encontrar maneiras de prevenir, tratar e, em \u00faltima an\u00e1lise, cur\u00e1-los."
+    }
+]

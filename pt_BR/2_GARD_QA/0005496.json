@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0005496-1",
+        "qtype":"information",
+        "question":"O que \u00e9 esquizoencefalia?",
+        "answer":"A esquizenc\u00e9falia \u00e9 uma malforma\u00e7\u00e3o cerebral cong\u00eanita rara (presente desde o nascimento) na qual se formam fendas ou fendas anormais nos hemisf\u00e9rios cerebrais do c\u00e9rebro. Os sinais e sintomas desta condi\u00e7\u00e3o podem incluir atraso no desenvolvimento, convuls\u00f5es e problemas com a comunica\u00e7\u00e3o entre o c\u00e9rebro e a corda espinhal. As pessoas afetadas tamb\u00e9m podem ter uma cabe\u00e7a anormalmente pequena (microcefalia); hidrocefalia; defici\u00eancia intelectual; paralisia parcial ou completa; e/ou t\u00f4nus muscular ruim (hipot\u00f4nia). A gravidade dos sintomas depende de muitos fatores, incluindo a extens\u00e3o da fissura e se existem ou n\u00e3o outras anormalidades cerebrais. Embora a causa exata da esquizenc\u00e9falia seja desconhecida, ela tem sido ligada a uma variedade de fatores gen\u00e9ticos e n\u00e3o gen\u00e9ticos. O tratamento geralmente consiste em fisioterapia e drogas para prevenir convuls\u00f5es. Nos casos que s\u00e3o complicados pela hidrocefalia, um tubo implantado cirurgicamente, chamado shunt, \u00e9 frequentemente usado para desviar fluido para outra \u00e1rea do corpo onde ele pode ser absorvido."
+    },
+    {
+        "qid":"0005496-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da esquizenc\u00e9falia?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da esquizenc\u00e9falia? Sinais e sintomas da esquizenc\u00e9falia podem incluir: Atraso do desenvolvimento Convuls\u00f5es Cabe\u00e7a anormalmente pequena (microcefalia) Defici\u00eancia intelectual Paralisia parcial ou completa T\u00f4nus muscular ruim (hipot\u00f4nia) Hidrocefalia A gravidade dos sintomas depende de muitos fatores, incluindo a extens\u00e3o da fissura e se est\u00e3o presentes ou n\u00e3o outras anormalidades cerebrais. Por exemplo, pessoas com uma pequena fenda em um hemisf\u00e9rio podem ter paralisia de um lado do corpo e pouca ou nenhuma defici\u00eancia intelectual, enquanto as fendas em ambos os hemisf\u00e9rios podem levar a quadriplegia (par\u00e1lisis de ambos os bra\u00e7os e pernas) e grave defici\u00eancia intelectual. A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para a esquizenc\u00e9falia. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Aplasia/hipoplasia do corpo calloso 90% Anormalidade EEG 90% Hipertonia 90% Porencefalia 90% Strabismus 90% Defici\u00eancia cognitiva 50% Hemiplegia/hemiparesia 50% Convuls\u00f5es 50% Esquizenc\u00e9falia - A Ontologia Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0005496-3",
+        "qtype":"causes",
+        "question":"O que causa a esquizenc\u00e9falia?",
+        "answer":"O que causa esquizoencefalia? A causa exata da esquizenc\u00e9falia \u00e9 desconhecida. Um pequeno n\u00famero de pessoas com esquizoencefalia \u00e9 encontrado para ter mudan\u00e7as (muta\u00e7\u00f5es) em um dos quatro genes: EMX2, SIX3, SHH, e COL4A1. Raramente, esquizoencefalia pode afetar mais de um membro da fam\u00edlia. Isso apoia uma causa gen\u00e9tica em alguns casos. A esquizenc\u00e9falia tamb\u00e9m tem sido ligada a uma variedade de fatores n\u00e3o gen\u00e9ticos, incluindo idade materna jovem e certos medicamentos e infec\u00e7\u00f5es que podem causar interrup\u00e7\u00f5es vasculares (interrup\u00e7\u00e3o do fluxo sangu\u00edneo ou suprimento de sangue) em um beb\u00ea em desenvolvimento."
+    },
+    {
+        "qid":"0005496-4",
+        "qtype":"inheritance",
+        "question":"Schizenc\u00e9falia \u00e9 herdada?",
+        "answer":"A esquizoencefalia \u00e9 herdada? A esquizoencefalia n\u00e3o \u00e9 considerada herdada na maioria dos casos e raramente afeta mais de uma pessoa em uma fam\u00edlia. Alguns casos de esquizenc\u00e9falia familiar foram ligados a mudan\u00e7as (muta\u00e7\u00f5es) no gene EMX2."
+    },
+    {
+        "qid":"0005496-5",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a esquizenc\u00e9falia?",
+        "answer":"Testes gen\u00e9ticos est\u00e3o dispon\u00edveis para esquizoencefalia? Em casos raros, as pessoas afetadas pela esquizoencefalia s\u00e3o encontradas com altera\u00e7\u00f5es (muta\u00e7\u00f5es) em um dos quatro genes: EMX2, SIX3, SHH e COL4A1. Testes gen\u00e9ticos est\u00e3o dispon\u00edveis para essas fam\u00edlias. Como a esquizenc\u00e9falia \u00e9 diagnosticada? A esquizenc\u00e9falia \u00e9 tipicamente diagnosticada por tomografia computadorizada (TC) e/ou resson\u00e2ncia magn\u00e9tica (IRM). Uma TC \u00e9 um m\u00e9todo de imagem que usa raios-X para criar imagens de se\u00e7\u00f5es transversais do corpo, enquanto uma resson\u00e2ncia magn\u00e9tica usa \u00edm\u00e3s poderosos e ondas de r\u00e1dio para criar imagens do c\u00e9rebro e tecidos nervosos circundantes. Ambos os m\u00e9todos de imagem podem ser usados para identificar anormalidades cerebrais, como as fendas ou fendas encontradas em pessoas com esquizoencefalia. Em alguns casos, esquizenc\u00e9falia tamb\u00e9m pode ser diagnosticada pr\u00e9-natal (antes do nascimento) em ultrassom ap\u00f3s 20 semanas de gesta\u00e7\u00e3o. Se a fissura for vista no ultrassom, uma resson\u00e2ncia magn\u00e9tica do beb\u00ea em desenvolvimento pode ser recomendada para confirmar o diagn\u00f3stico."
+    },
+    {
+        "qid":"0005496-6",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a esquizenc\u00e9falia?",
+        "answer":"Como a esquizoencefalia pode ser tratada? As melhores op\u00e7\u00f5es de tratamento para pessoas com esquizoencefalia dependem de muitos fatores, incluindo a gravidade da condi\u00e7\u00e3o e os sinais e sintomas presentes. Por exemplo, pessoas com atraso no desenvolvimento (i.e. Os marcos motores retardados) ou a paralisia parcial podem ser encaminhados para fisioterapia e/ou terapia ocupacional. Os medicamentos s\u00e3o frequentemente prescritos para prevenir convuls\u00f5es. Nos casos que s\u00e3o complicados pela hidrocefalia, um tubo implantado cirurgicamente, chamado shunt, \u00e9 frequentemente usado para desviar fluido para outra \u00e1rea do corpo onde ele pode ser absorvido."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000145-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Camurati-Engelmann?",
+        "answer":"A doen\u00e7a de Camurati-Engelmann \u00e9 uma condi\u00e7\u00e3o que afeta principalmente os ossos. Pessoas com essa doen\u00e7a aumentaram a densidade \u00f3ssea, afetando particularmente os ossos longos dos bra\u00e7os e pernas. Em alguns casos, os ossos do cr\u00e2nio e do quadril tamb\u00e9m s\u00e3o afetados. Os ossos engrossados podem levar a dor nos bra\u00e7os e pernas, uma caminhada, fraqueza muscular e cansa\u00e7o extremo. Um aumento na densidade do cr\u00e2nio resulta em aumento da press\u00e3o no c\u00e9rebro e pode causar uma variedade de problemas neurol\u00f3gicos, incluindo dores de cabe\u00e7a, perda auditiva, problemas de vis\u00e3o, tonturas (vertigem), zumbido nos ouvidos (tinnitus), e paralisia facial. A press\u00e3o adicional que os ossos engrossados colocam nos sistemas muscular e esquel\u00e9tico pode causar curvatura anormal da coluna (escoliose), deformidades articulares (contraturas), joelhos e p\u00e9s planos (pes planus). Outras caracter\u00edsticas da doen\u00e7a de Camurati-Engelmann incluem membros anormalmente longos em propor\u00e7\u00e3o \u00e0 altura, uma diminui\u00e7\u00e3o na massa muscular e gordura corporal, e puberdade retardada. A idade em que os indiv\u00edduos afetados experimentam primeiro sintomas varia muito; no entanto, a maioria das pessoas com essa condi\u00e7\u00e3o desenvolvem dor ou fraqueza pela adolesc\u00eancia. Em alguns casos, as pessoas t\u00eam a muta\u00e7\u00e3o gen\u00e9tica que causa a doen\u00e7a de Camurati-Engelmann, mas nunca desenvolvem as caracter\u00edsticas dessa condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000145-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela doen\u00e7a de Camurati-Engelmann?",
+        "answer":"A preval\u00eancia da doen\u00e7a de Camurati-Engelmann \u00e9 desconhecida. Aproximadamente 200 casos foram relatados em todo o mundo."
+    },
+    {
+        "qid":"0000145-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 doen\u00e7a de Camurati-Engelmann?",
+        "answer":"Muta\u00e7\u00f5es no gene TGFB1 causam a doen\u00e7a de Camurati-Engelmann. O gene TGFB1 fornece instru\u00e7\u00f5es para produzir uma prote\u00edna chamada fator de crescimento transformador beta-1 (TGF-1). A prote\u00edna TGF-1 ajuda a controlar o crescimento e a divis\u00e3o (prolifera\u00e7\u00e3o) das c\u00e9lulas, o processo pelo qual as c\u00e9lulas amadurecem para realizar fun\u00e7\u00f5es espec\u00edficas (diferencia\u00e7\u00e3o), movimento celular (motilidade), e a autodestrui\u00e7\u00e3o das c\u00e9lulas (apoptose). A prote\u00edna TGF-1 \u00e9 encontrada em todo o corpo e desempenha um papel no desenvolvimento antes do nascimento, a forma\u00e7\u00e3o de vasos sangu\u00edneos, a regula\u00e7\u00e3o do tecido muscular e desenvolvimento de gordura corporal, cicatriza\u00e7\u00e3o de feridas e fun\u00e7\u00e3o do sistema imunol\u00f3gico. TGF-1 \u00e9 particularmente abundante em tecidos que comp\u00f5em o esqueleto, onde ele ajuda a regular o crescimento \u00f3sseo, e na rede complexa que se forma nos espa\u00e7os entre as c\u00e9lulas (a matriz extracelular). Dentro das c\u00e9lulas, a prote\u00edna TGF-1 \u00e9 desligada (inativa) at\u00e9 receber um sinal qu\u00edmico para se tornar ativa. As muta\u00e7\u00f5es do gene TGFB1 que causam a doen\u00e7a de Camurati-Engelmann resultam na produ\u00e7\u00e3o de uma prote\u00edna TGF-1 que est\u00e1 sempre ligada (ativa). Prote\u00ednas TGF-1 hiperativas levam ao aumento da densidade \u00f3ssea e diminui\u00e7\u00e3o da gordura corporal e tecido muscular, contribuindo para os sinais e sintomas da doen\u00e7a de Camurati-Engelmann. Alguns indiv\u00edduos com doen\u00e7a de Camurati-Engelmann n\u00e3o t\u00eam muta\u00e7\u00f5es identificadas no gene TGFB1. Nestes casos, a causa da condi\u00e7\u00e3o \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000145-4",
+        "qtype":"inheritance",
+        "question":"A doen\u00e7a de Camurati-Engelmann \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000145-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Camurati-Engelmann?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da doen\u00e7a de Camurati-Engelmann: - Revis\u00e3o gen\u00e9tica: Revis\u00e3o gen\u00e9tica: Doen\u00e7a de Camurati-Engelmann - Registro de Testes Gen\u00e9ticos: Displasia Diafis\u00e1ria Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

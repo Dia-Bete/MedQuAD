@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000578-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) displasia mesom\u00e9lica Langer?",
+        "answer":"A displasia mesom\u00e9lica de Langer \u00e9 um dist\u00farbio do crescimento \u00f3sseo. Indiv\u00edduos afetados tipicamente t\u00eam encurtamento extremo dos ossos longos nos bra\u00e7os e pernas (mesom\u00e9lia). Como resultado do encurtamento dos ossos das pernas, pessoas com displasia mesom\u00e9lica Langer t\u00eam estatura muito curta. Um osso no antebra\u00e7o chamado ulna e um osso na parte inferior da perna chamada f\u00edbula s\u00e3o frequentemente subdesenvolvidos ou ausentes, enquanto outros ossos no antebra\u00e7o (o raio) e na parte inferior da perna (a t\u00edbia) s\u00e3o incomummente curtos, grossos e curvados. Algumas pessoas com displasia mesom\u00e9lica Langer tamb\u00e9m t\u00eam uma anormalidade do pulso e ossos do antebra\u00e7o chamado deformidade Madelung, o que pode causar dor e limitar o movimento do pulso. Al\u00e9m disso, alguns indiv\u00edduos afetados t\u00eam leve subdesenvolvimento do osso da mand\u00edbula inferior (mand\u00edbula)."
+    },
+    {
+        "qid":"0000578-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela displasia mesom\u00e9lica de Langer?",
+        "answer":"A preval\u00eancia de displasia mesom\u00e9lica de Langer \u00e9 desconhecida, embora a condi\u00e7\u00e3o pare\u00e7a ser rara. V\u00e1rias d\u00fazias de indiv\u00edduos afetados foram relatados na literatura cient\u00edfica."
+    },
+    {
+        "qid":"0000578-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 displasia mesom\u00e9lica de Langer?",
+        "answer":"A displasia mesom\u00e9lica de Langer resulta de mudan\u00e7as envolvendo o gene SHOX. A prote\u00edna produzida a partir deste gene desempenha um papel no desenvolvimento \u00f3sseo e \u00e9 particularmente importante para o crescimento e matura\u00e7\u00e3o dos ossos nos bra\u00e7os e pernas. A causa mais comum da displasia mesom\u00e9lica de Langer \u00e9 a dele\u00e7\u00e3o de todo o gene SHOX. Outras altera\u00e7\u00f5es gen\u00e9ticas que podem causar o dist\u00farbio incluem muta\u00e7\u00f5es no gene SHOX ou dele\u00e7\u00f5es de material gen\u00e9tico pr\u00f3ximo que normalmente ajuda a regular a atividade do gene. Essas mudan\u00e7as reduzem ou eliminam grandemente a quantidade de prote\u00edna SHOX que \u00e9 produzida. A falta desta prote\u00edna interrompe o desenvolvimento e crescimento \u00f3sseos normais, o que subjace \u00e0s graves anomalias esquel\u00e9ticas associadas \u00e0 displasia mesom\u00e9lica de Langer."
+    },
+    {
+        "qid":"0000578-4",
+        "qtype":"inheritance",
+        "question":"A displasia mesom\u00e9lica de Langer \u00e9 herdada?",
+        "answer":"A displasia mesom\u00e9lica de Langer tem um padr\u00e3o recessivo pseudoautoss\u00f4mico de heran\u00e7a. O gene SHOX est\u00e1 localizado nos cromossomos X e Y (crossomos sexuais) em uma \u00e1rea conhecida como regi\u00e3o pseudoautoss\u00f3mica. Embora muitos genes sejam \u00fanicos para o cromossomo X ou Y, genes na regi\u00e3o pseudoautossomal est\u00e3o presentes em ambos os cromossomos sexuais. Como resultado, as f\u00eameas (que t\u00eam dois cromossomos X) e os machos (que t\u00eam um cromossomo X e um Y) normalmente t\u00eam duas c\u00f3pias funcionais do gene SHOX em cada c\u00e9lula. O padr\u00e3o de heran\u00e7a da displasia mesom\u00e9lica de Langer \u00e9 descrito como recessivo porque ambas as c\u00f3pias do gene SHOX em cada c\u00e9lula devem estar ausentes ou alteradas para causar o dist\u00farbio. Nas f\u00eameas, a condi\u00e7\u00e3o resulta quando o gene est\u00e1 ausente ou alterado em ambas as c\u00f3pias do cromossomo X; nos machos, resulta quando o gene est\u00e1 ausente ou alterado no cromossomo X e no cromossomo Y. Um dist\u00farbio esquel\u00e9tico relacionado chamado Lri-Weill discondrosteose ocorre quando uma c\u00f3pia do gene SHOX \u00e9 mutada em cada c\u00e9lula. Este dist\u00farbio tem sinais e sintomas que s\u00e3o semelhantes, mas normalmente menos graves que os da displasia mesom\u00e9lica de Langer."
+    },
+    {
+        "qid":"0000578-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a displasia mesom\u00e9lica de Langer?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da displasia mesom\u00e9lica de Langer: - Registro de Testes Gen\u00e9ticos: S\u00edndrome de displasia mesom\u00e9lica de Langer Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

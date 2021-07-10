@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0000802-1",
+        "qtype":"indication",
+        "question":"Quem deveria pegar Miglustat e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000802-2",
+        "qtype":"usage",
+        "question":"Como o Miglustat deve ser usado e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000802-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Miglustat?",
+        "answer":""
+    },
+    {
+        "qid":"0000802-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Miglustat?",
+        "answer":""
+    },
+    {
+        "qid":"0000802-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Miglustat?",
+        "answer":""
+    },
+    {
+        "qid":"0000802-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos de Miglustat?",
+        "answer":""
+    },
+    {
+        "qid":"0000802-8",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o de Miglustat?",
+        "answer":""
+    },
+    {
+        "qid":"0000802-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Miglustat?",
+        "answer":""
+    },
+    {
+        "qid":"0000802-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Miglustat?",
+        "answer":""
+    },
+    {
+        "qid":"0000802-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de Miglustat?",
+        "answer":""
+    }
+]

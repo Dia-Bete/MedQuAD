@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000159-1",
+        "qtype":"information",
+        "question":"O que \u00e9 taquicardia ventricular polim\u00f3rfica catecolamin\u00e9rgica?",
+        "answer":"A taquicardia ventricular polim\u00f3rfica catecolamin\u00e9rgica (TCPV) \u00e9 uma condi\u00e7\u00e3o caracterizada por um ritmo card\u00edaco anormal (arritmia). \u00c0 medida que a frequ\u00eancia card\u00edaca aumenta em resposta \u00e0 atividade f\u00edsica ou estresse emocional, pode desencadear um batimento card\u00edaco anormalmente r\u00e1pido e irregular chamado taquicardia ventricular. Epis\u00f3dios de taquicardia ventricular podem causar tonturas, tonturas e desmaios (s\u00edncope). Em pessoas com CPVT, esses epis\u00f3dios normalmente come\u00e7am na inf\u00e2ncia. Se a CPVT n\u00e3o for reconhecida e tratada, um epis\u00f3dio de taquicardia ventricular pode fazer com que o cora\u00e7\u00e3o pare de bater (parada card\u00edaca), levando \u00e0 morte s\u00fabita. Pesquisadores suspeitam que CPVT pode ser uma causa significativa de morte s\u00fabita em crian\u00e7as e adultos jovens sem anormalidades card\u00edacas reconhecidas."
+    },
+    {
+        "qid":"0000159-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por taquicardia ventricular polim\u00f3rfica catecolamin\u00e9rgica?",
+        "answer":"A preval\u00eancia de CPVT \u00e9 estimada em cerca de 1 em 10 mil pessoas. No entanto, a verdadeira preval\u00eancia dessa condi\u00e7\u00e3o \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000159-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 taquicardia ventricular polim\u00f3rfica catecolamin\u00e9rgica?",
+        "answer":"CPVT pode resultar de muta\u00e7\u00f5es em dois genes, RYR2 e CASQ2. Muta\u00e7\u00f5es do gene RYR2 causam cerca da metade de todos os casos, enquanto muta\u00e7\u00f5es no gene CASQ2 representam de 1% a 2% dos casos. Em pessoas sem uma muta\u00e7\u00e3o identificada em um desses genes, a causa gen\u00e9tica do dist\u00farbio \u00e9 desconhecida. Os genes RYR2 e CASQ2 fornecem instru\u00e7\u00f5es para fazer prote\u00ednas que ajudam a manter um batimento card\u00edaco regular. Para que o cora\u00e7\u00e3o bata normalmente, as c\u00e9lulas musculares card\u00edacas chamadas mi\u00f3citos devem tensar (contrair) e relaxar de forma coordenada. As prote\u00ednas RYR2 e CASQ2 est\u00e3o envolvidas no manuseio do c\u00e1lcio dentro dos mi\u00f3citos, o que \u00e9 cr\u00edtico para a contra\u00e7\u00e3o regular dessas c\u00e9lulas. Muta\u00e7\u00f5es no gene RYR2 ou CASQ2 interrompem o manejo do c\u00e1lcio dentro dos mi\u00f3citos. Durante o exerc\u00edcio ou estresse emocional, a regula\u00e7\u00e3o do c\u00e1lcio no cora\u00e7\u00e3o pode levar \u00e0 taquicardia ventricular em pessoas com TCPV."
+    },
+    {
+        "qid":"0000159-4",
+        "qtype":"inheritance",
+        "question":"A taquicardia ventricular polim\u00f3rfica catecolamin\u00e9rgica \u00e9 herdada?",
+        "answer":"Quando CPVT resulta de muta\u00e7\u00f5es no gene RYR2, ele tem um padr\u00e3o autoss\u00f4mico dominante de heran\u00e7a. Heran\u00e7a autoss\u00f4mica dominante significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Em cerca de metade dos casos, uma pessoa afetada herda uma muta\u00e7\u00e3o do gene RYR2 de um dos pais afetados. Os casos restantes resultam de novas muta\u00e7\u00f5es no gene RYR2 e ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia. Quando o CPVT \u00e9 causado por muta\u00e7\u00f5es no gene CASQ2, a condi\u00e7\u00e3o tem um padr\u00e3o autoss\u00f4mico recessivo de heran\u00e7a. Heran\u00e7a autoss\u00f4mica recessiva significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000159-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a taquicardia ventricular polim\u00f3rfica catecolamin\u00e9rgica?",
+        "answer":"Estes recursos abordam o diagn\u00f3stico ou manejo de taquicardia ventricular polim\u00f3rfica catecolamin\u00e9rgica: - Cleveland Clinic: Gest\u00e3o de Arritmias - Revis\u00e3o gen\u00e9tica: Revis\u00e3o gen\u00e9tica: Catecolamin\u00e9rgica Polim\u00f3rfica Ventricular Taquicardia - Registro de Testes Gen\u00e9ticos: Catecolamin\u00e9rgica Polim\u00f3rfica ventricular Taquicardia - Registro de Testes Gen\u00e9ticos: Taquicardia ventricular, catecolamin\u00e9rgica polim\u00f3rfica, 2 - MedlinePlus Encyclopedia: Fainting - MedlinePlus Encyclopedia: Taquicardia ventricular Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia M\u00e9dica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

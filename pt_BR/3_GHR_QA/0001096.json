@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001096-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a S\u00edndrome de 47,XYY?",
+        "answer":"A s\u00edndrome de 47,XYY \u00e9 caracterizada por uma c\u00f3pia extra do cromossomo Y em cada uma das c\u00e9lulas de um macho. Embora os machos com esta condi\u00e7\u00e3o possam ser mais altos do que a m\u00e9dia, essa mudan\u00e7a cromoss\u00f4mica normalmente n\u00e3o causa caracter\u00edsticas f\u00edsicas incomuns. A maioria dos homens com s\u00edndrome de 47 anos XYY tem desenvolvimento sexual normal e s\u00e3o capazes de ter filhos. A s\u00edndrome de 47,XYY est\u00e1 associada a um maior risco de incapacidade de aprendizagem e atraso no desenvolvimento de habilidades de fala e linguagem. Atrasado desenvolvimento de habilidades motoras (como sentar e caminhar), t\u00f4nus muscular fraco (hipot\u00f4nia), tremores nas m\u00e3os ou outros movimentos involunt\u00e1rios (tics motores), e dificuldades comportamentais e emocionais tamb\u00e9m s\u00e3o poss\u00edveis. Essas caracter\u00edsticas variam muito entre meninos e homens afetados. Uma pequena porcentagem de homens com s\u00edndrome de 47,XYY \u00e9 diagnosticada com dist\u00farbios do espectro aut\u00edstico, que s\u00e3o condi\u00e7\u00f5es de desenvolvimento que afetam a comunica\u00e7\u00e3o e a intera\u00e7\u00e3o social."
+    },
+    {
+        "qid":"0001096-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de 47,XYY?",
+        "answer":"Essa condi\u00e7\u00e3o ocorre em cerca de 1 em 1.000 rec\u00e9m-nascidos. Cinco a dez meninos com s\u00edndrome de 47,XYY nascem nos Estados Unidos todos os dias."
+    },
+    {
+        "qid":"0001096-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de 47,XYY?",
+        "answer":"As pessoas normalmente t\u00eam 46 cromossomos em cada c\u00e9lula. Dois dos 46 cromossomos, conhecidos como X e Y, s\u00e3o chamados de cromossomos sexuais porque ajudam a determinar se uma pessoa desenvolver\u00e1 caracter\u00edsticas sexuais masculinas ou femininas. As f\u00eameas geralmente t\u00eam dois cromossomos X (46,XX), e os machos t\u00eam um cromossomo X e um cromossomo Y (46,XY). A s\u00edndrome de 47,XYY \u00e9 causada pela presen\u00e7a de uma c\u00f3pia extra do cromossomo Y em cada uma das c\u00e9lulas de um macho. Como resultado do cromossomo Y extra, cada c\u00e9lula tem um total de 47 cromossomos em vez do 46 habitual. N\u00e3o est\u00e1 claro por que uma c\u00f3pia extra do cromossomo Y est\u00e1 associada com alta estatura, problemas de aprendizagem, e outras caracter\u00edsticas em alguns meninos e homens. Alguns machos com s\u00edndrome de 47,XYY t\u00eam um cromossomo Y extra em apenas algumas de suas c\u00e9lulas. Este fen\u00f4meno \u00e9 chamado de mosaicismo 46,XY/47,XYY."
+    },
+    {
+        "qid":"0001096-4",
+        "qtype":"inheritance",
+        "question":"A S\u00edndrome 47, XYY \u00e9 herdada?",
+        "answer":"A maioria dos casos de s\u00edndrome de 47,XYY n\u00e3o s\u00e3o herdados. A mudan\u00e7a cromoss\u00f4mica geralmente ocorre como um evento aleat\u00f3rio durante a forma\u00e7\u00e3o de c\u00e9lulas esperm\u00e1ticas. Um erro na divis\u00e3o celular chamada n\u00e3o disjun\u00e7\u00e3o pode resultar em c\u00e9lulas esperm\u00e1ticas com uma c\u00f3pia extra do cromossomo Y. Se uma dessas c\u00e9lulas reprodutivas at\u00edpicas contribuir para a composi\u00e7\u00e3o gen\u00e9tica de uma crian\u00e7a, a crian\u00e7a ter\u00e1 um cromossomo Y extra em cada uma das c\u00e9lulas do corpo. 46,XY/47,XYY o mosaicismo tamb\u00e9m n\u00e3o \u00e9 herdado. Ocorre como um evento aleat\u00f3rio durante a divis\u00e3o celular no desenvolvimento embrion\u00e1rio precoce. Como resultado, algumas das c\u00e9lulas de uma pessoa afetada t\u00eam um cromossomo X e um cromossomo Y (46,XY), e outras c\u00e9lulas t\u00eam um cromossomo X e dois cromossomos Y (47,XYY)."
+    },
+    {
+        "qid":"0001096-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de 47,XYY?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de 47,XYY: - Associa\u00e7\u00e3o para X e Y Varia\u00e7\u00f5es de Cromosoma: Conte-me sobre 47,XYY - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Duplo Y Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

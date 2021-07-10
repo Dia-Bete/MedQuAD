@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000979-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o explos\u00f5es de DPOC?",
+        "answer":""
+    },
+    {
+        "qid":"0000979-2",
+        "qtype":"causes",
+        "question":"O que causa explos\u00f5es da DPOC?",
+        "answer":""
+    },
+    {
+        "qid":"0000979-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas das explos\u00f5es da DPOC?",
+        "answer":""
+    },
+    {
+        "qid":"0000979-5",
+        "qtype":"prevention",
+        "question":"Como evitar explos\u00f5es de DPOC?",
+        "answer":""
+    },
+    {
+        "qid":"0000979-6",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para as explos\u00f5es da DPOC?",
+        "answer":""
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "qid":"0000485-1",
+        "qtype":"information",
+        "question":"O que \u00e9 aspergilose?",
+        "answer":"Aspergilose \u00e9 uma infec\u00e7\u00e3o, crescimento, ou resposta al\u00e9rgica causada pelo fungo Aspergillus. H\u00e1 v\u00e1rios tipos diferentes de aspergilose. Um tipo \u00e9 a aspergilose broncopulmonar al\u00e9rgica (tamb\u00e9m chamada ABPA), uma condi\u00e7\u00e3o em que o fungo causa sintomas respirat\u00f3rios al\u00e9rgicos semelhantes \u00e0 asma, como sibil\u00e2ncia e tosse, mas n\u00e3o invade e destruir tecidos. Outro tipo de aspergilose \u00e9 aspergilose invasiva. Esta infec\u00e7\u00e3o geralmente afeta pessoas com sistema imunit\u00e1rio enfraquecido devido ao c\u00e2ncer, AIDS, leucemia, transplante de \u00f3rg\u00e3os, quimioterapia, ou outras condi\u00e7\u00f5es ou eventos que reduzem o n\u00famero de gl\u00f3bulos brancos normais. Nesta condi\u00e7\u00e3o, o fungo invade e danifica tecidos no corpo. Aspergilose invasiva mais comumente afeta os pulm\u00f5es, mas tamb\u00e9m pode causar infec\u00e7\u00e3o em muitos outros \u00f3rg\u00e3os e pode se espalhar por todo o corpo (comum afetando os rins e o c\u00e9rebro). Aspergiloma, um crescimento (bola de fungo) que se desenvolve em uma \u00e1rea de doen\u00e7a pulmonar anterior, como tuberculose ou abscesso pulmonar, \u00e9 um terceiro tipo de aspergilose. Este tipo de aspergilose \u00e9 composto por uma massa emaranhada de fibras de fungos, co\u00e1gulos sangu\u00edneos e gl\u00f3bulos brancos. A bola de fungos gradualmente se amplia, destruindo o tecido pulmonar no processo, mas geralmente n\u00e3o se espalha para outras \u00e1reas."
+    },
+    {
+        "qid":"0000485-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para aspergilose?",
+        "answer":"Como a aspergilose pode ser tratada? Se a infec\u00e7\u00e3o for generalizada ou a pessoa parecer gravemente doente, o tratamento \u00e9 iniciado imediatamente. Voriconazol \u00e9 atualmente um tratamento de primeira linha para aspergilose invasiva e geralmente \u00e9 administrado por via intravenosa. H\u00e1 outros f\u00e1rmacos antif\u00fangicos que podem ser usados para tratar aspergilose invasiva em pacientes que n\u00e3o podem tomar voriconazol ou que n\u00e3o responderam ao voriconazol. Estes incluem itraconazol, formula\u00e7\u00f5es de anfotericina lip\u00eddica, caspofungina, micafungina e posaconazol. Sempre que poss\u00edvel, os medicamentos imunossupressores devem ser descontinuados ou diminu\u00eddos. Uma bola de fungos geralmente n\u00e3o requer tratamento a menos que o sangramento no tecido pulmonar esteja associado com a infec\u00e7\u00e3o, ent\u00e3o cirurgia \u00e9 necess\u00e1ria. Agentes antif\u00fangicos n\u00e3o ajudam pessoas com aspergilose al\u00e9rgica. Aspergilose al\u00e9rgica \u00e9 tratada com prednisona tomada por boca."
+    }
+]

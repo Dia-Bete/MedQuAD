@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000070-1",
+        "qtype":"information",
+        "question":"O que \u00e9 defici\u00eancia arom\u00e1tica de l-amino\u00e1cido decarboxilase?",
+        "answer":"A defici\u00eancia de l-amino\u00e1cido decarboxilase (AADC) \u00e9 uma desordem herdada que afeta a forma como os sinais s\u00e3o transmitidos entre certas c\u00e9lulas do sistema nervoso. Os sinais e sintomas da defici\u00eancia de AADC geralmente aparecem no primeiro ano de vida. Crian\u00e7as afetadas podem ter grave atraso no desenvolvimento, t\u00f4nus muscular fraco (hipot\u00f4nia), rigidez muscular, dificuldade em se mover e movimentos involunt\u00e1rios de contor\u00e7\u00e3o dos membros (atetose). Eles podem estar sem energia (let\u00e1rgica), se alimentar mal, assustar facilmente, e ter dist\u00farbios do sono. Pessoas com defici\u00eancia de AADC tamb\u00e9m podem experimentar epis\u00f3dios chamados crises ocul\u00f3gicas que envolvem rota\u00e7\u00e3o anormal dos globos oculares; irritabilidade extrema e agita\u00e7\u00e3o; e dor, espasmos musculares, e movimentos descontrolados, especialmente da cabe\u00e7a e pesco\u00e7o. A defici\u00eancia de AADC pode afetar o sistema nervoso aut\u00f4nomo, que controla processos corporais involunt\u00e1rios como a regula\u00e7\u00e3o da press\u00e3o arterial e temperatura corporal. Os sinais e sintomas resultantes podem incluir p\u00e1lpebras ca\u00eddas (pt\u00f3se), constri\u00e7\u00e3o das pupilas dos olhos (miose), sudorese inadequada ou prejudicada, congest\u00e3o nasal, baba, redu\u00e7\u00e3o da capacidade de controlar a temperatura corporal, press\u00e3o arterial baixa (hipotens\u00e3o), fluxo reverso do conte\u00fado do est\u00f4mago \u00e1cido para o es\u00f4fago (refluxo gastroesof\u00e1gico), baixo n\u00edvel de a\u00e7\u00facar no sangue (hipoglicemia), desmaio (s\u00edncope) e parada card\u00edaca. Os sinais e sintomas da defici\u00eancia de AADC tendem a piorar no final do dia ou quando o indiv\u00edduo est\u00e1 cansado, e melhorar ap\u00f3s o sono."
+    },
+    {
+        "qid":"0000070-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia arom\u00e1tica de l-amino\u00e1cido descarboxilase?",
+        "answer":"A defici\u00eancia de AADC \u00e9 um dist\u00farbio raro. Apenas cerca de 100 pessoas com esta condi\u00e7\u00e3o foram descritas na literatura m\u00e9dica em todo o mundo; cerca de 20% desses indiv\u00edduos s\u00e3o de Taiwan."
+    },
+    {
+        "qid":"0000070-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia arom\u00e1tica de l-amino\u00e1cido decarboxilase?",
+        "answer":"Muta\u00e7\u00f5es no gene DDC causam defici\u00eancia de AADC. O gene DDC fornece instru\u00e7\u00f5es para fazer a enzima AADC, que \u00e9 importante no sistema nervoso. Esta enzima ajuda a produzir dopamina e serotonina a partir de outras mol\u00e9culas. Dopamina e serotonina s\u00e3o neurotransmissores, que s\u00e3o mensageiros qu\u00edmicos que transmitem sinais entre as c\u00e9lulas nervosas, tanto no c\u00e9rebro e medula espinhal (sistema nervoso central) como em outras partes do corpo (sistema nervoso perif\u00e9rico). Muta\u00e7\u00f5es no gene DDC resultam em redu\u00e7\u00e3o da atividade da enzima AADC. Sem o suficiente desta enzima, as c\u00e9lulas nervosas produzem menos dopamina e serotonina. Dopamina e serotonina s\u00e3o necess\u00e1rias para a fun\u00e7\u00e3o normal do sistema nervoso, e mudan\u00e7as nos n\u00edveis desses neurotransmissores contribuem para o atraso no desenvolvimento, incapacidade intelectual, movimentos anormais e disfun\u00e7\u00e3o auton\u00f4mica observadas em pessoas com defici\u00eancia de AADC."
+    },
+    {
+        "qid":"0000070-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia arom\u00e1tica de l-amino\u00e1cido descarboxilase \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000070-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para defici\u00eancia arom\u00e1tica de l-amino\u00e1cido decarboxilase?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da defici\u00eancia de l-amino\u00e1cido decarboxilase arom\u00e1tica: - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de L-amino\u00e1cido decarboxilase arom\u00e1tica Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "qid":"0001916-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) doen\u00e7a hemol\u00edtica do rec\u00e9m-nascido?",
+        "answer":""
+    },
+    {
+        "qid":"0001916-2",
+        "qtype":"causes",
+        "question":"O que causa a doen\u00e7a hemol\u00edtica do rec\u00e9m-nascido?",
+        "answer":""
+    },
+    {
+        "qid":"0001916-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da doen\u00e7a hemol\u00edtica do rec\u00e9m-nascido?",
+        "answer":""
+    },
+    {
+        "qid":"0001916-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a doen\u00e7a hemol\u00edtica do rec\u00e9m-nascido?",
+        "answer":""
+    },
+    {
+        "qid":"0001916-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a hemol\u00edtica do rec\u00e9m-nascido?",
+        "answer":""
+    },
+    {
+        "qid":"0001916-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a doen\u00e7a hemol\u00edtica do rec\u00e9m-nascido?",
+        "answer":""
+    },
+    {
+        "qid":"0001916-7",
+        "qtype":"prevention",
+        "question":"Como prevenir a doen\u00e7a hemol\u00edtica do rec\u00e9m-nascido?",
+        "answer":""
+    }
+]

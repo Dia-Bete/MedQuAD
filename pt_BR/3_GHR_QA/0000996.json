@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000996-1",
+        "qtype":"information",
+        "question":"O que \u00e9 trissomia 13?",
+        "answer":"Trisomia 13, tamb\u00e9m chamada s\u00edndrome de Patau, \u00e9 uma condi\u00e7\u00e3o cromoss\u00f4mica associada a defici\u00eancia intelectual grave e anormalidades f\u00edsicas em muitas partes do corpo. Indiv\u00edduos com trissomia 13 muitas vezes t\u00eam defeitos card\u00edacos, anomalias do c\u00e9rebro ou da medula espinhal, olhos muito pequenos ou mal desenvolvidos (microftalmia), dedos extras ou dedos do p\u00e9, uma abertura no l\u00e1bio (um l\u00e1bio fendido) com ou sem uma abertura no telhado da boca (um paladar fendido), e t\u00f4nus muscular fraco (hipot\u00f4nia). Devido \u00e0 presen\u00e7a de v\u00e1rios problemas m\u00e9dicos que amea\u00e7am a vida, muitos beb\u00eas com trissomia 13 morrem nos primeiros dias ou semanas de vida. Apenas 5% a 10% das crian\u00e7as com esta condi\u00e7\u00e3o vivem depois do primeiro ano."
+    },
+    {
+        "qid":"0000996-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela trissomia 13?",
+        "answer":"Trisomia 13 ocorre em cerca de 1 em 16.000 rec\u00e9m-nascidos. Embora mulheres de qualquer idade possam ter um filho com trissomia 13, a chance de ter um filho com esta condi\u00e7\u00e3o aumenta \u00e0 medida que uma mulher envelhece."
+    },
+    {
+        "qid":"0000996-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 trissomia 13?",
+        "answer":"A maioria dos casos de trissomia 13 resulta de ter tr\u00eas c\u00f3pias do cromossomo 13 em cada c\u00e9lula do corpo em vez das duas c\u00f3pias habituais. O material gen\u00e9tico extra interrompe o curso normal do desenvolvimento, causando as caracter\u00edsticas caracter\u00edsticas da trissomia 13. Trissomia 13 tamb\u00e9m pode ocorrer quando parte do cromossomo 13 se apega (translocada) a outro cromossomo durante a forma\u00e7\u00e3o de c\u00e9lulas reprodutivas (ovos e esperma) ou muito cedo no desenvolvimento fetal. As pessoas afetadas t\u00eam duas c\u00f3pias normais do cromossomo 13, mais uma c\u00f3pia extra do cromossomo 13 ligado a outro cromossomo. Em casos raros, apenas parte do cromossomo 13 est\u00e1 presente em tr\u00eas c\u00f3pias. Os sinais e sintomas f\u00edsicos nesses casos podem ser diferentes dos encontrados na trissomia total 13. Uma pequena porcentagem de pessoas com trissomia 13 tem uma c\u00f3pia extra do cromossomo 13 em apenas algumas c\u00e9lulas do corpo. Nestas pessoas, a condi\u00e7\u00e3o \u00e9 chamada de trissomia de mosaico 13. A gravidade da trissomia do mosaico 13 depende do tipo e n\u00famero de c\u00e9lulas que t\u00eam o cromossomo extra. As caracter\u00edsticas f\u00edsicas da trissomia do mosaico 13 s\u00e3o muitas vezes mais brandas do que as da trissomia total 13."
+    },
+    {
+        "qid":"0000996-4",
+        "qtype":"inheritance",
+        "question":"A trisomia 13 \u00e9 herdada?",
+        "answer":"A maioria dos casos de trissomia 13 n\u00e3o s\u00e3o herdados e resultam de eventos aleat\u00f3rios durante a forma\u00e7\u00e3o de ovos e esperma em pais saud\u00e1veis. Um erro na divis\u00e3o celular chamada n\u00e3o disjun\u00e7\u00e3o resulta em uma c\u00e9lula reprodutiva com um n\u00famero anormal de cromossomos. Por exemplo, um ovo ou espermatozoide pode ganhar uma c\u00f3pia extra do cromossomo 13. Se uma dessas c\u00e9lulas reprodutivas at\u00edpicas contribuir para a composi\u00e7\u00e3o gen\u00e9tica de uma crian\u00e7a, a crian\u00e7a ter\u00e1 um cromossomo extra 13 em cada c\u00e9lula do corpo. A trissomia de transloca\u00e7\u00e3o 13 pode ser herdada. Uma pessoa n\u00e3o afetada pode carregar um rearranjo de material gen\u00e9tico entre o cromossomo 13 e outro cromossomo. Esses rearranjos s\u00e3o chamados de transloca\u00e7\u00f5es equilibradas porque n\u00e3o h\u00e1 material extra do cromossomo 13. Uma pessoa com uma transloca\u00e7\u00e3o equilibrada envolvendo o cromossomo 13 tem uma maior chance de passar material extra do cromossomo 13 para seus filhos."
+    },
+    {
+        "qid":"0000996-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a trisomia 13?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da trissomia 13: - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Trissomia Completa 13 - MedlinePlus Enciclop\u00e9dia: Trisomia 13 Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

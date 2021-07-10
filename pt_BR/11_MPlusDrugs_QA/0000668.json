@@ -1,0 +1,68 @@
+[
+    {
+        "qid":"0000668-1",
+        "qtype":"indication",
+        "question":"Quem deveria pegar Labetalol Oral e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000668-2",
+        "qtype":"usage",
+        "question":"Como Labetalol Oral deve ser usado e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000668-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Labetalol Oral?",
+        "answer":""
+    },
+    {
+        "qid":"0000668-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Labetalol Oral?",
+        "answer":""
+    },
+    {
+        "qid":"0000668-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Labetalol Oral?",
+        "answer":""
+    },
+    {
+        "qid":"0000668-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos do Labetalol Oral?",
+        "answer":""
+    },
+    {
+        "qid":"0000668-8",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o de Labetalol Oral?",
+        "answer":""
+    },
+    {
+        "qid":"0000668-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Labetalol Oral?",
+        "answer":""
+    },
+    {
+        "qid":"0000668-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Labetalol Oral?",
+        "answer":""
+    },
+    {
+        "qid":"0000668-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes da marca Labetalol Oral?",
+        "answer":""
+    },
+    {
+        "qid":"0000668-12",
+        "qtype":"brand names of combination products",
+        "question":"Quais s\u00e3o os nomes da marca de combina\u00e7\u00e3o de produtos do Labetalol Oral?",
+        "answer":""
+    }
+]

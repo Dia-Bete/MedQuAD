@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000230-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Leucomal\u00e1cia Periventricular?",
+        "answer":"A leucomal\u00e1cia periventricular (PVL) \u00e9 caracterizada pela morte da mat\u00e9ria branca do c\u00e9rebro devido \u00e0 suaviza\u00e7\u00e3o do tecido cerebral. Pode afetar fetos ou rec\u00e9m-nascidos; beb\u00eas prematuros est\u00e3o no maior risco de transtorno. A LPV \u00e9 causada pela falta de oxig\u00eanio ou fluxo sangu\u00edneo para a \u00e1rea periventricular do c\u00e9rebro, o que resulta na morte ou perda do tecido cerebral. A \u00e1rea periventricular, a \u00e1rea ao redor dos espa\u00e7os do c\u00e9rebro chamada ventr\u00edculos, cont\u00e9m fibras nervosas que transportam mensagens do c\u00e9rebro para os m\u00fasculos do corpo. Embora beb\u00eas com LPV geralmente n\u00e3o tenham sinais ou sintomas externos do dist\u00farbio, eles est\u00e3o em risco para dist\u00farbios motores, atraso no desenvolvimento mental, problemas de coordena\u00e7\u00e3o, e defici\u00eancias visuais e auditivas. A LPV pode ser acompanhada de hemorragia ou sangramento na \u00e1rea intraventricular periventricular (\u00e1rea ao redor e dentro dos ventr\u00edculos), e pode levar a paralisia cerebral. O dist\u00farbio \u00e9 diagnosticado por ultrassom da cabe\u00e7a."
+    },
+    {
+        "qid":"0000230-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Leucomal\u00e1cia Periventricular?",
+        "answer":"N\u00e3o h\u00e1 tratamento espec\u00edfico para a LPV. O tratamento \u00e9 sintom\u00e1tico e de apoio. Crian\u00e7as com LPV devem receber exames m\u00e9dicos regulares para determinar interven\u00e7\u00f5es apropriadas."
+    },
+    {
+        "qid":"0000230-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Leucomal\u00e1cia Periventricular?",
+        "answer":"O progn\u00f3stico para indiv\u00edduos com LPV depende da gravidade do dano cerebral. Algumas crian\u00e7as apresentam sintomas bastante leves, enquanto outras t\u00eam d\u00e9ficits significativos e defici\u00eancias."
+    },
+    {
+        "qid":"0000230-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Leucomal\u00e1cia Periventricular?",
+        "answer":"O NINDS apoia e conduz pesquisas sobre les\u00f5es cerebrais como PVL. Grande parte desta pesquisa tem como objetivo encontrar maneiras de prevenir e tratar esses dist\u00farbios."
+    }
+]

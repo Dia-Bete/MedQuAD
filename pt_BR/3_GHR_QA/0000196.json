@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000196-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Coffin-Siris?",
+        "answer":"S\u00edndrome de Coffin-Siris \u00e9 uma condi\u00e7\u00e3o que afeta v\u00e1rios sistemas corporais. Embora haja muitos sinais e sintomas vari\u00e1veis, caracter\u00edsticas desta condi\u00e7\u00e3o incluem incapacidade de desenvolvimento, anormalidades dos dedos do p\u00e9 ou dos dedos do p\u00e9, e caracter\u00edsticas faciais caracter\u00edsticas. A maioria dos indiv\u00edduos afetados tem defici\u00eancia intelectual leve a grave ou atraso no desenvolvimento da fala e habilidades motoras como sentar e caminhar. Outra caracter\u00edstica da s\u00edndrome de Coffin-Siris \u00e9 o subdesenvolvimento (hipoplasia) das pontas dos dedos dos dedos dos p\u00e9s, ou hipoplasia ou aus\u00eancia das unhas. Essas anormalidades s\u00e3o mais comuns nos dedos dos dedos do p\u00e9. Al\u00e9m disso, a maioria dos indiv\u00edduos afetados tem caracter\u00edsticas faciais descritas como grosseiras. Estes normalmente incluem um nariz largo com uma ponte nasal plana, uma boca larga com l\u00e1bios grossos, sobrancelhas grossas e c\u00edlios. Indiv\u00edduos afetados podem ter excesso de cabelo em outras partes do rosto e corpo (hirsutismo), mas o cabelo do couro cabeludo \u00e9 muitas vezes escasso. H\u00e1 uma variedade de caracter\u00edsticas faciais vistas em pessoas com s\u00edndrome de Coffin-Siris, e nem todos os indiv\u00edduos afetados t\u00eam as caracter\u00edsticas t\u00edpicas. Al\u00e9m disso, pessoas com esta condi\u00e7\u00e3o podem ter uma cabe\u00e7a anormalmente pequena (microcefalia). Al\u00e9m disso, alguns beb\u00eas e crian\u00e7as com s\u00edndrome de Coffin-Siris t\u00eam infec\u00e7\u00f5es respirat\u00f3rias frequentes, dificuldade em alimentar-se, e uma incapacidade de ganhar peso na taxa esperada (falha para prosperar). Outros sinais e sintomas que podem ocorrer em pessoas com esta condi\u00e7\u00e3o incluem estatura curta, baixo t\u00f4nus muscular (hipot\u00f4nia), e articula\u00e7\u00f5es anormalmente soltas (laxantes). Anormalidades nos olhos, c\u00e9rebro, cora\u00e7\u00e3o e rins tamb\u00e9m podem estar presentes."
+    },
+    {
+        "qid":"0000196-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Coffin-Siris?",
+        "answer":"A s\u00edndrome de Coffin-Siris \u00e9 uma condi\u00e7\u00e3o rara que \u00e9 diagnosticada em f\u00eameas mais frequentemente do que em machos. Aproximadamente 140 casos foram relatados na literatura m\u00e9dica."
+    },
+    {
+        "qid":"0000196-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Coffin-Siris?",
+        "answer":"A s\u00edndrome de Coffin-Siris \u00e9 causada por muta\u00e7\u00f5es no gene ARID1A, ARID1B, SMARCA4, SMARCB1 ou SMARCE1. Cada um desses genes fornece instru\u00e7\u00f5es para fazer uma pe\u00e7a (subunidade) de v\u00e1rios complexos diferentes de prote\u00ednas SWI/SNF. Complexos SWI/SNF regulam a atividade g\u00eanica (express\u00e3o) por um processo conhecido como remodela\u00e7\u00e3o da cromatina. A cromatina \u00e9 a rede de DNA e prote\u00edna que embala DNA em cromossomos. A estrutura da cromatina pode ser alterada (reformulada) para alterar como regi\u00f5es estreitas do DNA s\u00e3o embaladas. A remodela\u00e7\u00e3o da cromatina \u00e9 uma forma de a express\u00e3o g\u00eanica \u00e9 regulada durante o desenvolvimento; quando o DNA \u00e9 bem embalado, a express\u00e3o g\u00eanica \u00e9 muitas vezes menor do que quando o DNA \u00e9 embalado vagamente. Atrav\u00e9s de sua capacidade de regular a atividade g\u00eanica, complexos SWI/SNF est\u00e3o envolvidos em muitos processos, incluindo reparar DNA danificado; copiar (replicar) DNA; e controlar o crescimento, divis\u00e3o e matura\u00e7\u00e3o (diferencia\u00e7\u00e3o) das c\u00e9lulas. Embora n\u00e3o esteja claro o efeito que muta\u00e7\u00f5es nesses genes t\u00eam nos complexos SWI/SNF, pesquisadores sugerem que as muta\u00e7\u00f5es resultam em remodela\u00e7\u00e3o anormal da cromatina. Perturba\u00e7\u00e3o deste processo altera a atividade de muitos genes e perturba v\u00e1rios processos celulares, o que poderia explicar os diversos sinais e sintomas da s\u00edndrome de Coffin-Siris."
+    },
+    {
+        "qid":"0000196-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Coffin-Siris \u00e9 herdada?",
+        "answer":"A s\u00edndrome de Coffin-Siris parece seguir um padr\u00e3o autoss\u00f4mico dominante de heran\u00e7a, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. No entanto, a condi\u00e7\u00e3o n\u00e3o \u00e9 geralmente herdada de um pai afetado, mas ocorre de novas muta\u00e7\u00f5es (de novo) no gene que provavelmente ocorrem durante o desenvolvimento embrion\u00e1rio precoce."
+    },
+    {
+        "qid":"0000196-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Coffin-Siris?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Coffin-Siris: - Revis\u00e3o gen\u00e9tica: Revis\u00e3o gen\u00e9tica: S\u00edndrome de Coffin-Siris - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Coffin-Siris Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

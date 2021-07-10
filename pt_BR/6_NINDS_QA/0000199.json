@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000199-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Mucolipidose?",
+        "answer":"As mucolipidoses (ML) s\u00e3o um grupo de doen\u00e7as metab\u00f3licas herdadas que afetam a capacidade do corpo para realizar a rotatividade normal de v\u00e1rios materiais dentro das c\u00e9lulas. Em ML, quantidades anormais de carboidratos e mat\u00e9rias gordas (l\u00edpidos) se acumulam nas c\u00e9lulas. Como nossas c\u00e9lulas n\u00e3o s\u00e3o capazes de lidar com grandes quantidades destas subst\u00e2ncias, ocorrem danos nas c\u00e9lulas, causando sintomas que variam de dist\u00farbios leves de aprendizagem a graves defici\u00eancias intelectuais e deformidades esquel\u00e9ticas. O grupo inclui quatro doen\u00e7as: - Mucolipidose I (sialidose) - Mucolipidose II (inclus\u00e3o-c\u00e9lula, ou I-c\u00e9lula, doen\u00e7a) - Mucolipidose III (polidistrofia de pseudo-hurler) - Mucolipidose IV Os MLs s\u00e3o classificados como doen\u00e7as de armazenamento lisoss\u00f4mico porque envolvem maior armazenamento de subst\u00e2ncias nos lisossomos, que s\u00e3o componentes especializados semelhantes a sacos dentro da maioria das c\u00e9lulas. Indiv\u00edduos com ML nascem com um defeito gen\u00e9tico em que seus corpos n\u00e3o produzem enzimas suficientes ou, em alguns casos, produzem formas ineficazes de enzimas. Sem enzimas funcionando, os lisossomos n\u00e3o podem quebrar carboidratos e lip\u00eddios e transport\u00e1-los para seu destino normal. As mol\u00e9culas ent\u00e3o se acumulam nas c\u00e9lulas de v\u00e1rios tecidos no corpo, levando a incha\u00e7o e danos de \u00f3rg\u00e3os. As mucolipidoses ocorrem apenas quando uma crian\u00e7a herda duas c\u00f3pias do gene defeituoso, uma de cada pai. Quando ambos os pais carregam um gene defeituoso, cada um de seus filhos enfrenta uma chance em cada quatro de desenvolver um dos MLs."
+    },
+    {
+        "qid":"0000199-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Mucolipidose?",
+        "answer":"N\u00e3o existem curas ou terapias espec\u00edficas para ML atualmente. As terapias geralmente s\u00e3o orientadas para tratar sintomas e fornecer cuidados de apoio \u00e0 crian\u00e7a. Para indiv\u00edduos com turva\u00e7\u00e3o da c\u00f3rnea, a cirurgia para remover a camada fina sobre o olho tem mostrado reduzir a turva\u00e7\u00e3o no olho. No entanto, essa melhoria pode ser apenas tempor\u00e1ria. Terapia f\u00edsica e ocupacional pode ajudar crian\u00e7as com atraso motor. Crian\u00e7as com atrasos na linguagem podem se beneficiar com terapia fonoaudiol\u00f3gica. Crian\u00e7as em risco de n\u00e3o prosperar (falha de crescimento) podem precisar de suplementos nutricionais, especialmente ferro e vitamina B12 para pessoas com ML IV. As infec\u00e7\u00f5es respirat\u00f3rias devem ser tratadas imediatamente e totalmente com antibi\u00f3ticos."
+    },
+    {
+        "qid":"0000199-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Mucolipidose?",
+        "answer":"Sintomas de ML podem ser cong\u00eanitos (presentes no nascimento) ou come\u00e7ar na inf\u00e2ncia ou adolesc\u00eancia. Os sintomas precoces podem incluir anomalias esquel\u00e9ticas, problemas de vis\u00e3o e atrasos no desenvolvimento. Com o tempo, muitas crian\u00e7as com ML desenvolvem baixas capacidades mentais, t\u00eam dificuldade em alcan\u00e7ar marcos normais de desenvolvimento, e, em muitos casos, acabam morrendo da doen\u00e7a."
+    },
+    {
+        "qid":"0000199-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Mucolipidose?",
+        "answer":"A miss\u00e3o do Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e AVC (NINDS) \u00e9 buscar conhecimento fundamental do c\u00e9rebro e do sistema nervoso e usar esse conhecimento para reduzir a carga da doen\u00e7a neurol\u00f3gica. Investigadores est\u00e3o conduzindo estudos para determinar os efeitos das muta\u00e7\u00f5es gen\u00e9ticas da ML em v\u00e1rios modelos animais da doen\u00e7a. Estudar os mecanismos da doen\u00e7a nesses modelos pode permitir que cientistas desenvolvam tratamentos para pessoas com dist\u00farbio do ML. Os ensaios cl\u00ednicos incluem uma hist\u00f3ria natural de indiv\u00edduos com ML IV, para melhor entender a doen\u00e7a e identificar os resultados potenciais, e estudos longitudinais para melhor entender a progress\u00e3o da doen\u00e7a, avaliar terapias atuais e identificar tratamentos potenciais."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000065-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Farber?",
+        "answer":"A doen\u00e7a de Farbers, tamb\u00e9m conhecida como lipogranulomatose de Farber, descreve um grupo de dist\u00farbios metab\u00f3licos herdados chamados doen\u00e7as de armazenamento de lip\u00eddios, em que quantidades excessivas de lip\u00eddios (\u00f3leos, \u00e1cidos graxos e compostos relacionados) se acumulam at\u00e9 n\u00edveis prejudiciais nas articula\u00e7\u00f5es, tecidos e sistema nervoso central. O f\u00edgado, o cora\u00e7\u00e3o e os rins tamb\u00e9m podem ser afetados. O in\u00edcio da doen\u00e7a \u00e9 tipicamente visto no in\u00edcio da inf\u00e2ncia, mas pode ocorrer mais tarde na vida. Sintomas da forma cl\u00e1ssica podem ter habilidade mental moderadamente prejudicada e dificuldade em engolir. Outros sintomas podem incluir encurtamento cr\u00f4nico dos m\u00fasculos ou tend\u00f5es em torno das articula\u00e7\u00f5es. artrite, linfonodos e articula\u00e7\u00f5es inchados, rouquid\u00e3o, n\u00f3dulos sob a pele (e \u00e0s vezes nos pulm\u00f5es e outras partes do corpo), e v\u00f4mitos. Pessoas afetadas podem exigir a inser\u00e7\u00e3o de um tubo respirat\u00f3rio. Em casos graves, o f\u00edgado e o ba\u00e7o est\u00e3o aumentados. A doen\u00e7a de Farber \u00e9 causada por uma defici\u00eancia da enzima ceramidase. A doen\u00e7a ocorre quando ambos os pais carregam e transmitem o gene defeituoso que regula a prote\u00edna esfingomielina. Crian\u00e7as nascidas desses pais t\u00eam 25% de chance de herdar o dist\u00farbio e 50% de carregar o gene defeituoso. O dist\u00farbio afeta tanto os homens como as f\u00eameas."
+    },
+    {
+        "qid":"0000065-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Farber?",
+        "answer":"Atualmente n\u00e3o h\u00e1 tratamento espec\u00edfico para a doen\u00e7a de Farbers. Corticosteroides podem ajudar a aliviar a dor. Os transplantes de medula \u00f3ssea podem melhorar granulomas (pequenas massas de tecido inflamado) em indiv\u00edduos com pouca ou nenhuma complica\u00e7\u00e3o pulmonar ou do sistema nervoso. As pessoas idosas podem ter granulomas cirurgicamente reduzidos ou removidos."
+    },
+    {
+        "qid":"0000065-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Doen\u00e7a de Farber?",
+        "answer":"A maioria das crian\u00e7as com a forma cl\u00e1ssica da doen\u00e7a de Farbers morre por 2 anos, geralmente por doen\u00e7a pulmonar. Crian\u00e7as nascidas com a forma mais grave da doen\u00e7a geralmente morrem em 6 meses, enquanto indiv\u00edduos com uma forma mais leve da doen\u00e7a podem viver em seus anos de adolesc\u00eancia ou idade adulta jovem."
+    },
+    {
+        "qid":"0000065-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a Doen\u00e7a de Farber?",
+        "answer":"A miss\u00e3o do Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Accidentes (NINDS) \u00e9 buscar conhecimento fundamental sobre o c\u00e9rebro e o sistema nervoso e usar esse conhecimento para reduzir a carga da doen\u00e7a neurol\u00f3gica. Pesquisas financiadas pelo NINDS focam em melhor compreens\u00e3o de como os d\u00e9ficits neurol\u00f3gicos surgem em doen\u00e7as de armazenamento de lip\u00eddios e no desenvolvimento de novos tratamentos visando mecanismos de doen\u00e7as, incluindo terapias g\u00eanicas, terapias baseadas em c\u00e9lulas e abordagens farmacol\u00f3gicas. O NINDS, juntamente com outros Institutos e Centros dos Institutos Nacionais de Sa\u00fade, apoia a rede de Centros de Doen\u00e7as Liposs\u00f4micas que aborda alguns dos principais desafios no diagn\u00f3stico, manejo e terapia de doen\u00e7as raras, incluindo as doen\u00e7as de armazenamento de lip\u00eddios.A pesquisa sobre doen\u00e7as de armazenamento de lip\u00eddios dentro da Rede inclui estudos longitudinais da hist\u00f3ria natural e/ou tratamento desses dist\u00farbios. Estudos adicionais enfatizar\u00e3o a an\u00e1lise quantitativa da estrutura e fun\u00e7\u00e3o do sistema nervoso central, e desenvolver\u00e3o biomarcadores (sinais que podem indicar o diagn\u00f3stico ou progress\u00e3o de uma doen\u00e7a) para esses dist\u00farbios."
+    }
+]

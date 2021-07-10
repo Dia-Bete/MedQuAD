@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000239-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dor de tornozelo?",
+        "answer":""
+    },
+    {
+        "qid":"0000239-2",
+        "qtype":"causes",
+        "question":"O que causa dor no tornozelo?",
+        "answer":""
+    },
+    {
+        "qid":"0000239-3",
+        "qtype":"considerations",
+        "question":"O que fazer para a dor de tornozelo?",
+        "answer":""
+    },
+    {
+        "qid":"0000239-4",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para dor no toucinho?",
+        "answer":""
+    }
+]

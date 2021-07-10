@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000066-1",
+        "qtype":"information",
+        "question":"O que \u00e9 defici\u00eancia de arginina: glicina amidinotransferase?",
+        "answer":"Arginina: glicina amidinotransferase defici\u00eancia \u00e9 um dist\u00farbio herdado que afeta principalmente o c\u00e9rebro. Pessoas com este dist\u00farbio t\u00eam defici\u00eancia intelectual leve a moderada e atraso no desenvolvimento da fala. Alguns indiv\u00edduos afetados desenvolvem comportamentos autistas que afetam a comunica\u00e7\u00e3o e a intera\u00e7\u00e3o social. Podem ter convuls\u00f5es, especialmente quando t\u00eam febre. Crian\u00e7as com defici\u00eancia de arginina: glicina amidinotransferase podem n\u00e3o ganhar peso e crescer \u00e0 taxa esperada (n\u00e3o prosperar), e t\u00eam retardado o desenvolvimento de habilidades motoras como sentar e caminhar. Indiv\u00edduos afetados tamb\u00e9m podem ter t\u00f4nus muscular fraco e tendem a se cansar facilmente."
+    },
+    {
+        "qid":"0000066-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de arginina: glicina amidinotransferase?",
+        "answer":"A preval\u00eancia de defici\u00eancia de arginina: glicina amidinotransferase \u00e9 desconhecida. O dist\u00farbio foi identificado em poucas fam\u00edlias."
+    },
+    {
+        "qid":"0000066-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de arginina: glicina amidinotransferase?",
+        "answer":"Muta\u00e7\u00f5es no gene GATM causam defici\u00eancia de arginina: glicina amidinotransferase. O gene GATM fornece instru\u00e7\u00f5es para fazer a enzima arginina: glicina amidinotransferase. Esta enzima participa na produ\u00e7\u00e3o em dois passos (s\u00edntese) do composto creatina a partir dos blocos de constru\u00e7\u00e3o de prote\u00ednas (amino\u00e1cidos) glicina, arginina e metionina. Especificamente, arginina: glicina amidinotransferase controla o primeiro passo do processo. Neste passo, um composto chamado \u00e1cido guanidinoac\u00e9tico \u00e9 produzido transferindo um grupo de \u00e1tomos de nitrog\u00eanio e hidrog\u00eanio chamado grupo guanidino de arginina para glicina. O \u00e1cido guanidinoac\u00e9tico \u00e9 convertido em creatina na segunda etapa do processo. A creatina \u00e9 necess\u00e1ria para o corpo armazenar e usar energia corretamente. Muta\u00e7\u00f5es do gene GATM prejudicam a capacidade da enzima arginina: glicina amidinotransferase para participar na s\u00edntese da creatina, resultando em uma escassez de creatina. Os efeitos da defici\u00eancia de arginina: glicina amidinotransferase s\u00e3o mais graves em \u00f3rg\u00e3os e tecidos que requerem grandes quantidades de energia, especialmente o c\u00e9rebro."
+    },
+    {
+        "qid":"0000066-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de arginina: glicina amidinotransferase \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000066-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a defici\u00eancia de arginina: glicina amidinotransferase?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da defici\u00eancia de arginina: glicina amidinotransferase: - Revis\u00e3o de genes: Revis\u00e3o de genes: S\u00edndromes de Defici\u00eancia de Creatina - Registo de Testes Gen\u00e9ticos: Arginina: glicina amidinotransferase Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

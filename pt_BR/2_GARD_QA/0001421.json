@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0001421-1",
+        "qtype":"information",
+        "question":"O que \u00e9 colite Collageno?",
+        "answer":"Colagem \u00e9 um tipo de doen\u00e7a inflamat\u00f3ria do intestino que afeta o c\u00f3lon. \u00c9 uma forma de colite microsc\u00f3pica, o que significa que a inflama\u00e7\u00e3o s\u00f3 \u00e9 vis\u00edvel quando uma bi\u00f3psia \u00e9 examinada sob um microsc\u00f3pio; a inflama\u00e7\u00e3o n\u00e3o pode ser vista ou diagnosticada por colonoscopia ou sigmoidoscopia. Sinais e sintomas podem ser cont\u00ednuos ou intermitentes e podem incluir diarreia cr\u00f4nica, aquosa, n\u00e3o sangrante e dor abdominal ou c\u00f3licas. A causa subjacente exata \u00e9 desconhecida, mas pode relacionar-se com uma bact\u00e9ria, um v\u00edrus, uma resposta autoimune e/ou uma predisposi\u00e7\u00e3o gen\u00e9tica. O tratamento para colite col\u00e1gena varia de acordo com os sintomas e gravidade em cada indiv\u00edduo. Em alguns casos, a condi\u00e7\u00e3o se resolve por conta pr\u00f3pria."
+    },
+    {
+        "qid":"0001421-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da colite de Collageno?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da colite col\u00e1gena? Todos os indiv\u00edduos com colite col\u00e1gena experimentam diarreia cr\u00f4nica, aquosa e n\u00e3o sangrante, que \u00e9 o que normalmente induz os indiv\u00edduos a procurarem aten\u00e7\u00e3o m\u00e9dica. O in\u00edcio da diarreia pode ocorrer gradualmente ao longo do tempo ou pode ser repentino e abrupto. Epis\u00f3dios de diarreia podem ser intermitentes e podem ocorrer durante semanas, meses ou anos. Outros sinais e sintomas que ocorrem comumente em indiv\u00edduos afetados incluem dor abdominal ou c\u00e3ibras, flatul\u00eancia, incha\u00e7o e perda de peso. Incontin\u00eancia, urg\u00eancia, n\u00e1useas, v\u00f4mitos e fadiga tamb\u00e9m foram relatados. Alguns indiv\u00edduos com colite col\u00e1gena experimentam remiss\u00e3o espont\u00e2nea mesmo sem tratamento; no entanto, recidivas podem ocorrer."
+    },
+    {
+        "qid":"0001421-3",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para colite de Collageno?",
+        "answer":"Como pode colite col\u00e1gena ser tratada? O tratamento para colite col\u00e1gena varia de acordo com os sintomas e gravidade em cada indiv\u00edduo afetado. Em alguns casos, a condi\u00e7\u00e3o pode resolver sozinho (remiss\u00e3o espont\u00e2nea), embora a maioria das pessoas continue tendo diarreia cont\u00ednua ou ocasional. Mudan\u00e7as diet\u00e9ticas s\u00e3o tentadas primeiro para aliviar os sintomas. Essas altera\u00e7\u00f5es podem incluir uma dieta reduzida em gordura, eliminando alimentos que cont\u00eam cafe\u00edna e lactose, e evitando analg\u00e9sicos de venda livre, como ibuprofeno ou aspirina. Se essas mudan\u00e7as n\u00e3o s\u00e3o suficientes, medicamentos podem ser usados para ajudar a controlar os sintomas. No entanto, a taxa de resposta a v\u00e1rios tipos de medicamentos parece variar. Medicamentos anti-inflamat\u00f3rios prescritos como mesalamina e sulfasalazina podem ajudar a reduzir o incha\u00e7o. Ester\u00f3ides incluindo budesonida e prednisona podem ser usados reduzem a inflama\u00e7\u00e3o, mas geralmente s\u00e3o usados apenas para controlar ataques s\u00fabitos de diarreia. O uso a longo prazo de ester\u00f3ides \u00e9 normalmente evitado por causa de efeitos colaterais indesejados. Medicamentos antidiarreicos como bismuto subsalicilato, difenoxilato com atropina e loperamida podem oferecer al\u00edvio a curto prazo. Agentes imunossupressores como a azatioprina ajudam a reduzir a inflama\u00e7\u00e3o, mas raramente s\u00e3o necess\u00e1rios. Em casos extremos em que a condi\u00e7\u00e3o n\u00e3o responde a medicamentos, cirurgia para remover todo ou parte do c\u00f3lon pode ser necess\u00e1ria. No entanto, a cirurgia raramente \u00e9 recomendada."
+    }
+]

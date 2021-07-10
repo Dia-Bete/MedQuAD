@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0000621-1",
+        "qtype":"indication",
+        "question":"Quem deve receber Insulina Aspart (DNA Origine) Inje\u00e7\u00e3o e por que \u00e9 prescrita?",
+        "answer":""
+    },
+    {
+        "qid":"0000621-2",
+        "qtype":"usage",
+        "question":"Como deve ser usada a Inje\u00e7\u00e3o de Insulina Aspart (ADNr Origin) e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000621-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre a Inje\u00e7\u00e3o de Insulina Aspart?",
+        "answer":""
+    },
+    {
+        "qid":"0000621-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Insulina Aspart (DNAr Origine) Inje\u00e7\u00e3o?",
+        "answer":""
+    },
+    {
+        "qid":"0000621-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se eu esquecer uma dose de Insulina Aspart (DNAr Origine) Inje\u00e7\u00e3o?",
+        "answer":""
+    },
+    {
+        "qid":"0000621-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Inje\u00e7\u00e3o de Insulina Aspart?",
+        "answer":""
+    },
+    {
+        "qid":"0000621-8",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Insulina Aspart (DNAr Origine) Inje\u00e7\u00e3o?",
+        "answer":""
+    },
+    {
+        "qid":"0000621-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Insulin Aspart (rDNA Origin) Inje\u00e7\u00e3o?",
+        "answer":""
+    },
+    {
+        "qid":"0000621-10",
+        "qtype":"other information",
+        "question":"Que outras informa\u00e7\u00f5es devo saber sobre a Inje\u00e7\u00e3o de Insulina Aspart?",
+        "answer":""
+    },
+    {
+        "qid":"0000621-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes da Inje\u00e7\u00e3o de Insulina Aspart?",
+        "answer":""
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0006301-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Usher, tipo 1B?",
+        "answer":"A s\u00edndrome de Usher \u00e9 uma condi\u00e7\u00e3o gen\u00e9tica caracterizada por perda auditiva ou surdez, e perda progressiva da vis\u00e3o devido \u00e0 retinite pigmentosa. Tr\u00eas tipos principais de s\u00edndrome de Usher foram descritos: tipos I, II e III. Os diferentes tipos s\u00e3o diferenciados pela sua gravidade e a idade em que os sinais e sintomas aparecem. Os tr\u00eas tipos s\u00e3o herdados de forma autoss\u00f4mica recessiva, o que significa que ambas as c\u00f3pias do gene causador da doen\u00e7a em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es."
+    },
+    {
+        "qid":"0006301-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome de Usher, tipo 1B?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da s\u00edndrome de Usher, tipo 1B? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para a s\u00edndrome de Usher, tipo 1B. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Fun\u00e7\u00e3o vestibular ausente - Heran\u00e7a autoss\u00f4mica recessiva - Heterogenea - Atraso motor - Distrofia de Rod-cone - Defici\u00eancia auditiva sensorial - Eletroretinograma indetect\u00e1vel - Perda visual - A Ontologia Fenotipo Humano (HPO) coletou informa\u00e7\u00f5es sobre a frequ\u00eancia de um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0006301-3",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Usher, tipo 1B, \u00e9 herdada?",
+        "answer":"Como a s\u00edndrome de Usher \u00e9 herdada? A s\u00edndrome de Usher \u00e9 herdada de forma autoss\u00f4mica recessiva. Isso significa que uma pessoa deve ter uma mudan\u00e7a (muta\u00e7\u00e3o) em ambas as c\u00f3pias do gene causador da doen\u00e7a em cada c\u00e9lula para ter s\u00edndrome de Usher. Uma c\u00f3pia mutada \u00e9 t\u00edpicamente herdada de cada pai, que s\u00e3o referidos como um portador. Os portadores de uma condi\u00e7\u00e3o autoss\u00f4mica recessiva geralmente n\u00e3o t\u00eam sinais ou sintomas. Quando dois portadores de uma condi\u00e7\u00e3o autoss\u00f4mica recessiva t\u00eam filhos, cada crian\u00e7a tem 25% (1 em 4) chance de ter a condi\u00e7\u00e3o, 50% (1 em 2) chance de ser um portador n\u00e3o afetado como cada pai, e 25% chance de n\u00e3o ser um portador e n\u00e3o ser afetado."
+    }
+]

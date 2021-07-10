@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000328-1",
+        "qtype":"information",
+        "question":"O que \u00e9 pentos\u00faria essencial?",
+        "answer":"Pentos\u00faria essencial \u00e9 uma condi\u00e7\u00e3o caracterizada por altos n\u00edveis de a\u00e7\u00facar chamado L-xilulose na urina. A condi\u00e7\u00e3o \u00e9 assim chamada porque L-xilulose \u00e9 um tipo de a\u00e7\u00facar chamado pentose. Apesar do excesso de a\u00e7\u00facar, os indiv\u00edduos afetados n\u00e3o t\u00eam problemas de sa\u00fade associados."
+    },
+    {
+        "qid":"0000328-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela pentos\u00faria essencial?",
+        "answer":"Pentos\u00faria essencial ocorre quase exclusivamente em indiv\u00edduos com ascend\u00eancia judaica Ashkenazi. Aproximadamente 1 em 3.300 pessoas nesta popula\u00e7\u00e3o s\u00e3o afetadas."
+    },
+    {
+        "qid":"0000328-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as mudan\u00e7as gen\u00e9ticas relacionadas \u00e0 pentos\u00faria essencial?",
+        "answer":"Pentos\u00faria essencial \u00e9 causada por muta\u00e7\u00f5es no gene DCXR. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada dicarbonil/L-xilulose reductase (DCXR), que desempenha m\u00faltiplos pap\u00e9is no corpo. Uma de suas fun\u00e7\u00f5es \u00e9 realizar uma rea\u00e7\u00e3o qu\u00edmica que converte um a\u00e7\u00facar chamado L-xilulose em uma mol\u00e9cula chamada xilitol. Esta rea\u00e7\u00e3o \u00e9 um passo em um processo pelo qual o corpo pode usar a\u00e7\u00facares para energia. Muta\u00e7\u00f5es do gene DCXR levam \u00e0 produ\u00e7\u00e3o de prote\u00ednas DCXR alteradas que s\u00e3o rapidamente quebradas. Sem essa prote\u00edna, a L-xilulose n\u00e3o \u00e9 convertida em xilitol, e o excesso de a\u00e7\u00facar \u00e9 liberado na urina. Enquanto a pentos\u00faria essencial \u00e9 causada por muta\u00e7\u00f5es gen\u00e9ticas, algumas pessoas desenvolvem uma forma n\u00e3o herdada de pentos\u00faria se eles comem quantidades excessivas de frutas altas em L-xilulose ou outra pentose chamada L-arabinose. Esta forma da condi\u00e7\u00e3o, que desaparece se a dieta for alterada, \u00e9 referida como pentos\u00faria alimentar. Estudos mostram que algumas drogas tamb\u00e9m podem causar uma forma de pentos\u00faria tempor\u00e1ria chamada pentos\u00faria induzida por drogas. Essas formas n\u00e3o herdadas da condi\u00e7\u00e3o tamb\u00e9m n\u00e3o causam nenhum problema de sa\u00fade."
+    },
+    {
+        "qid":"0000328-4",
+        "qtype":"inheritance",
+        "question":"Pentos\u00faria essencial \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000328-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a pentos\u00faria essencial?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo de pentos\u00faria essencial: - Registro de Testes Gen\u00e9ticos: Pentos\u00faria essencial Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

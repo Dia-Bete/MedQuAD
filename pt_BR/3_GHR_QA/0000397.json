@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000397-1",
+        "qtype":"information",
+        "question":"O que \u00e9 galactosemia?",
+        "answer":"Galactosemia \u00e9 um dist\u00farbio que afeta como o corpo processa um simples a\u00e7\u00facar chamado galactose. Uma pequena quantidade de galactose est\u00e1 presente em muitos alimentos. \u00c9 principalmente parte de um a\u00e7\u00facar maior chamado lactose, que \u00e9 encontrado em todos os produtos l\u00e1cteos e muitas f\u00f3rmulas de beb\u00ea. Os sinais e sintomas da galactosemia resultam da incapacidade de usar galactose para produzir energia. Pesquisadores identificaram v\u00e1rios tipos de galactosemia. Essas condi\u00e7\u00f5es s\u00e3o causadas por muta\u00e7\u00f5es em um determinado gene e afetam diferentes enzimas envolvidas na decomposi\u00e7\u00e3o da galactose. A galactosemia cl\u00e1ssica, tamb\u00e9m conhecida como tipo I, \u00e9 a forma mais comum e mais grave da condi\u00e7\u00e3o. Se crian\u00e7as com galactosemia cl\u00e1ssica n\u00e3o s\u00e3o tratadas prontamente com uma dieta de baixa galactose, complica\u00e7\u00f5es que amea\u00e7am a vida aparecem dentro de alguns dias ap\u00f3s o nascimento. Crian\u00e7as afetadas normalmente desenvolvem dificuldades alimentares, falta de energia (letargia), falha em ganhar peso e crescer como esperado (falha em prosperar), amarelamento da pele e brancos dos olhos (icter\u00edcia), les\u00e3o hep\u00e1tica e sangramento anormal. Outras complica\u00e7\u00f5es graves desta condi\u00e7\u00e3o podem incluir infec\u00e7\u00f5es bacterianas esmagadoras (sepsia) e choque. Crian\u00e7as afetadas tamb\u00e9m est\u00e3o em maior risco de atraso no desenvolvimento, nubla\u00e7\u00e3o da lente do olho (catarata), dificuldades de fala, e defici\u00eancia intelectual. As f\u00eameas com galactosemia cl\u00e1ssica podem desenvolver problemas reprodutivos causados pela perda precoce da fun\u00e7\u00e3o dos ov\u00e1rios (insufici\u00eancia ov\u00e1rica precoce). Galactosemia tipo II (tamb\u00e9m chamada de defici\u00eancia de galactocinase) e tipo III (tamb\u00e9m chamada de defici\u00eancia de galactose epimerase) causam diferentes padr\u00f5es de sinais e sintomas. Galactosemia tipo II causa menos problemas m\u00e9dicos do que o tipo cl\u00e1ssico. Crian\u00e7as afetadas desenvolvem cataratas, mas de outra forma sofrem poucas complica\u00e7\u00f5es a longo prazo. Os sinais e sintomas da galactosemia tipo III variam de leve a grave e podem incluir cataratas, atraso no crescimento e desenvolvimento, defici\u00eancia intelectual, doen\u00e7a hep\u00e1tica e problemas nos rins."
+    },
+    {
+        "qid":"0000397-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela galactosemia?",
+        "answer":"A galactosemia cl\u00e1ssica ocorre em 1 em 30.000 a 60.000 rec\u00e9m-nascidos. Galactosemia tipo II e tipo III s\u00e3o menos comuns; tipo II provavelmente afeta menos de 1 em 100 mil rec\u00e9m-nascidos e tipo III parece ser muito raro."
+    },
+    {
+        "qid":"0000397-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 galactosemia?",
+        "answer":"Muta\u00e7\u00f5es nos genes GALT, GALK1 e GALE causam galactosemia. Esses genes fornecem instru\u00e7\u00f5es para fazer enzimas que s\u00e3o essenciais para o processamento da galactose obtida da dieta. Essas enzimas dividem a galactose em outro a\u00e7\u00facar simples, glicose e outras mol\u00e9culas que o corpo pode armazenar ou usar para a energia. Muta\u00e7\u00f5es no gene GALT causam galactosemia cl\u00e1ssica (tipo I). A maioria dessas altera\u00e7\u00f5es gen\u00e9ticas quase completamente eliminam a atividade da enzima produzida a partir do gene GALT, impedindo o processamento normal da galactose e resultando nos sinais e sintomas que amea\u00e7am a vida deste dist\u00farbio. Outra muta\u00e7\u00e3o do gene GALT, conhecida como variante Duarte, reduz mas n\u00e3o elimina a atividade da enzima. Pessoas com a variante Duarte tendem a ter caracter\u00edsticas mais suaves de galactosemia. Galactosemia tipo II resulta de muta\u00e7\u00f5es no gene GALK1, enquanto muta\u00e7\u00f5es no gene GALE subjacentes a galactosemia tipo III. Como a enzima produzida a partir do gene GALT, as enzimas produzidas a partir dos genes GALK1 e GALE desempenham pap\u00e9is importantes no processamento da galactose. A escassez de qualquer uma dessas enzimas cr\u00edticas permite que a galactose e os compostos relacionados se acumulem at\u00e9 n\u00edveis t\u00f3xicos no corpo. O ac\u00famulo dessas subst\u00e2ncias danifica tecidos e \u00f3rg\u00e3os, levando \u00e0s caracter\u00edsticas da galactosemia."
+    },
+    {
+        "qid":"0000397-4",
+        "qtype":"inheritance",
+        "question":"A galactosemia \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000397-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a galactosemia?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da galactosemia: - Primeiro teste do beb\u00ea: Galactosemia Cl\u00e1ssica - Primeiro teste do beb\u00ea: Galactoepimerase - Primeiro teste do beb\u00ea: Galactokinase Deficience - Gene Review: Gene Review: Galactosemia Cl\u00e1ssica e Variante Cl\u00ednica Galactosemia - Gene Review: Gene Review: Duarte Variante Galactosemia - Gene Review: Gene Review: Epimerase Deficience Galactosemia - Gene Testing Registry: Galactosemia - MedlinePlus Enciclop\u00e9dia: Galactose-1-fosfato uridiltransferase - MedlinePlus Enciclop\u00e9dia: Galactosemia Estes recursos do MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e gerenciamento de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Orienta\u00e7\u00e3o Gen\u00e9tica - Cuidados Paliativos"
+    }
+]

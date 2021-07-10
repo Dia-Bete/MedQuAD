@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000109-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) disgrafia?",
+        "answer":"A disgrafia \u00e9 um dist\u00farbio neurol\u00f3gico caracterizado por defici\u00eancias na escrita. Especificamente, o dist\u00farbio faz com que a escrita de uma pessoa seja distorcida ou incorreta. Em crian\u00e7as, o dist\u00farbio geralmente surge quando eles s\u00e3o introduzidos na escrita. Eles fazem letras de tamanho inadequado e espa\u00e7adas, ou escrevem palavras erradas ou erradas, apesar de instru\u00e7\u00f5es completas. Crian\u00e7as com o dist\u00farbio podem ter outras defici\u00eancias de aprendizagem; no entanto, geralmente n\u00e3o t\u00eam problemas sociais ou outros problemas acad\u00eamicos. Casos de disgrafia em adultos geralmente ocorrem ap\u00f3s algum trauma. Al\u00e9m da letra pobre, a disgrafia \u00e9 caracterizada por ortografia errada ou estranha, e produ\u00e7\u00e3o de palavras que n\u00e3o s\u00e3o corretas (i.e., usando \"boy\" para \"filho\"). A causa do dist\u00farbio \u00e9 desconhecida, mas em adultos, \u00e9 geralmente associada a danos no lobo parietal do c\u00e9rebro."
+    },
+    {
+        "qid":"0000109-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a disgrafia?",
+        "answer":"O tratamento para disgrafia varia e pode incluir tratamento para dist\u00farbios motores para ajudar a controlar os movimentos de escrita. Outros tratamentos podem abordar problemas de mem\u00f3ria ou outros problemas neurol\u00f3gicos. Alguns m\u00e9dicos recomendam que indiv\u00edduos com disgrafia usem computadores para evitar os problemas da caligrafia."
+    },
+    {
+        "qid":"0000109-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Dysgraphia?",
+        "answer":"Alguns indiv\u00edduos com disgrafia melhoram sua capacidade de escrita, mas para outros, o dist\u00farbio persiste."
+    },
+    {
+        "qid":"0000109-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Dysgraphia?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Accidentes (NINDS) e outros institutos dos Institutos Nacionais de Sa\u00fade (NIH) apoiam a pesquisa de disgrafia atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. Grande parte desta pesquisa se concentra em encontrar melhores maneiras de tratar, e, em \u00faltima an\u00e1lise, prevenir a disgrafia."
+    }
+]

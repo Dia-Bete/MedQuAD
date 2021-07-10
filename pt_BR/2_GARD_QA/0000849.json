@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000849-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) diabetes?",
+        "answer":"A diabetes fr\u00e1gil \u00e9 caracterizada por uma grave instabilidade dos n\u00edveis de glicemia, com epis\u00f3dios frequentes e imprevis\u00edveis de hipoglicemia e/ou cetoacidose que perturbam a qualidade de vida, muitas vezes requerendo hospitaliza\u00e7\u00f5es frequentes ou prolongadas. Esses epis\u00f3dios imprevis\u00edveis s\u00e3o devidos a uma depend\u00eancia absoluta de insulina, afetando diab\u00e9ticos tipo 1 quase exclusivamente. Diabete fr\u00e1gil \u00e9 mais comum em mulheres de 20 ou 30 anos, mas pode ocorrer em qualquer idade e em qualquer sexo. A condi\u00e7\u00e3o pode ser causada por estresse e desequil\u00edbrio hormonal, neglig\u00eancia do auto-cuidado (n\u00e3o conformidade), ou condi\u00e7\u00f5es m\u00e9dicas subjacentes como malabsor\u00e7\u00e3o, atraso no esvaziamento g\u00e1strico devido \u00e0 neuropatia auton\u00f4mica, uso de drogas ou \u00e1lcool ou absor\u00e7\u00e3o ou degrada\u00e7\u00e3o anormal da insulina. O tratamento \u00e9 dif\u00edcil e depende da causa subjacente."
+    },
+    {
+        "qid":"0000849-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da diabetes Brittle?",
+        "answer":"Quais s\u00e3o os sintomas da diabetes quebradi\u00e7a? O principal sintoma da diabetes quebradi\u00e7a \u00e9 a instabilidade grave dos n\u00edveis de glicemia com epis\u00f3dios frequentes e imprevis\u00edveis de hipoglicemia e/ou cetoacidose que causam uma interrup\u00e7\u00e3o das atividades di\u00e1rias. Tr\u00eas apresenta\u00e7\u00f5es cl\u00ednicas foram descritas: hiperglicemia predominante com cetoacidose recorrente, hipoglicemia predominante e hiperglicemia mista. Pacientes com diabetes quebradi\u00e7a t\u00eam grandes oscila\u00e7\u00f5es nos n\u00edveis de a\u00e7\u00facar no sangue e muitas vezes experimentam diferentes respostas de a\u00e7\u00facar no sangue para a mesma dose e tipo de insulina. Complica\u00e7\u00f5es como neuropatia, nefropatia e retinopatia s\u00e3o comuns. A maioria dos pacientes s\u00e3o f\u00eameas na faixa et\u00e1ria de 30 anos, embora qualquer idade ou sexo possa ser afetado."
+    },
+    {
+        "qid":"0000849-3",
+        "qtype":"causes",
+        "question":"O que causa diabetes Brittle?",
+        "answer":"O que causa diabetes quebradi\u00e7a? H\u00e1 v\u00e1rias causas de diabetes quebradi\u00e7o. O estresse emocional parece desempenhar um papel importante, em alguns casos levando a desequil\u00edbrios hormonais que podem levar a diabetes quebradi\u00e7o. O estresse emocional tamb\u00e9m pode levar a uma mudan\u00e7a no comportamento de um indiv\u00edduo, levando-o a negligenciar seu autocuidado. Outros casos podem ser rastreados a causas fisiol\u00f3gicas, incluindo malabsor\u00e7\u00e3o, atraso no esvaziamento g\u00e1strico devido \u00e0 neuropatia auton\u00f4mica (gastroparese), doen\u00e7a cel\u00edaca, comprometimento da contrarregula\u00e7\u00e3o da glicemia (o que n\u00e3o permite que o corpo do paciente reaja como deveria quando os n\u00edveis de glicemia caem), hipotireoidismo e insufici\u00eancia suprarrenal, uso de drogas ou \u00e1lcool, resist\u00eancia \u00e0 insulina sist\u00eamica e absor\u00e7\u00e3o ou degrada\u00e7\u00e3o anormal da insulina."
+    },
+    {
+        "qid":"0000849-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para diabetes Brittle?",
+        "answer":"Como pode ser tratada a diabetes quebradi\u00e7a? A abordagem da gest\u00e3o depende da causa subjacente. Estrat\u00e9gias gerais de manejo incluem educa\u00e7\u00e3o sobre diabetes, automonitoriza\u00e7\u00e3o frequente da glicemia, uso de uma bomba de insulina subcut\u00e2nea cont\u00ednua em conjunto com um dispositivo de monitoramento cont\u00ednuo da glicemia, e, em casos raros, transplante de p\u00e2ncreas. Psicoterapia ou trabalhar com um psiquiatra ou psic\u00f3logo \u00e9 recomendado para muitas pessoas com diabetes quebradi\u00e7a. O encaminhamento para um centro de especialidade pode ser justificado em certas situa\u00e7\u00f5es."
+    }
+]

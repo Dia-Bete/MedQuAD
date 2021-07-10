@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000058-1",
+        "qtype":"information",
+        "question":"O que \u00e9 S\u00edndrome do T\u00fanel Carpal?",
+        "answer":"S\u00edndrome do t\u00fanel carpiano (STC) ocorre quando o nervo mediano, que corre do antebra\u00e7o para a palma da m\u00e3o, fica pressionado ou apertado no pulso. O t\u00fanel carpal \u00e9 uma passagem estreita e r\u00edgida de ligamento e ossos na base da m\u00e3o que abriga o nervo mediano e os tend\u00f5es que dobram os dedos. O nervo mediano d\u00e1 sensa\u00e7\u00e3o no lado da palma do polegar e na maioria dos dedos. Os sintomas geralmente come\u00e7am gradualmente, com dorm\u00eancia, formigueiro, fraqueza, e \u00e0s vezes dor na m\u00e3o e pulso. As pessoas podem ter dificuldades com tarefas como dirigir ou ler um livro. Diminuir a for\u00e7a das m\u00e3os pode dificultar a capta\u00e7\u00e3o de objetos pequenos ou realizar outras tarefas manuais. Em alguns casos, nenhuma causa direta da s\u00edndrome pode ser identificada. Fatores contribuintes incluem trauma ou les\u00e3o no pulso que causa incha\u00e7o, doen\u00e7a da tireoide, artrite reumatoide e reten\u00e7\u00e3o de l\u00edquidos durante a gravidez. As mulheres s\u00e3o tr\u00eas vezes mais propensas que os homens a desenvolver s\u00edndrome do t\u00fanel carpal. O dist\u00farbio geralmente ocorre apenas em adultos."
+    },
+    {
+        "qid":"0000058-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a S\u00edndrome do T\u00fanel Carpal?",
+        "answer":"O tratamento inicial geralmente envolve imobilizar o pulso em uma ata, anti-inflamat\u00f3rios n\u00e3o esteroides para reduzir temporariamente o incha\u00e7o, e inje\u00e7\u00f5es de corticosteroides (como prednisona). Para casos mais graves, a cirurgia pode ser recomendada."
+    },
+    {
+        "qid":"0000058-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a S\u00edndrome do T\u00fanel Carpal?",
+        "answer":"Em geral, a s\u00edndrome do t\u00fanel carpiano responde bem ao tratamento, mas menos da metade dos indiv\u00edduos relatam que suas m\u00e3os se sentem completamente normais ap\u00f3s a cirurgia. Alguma dorm\u00eancia residual ou fraqueza \u00e9 comum. No trabalho, as pessoas podem fazer exerc\u00edcios de alongamento, descansar freq\u00fcentemente, usar agulhas para manter os pulsos retos, e usar postura correta e posi\u00e7\u00e3o do pulso para ajudar a prevenir ou piorar os sintomas. Usar luvas sem dedos pode ajudar a manter as m\u00e3os quentes e flex\u00edveis."
+    },
+    {
+        "qid":"0000058-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a S\u00edndrome do T\u00fanel Carpal?",
+        "answer":"A miss\u00e3o do Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Accidentes (NINDS) \u00e9 realizar pesquisas fundamentais sobre o c\u00e9rebro e o sistema nervoso, e usar esse conhecimento para reduzir a carga da doen\u00e7a neurol\u00f3gica. Os cientistas financiados pelo NINDS est\u00e3o estudando os fatores que levam a dist\u00farbios duradouros da dor nervosa, e como os nervos afetados est\u00e3o relacionados com sintomas de dorm\u00eancia, perda de fun\u00e7\u00e3o e dor. Pesquisadores tamb\u00e9m est\u00e3o examinando estresses biomec\u00e2nicos que contribuem para o dano nervoso respons\u00e1vel pelos sintomas da s\u00edndrome do t\u00fanel carpiano, a fim de melhor entender, tratar e preveni-lo."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0000189-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar carbonato de c\u00e1lcio e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000189-2",
+        "qtype":"usage",
+        "question":"Como o carbonato de c\u00e1lcio deve ser usado e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000189-3",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre o carbonato de c\u00e1lcio?",
+        "answer":""
+    },
+    {
+        "qid":"0000189-4",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de carbonato de c\u00e1lcio?",
+        "answer":""
+    },
+    {
+        "qid":"0000189-5",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos do carbonato de c\u00e1lcio?",
+        "answer":""
+    },
+    {
+        "qid":"0000189-6",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de carbonato de c\u00e1lcio?",
+        "answer":""
+    },
+    {
+        "qid":"0000189-7",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de carbonato de c\u00e1lcio?",
+        "answer":""
+    },
+    {
+        "qid":"0000189-8",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre o carbonato de c\u00e1lcio?",
+        "answer":""
+    },
+    {
+        "qid":"0000189-9",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes da marca do Carbonato de C\u00e1lcio?",
+        "answer":""
+    },
+    {
+        "qid":"0000189-10",
+        "qtype":"brand names of combination products",
+        "question":"Quais s\u00e3o os nomes de marcas de produtos combinados de carbonato de c\u00e1lcio?",
+        "answer":""
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0000074-1",
+        "qtype":"information",
+        "question":"O que \u00e9 uma colecistite aguda?",
+        "answer":""
+    },
+    {
+        "qid":"0000074-2",
+        "qtype":"causes",
+        "question":"O que causa colecistite aguda?",
+        "answer":""
+    },
+    {
+        "qid":"0000074-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da colecistite aguda?",
+        "answer":""
+    },
+    {
+        "qid":"0000074-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a colecistite aguda?",
+        "answer":""
+    },
+    {
+        "qid":"0000074-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para colecistite aguda?",
+        "answer":""
+    },
+    {
+        "qid":"0000074-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a colecistite aguda?",
+        "answer":""
+    },
+    {
+        "qid":"0000074-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da colecistite aguda?",
+        "answer":""
+    },
+    {
+        "qid":"0000074-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para colecistite aguda?",
+        "answer":""
+    },
+    {
+        "qid":"0000074-9",
+        "qtype":"prevention",
+        "question":"Como prevenir a colecistite aguda?",
+        "answer":""
+    }
+]

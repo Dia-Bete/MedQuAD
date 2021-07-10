@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0005648-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Situs inversus?",
+        "answer":"Situs inversus \u00e9 uma condi\u00e7\u00e3o em que o arranjo dos \u00f3rg\u00e3os internos \u00e9 uma imagem espelhada da anatomia normal. Pode ocorrer sozinho (isolado, sem outras anormalidades ou condi\u00e7\u00f5es) ou pode ocorrer como parte de uma s\u00edndrome com v\u00e1rios outros defeitos. Defeitos card\u00edacos cong\u00eanitos est\u00e3o presentes em cerca de 5-10% das pessoas afetadas. A causa subjacente e a gen\u00e9tica do situs inversus s\u00e3o complexas. Casos familiares foram relatados."
+    },
+    {
+        "qid":"0005648-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas de Situs inversus?",
+        "answer":"Quais s\u00e3o os sinais e sintomas de situs inversus? Em situs inversus isolado (ocorrendo sozinho sem outras anormalidades), h\u00e1 uma transposi\u00e7\u00e3o completa da imagem espelhada dos \u00f3rg\u00e3os tor\u00e1cicos (peito) e abdominais, e simetria anterior-posterior (front-back) \u00e9 normal. Muitas pessoas afetadas n\u00e3o t\u00eam problemas de sa\u00fade associados quando a condi\u00e7\u00e3o \u00e9 isolada. Quando o situs inversus ocorre em associa\u00e7\u00e3o com outras condi\u00e7\u00f5es como s\u00edndrome de Kartagener ou discinesia ciliar prim\u00e1ria, sinais e sintomas adicionais relacionados a essas condi\u00e7\u00f5es estar\u00e3o presentes."
+    },
+    {
+        "qid":"0005648-3",
+        "qtype":"inheritance",
+        "question":"Situs inversus \u00e9 herdado?",
+        "answer":"Situs inversus \u00e9 herdado? A gen\u00e9tica do situs inversus \u00e9 complexa. V\u00e1rios casos familiares foram relatados em que a heran\u00e7a foi descrita como autoss\u00f4mica recessiva (mais comumente), autoss\u00f4mica dominante, ou ligada a X. A condi\u00e7\u00e3o parece ser geneticamente heterog\u00eanea, significando que diferentes fatores gen\u00e9ticos ou genes podem causar a condi\u00e7\u00e3o entre diferentes pessoas ou fam\u00edlias. Se situs inversus est\u00e1 associado a outra s\u00edndrome ou condi\u00e7\u00e3o subjacente, o padr\u00e3o de heran\u00e7a pode ser o mesmo que a condi\u00e7\u00e3o subjacente. Pessoas com perguntas sobre riscos gen\u00e9ticos para si mesmas ou membros da fam\u00edlia s\u00e3o encorajadas a falar com um profissional de gen\u00e9tica."
+    },
+    {
+        "qid":"0005648-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar Situs inversus?",
+        "answer":"Como \u00e9 diagnosticado o situs inversus? Um exame f\u00edsico completo, seguido de imagens radiogr\u00e1ficas do t\u00f3rax e abdome e eletrocardiografia, identificam a maioria dos casos de situs inversus. O principal desafio diagn\u00f3stico em pessoas afetadas \u00e9 a presen\u00e7a n\u00e3o-tradicional de dor referida (dolor sentida em um local diferente de sua fonte)."
+    },
+    {
+        "qid":"0005648-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Situs inversus?",
+        "answer":"Como pode situs inversus ser tratado? Em situs inversus isolado, nenhum tratamento pode ser necess\u00e1rio. Quando o situs inversus est\u00e1 associado a outra condi\u00e7\u00e3o, o tratamento pode depender da condi\u00e7\u00e3o associada e dos sinais e sintomas presentes na pessoa afetada. Saber que uma pessoa tem situs inversus \u00e9 importante para diagnosticar problemas m\u00e9dicos e prevenir acidentes cir\u00fargicos que podem resultar da falta de reconhecimento da anatomia reversa. Por exemplo, em uma pessoa com situs inversus, a apendicite causa dor no abdome inferior esquerdo em vez do abdome inferior direito. Usar identifica\u00e7\u00e3o m\u00e9dica pode ajudar a garantir o tratamento adequado em uma situa\u00e7\u00e3o m\u00e9dica de emerg\u00eancia."
+    }
+]

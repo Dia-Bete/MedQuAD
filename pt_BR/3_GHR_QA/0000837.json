@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000837-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de prote\u00edna C?",
+        "answer":"A defici\u00eancia de prote\u00edna C \u00e9 um dist\u00farbio que aumenta o risco de desenvolver co\u00e1gulos sangu\u00edneos anormais; a condi\u00e7\u00e3o pode ser leve ou grave. Indiv\u00edduos com defici\u00eancia ligeira de prote\u00edna C est\u00e3o em risco de um tipo de co\u00e1gulo sangu\u00edneo conhecido como trombose venosa profunda (TVP). Estes co\u00e1gulos ocorrem nas veias profundas dos bra\u00e7os ou pernas, longe da superf\u00edcie da pele. Uma TVP pode viajar pela corrente sangu\u00ednea e alojar-se nos pulm\u00f5es, causando um bloqueio mortal do fluxo sangu\u00edneo conhecido como embolia pulmonar (EP). Enquanto a maioria das pessoas com defici\u00eancia ligeira de prote\u00edna C nunca desenvolve co\u00e1gulos sangu\u00edneos anormais, certos fatores podem aumentar o risco de seu desenvolvimento. Esses fatores incluem aumento de idade, cirurgia, inatividade ou gravidez. Ter outra doen\u00e7a herdada de coagula\u00e7\u00e3o sangu\u00ednea al\u00e9m da defici\u00eancia de prote\u00edna C tamb\u00e9m pode influenciar o risco de coagula\u00e7\u00e3o sangu\u00ednea anormal. Em casos graves de defici\u00eancia de prote\u00edna C, os beb\u00eas desenvolvem um dist\u00farbio de coagula\u00e7\u00e3o sangu\u00ednea amea\u00e7ador de vida chamado purpura fulminans logo ap\u00f3s o nascimento. Purpura fulminans \u00e9 caracterizada pela forma\u00e7\u00e3o de co\u00e1gulos sangu\u00edneos nos pequenos vasos sangu\u00edneos em todo o corpo. Esses co\u00e1gulos bloqueiam o fluxo sangu\u00edneo normal e podem levar \u00e0 morte localizada do tecido corporal (necrose). A coagula\u00e7\u00e3o sangu\u00ednea ampla usa todas as prote\u00ednas de coagula\u00e7\u00e3o sangu\u00ednea dispon\u00edveis. Como resultado, sangramento anormal ocorre em v\u00e1rias partes do corpo, o que pode causar grandes manchas roxas na pele. Indiv\u00edduos que sobrevivem ao rec\u00e9m-nascido podem ter epis\u00f3dios recorrentes de fulminantes de p\u00farpura."
+    },
+    {
+        "qid":"0000837-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de prote\u00edna C?",
+        "answer":"A defici\u00eancia ligeira de prote\u00edna C afeta aproximadamente 1 em 500 indiv\u00edduos. A defici\u00eancia grave de prote\u00edna C \u00e9 rara e ocorre em 1 em 4 milh\u00f5es de rec\u00e9m-nascidos."
+    },
+    {
+        "qid":"0000837-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de prote\u00edna C?",
+        "answer":"A defici\u00eancia de prote\u00edna C \u00e9 causada por muta\u00e7\u00f5es no gene PROC. Este gene fornece instru\u00e7\u00f5es para fazer prote\u00edna C, que \u00e9 encontrada na corrente sangu\u00ednea e \u00e9 importante para controlar a coagula\u00e7\u00e3o sangu\u00ednea. A prote\u00edna C bloqueia a atividade de (inativa) certas prote\u00ednas que promovem a coagula\u00e7\u00e3o sangu\u00ednea. A maioria das muta\u00e7\u00f5es que causam defici\u00eancia de prote\u00edna C alteram blocos de constru\u00e7\u00e3o de prote\u00ednas \u00fanicas (amino\u00e1cidos) na prote\u00edna C, o que interrompe sua capacidade de controlar a coagula\u00e7\u00e3o sangu\u00ednea. Indiv\u00edduos com esta condi\u00e7\u00e3o n\u00e3o t\u00eam prote\u00edna C funcional suficiente para inativar prote\u00ednas coagulantes, o que resulta no risco aumentado de desenvolver co\u00e1gulos sangu\u00edneos anormais. A defici\u00eancia de prote\u00edna C pode ser dividida em tipos I e II com base em como muta\u00e7\u00f5es no gene PROC afetam a prote\u00edna C. O tipo I \u00e9 causado por muta\u00e7\u00f5es do gene PROC que resultam em n\u00edveis reduzidos de prote\u00edna C, enquanto o tipo II \u00e9 causado por muta\u00e7\u00f5es do gene PROC que resultam na produ\u00e7\u00e3o de uma prote\u00edna C alterada com atividade reduzida. Ambos os tipos de muta\u00e7\u00f5es podem ser associados com defici\u00eancia de prote\u00edna C leve ou grave; a gravidade \u00e9 determinada pelo n\u00famero de muta\u00e7\u00f5es do gene PROC que um indiv\u00edduo tem."
+    },
+    {
+        "qid":"0000837-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de prote\u00edna C \u00e9 herdada?",
+        "answer":"A defici\u00eancia de prote\u00edna C \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia alterada do gene PROC em cada c\u00e9lula \u00e9 suficiente para causar defici\u00eancia de prote\u00edna C leve. Indiv\u00edduos que herdam duas c\u00f3pias alteradas deste gene em cada c\u00e9lula t\u00eam defici\u00eancia grave de prote\u00edna C."
+    },
+    {
+        "qid":"0000837-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a defici\u00eancia de prote\u00edna C?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da defici\u00eancia de prote\u00edna C: - Registro de Testes Gen\u00e9ticos: Trombofilia, heredit\u00e1ria, devido \u00e0 defici\u00eancia de prote\u00edna C, autoss\u00f4mica dominante - MedlinePlus Enciclopedia: Defici\u00eancia Cong\u00eanita de Prote\u00edna C ou S - MedlinePlus Enciclopedia: Necrose - MedlinePlus Enciclopedia: Prote\u00edna C - MedlinePlus Enciclop\u00e9dia: Purpura Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o gerenciamento de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

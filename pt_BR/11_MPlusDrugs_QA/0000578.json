@@ -1,0 +1,44 @@
+[
+    {
+        "qid":"0000578-1",
+        "qtype":"information",
+        "question":"Qual \u00e9 a vacina contra o Papilomav\u00edrus Humano (HPV)?",
+        "answer":""
+    },
+    {
+        "qid":"0000578-2",
+        "qtype":"why get vaccinated",
+        "question":"Por que ser vacinado com vacina contra o Papilomav\u00edrus Humano (VPH) (Cervarix)?",
+        "answer":""
+    },
+    {
+        "qid":"0000578-3",
+        "qtype":"indication",
+        "question":"Quem deveria receber a vacina contra o Papilomav\u00edrus Humano (HPV) (Cervarix) e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000578-5",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da vacina contra o Papilomav\u00edrus Humano (VPH)?",
+        "answer":""
+    },
+    {
+        "qid":"0000578-6",
+        "qtype":"severe reaction",
+        "question":"O que fazer em caso de rea\u00e7\u00e3o grave \u00e0 vacina contra o v\u00edrus do papiloma humano (VPH) (cervarix)?",
+        "answer":""
+    },
+    {
+        "qid":"0000578-8",
+        "qtype":"how can i learn more",
+        "question":"Como posso aprender mais sobre a vacina contra o Papilomav\u00edrus Humano (VPH)?",
+        "answer":""
+    },
+    {
+        "qid":"0000578-9",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca da vacina contra o Papilomav\u00edrus Humano (HPV) (Cervarix)?",
+        "answer":""
+    }
+]

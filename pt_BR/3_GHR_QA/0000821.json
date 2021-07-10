@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000821-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) hiperoxaluria prim\u00e1ria?",
+        "answer":"Hiperoxal\u00faria prim\u00e1ria \u00e9 uma condi\u00e7\u00e3o rara caracterizada por c\u00e1lculos recorrentes de rins e bexiga. A condi\u00e7\u00e3o muitas vezes resulta em doen\u00e7a renal em est\u00e1gio final (ESRD), que \u00e9 uma condi\u00e7\u00e3o que amea\u00e7a a vida que impede os rins de filtrar fluidos e res\u00edduos do corpo efetivamente. A hiperoxaluria prim\u00e1ria resulta da sobreprodu\u00e7\u00e3o de uma subst\u00e2ncia chamada oxalato. O oxalato \u00e9 filtrado atrav\u00e9s dos rins e excretado como produto de desperd\u00edcio na urina, levando a n\u00edveis anormalmente elevados desta subst\u00e2ncia na urina (hiperoxaluria). Durante sua excre\u00e7\u00e3o, oxalato pode combinar com c\u00e1lcio para formar oxalato de c\u00e1lcio, um composto duro que \u00e9 o principal componente de c\u00e1lculos renais e bexiga. Dep\u00f3sitos de oxalato de c\u00e1lcio podem danificar os rins e outros \u00f3rg\u00e3os e levar a sangue na urina (hematr\u00eda), infec\u00e7\u00f5es do trato urin\u00e1rio, danos nos rins, ERS, e les\u00f5es em outros \u00f3rg\u00e3os. Com o tempo, a fun\u00e7\u00e3o renal diminui de tal forma que os rins n\u00e3o podem mais excretar tanto oxalato quanto recebem. Como resultado, os n\u00edveis de oxalato no aumento do sangue, e a subst\u00e2ncia se deposita em tecidos em todo o corpo (oxalose sist\u00e9mica), particularmente nos ossos e nas paredes dos vasos sangu\u00edneos. A oxalose nos ossos pode causar fraturas. H\u00e1 tr\u00eas tipos de hiperoxal\u00faria prim\u00e1ria que diferem em sua gravidade e causa gen\u00e9tica. Na hiperoxal\u00faria prim\u00e1ria tipo 1, os c\u00e1lculos renais normalmente come\u00e7am a aparecer a qualquer hora da inf\u00e2ncia at\u00e9 a idade adulta, e o ESRD pode se desenvolver a qualquer idade. A hiperoxal\u00faria prim\u00e1ria tipo 2 \u00e9 semelhante ao tipo 1, mas o ESRD se desenvolve mais tarde na vida. Na hiperoxal\u00faria prim\u00e1ria tipo 3, indiv\u00edduos afetados muitas vezes desenvolvem c\u00e1lculos renais na inf\u00e2ncia, mas poucos casos deste tipo foram descritos para que sinais e sintomas adicionais desse tipo n\u00e3o sejam claros."
+    },
+    {
+        "qid":"0000821-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela hiperoxal\u00faria prim\u00e1ria?",
+        "answer":"Estima-se que a hiperoxal\u00faria prim\u00e1ria afete 1 em 58.000 indiv\u00edduos em todo o mundo. Tipo 1 \u00e9 a forma mais comum, representando cerca de 80% dos casos. Tipos 2 e 3 cada contam com cerca de 10% dos casos."
+    },
+    {
+        "qid":"0000821-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 hiperoxal\u00faria prim\u00e1ria?",
+        "answer":"Muta\u00e7\u00f5es nos genes AGXT, GRHPR e HOGA1 causam hiperoxaluria prim\u00e1ria tipos 1, 2 e 3, respectivamente. Esses genes fornecem instru\u00e7\u00f5es para fazer enzimas que est\u00e3o envolvidas na degrada\u00e7\u00e3o e processamento de blocos de constru\u00e7\u00e3o de prote\u00ednas (amino\u00e1cidos) e outros compostos. A enzima produzida a partir do gene HOGA1 est\u00e1 envolvida na degrada\u00e7\u00e3o de um amino\u00e1cido, o que resulta na forma\u00e7\u00e3o de um composto chamado glioxilato. Este composto \u00e9 ainda mais decomposto pelas enzimas produzidas a partir dos genes AGXT e GRHPR. Muta\u00e7\u00f5es no gene AGXT, GRHPR ou HOGA1 levam a uma diminui\u00e7\u00e3o na produ\u00e7\u00e3o ou atividade das respectivas prote\u00ednas, o que impede a quebra normal do glioxilato. Muta\u00e7\u00f5es de genes AGXT e GRHPR resultam em um ac\u00famulo de glioxilato, que \u00e9 ent\u00e3o convertido em oxalato para remo\u00e7\u00e3o do corpo como produto de desperd\u00edcio. Muta\u00e7\u00f5es do gene HOGA1 tamb\u00e9m resultam em excesso de oxalato, embora os pesquisadores n\u00e3o tenham certeza de como isso ocorre. Oxalato que n\u00e3o \u00e9 excretado do corpo combina-se com c\u00e1lcio para formar dep\u00f3sitos de oxalato de c\u00e1lcio, que podem danificar os rins e outros \u00f3rg\u00e3os."
+    },
+    {
+        "qid":"0000821-4",
+        "qtype":"inheritance",
+        "question":"A hiperoxal\u00faria prim\u00e1ria \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000821-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para hiperoxaluria prim\u00e1ria?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da hiperoxaluria prim\u00e1ria: - Revis\u00e3o gen\u00e9tica: Revis\u00e3o gen\u00e9tica: Hiperoxaluria Prim\u00e1ria Tipo 1 - Revis\u00e3o gen\u00e9tica: Revis\u00e3o gen\u00e9tica: Hiperoxaluria Prim\u00e1ria Tipo 2 - Revis\u00e3o gen\u00e9tica: Revis\u00e3o gen\u00e9tica: Hiperoxaluria Prim\u00e1ria Tipo 3 - Registo de Testes Gen\u00e9ticos: Hiperoxaluria - Registo de Testes Gen\u00e9ticos: Hiperoxaluria Prim\u00e1ria Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento gen\u00e9tico - Cuidados Paliativos"
+    }
+]

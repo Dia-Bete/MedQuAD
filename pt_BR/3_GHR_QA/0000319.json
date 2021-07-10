@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000319-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) nevo epid\u00e9rmico?",
+        "answer":"Um nevo epid\u00e9rmico (plural: nevi) \u00e9 uma mancha de pele anormal, n\u00e3o cancerosa (ben\u00edgna) causada por um crescimento excessivo de c\u00e9lulas cut\u00e2neas. Os nevos epid\u00e9rmicos s\u00e3o normalmente vistos no nascimento ou se desenvolvem na inf\u00e2ncia. Podem ser manchas planas, bronzeadas de pele ou levantadas, manchas aveludadas. \u00c0 medida que o indiv\u00edduo afetado envelhece, o nevus pode tornar-se mais espesso e escuro e desenvolver uma apar\u00eancia de verruga (verrucos). Muitas vezes, os nevos epid\u00e9rmicos seguem um padr\u00e3o na pele conhecido como as linhas de Blaschko. As linhas de Blaschko, que s\u00e3o invis\u00edveis na pele, s\u00e3o pensadas para seguir os caminhos ao longo dos quais as c\u00e9lulas migram conforme a pele se desenvolve antes do nascimento. H\u00e1 v\u00e1rios tipos de nevi epid\u00e9rmicos que s\u00e3o definidos em parte pelo tipo de c\u00e9lula de pele envolvida. A epiderme \u00e9 a camada mais externa da pele e \u00e9 composta principalmente de um tipo espec\u00edfico de c\u00e9lula chamado queratin\u00f3cito. Um grupo de nevos epid\u00e9rmicos, chamados de nevos epid\u00e9rmicos queratinoc\u00edticos ou n\u00e3o-org\u00e2nicos, inclui nevos que envolvem apenas queratin\u00f3citos. Outros tipos de nevos epid\u00e9rmicos envolvem outros tipos de c\u00e9lulas epid\u00e9rmicas, como as c\u00e9lulas que comp\u00f5em os fol\u00edculos capilares ou as gl\u00e2ndulas seb\u00e1ceas (gl\u00e2ndulas na pele que produzem uma subst\u00e2ncia que protege a pele e o cabelo). Esses nevos comp\u00f5em um grupo chamado nevos organoides epid\u00e9rmicos. Alguns indiv\u00edduos afetados t\u00eam apenas um nevo epid\u00e9rmico e nenhuma outra anormalidade. No entanto, \u00e0s vezes pessoas com um nevo epid\u00e9rmico tamb\u00e9m t\u00eam problemas em outros sistemas corporais, como o c\u00e9rebro, olhos ou ossos. Nesses casos, o indiv\u00edduo afetado tem uma condi\u00e7\u00e3o chamada s\u00edndrome de nevo epid\u00e9rmica. H\u00e1 v\u00e1rias s\u00edndromes do nevo epid\u00e9rmico caracterizadas pelo tipo de nevo epid\u00e9rmico envolvido."
+    },
+    {
+        "qid":"0000319-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pelo nevo epid\u00e9rmico?",
+        "answer":"Nevos epid\u00e9rmicos afetam aproximadamente 1 em cada 1.000 pessoas."
+    },
+    {
+        "qid":"0000319-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas ao nevo epid\u00e9rmico?",
+        "answer":"Muta\u00e7\u00f5es no gene FGFR3 foram encontradas em aproximadamente 30% das pessoas com um tipo de nevus no grupo de nevi epid\u00e9rmico queratinoc\u00edtico. As muta\u00e7\u00f5es gen\u00e9ticas envolvidas na maioria dos nevos epid\u00e9rmicos s\u00e3o desconhecidas. Muta\u00e7\u00f5es associadas a um nevo epid\u00e9rmico s\u00f3 est\u00e3o presentes nas c\u00e9lulas do nevo, n\u00e3o nas c\u00e9lulas cut\u00e2neas normais ao seu redor. Porque a muta\u00e7\u00e3o \u00e9 encontrada em algumas c\u00e9lulas do corpo, mas n\u00e3o em outras, pessoas com um nevo epid\u00e9rmico dizem ser mosaico para a muta\u00e7\u00e3o. O gene FGFR3 fornece instru\u00e7\u00f5es para a prote\u00edna do receptor 3 do fator de crescimento do fibroblasto (FGFR3). Esta prote\u00edna est\u00e1 envolvida em v\u00e1rios processos celulares importantes, incluindo a regula\u00e7\u00e3o do crescimento e divis\u00e3o das c\u00e9lulas da pele. A prote\u00edna FGFR3 interage com fatores espec\u00edficos de crescimento fora da c\u00e9lula para receber sinais que controlam o crescimento e desenvolvimento. Quando esses fatores de crescimento se ligam \u00e0 prote\u00edna FGFR3, a prote\u00edna \u00e9 ligada (ativada), o que desencadeia uma cascata de rea\u00e7\u00f5es qu\u00edmicas dentro da c\u00e9lula que controlam o crescimento e outras fun\u00e7\u00f5es celulares. A muta\u00e7\u00e3o mais comum do gene FGFR3 em nevi epid\u00e9rmico cria uma prote\u00edna que \u00e9 ligada sem a liga\u00e7\u00e3o de um fator de crescimento, o que significa que a prote\u00edna FGFR3 \u00e9 constantemente ativa. C\u00e9lulas com um gene mutado FGFR3 crescem e dividem mais do que c\u00e9lulas normais. Al\u00e9m disso, essas c\u00e9lulas mutadas n\u00e3o sofrem uma forma de autodestrui\u00e7\u00e3o chamada apoptose t\u00e3o facilmente como c\u00e9lulas normais. Estes efeitos resultam em crescimento excessivo de c\u00e9lulas da pele, levando a nevi epid\u00e9rmica."
+    },
+    {
+        "qid":"0000319-4",
+        "qtype":"inheritance",
+        "question":"O nevo epid\u00e9rmico \u00e9 herdado?",
+        "answer":"Essa condi\u00e7\u00e3o geralmente n\u00e3o \u00e9 herdada, mas surge de muta\u00e7\u00f5es nas c\u00e9lulas do corpo que ocorrem ap\u00f3s a concep\u00e7\u00e3o. Esta altera\u00e7\u00e3o \u00e9 chamada muta\u00e7\u00e3o som\u00e1tica. Ocasionalmente, a muta\u00e7\u00e3o som\u00e1tica ocorre nas c\u00e9lulas reprodutivas de uma pessoa (esperma ou ovos) e \u00e9 passada para a pr\u00f3xima gera\u00e7\u00e3o. Uma muta\u00e7\u00e3o heredit\u00e1ria do gene FGFR3 \u00e9 encontrada em todas as c\u00e9lulas do corpo, o que resulta em anormalidades esquel\u00e9ticas ao inv\u00e9s de nevus epid\u00e9rmico."
+    },
+    {
+        "qid":"0000319-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o nevo epid\u00e9rmico?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo de nevus epid\u00e9rmicos: - Registro de Testes Gen\u00e9ticos: Nevus epid\u00e9rmicos Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

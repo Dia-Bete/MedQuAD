@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0002442-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a alop\u00e9cia fibrosa frontal?",
+        "answer":"A alop\u00e9cia fibrosante frontal (FFA) \u00e9 uma forma de l\u00edquen planus follicularis que \u00e9 caracterizada principalmente pela perda progressiva de cabelo (alop\u00e9cia) e cicatrizes no couro cabeludo perto da testa. Em alguns casos, as sobrancelhas, as chicotadas dos olhos e/ou outras partes do corpo tamb\u00e9m podem estar envolvidas. Embora tenha sido sugerido que FFA pode ser devido a altera\u00e7\u00f5es hormonais ou uma resposta autoimune, a causa exata desta condi\u00e7\u00e3o ainda n\u00e3o \u00e9 conhecida. Atualmente n\u00e3o h\u00e1 cura para FFA; no entanto, o tratamento com certos tipos de medicamentos pode parar ou diminuir a perda de cabelo em alguns casos."
+    },
+    {
+        "qid":"0002442-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da alop\u00e9cia fibrosante frontal?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da alop\u00e9cia fibrosante frontal? A alop\u00e9cia fibrosante frontal (FFA) \u00e9 caracterizada principalmente por perda de cabelo (alop\u00e9cia) e cicatrizes no couro cabeludo perto da testa. A faixa de perda de cabelo na frente e nos lados do couro cabeludo \u00e9 geralmente sim\u00e9trica e lentamente progressiva (peor com o tempo). A pele na \u00e1rea afetada muitas vezes parece normal, mas pode ser p\u00e1lida, brilhante ou levemente cicatrizada. Aproximadamente metade das pessoas afetadas tamb\u00e9m sofrem perda de sobrancelhas. Menos comumente, os c\u00edlios tamb\u00e9m podem estar envolvidos. Algumas pessoas com FFA desenvolvem perda de cabelo em \u00e1reas que n\u00e3o o couro cabeludo e o rosto. Em alguns casos, as mulheres com FFA tamb\u00e9m t\u00eam perda de cabelo padr\u00e3o feminino, o que est\u00e1 associado com o adelgazamento do cabelo no couro cabeludo devido ao aumento da despeje de cabelo e/ou uma redu\u00e7\u00e3o no volume de cabelo."
+    },
+    {
+        "qid":"0002442-3",
+        "qtype":"causes",
+        "question":"O que causa alop\u00e9cia fibrosante frontal?",
+        "answer":"O que causa alop\u00e9cia fibrosante frontal? A exata causa subjacente da alopecia fibrosante frontal (FFA) \u00e9 desconhecida. A FFA \u00e9 considerada uma condi\u00e7\u00e3o autoimune em que o sistema imunol\u00f3gico de uma pessoa afetada ataca erroneamente os fol\u00edculos capilares (estruturas na pele que fazem o cabelo). Cientistas tamb\u00e9m suspeitam que pode haver um componente hormonal, j\u00e1 que a condi\u00e7\u00e3o mais comumente afeta mulheres p\u00f3s-menop\u00e1usicas com mais de 50 anos."
+    },
+    {
+        "qid":"0002442-4",
+        "qtype":"inheritance",
+        "question":"A alop\u00e9cia fibrosante frontal \u00e9 herdada?",
+        "answer":"A alop\u00e9cia fibrosante frontal \u00e9 herdada? A alop\u00e9cia fibrosante frontal n\u00e3o seria herdada na maioria dos casos. Raramente afeta mais de uma pessoa em uma fam\u00edlia."
+    },
+    {
+        "qid":"0002442-5",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar alop\u00e9cia fibrosante frontal?",
+        "answer":"Como \u00e9 diagnosticada alop\u00e9cia fibrosante frontal? A alop\u00e9cia fibrosante frontal \u00e9 frequentemente suspeita com base na presen\u00e7a de sinais e sintomas caracter\u00edsticos. O diagn\u00f3stico pode ser confirmado examinando uma pequena amostra de pele (bi\u00f3psia de pele) da \u00e1rea afetada. Em alguns casos, estudos laboratoriais podem ser ordenados para descartar outras condi\u00e7\u00f5es que causam caracter\u00edsticas semelhantes."
+    },
+    {
+        "qid":"0002442-6",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para alop\u00e9cia fibrosante frontal?",
+        "answer":"Como a alop\u00e9cia fibrosante frontal pode ser tratada? Infelizmente, atualmente n\u00e3o h\u00e1 cura para alop\u00e9cia fibrosante frontal (FFA). Como a perda de cabelo associada a esta condi\u00e7\u00e3o \u00e9 considerada ser causada pela inflama\u00e7\u00e3o dos fol\u00edculos capilares, o tratamento muitas vezes envolve o uso de medicamentos anti-inflamat\u00f3rios ou pomadas, como corticosteroides ou hidroxicloroquina (marca Plaquenil), para reduzir a inflama\u00e7\u00e3o e suprimir o sistema imunol\u00f3gico do corpo. Medicamentos que bloqueiam a produ\u00e7\u00e3o do horm\u00f4nio masculino 5-alfa-reductase t\u00eam sido relatados para parar a perda de cabelo em algumas mulheres. Pesquisadores continuam questionando se o tratamento \u00e9 eficaz ou se a perda de cabelo na FFA para naturalmente."
+    }
+]

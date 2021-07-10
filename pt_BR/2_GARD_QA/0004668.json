@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0004668-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Paquig\u00edria?",
+        "answer":"Paquig\u00edria \u00e9 uma condi\u00e7\u00e3o de desenvolvimento devido \u00e0 migra\u00e7\u00e3o anormal de c\u00e9lulas nervosas (neur\u00f4nios) no c\u00e9rebro e sistema nervoso em desenvolvimento. Com a paquig\u00edria, h\u00e1 poucos gyri (os cumes entre as rugas no c\u00e9rebro), e geralmente s\u00e3o largos e planos. A condi\u00e7\u00e3o tamb\u00e9m \u00e9 conhecida como \"lissenc\u00e9falia incompleta\". Paquig\u00edria pode ocorrer sozinho (isolado) ou como parte de v\u00e1rias s\u00edndromes subjacentes. Os sintomas variam entre as pessoas afetadas e podem incluir atraso no desenvolvimento moderado a grave, convuls\u00f5es, t\u00f4nus muscular ruim e controle, dificuldades de alimenta\u00e7\u00e3o ou degluti\u00e7\u00e3o, e pequeno tamanho da cabe\u00e7a (microcefalia). Na maioria dos casos n\u00e3o \u00e9 herdado, mas v\u00e1rios padr\u00f5es de heran\u00e7a foram relatados. O tratamento \u00e9 sintom\u00e1tico e de apoio."
+    },
+    {
+        "qid":"0004668-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da Paquig\u00edria?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da paquig\u00edria? Os sinais e sintomas da paquig\u00edria variam entre as pessoas afetadas e podem depender da extens\u00e3o da anormalidade. Eles muitas vezes incluem tom muscular ruim e fun\u00e7\u00e3o motora; convuls\u00f5es; atrasos no desenvolvimento; defici\u00eancia intelectual; falha em crescer e prosperar; dificuldades com a alimenta\u00e7\u00e3o ou degluti\u00e7\u00e3o; incha\u00e7o nas extremidades; e pequeno tamanho da cabe\u00e7a (microcefalia). A maioria das crian\u00e7as parece fisicamente normal, mas algumas condi\u00e7\u00f5es associadas \u00e0 paquig\u00edria causam caracter\u00edsticas faciais ou cr\u00e2nio distintivos."
+    },
+    {
+        "qid":"0004668-3",
+        "qtype":"causes",
+        "question":"O que causa Paquig\u00edria?",
+        "answer":"O que causa paquig\u00edria? Paquig\u00edria, tamb\u00e9m chamada de \"lissenc\u00e9falia incompleta\", pode ser causada por v\u00e1rios fatores n\u00e3o gen\u00e9ticos (ambientais) e gen\u00e9ticos que desempenham um papel no comprometimento do desenvolvimento da regi\u00e3o externa do c\u00e9rebro (o c\u00f3rtex cerebral). O c\u00f3rtex cerebral \u00e9 respons\u00e1vel pelo movimento e pensamento conscientes, e deve ter profundas convolu\u00e7\u00f5es (gyri) e sulcos (sulci), que s\u00e3o formados por \"indobramento\" do c\u00f3rtex cerebral. Durante o crescimento embrion\u00e1rio normal, c\u00e9lulas imaturos que mais tarde se desenvolvem em c\u00e9lulas nervosas especializadas (neur\u00f5es) normalmente migram para a superf\u00edcie do c\u00e9rebro, fazendo v\u00e1rias camadas de c\u00e9lulas. Quando este processo \u00e9 prejudicado, as c\u00e9lulas n\u00e3o migram para seus locais, resultando em poucas camadas celulares e aus\u00eancia (agiria) ou desenvolvimento incompleto (paquig\u00edria) de gyri. Fatores ambientais que contribuem para a condi\u00e7\u00e3o podem incluir infec\u00e7\u00e3o intrauterina durante a gravidez (como um v\u00edrus), e fluxo insuficiente de sangue oxigenado para o c\u00e9rebro (ischemia) durante o desenvolvimento fetal. Mais de 25 s\u00edndromes devido \u00e0 migra\u00e7\u00e3o anormal de neur\u00f4nios foram relatadas; em alguns desses casos, a causa gen\u00e9tica e o padr\u00e3o de heran\u00e7a dependem da s\u00edndrome espec\u00edfica. Muta\u00e7\u00f5es em v\u00e1rios genes foram identificadas em pessoas com anormalidades do desenvolvimento cortical, incluindo os genes KIF5C, KIF2A, DYNC1H1, WDR62 e TUBG1. Estudos tamb\u00e9m descobriram que a lissencefalia isolada pode resultar de muta\u00e7\u00f5es nos genes LIS1 e XLIS (tamb\u00e9m chamados DCX). As pessoas interessadas em aprender sobre a causa da paquig\u00edria em si mesmas ou familiares devem falar com seu m\u00e9dico ou um profissional de gen\u00e9tica."
+    },
+    {
+        "qid":"0004668-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Paquig\u00edria?",
+        "answer":"Como a paquig\u00edria pode ser tratada? Como os sintomas da condi\u00e7\u00e3o variam de pessoa para pessoa, o tratamento \u00e9 sintom\u00e1tico, e pode incluir medica\u00e7\u00e3o anticonvulsiva, como Trileptal, e educa\u00e7\u00e3o especial ou suplementar consistindo em terapias f\u00edsicas, ocupacionais e fonoaudiol\u00f3gicas."
+    }
+]

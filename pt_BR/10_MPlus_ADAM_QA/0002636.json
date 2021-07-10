@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0002636-1",
+        "qtype":"information",
+        "question":"O que \u00e9 S\u00edndrome Respirat\u00f3ria do Oriente M\u00e9dio (MERS)?",
+        "answer":""
+    },
+    {
+        "qid":"0002636-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da S\u00edndrome Respirat\u00f3ria do Oriente M\u00e9dio (MERS)?",
+        "answer":""
+    },
+    {
+        "qid":"0002636-4",
+        "qtype":"prevention",
+        "question":"Como prevenir a S\u00edndrome Respirat\u00f3ria do Oriente M\u00e9dio (MERS)?",
+        "answer":""
+    }
+]

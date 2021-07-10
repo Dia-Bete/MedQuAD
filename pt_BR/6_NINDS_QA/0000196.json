@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000196-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Miopatia Mitocondrial?",
+        "answer":"Miopatias mitocondriais s\u00e3o um grupo de doen\u00e7as neuromusculares causadas por danos \u00e0s pequenas estruturas mitocondriais, produzidoras de energia que servem como \"centrales de energia\" das c\u00e9lulas. C\u00e9lulas nervosas no c\u00e9rebro e m\u00fasculos requerem muita energia, e assim parecem ser particularmente danificadas quando ocorre disfun\u00e7\u00e3o mitocondrial. Algumas das miopatias mitocondriais mais comuns incluem s\u00edndrome de Kearns-Sayre, epilepsia mioclonus com fibras vermelhas raggadas, e encefalomiopatia mitocondrial com acidose l\u00e1ctica e epis\u00f3dios tipo AVC. Os sintomas das miopatias mitocondriais incluem fraqueza muscular ou intoler\u00e2ncia ao exerc\u00edcio, insufici\u00eancia card\u00edaca ou dist\u00farbios do ritmo, dem\u00eancia, dist\u00farbios do movimento, epis\u00f3dios tipo acidente vascular cerebral, surdez, cegueira, p\u00e1lpebras ca\u00eddas, mobilidade limitada dos olhos, v\u00f4mitos e convuls\u00f5es. O progn\u00f3stico desses dist\u00farbios varia em gravidade desde fraqueza progressiva at\u00e9 morte. A maioria das miopatias mitocondriais ocorrem antes dos 20 anos, e muitas vezes come\u00e7am com intoler\u00e2ncia ao exerc\u00edcio ou fraqueza muscular. Durante a atividade f\u00edsica, os m\u00fasculos podem ficar facilmente fadigados ou fracos. C\u00e3ibras musculares s\u00e3o raras, mas podem ocorrer. N\u00e1useas, dores de cabe\u00e7a e falta de ar tamb\u00e9m est\u00e3o associadas a estes dist\u00farbios."
+    },
+    {
+        "qid":"0000196-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a miopatia mitocondrial?",
+        "answer":"Embora n\u00e3o haja tratamento espec\u00edfico para nenhuma das miopatias mitocondriais, a fisioterapia pode ampliar o alcance do movimento dos m\u00fasculos e melhorar a destreza. Terapias vitam\u00ednicas como riboflavina, coenzima Q, e carnitina (um amino\u00e1cido especializado) podem fornecer melhoria subjetiva na fadiga e n\u00edveis de energia em alguns pacientes."
+    },
+    {
+        "qid":"0000196-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva da miopatia mitocondrial?",
+        "answer":"O progn\u00f3stico para pacientes com miopatias mitocondriais varia muito, dependendo em grande parte do tipo de doen\u00e7a e do grau de envolvimento de v\u00e1rios \u00f3rg\u00e3os. Esses dist\u00farbios causam fraqueza progressiva e podem levar \u00e0 morte."
+    },
+    {
+        "qid":"0000196-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a miopatia mitocondrial?",
+        "answer":"O NINDS conduz e apoia pesquisas sobre miopatias mitocondriais. Os objetivos desta pesquisa s\u00e3o aumentar a compreens\u00e3o cient\u00edfica desses dist\u00farbios e encontrar maneiras de trat\u00e1-los, prevenir ou potencialmente cur\u00e1-los."
+    }
+]

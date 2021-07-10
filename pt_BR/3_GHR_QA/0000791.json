@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000791-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Pfeiffer?",
+        "answer":"A s\u00edndrome de Pfeiffer \u00e9 uma desordem gen\u00e9tica caracterizada pela fus\u00e3o prematura de certos ossos do cr\u00e2nio (craniosinostose). Esta fus\u00e3o precoce impede que o cr\u00e2nio cres\u00e7a normalmente e afeta a forma da cabe\u00e7a e do rosto. A s\u00edndrome de Pfeiffer tamb\u00e9m afeta ossos nas m\u00e3os e p\u00e9s. Muitas das caracter\u00edsticas faciais da s\u00edndrome de Pfeiffer resultam da fus\u00e3o prematura dos ossos do cr\u00e2nio. O crescimento anormal desses ossos leva a olhos abultados e amplos, uma testa alta, uma mand\u00edbula superior subdesenvolvida, e um nariz bico. Mais da metade de todas as crian\u00e7as com s\u00edndrome de Pfeiffer t\u00eam perda auditiva, problemas dent\u00e1rios tamb\u00e9m s\u00e3o comuns. Em pessoas com s\u00edndrome de Pfeiffer, os polegares e os primeiros (grandes) dedos dos p\u00e9s s\u00e3o largos e dobrem-se dos outros d\u00edgitos. Os dedos curtos e os dedos do p\u00e9 (braquidactilia) s\u00e3o tamb\u00e9m comuns, e pode haver alguma cintura ou fus\u00e3o entre os d\u00edgitos (sindactilia). A s\u00edndrome de Pfeiffer \u00e9 dividida em tr\u00eas subtipos. Tipo 1, tamb\u00e9m conhecido como s\u00edndrome cl\u00e1ssica de Pfeiffer, tem sintomas como descrito acima. A maioria dos indiv\u00edduos com s\u00edndrome de Pfeiffer tipo 1 tem intelig\u00eancia normal e dura\u00e7\u00e3o de vida normal. Os tipos 2 e 3 s\u00e3o formas mais graves da s\u00edndrome de Pfeiffer que muitas vezes envolvem problemas com o sistema nervoso. A fus\u00e3o prematura dos ossos do cr\u00e2nio pode limitar o crescimento cerebral, levando a atrasos no desenvolvimento e outros problemas neurol\u00f3gicos. O tipo 2 \u00e9 distinto do tipo 3 pela presen\u00e7a de uma cabe\u00e7a em forma de tr\u00e9bol, que \u00e9 causada por uma fus\u00e3o mais extensa de ossos no cr\u00e2nio."
+    },
+    {
+        "qid":"0000791-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Pfeiffer?",
+        "answer":"A s\u00edndrome de Pfeiffer afeta cerca de 1 em 100 mil indiv\u00edduos."
+    },
+    {
+        "qid":"0000791-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Pfeiffer?",
+        "answer":"A s\u00edndrome de Pfeiffer resulta de muta\u00e7\u00f5es no gene FGFR1 ou FGFR2. Esses genes fornecem instru\u00e7\u00f5es para fazer prote\u00ednas conhecidas como receptores de crescimento de fibroblastos 1 e 2. Entre suas m\u00faltiplas fun\u00e7\u00f5es, essas prote\u00ednas sinalizam c\u00e9lulas imaturos para se tornarem c\u00e9lulas \u00f3sseas durante o desenvolvimento embrion\u00e1rio. Uma muta\u00e7\u00e3o no gene FGFR1 ou FGFR2 altera a fun\u00e7\u00e3o proteica e causa sinais prolongados, o que pode promover a fus\u00e3o prematura dos ossos do cr\u00e2nio e afetar o desenvolvimento dos ossos nas m\u00e3os e p\u00e9s. A s\u00edndrome de Pfeiffer tipo 1 \u00e9 causada por muta\u00e7\u00f5es no gene FGFR1 ou FGFR2. Os tipos 2 e 3 s\u00e3o causados por muta\u00e7\u00f5es no gene FGFR2, e n\u00e3o foram associados com altera\u00e7\u00f5es no gene FGFR1."
+    },
+    {
+        "qid":"0000791-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Pfeiffer \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000791-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Pfeiffer?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Pfeiffer: - Gene Review: Gene Review: FGFR-Related Craniosynostose Syndromes - Genetic Testing Registry: Pfeiffer syndrome - MedlinePlus Enciclopedia: Craniosynostose - MedlinePlus Enciclop\u00e9dia: Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

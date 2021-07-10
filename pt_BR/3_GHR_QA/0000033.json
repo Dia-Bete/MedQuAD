@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000033-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) dist\u00farbio cong\u00eanito de ALG12 da glicosila\u00e7\u00e3o?",
+        "answer":"O dist\u00farbio cong\u00eanito da glicosila\u00e7\u00e3o (ALG12-CDG, tamb\u00e9m conhecido como dist\u00farbio cong\u00eanito da glicosila\u00e7\u00e3o tipo Ig) \u00e9 um dist\u00farbio herdado com sinais e sintomas variados que podem afetar v\u00e1rios sistemas corporais. Indiv\u00edduos com ALG12-CDG normalmente desenvolvem sinais e sintomas da condi\u00e7\u00e3o durante a inf\u00e2ncia. Eles podem ter problemas de alimenta\u00e7\u00e3o e dificuldade em crescer e ganhar peso \u00e0 taxa esperada (n\u00e3o prosperar). Al\u00e9m disso, indiv\u00edduos afetados muitas vezes t\u00eam defici\u00eancia intelectual, atraso no desenvolvimento, e t\u00f4nus muscular fraco (hipot\u00f4nia), e alguns desenvolvem convuls\u00f5es. Algumas pessoas com ALG12-CDG t\u00eam anormalidades f\u00edsicas como um pequeno tamanho da cabe\u00e7a (microcefalia) e caracter\u00edsticas faciais incomuns. Essas caracter\u00edsticas podem incluir dobras de pele que cobrem os cantos internos dos olhos (dobras epicantes), uma ponte nasal proeminente, e orelhas anormalmente moldadas. Alguns homens com ALG12-CDG t\u00eam genitais anormais, como um pequeno p\u00eanis (microp\u00e9nis) e test\u00edculos n\u00e3o descendentes. Pessoas com ALG12-CDG muitas vezes produzem n\u00edveis anormalmente baixos de prote\u00ednas chamadas anticorpos (ou imunoglobulinas), particularmente imunoglobulina G (IgG). Anticorpos ajudam a proteger o corpo contra infec\u00e7\u00f5es ligando-se a part\u00edculas e germes estranhos espec\u00edficos, marcando-os para destrui\u00e7\u00e3o. Uma redu\u00e7\u00e3o de anticorpos pode dificultar a luta contra infec\u00e7\u00f5es. As anormalidades menos comuns observadas em pessoas com ALG12-CDG incluem um m\u00fasculo card\u00edaco enfraquecido (cardiomiopatia) e desenvolvimento \u00f3sseo ruim, o que pode levar a anormalidades esquel\u00e9ticas."
+    },
+    {
+        "qid":"0000033-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pelo dist\u00farbio cong\u00eanito de ALG12 da glicosila\u00e7\u00e3o?",
+        "answer":"ALG12-CDG \u00e9 uma condi\u00e7\u00e3o rara; sua preval\u00eancia \u00e9 desconhecida. Apenas um punhado de indiv\u00edduos afetados foram descritos na literatura m\u00e9dica."
+    },
+    {
+        "qid":"0000033-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas ao dist\u00farbio cong\u00eanito ALG12 da glicosila\u00e7\u00e3o?",
+        "answer":"Muta\u00e7\u00f5es no gene ALG12 causam ALG12-CDG. Este gene fornece instru\u00e7\u00f5es para fazer uma enzima que est\u00e1 envolvida num processo chamado glicosila\u00e7\u00e3o. Durante este processo, cadeias complexas de mol\u00e9culas de a\u00e7\u00facar (oligosac\u00e1ridos) s\u00e3o adicionadas a prote\u00ednas e gorduras (l\u00edpidos). A glicosila\u00e7\u00e3o modifica prote\u00ednas e lip\u00eddios para que possam desempenhar plenamente suas fun\u00e7\u00f5es. A enzima produzida a partir do gene ALG12 transfere um a\u00e7\u00facar simples chamado mannose para o oligosac\u00e1ridos em crescimento em um determinado passo na forma\u00e7\u00e3o da cadeia de a\u00e7\u00facar. Uma vez que o n\u00famero correto de mol\u00e9culas de a\u00e7\u00facar est\u00e3o ligadas entre si, o oligosaccharide \u00e9 ligado a uma prote\u00edna ou lip\u00eddio. Muta\u00e7\u00f5es do gene ALG12 levam \u00e0 produ\u00e7\u00e3o de uma enzima anormal com atividade reduzida. Sem uma enzima funcionando corretamente, a mannose n\u00e3o pode ser adicionada \u00e0 cadeia eficientemente, e os oligosac\u00e1rides resultantes s\u00e3o muitas vezes incompletos. Embora os oligosacar\u00eddeos curtos possam ser transferidos para prote\u00ednas e gorduras, o processo n\u00e3o \u00e9 t\u00e3o eficiente quanto com os oligosacar\u00eddeos de comprimento completo. Como resultado, a glicosila\u00e7\u00e3o \u00e9 reduzida. A grande variedade de sinais e sintomas no ALG12-CDG s\u00e3o provavelmente devido a comprometimento da glicosila\u00e7\u00e3o de prote\u00ednas e lip\u00eddios que s\u00e3o necess\u00e1rios para a fun\u00e7\u00e3o normal de muitos \u00f3rg\u00e3os e tecidos, incluindo o c\u00e9rebro."
+    },
+    {
+        "qid":"0000033-4",
+        "qtype":"inheritance",
+        "question":"O dist\u00farbio cong\u00eanito da glicosila\u00e7\u00e3o de ALG12 \u00e9 herdado?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000033-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o dist\u00farbio cong\u00eanito ALG12 da glicosila\u00e7\u00e3o?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo de ALG12-CDG: - Gene Review: Gene Review: Gene Disorders of N-Linked Glicosylation Pathway Vis\u00e3o geral - Genetic Testing Registry: Congenital Disorder of Glicosylation type 1G Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

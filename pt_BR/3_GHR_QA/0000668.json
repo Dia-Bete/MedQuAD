@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000668-1",
+        "qtype":"information",
+        "question":"O que \u00e9 defici\u00eancia de cofator de molibd\u00eanio?",
+        "answer":"A defici\u00eancia de cofator de molibd\u00eanio \u00e9 uma condi\u00e7\u00e3o rara caracterizada por disfun\u00e7\u00e3o cerebral (encefalopatia) que piora ao longo do tempo. Beb\u00eas com esta condi\u00e7\u00e3o parecem normais ao nascer, mas dentro de uma semana eles t\u00eam dificuldade em alimentar e desenvolver convuls\u00f5es que n\u00e3o melhoram com o tratamento (convuls\u00f5es incorret\u00edveis). Anomalias cerebrais, incluindo deteriora\u00e7\u00e3o (atrofia) do tecido cerebral, levam a um atraso no desenvolvimento grave; indiv\u00edduos afetados geralmente n\u00e3o aprendem a ficar sem assist\u00eancia ou a falar. Uma pequena porcentagem de indiv\u00edduos afetados tem uma rea\u00e7\u00e3o exagerada de surto (hiperecplexia) a est\u00edmulos inesperados como ru\u00eddos altos. Outras caracter\u00edsticas da defici\u00eancia de cofator de molibd\u00eanio podem incluir um pequeno tamanho da cabe\u00e7a (microcefalia) e caracter\u00edsticas faciais que s\u00e3o descritas como \"coarse\". Testes revelam que indiv\u00edduos afetados t\u00eam altos n\u00edveis de qu\u00edmicos chamados sulfito, S-sulfociste\u00edna, xantina e hipoxantina na urina e baixos n\u00edveis de um qu\u00edmico chamado \u00e1cido \u00farico no sangue. Devido aos graves problemas de sa\u00fade causados pela defici\u00eancia de cofator de molibd\u00eanio, os indiv\u00edduos afetados geralmente n\u00e3o sobrevivem ap\u00f3s a inf\u00e2ncia."
+    },
+    {
+        "qid":"0000668-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de cofator de molibd\u00eanio?",
+        "answer":"Defici\u00eancia de cofator de molibd\u00eanio \u00e9 uma condi\u00e7\u00e3o rara que \u00e9 estimada para ocorrer em 1 em 100.000 a 200.000 rec\u00e9m-nascidos em todo o mundo. Mais de 100 casos foram relatados na literatura m\u00e9dica, embora se pense que a condi\u00e7\u00e3o \u00e9 subdiagnosticada, ent\u00e3o o n\u00famero de indiv\u00edduos afetados pode ser maior."
+    },
+    {
+        "qid":"0000668-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de cofator de molibd\u00eanio?",
+        "answer":"A defici\u00eancia de cofator de molibd\u00eanio \u00e9 causada por muta\u00e7\u00f5es no gene MOCS1, MOCS2 ou GPHN. H\u00e1 tr\u00eas formas do dist\u00farbio, chamados tipos A, B e C (ou grupos de complementa\u00e7\u00e3o A, B e C). As formas t\u00eam os mesmos sinais e sintomas, mas s\u00e3o distinguidas por sua causa gen\u00e9tica: muta\u00e7\u00f5es do gene MOCS1 causam o tipo A, muta\u00e7\u00f5es do gene MOCS2 causam o tipo B, e muta\u00e7\u00f5es do gene GPHN causam o tipo C. As prote\u00ednas produzidas a partir de cada um desses genes est\u00e3o envolvidas na forma\u00e7\u00e3o (bioss\u00edntese) de uma mol\u00e9cula chamada cofator de molibd\u00eanio. Cofator de molibd\u00eanio, que cont\u00e9m o elemento molibd\u00eanio, \u00e9 essencial para a fun\u00e7\u00e3o de v\u00e1rias enzimas. Essas enzimas ajudam a quebrar (metabolizar) diferentes subst\u00e2ncias no corpo, algumas das quais s\u00e3o t\u00f3xicas se n\u00e3o metabolizadas. Muta\u00e7\u00f5es no gene MOCS1, MOCS2 ou GPHN reduzem ou eliminam a fun\u00e7\u00e3o da prote\u00edna associada, que prejudica a bioss\u00edntese do cofator de molibd\u00eanio. Sem o cofator, as enzimas metab\u00f3licas que contam com ele n\u00e3o podem funcionar. A perda resultante da atividade enzim\u00e1tica leva \u00e0 acumula\u00e7\u00e3o de determinados qu\u00edmicos, incluindo sulfito, S-sulfociste\u00edna, xantina e hipoxantina (que podem ser identificados na urina), e baixos n\u00edveis de \u00e1cido \u00farico no sangue. Sulfito, que \u00e9 normalmente decomposto por uma das enzimas cofato-dependentes de molibd\u00eanio, \u00e9 t\u00f3xico, especialmente para o c\u00e9rebro. Pesquisadores sugerem que os danos causados pelos n\u00edveis anormalmente elevados de sulfito (e possivelmente outros qu\u00edmicos) leva a encefalopatia, convuls\u00f5es, e as outras caracter\u00edsticas da defici\u00eancia de cofator de molibd\u00eanio."
+    },
+    {
+        "qid":"0000668-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de cofator de molibd\u00eanio \u00e9 herdada?",
+        "answer":"A defici\u00eancia de cofator de molibd\u00eanio tem um padr\u00e3o autoss\u00f4mico recessivo de heran\u00e7a, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Um indiv\u00edduo afetado geralmente herda uma c\u00f3pia alterada do gene de cada pai. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o. Pelo menos um indiv\u00edduo com defici\u00eancia de cofator de molibd\u00eanio herdou duas c\u00f3pias mutadas do gene MOCS1 atrav\u00e9s de um mecanismo chamado isodissomia uniparental. Neste caso, um erro ocorreu durante a forma\u00e7\u00e3o de \u00f3vulos ou espermatozoides, e a crian\u00e7a recebeu duas c\u00f3pias do gene mutado de um pai em vez de uma c\u00f3pia de cada pai."
+    },
+    {
+        "qid":"0000668-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para defici\u00eancia de cofator de molibd\u00eanio?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da defici\u00eancia de cofator de molibd\u00eanio: - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de enzimas de molibd\u00eanioflavoprote\u00edna combinada - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de cofator de molibd\u00eanio, grupo de complementa\u00e7\u00e3o A - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de cofator de molibd\u00eanio, grupo de complementa\u00e7\u00e3o C Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

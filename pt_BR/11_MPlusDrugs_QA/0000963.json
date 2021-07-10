@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0000963-1",
+        "qtype":"indication",
+        "question":"Quem deve fazer a inala\u00e7\u00e3o oral de Pentamidina e por que \u00e9 prescrita?",
+        "answer":""
+    },
+    {
+        "qid":"0000963-2",
+        "qtype":"usage",
+        "question":"Como deve ser usada a inala\u00e7\u00e3o oral de pentamidina e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000963-3",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre a inala\u00e7\u00e3o oral de Pentamidina?",
+        "answer":""
+    },
+    {
+        "qid":"0000963-4",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se eu esquecer uma dose de Pentamidina Inala\u00e7\u00e3o Oral?",
+        "answer":""
+    },
+    {
+        "qid":"0000963-5",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da inala\u00e7\u00e3o oral de Pentamidina?",
+        "answer":""
+    },
+    {
+        "qid":"0000963-6",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o da inala\u00e7\u00e3o oral de Pentamidina?",
+        "answer":""
+    },
+    {
+        "qid":"0000963-7",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de inala\u00e7\u00e3o oral de pentamidina?",
+        "answer":""
+    },
+    {
+        "qid":"0000963-8",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o devo saber sobre a inala\u00e7\u00e3o oral de Pentamidina?",
+        "answer":""
+    },
+    {
+        "qid":"0000963-9",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca da Inala\u00e7\u00e3o Oral da Pentamidina?",
+        "answer":""
+    }
+]

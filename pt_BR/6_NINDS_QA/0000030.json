@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000030-1",
+        "qtype":"information",
+        "question":"O que \u00e9 malforma\u00e7\u00e3o arteriovenosa?",
+        "answer":"Malforma\u00e7\u00f5es arteriovenosas (AVMs) s\u00e3o anormais, emaranhados emaranhados de vasos sangu\u00edneos que causam m\u00faltiplas conex\u00f5es irregulares entre as art\u00e9rias e veias. Essas malforma\u00e7\u00f5es ocorrem mais frequentemente na medula espinhal e em qualquer parte do c\u00e9rebro ou em sua superf\u00edcie, mas podem se desenvolver em outro lugar do corpo. MAVs podem danificar o c\u00e9rebro e a medula espinhal reduzindo a quantidade de oxig\u00eanio atingindo os tecidos neurol\u00f3gicos, sangrando no tecido circundante (hemorragia) que pode causar acidente vascular cerebral ou dano cerebral, e comprimindo ou deslocando partes do c\u00e9rebro ou medula espinhal. Muitas pessoas com MAV experimentam poucos, se algum, sintomas significativos, que podem incluir dor de cabe\u00e7a, fraqueza, convuls\u00f5es, dor e problemas com a fala, vis\u00e3o ou movimento. Na maioria das vezes, as MAV s\u00e3o cong\u00eanitas, mas podem aparecer esporadicamente. Em alguns casos, a MAV pode ser herdada, mas \u00e9 mais prov\u00e1vel que outras condi\u00e7\u00f5es herdadas aumentem o risco de ter uma MAV. As malforma\u00e7\u00f5es tendem a ser descobertas apenas incidentalmente, geralmente durante o tratamento por um dist\u00farbio n\u00e3o relacionado ou na aut\u00f3psia."
+    },
+    {
+        "qid":"0000030-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Malforma\u00e7\u00e3o Arteriovenosa?",
+        "answer":"Op\u00e7\u00f5es de tratamento dependem do tipo de MAV, sua localiza\u00e7\u00e3o, sintomas not\u00e1veis, e a condi\u00e7\u00e3o geral de sa\u00fade do indiv\u00edduo. A medica\u00e7\u00e3o muitas vezes pode aliviar sintomas gerais como dor de cabe\u00e7a, dor nas costas e convuls\u00f5es causadas por MAVs e outras les\u00f5es vasculares. O tratamento definitivo para MAVs \u00e9 cirurgia para remover a MAV ou criar um co\u00e1gulo de sangue artificial para fechar a les\u00e3o ou tratamento focalizado de irradia\u00e7\u00e3o que \u00e9 projetado para danificar as paredes dos vasos sangu\u00edneos e fechar a les\u00e3o. A decis\u00e3o de tratar uma MAV requer uma considera\u00e7\u00e3o cuidadosa dos poss\u00edveis benef\u00edcios versus riscos."
+    },
+    {
+        "qid":"0000030-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Malforma\u00e7\u00e3o Arteriovenosa?",
+        "answer":"O maior perigo potencial das MAV \u00e9 a hemorragia. A maioria dos epis\u00f3dios de sangramento permanecem sem ser detectados no momento em que ocorrem porque n\u00e3o s\u00e3o graves o suficiente para causar danos neurol\u00f3gicos significativos. Mas epis\u00f3dios massivos, mesmo fatais, sangrando ocorrem. Sempre que uma MAV \u00e9 detectada, o indiv\u00edduo deve ser monitorado cuidadosamente e consistentemente para qualquer sinal de instabilidade que possa indicar um risco aumentado de hemorragia. Indiv\u00edduos tratados precisam de imagens cerebrais para avaliar se a MAV foi completamente removida ou destru\u00edda. O risco de hemorragia permanece se algumas MAV persistirem apesar do tratamento."
+    },
+    {
+        "qid":"0000030-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Malforma\u00e7\u00e3o Arteriovenosa?",
+        "answer":"A miss\u00e3o do Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Accidentes (NINDS) \u00e9 buscar conhecimento fundamental sobre o c\u00e9rebro e o sistema nervoso, e usar esse conhecimento para reduzir a carga da doen\u00e7a neurol\u00f3gica. O NINDS criou um Grupo de Estudo Arteriovenoso para aprender mais sobre as causas naturais das MAV e melhorar o tratamento cir\u00fargico dessas les\u00f5es. Um estudo da NINDS na Universidade de Columbia, A randomized Trial of Unruptured Brain AVMs (ARUBA), mostrou que o gerenciamento m\u00e9dico sozinho \u00e9 superior ao gerenciamento m\u00e9dico e terapia intervencionista (cirurgia convencional, procedimentos endovasculares e radiocirurgia) para melhorar o desfecho a longo prazo de indiv\u00edduos com malforma\u00e7\u00f5es arteriovenosas cerebrais inruptas. Dados de uma fase de observa\u00e7\u00e3o fechada recentemente mostrar\u00e3o se as disparidades continuaram ao longo dos cinco anos adicionais de seguimento. Entre outras pesquisas financiadas pelo NINDS, cientistas est\u00e3o testando uma classe de medicamentos chamados beta-bloqueadores para ver se podem levar ao desenvolvimento de novos tratamentos para pessoas com malforma\u00e7\u00f5es vasculares. Outros investigadores financiados pelo NINDS esperam desenvolver biomarcadores (sinais que podem indicar o risco de uma doen\u00e7a) para MAV que podem melhorar a avalia\u00e7\u00e3o de risco e ajudar na escolha da terapia que pode proporcionar o m\u00e1ximo de benef\u00edcio com risco m\u00ednimo para o indiv\u00edduo. Pesquisa adicional financiada pelo NINDS espera determinar vias moleculares fundamentais para a forma\u00e7\u00e3o de MAVs cerebrais."
+    }
+]

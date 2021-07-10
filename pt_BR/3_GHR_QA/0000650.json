@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000650-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) acidemia metilmal\u00f4nica?",
+        "answer":"A acidemia metilmal\u00f4nica \u00e9 um dist\u00farbio herdado em que o corpo \u00e9 incapaz de processar certas prote\u00ednas e gorduras (l\u00edpidos) corretamente. Os efeitos da acidemia metilmal\u00f4nica, que geralmente aparecem no in\u00edcio da inf\u00e2ncia, variam de leve a amea\u00e7ador de vida. Crian\u00e7as afetadas podem experimentar v\u00f3mitos, desidrata\u00e7\u00e3o, fraqueza muscular (hipot\u00f4nia), atraso no desenvolvimento, cansa\u00e7o excessivo (letargia), um aumento do f\u00edgado (hepatomegalia), e falha em ganhar peso e crescer na taxa esperada (falha para prosperar). Complica\u00e7\u00f5es a longo prazo podem incluir problemas alimentares, defici\u00eancia intelectual, doen\u00e7a renal cr\u00f4nica, e inflama\u00e7\u00e3o do p\u00e2ncreas (pancreatite). Sem tratamento, esse dist\u00farbio pode levar ao coma e \u00e0 morte em alguns casos."
+    },
+    {
+        "qid":"0000650-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela acidemia metilmal\u00f4nica?",
+        "answer":"Essa condi\u00e7\u00e3o ocorre em 1 em cada 50.000 a 100.000 pessoas."
+    },
+    {
+        "qid":"0000650-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 acidemia metilmal\u00f4nica?",
+        "answer":"Muta\u00e7\u00f5es nos genes MUT, MMAA, MMAB, MMADHC e MCEE causam acidemia metilmal\u00f4nica. Os efeitos a longo prazo da acidemia metilmal\u00f4nica dependem de qual gene \u00e9 mutado e da gravidade da muta\u00e7\u00e3o. Cerca de 60% dos casos de acidemia metilmal\u00f4nica s\u00e3o causados por muta\u00e7\u00f5es no gene MUT. Este gene fornece instru\u00e7\u00f5es para fazer uma enzima chamada metilmalonil CoA mutase. Esta enzima funciona com vitamina B12 (tamb\u00e9m chamada de cobalamina) para quebrar v\u00e1rios blocos de constru\u00e7\u00e3o de prote\u00ednas (amino\u00e1cidos), certos lip\u00eddios e colesterol. Muta\u00e7\u00f5es no gene MUT alteram a estrutura da enzima ou reduzem a quantidade da enzima, o que impede que essas mol\u00e9culas sejam decompostas corretamente. Como resultado, uma subst\u00e2ncia chamada metilmalonil CoA e outros compostos potencialmente t\u00f3xicos podem se acumular nos \u00f3rg\u00e3os e tecidos do corpo, causando os sinais e sintomas da acidemia metilmal\u00f4nica. Muta\u00e7\u00f5es no gene MUT que impedem a produ\u00e7\u00e3o de qualquer enzima funcional resultam em uma forma da condi\u00e7\u00e3o designada mut0. Mut0 \u00e9 a forma mais grave de acidemia metilmal\u00f4nica e tem o resultado mais pobre. Muta\u00e7\u00f5es que alteram a estrutura da mutase metilmalonil CoA mas n\u00e3o eliminam sua atividade causam uma forma da condi\u00e7\u00e3o designada mut-. A forma mut- \u00e9 tipicamente menos grave, com sintomas mais vari\u00e1veis do que a forma mut0. Alguns casos de acidemia metilmal\u00f4nica s\u00e3o causados por muta\u00e7\u00f5es no gene MMAA, MMAB ou MMADHC. Prote\u00ednas produzidas a partir dos genes MMAA, MMAB e MMADHC s\u00e3o necess\u00e1rias para a fun\u00e7\u00e3o correta da mutase metilmalonil CoA. Muta\u00e7\u00f5es que afetam prote\u00ednas produzidas a partir destes tr\u00eas genes podem prejudicar a atividade da mutase metilmalonil CoA, levando \u00e0 acidemia metilmal\u00f4nica. Outros casos de acidemia metilmal\u00f4nica s\u00e3o causados por muta\u00e7\u00f5es no gene MCEE. Este gene fornece instru\u00e7\u00f5es para produzir uma enzima chamada metilmalonil CoA epimerase. Como a metilmalonil CoA mutase, esta enzima tamb\u00e9m desempenha um papel na quebra de amino\u00e1cidos, certos lip\u00eddios e colesterol. Perturba\u00e7\u00e3o na fun\u00e7\u00e3o da metilmalonil CoA epimerase leva a uma forma leve de acidemia metilmal\u00f4nica. \u00c9 prov\u00e1vel que muta\u00e7\u00f5es em outros genes n\u00e3o identificados tamb\u00e9m causem acidemia metilmal\u00f4nica."
+    },
+    {
+        "qid":"0000650-4",
+        "qtype":"inheritance",
+        "question":"A acidemia metilmal\u00f4nica \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do MUT, MMAA, MMAB, MMADHC, ou MCEE em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Na maioria das vezes, os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva s\u00e3o portadores de uma c\u00f3pia do gene mutado, mas n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000650-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a acidemia metilmal\u00f4nica?",
+        "answer":"Estes recursos abordam o diagn\u00f3stico ou manejo da acidemia metilmal\u00f4nica: - Primeiro teste do beb\u00ea: Acidemia metilmal\u00f4nica (Dist\u00farbios de Cobalamina) - Primeiro teste do beb\u00ea: Acidemia metilmal\u00f4nica (Defici\u00eancia de Metimalonil-CoA Mutase) - Revis\u00e3o gen\u00e9tica: Revis\u00e3o gen\u00e9tica: Acidemia metilmal\u00f4nica isolada - Registro de Testes gen\u00e9ticos: Acidemia metilmal\u00f4nica - Registro de Testes gen\u00e9ticos: Acidemia metilmal\u00f4nica com homocistin\u00faria cblD - Registro de Testes gen\u00e9ticos: Defici\u00eancia de Metimalonil-CoA epimerase - MedlinePlus Enciclop\u00e9dia: \u00c1cido metilmal\u00f4nico - MedlinePlus Enciclop\u00e9dia: Acidemia metilmal\u00f4nica - Nova Inglaterra Cons\u00f3rcio de Programas Metab\u00f3licos Estes recursos da MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e terapia gen\u00e9tica:"
+    }
+]

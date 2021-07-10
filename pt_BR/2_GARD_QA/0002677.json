@@ -1,0 +1,14 @@
+[
+    {
+        "qid":"0002677-1",
+        "qtype":"information",
+        "question":"O que \u00e9 linfoma da zona cinzenta?",
+        "answer":"Linfoma da zona cinzenta \u00e9 um c\u00e2ncer do sistema imunol\u00f3gico. O nome deste linfoma refere-se ao fato de que as c\u00e9lulas cancerosas nesta condi\u00e7\u00e3o est\u00e3o em uma \"zona cinza\" (uma categoria incerta) porque parecem semelhantes \u00e0 de outros dois tipos de linfoma, o linfoma cl\u00e1ssico Hodgkin e o linfoma mediastinal grande de c\u00e9lulas B. Porque caracter\u00edsticas do linfoma de zona cinza se sobrep\u00f5em a estes dois outros tipos de linfoma, diagnosticar essa condi\u00e7\u00e3o pode ser dif\u00edcil. Linfoma da zona cinzenta \u00e9 mais frequentemente diagnosticado em adultos jovens quando um n\u00f3dulo incomum (massa) \u00e9 encontrado no peito no espa\u00e7o entre os pulm\u00f5es (mediastino). Esta condi\u00e7\u00e3o afeta homens e mulheres igualmente."
+    },
+    {
+        "qid":"0002677-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o linfoma da zona cinzenta?",
+        "answer":"Como o linfoma da zona cinza pode ser tratado? O linfoma da zona cinzenta compartilha caracter\u00edsticas com outros dois tipos de linfoma, o linfoma cl\u00e1ssico Hodgkin (cHL) e o linfoma mediastinal grande de c\u00e9lulas B (MLBCL). Como MLBCL e CHL s\u00e3o tratados de forma diferente, n\u00e3o est\u00e1 claro como o linfoma de zona cinza deve ser tratado. Neste momento, n\u00e3o existem diretrizes para o melhor tratamento do linfoma de zona cinza; o tratamento \u00e9 determinado com base no diagn\u00f3stico de cada indiv\u00edduo. O tratamento geralmente come\u00e7a com quimioterapia, que pode ser seguida por radioterapia em alguns casos."
+    }
+]

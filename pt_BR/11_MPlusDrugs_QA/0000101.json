@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0000101-1",
+        "qtype":"indication",
+        "question":"Quem deve tomar Atropina Oftalmica e por que \u00e9 prescrita?",
+        "answer":""
+    },
+    {
+        "qid":"0000101-2",
+        "qtype":"usage",
+        "question":"Como a Atropina Oftalmica deve ser usada e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000101-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre a Atropina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000101-5",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Atropina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000101-6",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos de Atropina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000101-7",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o de Atropina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000101-8",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Atropina Oftalmica?",
+        "answer":""
+    },
+    {
+        "qid":"0000101-9",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de Atropina Oftalmica?",
+        "answer":""
+    }
+]

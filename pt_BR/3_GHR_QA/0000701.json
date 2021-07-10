@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000701-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Myhre?",
+        "answer":"A s\u00edndrome de Myhre \u00e9 uma condi\u00e7\u00e3o com caracter\u00edsticas que afetam muitos sistemas e fun\u00e7\u00f5es do corpo. Pessoas com s\u00edndrome de Myhre geralmente t\u00eam atraso no desenvolvimento de linguagem e habilidades motoras como rastejar e caminhar. A maioria tem defici\u00eancia intelectual que varia de leve a moderada. Alguns t\u00eam problemas comportamentais como caracter\u00edsticas do autismo ou dist\u00farbios relacionados ao desenvolvimento afetando a comunica\u00e7\u00e3o e a intera\u00e7\u00e3o social. Pessoas com s\u00edndrome de Myhre muitas vezes t\u00eam perda auditiva, o que pode ser causado por altera\u00e7\u00f5es no ouvido interno (sordez sensorineual), altera\u00e7\u00f5es no ouvido m\u00e9dio (perda auditiva condutiva), ou ambos (perda auditiva mista). O crescimento \u00e9 reduzido em pessoas com este dist\u00farbio, come\u00e7ando antes do nascimento e continuando at\u00e9 a adolesc\u00eancia. Indiv\u00edduos afetados t\u00eam baixo peso ao nascer e geralmente s\u00e3o mais baixos do que cerca de 97% de seus pares ao longo da vida. Pessoas com s\u00edndrome de Myhre geralmente t\u00eam rigidez na pele e geralmente s\u00e3o descritas como tendo uma apar\u00eancia muscular. Anomalias esquel\u00e9ticas associadas a este dist\u00farbio incluem espessamento dos ossos do cr\u00e2nio, ossos aplanados da coluna vertebral (platispondidamente), costelas largas, subdesenvolvimento das estruturas semelhantes \u00e0s asas da p\u00e9lvis (alas il\u00edacas hipopl\u00e1sicas), e dedos e dedos do p\u00e9 incomummente curtos (braquidactilia). Indiv\u00edduos afetados muitas vezes t\u00eam problemas articulares (artropatia), incluindo rigidez e mobilidade limitada. Caracter\u00edsticas faciais t\u00edpicas em pessoas com s\u00edndrome de Myhre incluem aberturas estreitas das p\u00e1lpebras (cortas fissuras palpebrais), uma dist\u00e2ncia curta entre o nariz e o l\u00e1bio superior (um filtro curto), uma apar\u00eancia afundada do meio do rosto (hipoplasia do meio do rosto), uma pequena boca com um l\u00e1bio superior fino, e uma mand\u00edbula protrusora (prognatismo). Alguns indiv\u00edduos afetados tamb\u00e9m t\u00eam uma abertura no telhado da boca (uma fenda no palato), uma divis\u00e3o no l\u00e1bio (uma fenda no l\u00e1bio), ou ambos. Outras caracter\u00edsticas que ocorrem em algumas pessoas com este dist\u00farbio incluem constri\u00e7\u00e3o da garganta (estenose laringotraqueal), press\u00e3o arterial alta (hipertens\u00e3o), anormalidades do cora\u00e7\u00e3o ou dos olhos, e em homens, test\u00edculos n\u00e3o descendentes (criptografia). Um dist\u00farbio \u00e0s vezes chamado de estenose laringotraqueal, artropatia, prognatismo e s\u00edndrome de estatura curta (LAPS) \u00e9 agora geralmente considerado como a mesma condi\u00e7\u00e3o da s\u00edndrome de Myhre porque tem sintomas semelhantes e a mesma causa gen\u00e9tica."
+    },
+    {
+        "qid":"0000701-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Myhre?",
+        "answer":"A s\u00edndrome de Myhre \u00e9 uma doen\u00e7a rara. Apenas cerca de 30 casos foram documentados na literatura m\u00e9dica. Por raz\u00f5es desconhecidas, os indiv\u00edduos mais afetados foram homens."
+    },
+    {
+        "qid":"0000701-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Myhre?",
+        "answer":"Muta\u00e7\u00f5es no gene SMAD4 causam s\u00edndrome de Myhre. O gene SMAD4 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna envolvida na transmiss\u00e3o de sinais qu\u00edmicos da superf\u00edcie celular para o n\u00facleo. Esta via de sinaliza\u00e7\u00e3o, chamada de via de fator de crescimento transformador beta (TGF-), permite que o ambiente fora da c\u00e9lula afete como a c\u00e9lula produz outras prote\u00ednas. Como parte desta via, a prote\u00edna SMAD4 interage com outras prote\u00ednas para controlar a atividade de genes particulares. Esses genes influenciam muitas \u00e1reas de desenvolvimento. Alguns pesquisadores acreditam que as muta\u00e7\u00f5es do gene SMAD4 que causam a s\u00edndrome de Myhre prejudicam a capacidade da prote\u00edna SMAD4 de se ligar (bind) corretamente com as outras prote\u00ednas envolvidas na via de sinaliza\u00e7\u00e3o. Outros estudos sugerem que essas muta\u00e7\u00f5es resultam em uma prote\u00edna SMAD4 anormalmente est\u00e1vel que permanece ativa na c\u00e9lula por mais tempo. Altera\u00e7\u00f5es na liga\u00e7\u00e3o ou disponibilidade SMAD4 podem resultar em sinais anormais em muitos tipos de c\u00e9lulas, o que afeta o desenvolvimento de v\u00e1rios sistemas corporais e leva aos sinais e sintomas da s\u00edndrome de Myhre."
+    },
+    {
+        "qid":"0000701-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Myhre \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000701-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Myhre?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Myhre: - Centros de Controle e Preven\u00e7\u00e3o de Doen\u00e7as: Tipos de Perda Auditiva - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Myhre - Instituto Nacional de Surdez e Outros Transtornos de Comunica\u00e7\u00e3o: Considera\u00e7\u00f5es de Comunica\u00e7\u00e3o para Pais de Crian\u00e7as Surdas e Dif\u00edciles de Ouvir Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

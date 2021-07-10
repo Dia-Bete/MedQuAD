@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000106-1",
+        "qtype":"information",
+        "question":"O que \u00e9 neuropatia diab\u00e9tica?",
+        "answer":"A neuropatia diab\u00e9tica \u00e9 uma desordem nervosa perif\u00e9rica causada por diabetes ou controle de a\u00e7\u00facar no sangue. Os tipos mais comuns de neuropatia diab\u00e9tica resultam em problemas de sensa\u00e7\u00e3o nos p\u00e9s. Pode se desenvolver lentamente ap\u00f3s muitos anos de diabetes ou pode ocorrer no in\u00edcio da doen\u00e7a. Os sintomas s\u00e3o dorm\u00eancia, dor ou formigueiro nos p\u00e9s ou nas pernas. A dor pode ser intensa e requer tratamento para aliviar o desconforto. A perda de sensa\u00e7\u00e3o nos p\u00e9s tamb\u00e9m pode aumentar a possibilidade de que as les\u00f5es dos p\u00e9s passem despercebidas e se desenvolvam em \u00falceras ou les\u00f5es que se infectam. Em alguns casos, a neuropatia diab\u00e9tica pode ser associada com dificuldade em andar e alguma fraqueza nos m\u00fasculos dos p\u00e9s. H\u00e1 outros tipos de neuropatias relacionadas ao diab\u00e9tico que afetam partes espec\u00edficas do corpo. Por exemplo, a amiotrofia diab\u00e9tica causa dor, fraqueza e desperd\u00edcio dos m\u00fasculos da coxa, ou infartos do nervo craniano que podem resultar em vis\u00e3o dupla, uma p\u00e1lpebra caindo, ou tonturas. A diabetes tamb\u00e9m pode afetar os nervos auton\u00f4micos que controlam a press\u00e3o arterial, o trato digestivo, a fun\u00e7\u00e3o da bexiga e os \u00f3rg\u00e3os sexuais. Problemas com os nervos auton\u00f4micos podem causar tonturas, indigest\u00e3o, diarreia ou obstipa\u00e7\u00e3o, dificuldade com o controle da bexiga e impot\u00eancia."
+    },
+    {
+        "qid":"0000106-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para neuropatia diab\u00e9tica?",
+        "answer":"O objetivo do tratamento da neuropatia diab\u00e9tica \u00e9 prevenir danos teciduais e aliviar o desconforto. O primeiro passo \u00e9 controlar os n\u00edveis de a\u00e7\u00facar no sangue com dieta e medicamentos. Outra parte importante do tratamento consiste em cuidar especialmente dos p\u00e9s usando sapatos adequados e verificando rotineiramente os p\u00e9s para cortes e infec\u00e7\u00f5es. Analg\u00e9sicos, baixas doses de antidepressivos, e alguns medicamentos anticonvulsivos podem ser prescritos para al\u00edvio de dor, queimadura ou formigueiro. Alguns acham que andar regularmente, tomar banhos quentes, ou usar meias el\u00e1sticas pode ajudar a aliviar a dor de perna."
+    },
+    {
+        "qid":"0000106-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Neuropatia Diab\u00e9tica?",
+        "answer":"O progn\u00f3stico da neuropatia diab\u00e9tica depende em grande parte de como a condi\u00e7\u00e3o subjacente da diabetes \u00e9 tratada. Tratar diabetes pode parar a progress\u00e3o e melhorar os sintomas da neuropatia, mas a recupera\u00e7\u00e3o \u00e9 lenta. As sensa\u00e7\u00f5es dolorosas de neuropatia diab\u00e9tica podem se tornar graves o suficiente para causar depress\u00e3o em alguns pacientes."
+    },
+    {
+        "qid":"0000106-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Neuropatia Diab\u00e9tica?",
+        "answer":"O NINDS conduz e apoia pesquisas sobre neuropatia diab\u00e9tica para aumentar a compreens\u00e3o do dist\u00farbio e encontrar maneiras de preveni-lo e cur\u00e1-lo. Novos medicamentos est\u00e3o sendo examinados para avaliar melhora ou estabiliza\u00e7\u00e3o dos sintomas neurop\u00e1ticos."
+    }
+]

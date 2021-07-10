@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0006460-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Wolff-Parkinson-White?",
+        "answer":"A s\u00edndrome de Wolff-Parkinson-White \u00e9 uma condi\u00e7\u00e3o que interrompe o ritmo normal do cora\u00e7\u00e3o (arritmia). Pessoas com s\u00edndrome de Wolff-Parkinson-White nascem com uma anormalidade card\u00edaca que afeta o movimento coordenado de sinais el\u00e9tricos atrav\u00e9s do cora\u00e7\u00e3o. Essa anormalidade leva a um batimento card\u00edaco anormalmente r\u00e1pido (taquicardia) e outras arritmias. Na maioria dos casos, a causa da s\u00edndrome de Wolff-Parkinson-White \u00e9 desconhecida. Uma pequena porcentagem de casos \u00e9 causada por muta\u00e7\u00f5es no gene PRKAG2. Esses casos parecem ser herdados de uma forma autoss\u00f4mica dominante."
+    },
+    {
+        "qid":"0006460-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome de Wolff-Parkinson-White?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da s\u00edndrome de Wolff-Parkinson-White? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para a s\u00edndrome de Wolff-Parkinson-White. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Signos e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Arritmia 90% Cardiomiopatia - Palpita\u00e7\u00f5es - Fibrila\u00e7\u00e3o atrial paroxismal - Taquicardia supraventricular paroxismal - Complejo QRS prolongado - Intervalo PR encurtado - Ictus - Morte card\u00edaca s\u00fabita - Preexcita\u00e7\u00e3o ventricular com m\u00faltiplas vias acess\u00f3rias - S\u00edndrome de Wolff-Parkinson-White - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0006460-3",
+        "qtype":"causes",
+        "question":"O que causa a s\u00edndrome de Wolff-Parkinson-White?",
+        "answer":"O que causa a s\u00edndrome de Wolff-Parkinson-White? Normalmente, sinais el\u00e9tricos no cora\u00e7\u00e3o passam por um caminho que ajuda o cora\u00e7\u00e3o a bater regularmente. A fia\u00e7\u00e3o do cora\u00e7\u00e3o impede que surjam batidas extras e impede que a pr\u00f3xima batida aconte\u00e7a muito cedo. Em pessoas com s\u00edndrome de Wolff Parkinson White, h\u00e1 uma via extra, ou acess\u00f3rio, que pode causar uma frequ\u00eancia card\u00edaca muito r\u00e1pida. Esta via el\u00e9trica extra est\u00e1 presente no nascimento. Uma muta\u00e7\u00e3o no gene PRKAG2 \u00e9 a causa de uma pequena porcentagem de casos do dist\u00farbio. Caso contr\u00e1rio, pouco se sabe sobre por que esse caminho extra se desenvolve."
+    },
+    {
+        "qid":"0006460-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Wolff-Parkinson-White \u00e9 herdada?",
+        "answer":"A s\u00edndrome de Wolff-Parkinson-White \u00e9 herdada?"
+    }
+]

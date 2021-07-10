@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000088-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Craniosinostose?",
+        "answer":"Craniosinostose \u00e9 um defeito de nascimento do cr\u00e2nio caracterizado pelo fechamento prematuro de uma ou mais das articula\u00e7\u00f5es fibrosas entre os ossos do cr\u00e2nio (chamadas de suturas cranianas) antes do crescimento cerebral estar completo. O encerramento de uma sutura \u00e9 mais comum. Normalmente o cr\u00e2nio se expande uniformemente para acomodar o crescimento do c\u00e9rebro; o fechamento prematuro de uma \u00fanica sutura restringe o crescimento naquela parte do cr\u00e2nio e promove o crescimento em outras partes do cr\u00e2nio onde as suturas permanecem abertas. Isso resulta em um cr\u00e2nio errado, mas n\u00e3o impede que o c\u00e9rebro se expanda para um volume normal. No entanto, quando muitas suturas se fecham prematuramente, o cr\u00e2nio n\u00e3o pode se expandir para acomodar o c\u00e9rebro em crescimento, o que leva ao aumento da press\u00e3o dentro do cr\u00e2nio e ao desenvolvimento prejudicado do c\u00e9rebro. A craniosinostose pode ser ligada ao gene ou causada por doen\u00e7as metab\u00f3licas (como o raquitismo) ou uma tire\u00f3ide hiperativa. Alguns casos est\u00e3o associados a outros dist\u00farbios como microcefalia (cabe\u00e7a anormalmente pequena) e hidrocefalia (ac\u00famulo excessivo de l\u00edquido cefalorraquidiano no c\u00e9rebro). O primeiro sinal de craniosinostose \u00e9 um cr\u00e2nio anormalmente moldado. Outras caracter\u00edsticas podem incluir sinais de aumento da press\u00e3o intracraniana, atrasos no desenvolvimento, ou desenvolvimento cognitivo prejudicado, que s\u00e3o causados pela constri\u00e7\u00e3o do c\u00e9rebro em crescimento. Convuls\u00f5es e cegueira tamb\u00e9m podem ocorrer."
+    },
+    {
+        "qid":"0000088-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Craniosinostose?",
+        "answer":"O tratamento para a craniosinostose geralmente consiste em cirurgia para melhorar a simetria e a apar\u00eancia da cabe\u00e7a e aliviar a press\u00e3o no c\u00e9rebro e nos nervos cranianos. Para algumas crian\u00e7as com problemas menos graves, os moldes cranianos podem remodelar o cr\u00e2nio para acomodar o crescimento cerebral e melhorar a apar\u00eancia da cabe\u00e7a."
+    },
+    {
+        "qid":"0000088-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Craniosinostose?",
+        "answer":"O progn\u00f3stico para craniosinostose varia dependendo se suturas cranianas \u00fanicas ou m\u00faltiplas est\u00e3o envolvidas ou outras anormalidades est\u00e3o presentes. O progn\u00f3stico \u00e9 melhor para aqueles com envolvimento de sutura \u00fanica e sem anormalidades associadas."
+    },
+    {
+        "qid":"0000088-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Craniosinostose?",
+        "answer":"A miss\u00e3o do Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Accidentes (NINDS) \u00e9 buscar conhecimento fundamental sobre o c\u00e9rebro e o sistema nervoso, e usar esse conhecimento para reduzir a carga da doen\u00e7a neurol\u00f3gica. O NINDS conduz e apoia uma ampla gama de estudos que exploram os complexos mecanismos do desenvolvimento cerebral. O conhecimento obtido com esses estudos fundamentais fornece a base para entender como este processo pode mudar e oferece esperan\u00e7a para novas maneiras de tratar e prevenir defeitos cong\u00eanitos que podem prevenir o desenvolvimento cerebral normal, como craniosinostose."
+    }
+]

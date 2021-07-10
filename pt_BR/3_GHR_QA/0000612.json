@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000612-1",
+        "qtype":"information",
+        "question":"O que \u00e9 intoler\u00e2ncia \u00e0 prote\u00edna lisin\u00farica?",
+        "answer":"A intoler\u00e2ncia \u00e0 prote\u00edna lisin\u00farica \u00e9 um dist\u00farbio causado pela incapacidade do corpo de digerir e usar determinados blocos de prote\u00ednas (amino\u00e1cidos), a saber, lisina, arginina e ornitina. Porque o corpo n\u00e3o pode efetivamente quebrar esses amino\u00e1cidos, que s\u00e3o encontrados em muitos alimentos ricos em prote\u00ednas, n\u00e1useas e v\u00f3mitos s\u00e3o tipicamente experimentados ap\u00f3s ingest\u00e3o de prote\u00ednas. Pessoas com intoler\u00e2ncia \u00e0 prote\u00edna lisin\u00farica t\u00eam caracter\u00edsticas associadas \u00e0 intoler\u00e2ncia \u00e0 prote\u00edna, incluindo um aumento do f\u00edgado e do ba\u00e7o (hepatoesplenomegalia), estatura curta, fraqueza muscular, fun\u00e7\u00e3o imune prejudicada, e ossos progressivamente quebradi\u00e7os que s\u00e3o propensos \u00e0 fratura (osteoporose). Um dist\u00farbio pulmonar chamado proteinose alveolar pulmonar tamb\u00e9m pode se desenvolver. Esse dist\u00farbio \u00e9 caracterizado por dep\u00f3sitos de prote\u00ednas nos pulm\u00f5es, que interferem na fun\u00e7\u00e3o pulmonar e podem ser amea\u00e7adores de vida. Um ac\u00famulo de amino\u00e1cidos nos rins pode causar doen\u00e7a renal terminal (ESRD) em que os rins tornam-se incapazes de filtrar fluidos e res\u00edduos do corpo efetivamente. A falta de certos amino\u00e1cidos pode causar n\u00edveis elevados de am\u00f4nia no sangue. Se os n\u00edveis de am\u00f4nia s\u00e3o muito altos por muito tempo, podem causar coma e defici\u00eancia intelectual. Os sinais e sintomas da intoler\u00e2ncia \u00e0s prote\u00ednas lisin\u00faricas normalmente aparecem depois que as crian\u00e7as s\u00e3o desmamadas e recebem maiores quantidades de prote\u00ednas de alimentos s\u00f3lidos."
+    },
+    {
+        "qid":"0000612-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela intoler\u00e2ncia \u00e0 prote\u00edna lisin\u00farica?",
+        "answer":"A intoler\u00e2ncia \u00e0 prote\u00edna lisin\u00farica \u00e9 estimada em 1 em 60.000 rec\u00e9m-nascidos na Finl\u00e2ndia e 1 em 57.000 no Jap\u00e3o. Fora dessas popula\u00e7\u00f5es esta condi\u00e7\u00e3o ocorre menos frequentemente, mas a incid\u00eancia exata \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000612-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 intoler\u00e2ncia \u00e0 prote\u00edna lisin\u00farica?",
+        "answer":"Muta\u00e7\u00f5es no gene SLC7A7 causam intoler\u00e2ncia \u00e0 prote\u00edna lisin\u00farica. O gene SLC7A7 fornece instru\u00e7\u00f5es para produzir uma prote\u00edna chamada transporte de amino\u00e1cidos 1 (y+LAT-1), que est\u00e1 envolvida no transporte de lisina, arginina e ornitina entre as c\u00e9lulas do corpo. O transporte de amino\u00e1cidos dos intestinos delgados e rins para o resto do corpo \u00e9 necess\u00e1rio para que o corpo possa usar prote\u00ednas. Muta\u00e7\u00f5es na prote\u00edna y+LAT-1 interrompem o transporte de amino\u00e1cidos, levando a uma escassez de lisina, arginina e ornitina no corpo e uma quantidade anormalmente grande desses amino\u00e1cidos na urina. Uma escassez de lisina, arginina e ornitina interrompe muitas fun\u00e7\u00f5es vitais. A arginina e a ornitina est\u00e3o envolvidas num processo celular chamado ciclo da ureia, que processa o excesso de nitrog\u00eanio (na forma de am\u00f4nia) que \u00e9 gerado quando a prote\u00edna \u00e9 usada pelo corpo. A falta de arginina e ornitina no ciclo da ureia causa n\u00edveis elevados de am\u00f4nia no sangue. A lisina \u00e9 particularmente abundante em mol\u00e9culas de col\u00e1geno que d\u00e3o estrutura e for\u00e7a aos tecidos conjuntivos como pele, tend\u00f5es e ligamentos. Uma defici\u00eancia de lisina contribui para a estatura curta e osteoporose observada em pessoas com intoler\u00e2ncia \u00e0 prote\u00edna lisin\u00farica. Outras caracter\u00edsticas da intoler\u00e2ncia \u00e0 prote\u00edna lisin\u00farica s\u00e3o consideradas como resultado do transporte anormal de prote\u00ednas (como dep\u00f3sitos de prote\u00ednas nos pulm\u00f5es) ou uma falta de prote\u00ednas que podem ser usadas pelo corpo (desnutri\u00e7\u00e3o proteica)."
+    },
+    {
+        "qid":"0000612-4",
+        "qtype":"inheritance",
+        "question":"A intoler\u00e2ncia \u00e0 prote\u00edna lisin\u00farica \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000612-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a intoler\u00e2ncia \u00e0 prote\u00edna lisin\u00farica?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da intoler\u00e2ncia \u00e0 prote\u00edna lisin\u00farica: - Gene Review: Gene Review: Lysinuric Protein Intoler\u00e2ncia - Gene Testing Registry: Lysinuric Protein Intoler\u00e2ncia - MedlinePlus Encyclopedia: Aminoacid\u00faria - MedlinePlus Encyclopedia: Malaabsor\u00e7\u00e3o Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

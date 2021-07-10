@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0001428-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) episclerite?",
+        "answer":""
+    },
+    {
+        "qid":"0001428-2",
+        "qtype":"causes",
+        "question":"O que causa episclerite?",
+        "answer":""
+    },
+    {
+        "qid":"0001428-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da Episclerite?",
+        "answer":""
+    },
+    {
+        "qid":"0001428-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar episclerite?",
+        "answer":""
+    },
+    {
+        "qid":"0001428-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Episclerite?",
+        "answer":""
+    },
+    {
+        "qid":"0001428-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Episclerite?",
+        "answer":""
+    },
+    {
+        "qid":"0001428-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da Episclerite?",
+        "answer":""
+    },
+    {
+        "qid":"0001428-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para Episclerite?",
+        "answer":""
+    }
+]

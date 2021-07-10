@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0000471-1",
+        "qtype":"information",
+        "question":"O que est\u00e1 sangrando?",
+        "answer":""
+    },
+    {
+        "qid":"0000471-2",
+        "qtype":"considerations",
+        "question":"O que fazer para sangrar?",
+        "answer":""
+    },
+    {
+        "qid":"0000471-3",
+        "qtype":"causes",
+        "question":"O que causa o sangramento?",
+        "answer":""
+    },
+    {
+        "qid":"0000471-4",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do sangramento?",
+        "answer":""
+    },
+    {
+        "qid":"0000471-5",
+        "qtype":"considerations",
+        "question":"O que fazer para sangrar?",
+        "answer":""
+    },
+    {
+        "qid":"0000471-6",
+        "qtype":"considerations",
+        "question":"O que fazer para sangrar?",
+        "answer":""
+    },
+    {
+        "qid":"0000471-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para sangrar?",
+        "answer":""
+    },
+    {
+        "qid":"0000471-8",
+        "qtype":"prevention",
+        "question":"Como evitar o sangramento?",
+        "answer":""
+    }
+]

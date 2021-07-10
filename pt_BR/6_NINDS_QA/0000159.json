@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000159-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a miosite corporal de inclus\u00e3o?",
+        "answer":"A miosite corporal de inclus\u00e3o (IBM) \u00e9 uma de um grupo de doen\u00e7as musculares conhecidas como miopatias inflamat\u00f3rias, que s\u00e3o caracterizadas por inflama\u00e7\u00e3o muscular cr\u00f4nica e progressiva acompanhada de fraqueza muscular. O in\u00edcio da fraqueza muscular em IBM \u00e9 geralmente gradual (em meses ou anos) e afeta tanto os m\u00fasculos proximais (perto do tronco do corpo) como distais (al\u00e9m do tronco). A fraqueza muscular pode afetar apenas um lado do corpo. Cair e trope\u00e7ar s\u00e3o geralmente os primeiros sintomas not\u00e1veis da IBM. Para alguns indiv\u00edduos, o dist\u00farbio come\u00e7a com fraqueza nos pulsos e dedos que causa dificuldade em apertar, abotoar e agarrar objetos. Pode haver fraqueza dos m\u00fasculos do pulso e do dedo e atrofia (diminui\u00e7\u00e3o ou perda de massa muscular) dos m\u00fasculos do antebra\u00e7o e quadr\u00edcep nas pernas. Dificuldade na degluti\u00e7\u00e3o ocorre em aproximadamente metade dos casos de IBM. Os sintomas da doen\u00e7a geralmente come\u00e7am ap\u00f3s os 50 anos, embora a doen\u00e7a possa ocorrer mais cedo. IBM ocorre mais frequentemente em homens do que em mulheres."
+    },
+    {
+        "qid":"0000159-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a miosite corporal de inclus\u00e3o?",
+        "answer":"N\u00e3o h\u00e1 cura para IBM, nem h\u00e1 um curso padr\u00e3o de tratamento. A doen\u00e7a geralmente n\u00e3o responde aos corticosteroides e medicamentos imunossupressores. Algumas evid\u00eancias sugerem que a imunoglobulina intravenosa pode ter um efeito leve, mas de curta dura\u00e7\u00e3o, ben\u00e9fico em um pequeno n\u00famero de casos. A fisioterapia pode ser \u00fatil para manter a mobilidade. Outra terapia \u00e9 sintom\u00e1tica e de apoio."
+    },
+    {
+        "qid":"0000159-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a miosite corporal de inclus\u00e3o?",
+        "answer":"IBM \u00e9 geralmente resistente a todas as terapias e sua taxa de progress\u00e3o parece n\u00e3o ser afetada por tratamentos atualmente dispon\u00edveis."
+    },
+    {
+        "qid":"0000159-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a miosite corporal de inclus\u00e3o?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS), o Instituto Nacional de Artrite e Doen\u00e7as Musculoesquel\u00e9ticas e Cut\u00e2neas (NIAMS), o Instituto Nacional de Ci\u00eancias da Sa\u00fade Ambiental (NIEHS) e outros institutos dos Institutos Nacionais de Sa\u00fade (NIH) realizam pesquisas relacionadas com o IBM em laborat\u00f3rios do NIH e apoiam pesquisas adicionais atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. Pesquisa atualmente financiada est\u00e1 explorando padr\u00f5es de express\u00e3o g\u00eanica entre as miopatias inflamat\u00f3rias, o papel da infec\u00e7\u00e3o viral como precursora dos dist\u00farbios, e a seguran\u00e7a e efic\u00e1cia de v\u00e1rios regimes de tratamento."
+    }
+]

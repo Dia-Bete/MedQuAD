@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0001189-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar testosterona nasal e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0001189-2",
+        "qtype":"usage",
+        "question":"Como deve ser usado testosterona nasal Gel e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0001189-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre testosterona nasal Gel?",
+        "answer":""
+    },
+    {
+        "qid":"0001189-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com testosterona Gel nasal?",
+        "answer":""
+    },
+    {
+        "qid":"0001189-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de testosterona nasal?",
+        "answer":""
+    },
+    {
+        "qid":"0001189-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da testosterona Gel nasal?",
+        "answer":""
+    },
+    {
+        "qid":"0001189-8",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de testosterona nasal Gel?",
+        "answer":""
+    },
+    {
+        "qid":"0001189-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de testosterona nasal Gel?",
+        "answer":""
+    },
+    {
+        "qid":"0001189-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre testosterona nasal Gel?",
+        "answer":""
+    },
+    {
+        "qid":"0001189-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes da marca da testosterona nasal?",
+        "answer":""
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0000372-1",
+        "qtype":"indication",
+        "question":"Quem deveria pegar Dimenhidrinato e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000372-2",
+        "qtype":"usage",
+        "question":"Como o Dimenhidrinato deve ser usado e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000372-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Dimenhidrinato?",
+        "answer":""
+    },
+    {
+        "qid":"0000372-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Dimenhidrinato?",
+        "answer":""
+    },
+    {
+        "qid":"0000372-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se eu esquecer uma dose de Dimenhidrinato?",
+        "answer":""
+    },
+    {
+        "qid":"0000372-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos do Dimenhidrinato?",
+        "answer":""
+    },
+    {
+        "qid":"0000372-8",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Dimenhidrinato?",
+        "answer":""
+    },
+    {
+        "qid":"0000372-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Dimenhidrinato?",
+        "answer":""
+    },
+    {
+        "qid":"0000372-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Dimenhidrinato?",
+        "answer":""
+    },
+    {
+        "qid":"0000372-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes da marca Dimenhydrinate?",
+        "answer":""
+    }
+]

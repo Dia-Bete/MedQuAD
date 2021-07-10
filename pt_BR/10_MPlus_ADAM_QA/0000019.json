@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000019-1",
+        "qtype":"information",
+        "question":"O que \u00e9 rigidez abdominal?",
+        "answer":""
+    },
+    {
+        "qid":"0000019-2",
+        "qtype":"considerations",
+        "question":"O que fazer pela rigidez abdominal?",
+        "answer":""
+    },
+    {
+        "qid":"0000019-3",
+        "qtype":"causes",
+        "question":"O que causa rigidez abdominal?",
+        "answer":""
+    },
+    {
+        "qid":"0000019-4",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para a rigidez abdominal?",
+        "answer":""
+    },
+    {
+        "qid":"0000019-5",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a rigidez abdominal?",
+        "answer":""
+    }
+]

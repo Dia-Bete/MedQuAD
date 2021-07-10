@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000702-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) epilepsia miocl\u00f4nica miopatia ataxia sensorial?",
+        "answer":"A epilepsia miocl\u00f4nica miopatia ataxia sensorial, comumente chamada MEMSA, \u00e9 parte de um grupo de doen\u00e7as chamadas dist\u00farbios relacionados ao POG. As condi\u00e7\u00f5es neste grupo apresentam uma s\u00e9rie de sinais e sintomas semelhantes envolvendo fun\u00e7\u00f5es musculares, nervosas e cerebrais. Os sinais e sintomas do MEMSA normalmente aparecem durante a juventude adulta. Esta condi\u00e7\u00e3o tinha sido anteriormente conhecida como ataxia spinocerebelar com epilepsia (SCAE). O primeiro sintoma do MEMSA \u00e9 geralmente a ataxia cerebelar, que se refere a problemas de coordena\u00e7\u00e3o e equil\u00edbrio devido a defeitos na parte do c\u00e9rebro que est\u00e1 envolvida na coordena\u00e7\u00e3o do movimento (cerebelo). As convuls\u00f5es recorrentes (epilepsia) geralmente se desenvolvem mais tarde, muitas vezes em combina\u00e7\u00e3o com imbecis musculares incontrol\u00e1veis (mioclonus). As convuls\u00f5es geralmente come\u00e7am no bra\u00e7o direito e se espalham para se generalizar em todo o corpo. Al\u00e9m disso, indiv\u00edduos afetados podem ter disfun\u00e7\u00e3o cerebral grave (encefalopatia) ou fraqueza muscular (miopatia). A miopatia pode afetar os m\u00fasculos pr\u00f3ximos ao centro do corpo (proximal), tais como os m\u00fasculos dos quadris, coxas, parte superior dos bra\u00e7os ou pesco\u00e7o, ou m\u00fasculos mais distantes do centro do corpo (distal), tais como os m\u00fasculos das m\u00e3os ou p\u00e9s. A miopatia pode ser especialmente not\u00e1vel durante o exerc\u00edcio (intoler\u00e2ncia ao exerc\u00edcio)."
+    },
+    {
+        "qid":"0000702-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela epilepsia miocl\u00f4nica miopatia ataxia sensorial?",
+        "answer":"A preval\u00eancia de epilepsia miocl\u00f4nica miopatia ataxia sensorial \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000702-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 epilepsia miocl\u00f4nica miopatia ataxia sensorial?",
+        "answer":"O MEMSA \u00e9 causado por muta\u00e7\u00f5es no gene POLG. Este gene fornece instru\u00e7\u00f5es para fazer uma parte, a subunidade alfa, de uma prote\u00edna chamada polimerase gamma (pol). A Pol funciona em mitoc\u00f4ndrias, que s\u00e3o estruturas dentro das c\u00e9lulas que usam oxig\u00eanio para converter a energia dos alimentos em uma forma que as c\u00e9lulas podem usar. Mitoc\u00f4ndrias cont\u00eam uma pequena quantidade de DNA, conhecido como DNA mitoc\u00f4ndrico (ADNmt), o que \u00e9 essencial para a fun\u00e7\u00e3o normal dessas estruturas. Pol \"leia\" sequ\u00eancias de mtDNA e as usa como modelos para produzir novas c\u00f3pias de mtDNA em um processo chamado replica\u00e7\u00e3o de DNA. A maioria das muta\u00e7\u00f5es do gene POLG mudam blocos de constru\u00e7\u00e3o de prote\u00ednas \u00fanicas (amino\u00e1cidos) na subunidade alfa de pol. Essas mudan\u00e7as resultam em um pol mutado que tem uma capacidade reduzida de replicar DNA. Embora o mecanismo seja desconhecido, muta\u00e7\u00f5es no gene POLG muitas vezes resultam em menos c\u00f3pias do DNAmt (deple\u00e7\u00e3o do ADNmt), particularmente nos m\u00fasculos, c\u00e9rebros ou c\u00e9lulas hep\u00e1ticas. A deple\u00e7\u00e3o do MtDNA causa uma diminui\u00e7\u00e3o da energia celular, o que pode explicar os sinais e sintomas do MEMSA."
+    },
+    {
+        "qid":"0000702-4",
+        "qtype":"inheritance",
+        "question":"A epilepsia miocl\u00f4nica \u00e9 a ataxia sensorial herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000702-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para epilepsia miocl\u00f4nica miopatia ataxia sensorial?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo de MEMSA: - Gene Review: Gene Review: POLG-Related Disorders - Genetic Testing Registry: Myoclonic epilepsia miopatia ataxia sensorial - United Mitochondrial Disease Foundation: Diagn\u00f3stico da Doen\u00e7a Mitocondrial Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

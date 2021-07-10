@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000070-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a S\u00edndrome de Wernicke-Korsakoff?",
+        "answer":"A encefalopatia de Wernicke \u00e9 uma doen\u00e7a cerebral degenerativa causada pela falta de tiamina (vitamina B1). Pode resultar de abuso de \u00e1lcool, defici\u00eancias alimentares, v\u00f3mitos prolongados, dist\u00farbios alimentares, ou os efeitos da quimioterapia. A defici\u00eancia B1 causa danos ao t\u00e1lamo e hipot\u00e1lamo do c\u00e9rebro. Os sintomas incluem confus\u00e3o mental, problemas de vis\u00e3o, coma, hipotermia, press\u00e3o arterial baixa e falta de coordena\u00e7\u00e3o muscular (ataxia). A s\u00edndrome de Korsakoff (tamb\u00e9m chamada de s\u00edndrome amn\u00e9sica de Korsakoff) \u00e9 um dist\u00farbio de mem\u00f3ria que resulta da defici\u00eancia de vitamina B1 e est\u00e1 associado ao alcoolismo. A s\u00edndrome de Korsakoff danifica c\u00e9lulas nervosas e c\u00e9lulas de suporte no c\u00e9rebro e medula espinhal, bem como a parte do c\u00e9rebro envolvida com a mem\u00f3ria. Os sintomas incluem amn\u00e9sia, tremores, coma, desorienta\u00e7\u00e3o e problemas de vis\u00e3o, as principais caracter\u00edsticas do dist\u00farbio s\u00e3o problemas em adquirir novas informa\u00e7\u00f5es ou estabelecer novas mem\u00f3rias, e em recuperar mem\u00f3rias anteriores. Embora os de Wernicke e Korsakoff sejam dist\u00farbios relacionados, alguns cientistas acreditam que sejam diferentes est\u00e1gios do mesmo dist\u00farbio, que \u00e9 chamado de s\u00edndrome de Wernicke-Korsakoff. A encefalopatia de Wernicke representa a fase \"aguda\" do dist\u00farbio e a s\u00edndrome amn\u00e9sica de Korsakoff representa o dist\u00farbio evoluindo para um est\u00e1gio \"cr\u00f4nico\" ou de longa dura\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000070-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a S\u00edndrome de Wernicke-Korsakoff?",
+        "answer":"O tratamento envolve a substitui\u00e7\u00e3o da tiamina e fornecer nutri\u00e7\u00e3o e hidrata\u00e7\u00e3o adequadas. Em alguns casos, a terapia medicamentosa tamb\u00e9m \u00e9 recomendada.O consumo de \u00e1lcool pode prevenir danos nos nervos e no c\u00e9rebro. Em indiv\u00edduos com encefalopatia de Wernicke, \u00e9 muito importante come\u00e7ar a reposi\u00e7\u00e3o de tiamina antes de come\u00e7ar a reabastecimento nutricional."
+    },
+    {
+        "qid":"0000070-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a S\u00edndrome de Wernicke-Korsakoff?",
+        "answer":"A maioria dos sintomas da encefalopatia de Wernicke pode ser revertida se detectada e tratada pronta e completamente. Interromper o uso de \u00e1lcool pode evitar danos nos nervos e no c\u00e9rebro. No entanto, a melhoria na fun\u00e7\u00e3o de mem\u00f3ria \u00e9 lenta e, geralmente, incompleta. Sem tratamento, esses dist\u00farbios podem ser incapacitantes e amea\u00e7ar a vida."
+    },
+    {
+        "qid":"0000070-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a S\u00edndrome de Wernicke-Korsakoff?",
+        "answer":"A miss\u00e3o do Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Accidentes (NINDS) \u00e9 buscar conhecimento fundamental sobre o c\u00e9rebro e o sistema nervoso e usar esse conhecimento para reduzir a carga da doen\u00e7a neurol\u00f3gica. O NINDS apoia pesquisas sobre dist\u00farbios neurol\u00f3gicos como a encefalopatia de Wernicke, a s\u00edndrome amn\u00e9sica de Korsakoff e a s\u00edndrome de Wernicke-Korsakoff, para ampliar nosso entendimento sobre as altera\u00e7\u00f5es funcionais das doen\u00e7as e formas de trat\u00e1-las.Uma \u00e1rea de pesquisa \u00e9 estudar como o exerc\u00edcio pode melhorar o funcionamento cognitivo com base na modula\u00e7\u00e3o de certas c\u00e9lulas nervosas em um modelo de amn\u00e9sia de roedores produzido por defici\u00eancia de tiamina. O Instituto Nacional de Abuso de \u00c1lcool e Alcoolismo tamb\u00e9m apoia pesquisas sobre esses dist\u00farbios."
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "qid":"0001132-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dem\u00eancia e condu\u00e7\u00e3o?",
+        "answer":""
+    },
+    {
+        "qid":"0001132-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da dem\u00eancia e da condu\u00e7\u00e3o?",
+        "answer":""
+    }
+]

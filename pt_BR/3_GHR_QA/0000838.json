@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000838-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de prote\u00edna S?",
+        "answer":"Defici\u00eancia de prote\u00edna S \u00e9 uma desordem da coagula\u00e7\u00e3o do sangue. Pessoas com esta condi\u00e7\u00e3o t\u00eam um risco aumentado de desenvolver co\u00e1gulos sangu\u00edneos anormais. Indiv\u00edduos com defici\u00eancia ligeira de prote\u00edna S est\u00e3o em risco de um tipo de co\u00e1gulo chamado trombose venosa profunda (TVP) que ocorre nas veias profundas dos bra\u00e7os ou pernas. Se uma TVP viaja pela corrente sangu\u00ednea e se hospeda nos pulm\u00f5es, pode causar um co\u00e1gulo que amea\u00e7a a vida conhecido como embolia pulmonar (EP). Outros fatores podem aumentar o risco de co\u00e1gulos sangu\u00edneos anormais em pessoas com defici\u00eancia ligeira de prote\u00edna S. Esses fatores incluem aumento de idade, cirurgia, imobilidade ou gravidez. A combina\u00e7\u00e3o de defici\u00eancia de prote\u00edna S e outros dist\u00farbios herdados da coagula\u00e7\u00e3o do sangue tamb\u00e9m pode influenciar o risco. Muitas pessoas com defici\u00eancia leve de prote\u00edna S nunca desenvolvem um co\u00e1gulo sangu\u00edneo anormal, no entanto. Em casos graves de defici\u00eancia de prote\u00edna S, os beb\u00eas desenvolvem um dist\u00farbio de coagula\u00e7\u00e3o sangu\u00ednea amea\u00e7ador de vida chamado purpura fulminans logo ap\u00f3s o nascimento. Purpura fulminans \u00e9 caracterizada pela forma\u00e7\u00e3o de co\u00e1gulos sangu\u00edneos em pequenos vasos sangu\u00edneos em todo o corpo. Esses co\u00e1gulos de sangue interrompem o fluxo sangu\u00edneo normal e podem levar \u00e0 morte do tecido corporal (necrose). A coagula\u00e7\u00e3o sangu\u00ednea ampla usa todas as prote\u00ednas de coagula\u00e7\u00e3o sangu\u00ednea dispon\u00edveis. Como resultado, sangramento anormal ocorre em v\u00e1rias partes do corpo e \u00e9 frequentemente percept\u00edvel como grandes les\u00f5es da pele roxa. Indiv\u00edduos que sobrevivem ao rec\u00e9m-nascido podem ter epis\u00f3dios recorrentes de fulminantes de p\u00farpura."
+    },
+    {
+        "qid":"0000838-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de prote\u00edna S?",
+        "answer":"Estima-se que a defici\u00eancia de prote\u00edna S leve ocorre em aproximadamente 1 em 500 indiv\u00edduos. A defici\u00eancia grave de prote\u00edna S \u00e9 rara; no entanto, sua preval\u00eancia exata \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000838-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de prote\u00edna S?",
+        "answer":"A defici\u00eancia de prote\u00edna S \u00e9 causada por muta\u00e7\u00f5es no gene PROS1. Este gene fornece instru\u00e7\u00f5es para fazer prote\u00edna S, que \u00e9 encontrada na corrente sangu\u00ednea e \u00e9 importante para controlar a coagula\u00e7\u00e3o sangu\u00ednea. Prote\u00edna S ajuda a bloquear a atividade de (inativar) certas prote\u00ednas que promovem a forma\u00e7\u00e3o de co\u00e1gulos sangu\u00edneos. A maioria das muta\u00e7\u00f5es que causam defici\u00eancia de prote\u00edna S mudam blocos de constru\u00e7\u00e3o de prote\u00ednas \u00fanicas (amino\u00e1cidos) na prote\u00edna S, o que interrompe sua capacidade de controlar a coagula\u00e7\u00e3o sangu\u00ednea. Indiv\u00edduos com esta condi\u00e7\u00e3o n\u00e3o t\u00eam prote\u00edna S funcional suficiente para inativar prote\u00ednas coagulantes, o que resulta no risco aumentado de desenvolver co\u00e1gulos sangu\u00edneos anormais. A defici\u00eancia de prote\u00edna S pode ser dividida em tipos I, II e III com base em como muta\u00e7\u00f5es no gene PROS1 afetam a prote\u00edna S."
+    },
+    {
+        "qid":"0000838-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de prote\u00edna S \u00e9 herdada?",
+        "answer":"A defici\u00eancia de prote\u00edna S \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia alterada do gene PROS1 em cada c\u00e9lula \u00e9 suficiente para causar defici\u00eancia de prote\u00edna S leve. Indiv\u00edduos que herdam duas c\u00f3pias alteradas deste gene em cada c\u00e9lula t\u00eam defici\u00eancia grave de prote\u00edna S."
+    },
+    {
+        "qid":"0000838-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a defici\u00eancia de prote\u00edna S?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da defici\u00eancia de prote\u00edna S: - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de Prote\u00edna S - MedlinePlus Enciclopedia: Defici\u00eancia de Prote\u00edna C ou S Cong\u00e9nita - MedlinePlus Enciclopedia: Necrose - MedlinePlus Enciclopedia: Prote\u00edna S - MedlinePlus Enciclopedia: Purpura Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

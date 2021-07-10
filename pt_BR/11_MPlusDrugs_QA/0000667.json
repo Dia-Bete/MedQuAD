@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0000667-1",
+        "qtype":"indication",
+        "question":"Quem deveria pegar Ketotifen Ophtalmic e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000667-2",
+        "qtype":"usage",
+        "question":"Como Ketotifen Ophtalmic deve ser usado e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000667-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Ketotifen Ophtalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0000667-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Ketotifen Ophtalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0000667-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Ketotifen Ophtalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0000667-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos de Ketotifen Ophtalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0000667-8",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Ketotifen Ophtalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0000667-9",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Ketotifen Ophtalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0000667-10",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de Ketotifen Ophtalmic?",
+        "answer":""
+    }
+]

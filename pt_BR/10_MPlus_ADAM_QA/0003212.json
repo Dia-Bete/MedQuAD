@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0003212-1",
+        "qtype":"information",
+        "question":"O que \u00e9 prevenir quedas?",
+        "answer":""
+    },
+    {
+        "qid":"0003212-2",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para prevenir quedas?",
+        "answer":""
+    },
+    {
+        "qid":"0003212-4",
+        "qtype":"considerations",
+        "question":"O que fazer para prevenir quedas?",
+        "answer":""
+    },
+    {
+        "qid":"0003212-6",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para prevenir quedas?",
+        "answer":""
+    }
+]

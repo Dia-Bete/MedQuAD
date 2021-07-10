@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000388-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a ataxia de Friedreich?",
+        "answer":"Friedreich ataxia \u00e9 uma condi\u00e7\u00e3o gen\u00e9tica que afeta o sistema nervoso e causa problemas de movimento. Pessoas com essa condi\u00e7\u00e3o desenvolvem coordena\u00e7\u00e3o muscular prejudicada (ataxia) que piora ao longo do tempo. Outras caracter\u00edsticas desta condi\u00e7\u00e3o incluem a perda gradual de for\u00e7a e sensa\u00e7\u00e3o nos bra\u00e7os e pernas, rigidez muscular (espasticidade) e fala prejudicada. Indiv\u00edduos com ataxia de Friedreich muitas vezes t\u00eam uma forma de doen\u00e7a card\u00edaca chamada cardiomiopatia hipertr\u00f3fica que amplia e enfraquece o m\u00fasculo card\u00edaco. Alguns indiv\u00edduos afetados desenvolvem diabetes, vis\u00e3o prejudicada, perda auditiva, ou uma curvatura anormal da coluna (escoliose). A maioria das pessoas com ataxia de Friedreich come\u00e7a a sentir os sinais e sintomas do dist\u00farbio em torno da puberdade. Mau equil\u00edbrio ao andar e falar mal s\u00e3o muitas vezes as primeiras caracter\u00edsticas not\u00e1veis. Indiv\u00edduos afetados normalmente requerem o uso de uma cadeira de rodas cerca de 10 anos ap\u00f3s aparecerem sinais e sintomas. Cerca de 25% das pessoas com ataxia de Friedreich t\u00eam uma forma at\u00edpica que come\u00e7a depois dos 25 anos. Indiv\u00edduos afetados que desenvolvem ataxia de Friedreich entre 26 e 39 anos s\u00e3o considerados ter ataxia de Friedreich (LOFA). Quando os sinais e sintomas come\u00e7am ap\u00f3s os 40 anos, a condi\u00e7\u00e3o \u00e9 chamada de ataxia de Friedreich (VLOFA). LOFA e VLOFA geralmente progridem mais lentamente do que a ataxia t\u00edpica de Friedreich."
+    },
+    {
+        "qid":"0000388-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela ataxia de Friedreich?",
+        "answer":"Estima-se que a ataxia de Friedreich afete 1 em 40.000 pessoas. Esta condi\u00e7\u00e3o \u00e9 encontrada em pessoas com ascend\u00eancias europeias, do Oriente M\u00e9dio ou norte-africanas. Raramente \u00e9 identificado em outros grupos \u00e9tnicos."
+    },
+    {
+        "qid":"0000388-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 ataxia de Friedreich?",
+        "answer":"Muta\u00e7\u00f5es no gene FXN causam ataxia de Friedreich. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada frataxina. Embora seu papel n\u00e3o seja totalmente entendido, a frataxina parece ser importante para a fun\u00e7\u00e3o normal das mitoc\u00f4ndrias, os centros de produ\u00e7\u00e3o de energia dentro das c\u00e9lulas. Uma regi\u00e3o do gene FXN cont\u00e9m um segmento de DNA conhecido como uma repeti\u00e7\u00e3o de trinucle\u00f3tido GAA. Este segmento \u00e9 composto por uma s\u00e9rie de tr\u00eas blocos de constru\u00e7\u00e3o de DNA (uma guanina e duas adeninas) que aparecem v\u00e1rias vezes seguidas. Normalmente, este segmento \u00e9 repetido 5 a 33 vezes dentro do gene FXN. Em pessoas com ataxia de Friedreich, o segmento GAA \u00e9 repetido de 66 a mais de 1.000 vezes. O comprimento da repeti\u00e7\u00e3o do trinucle\u00f3tido GAA parece estar relacionado \u00e0 idade em que os sintomas da ataxia de Friedreich aparecem. Pessoas com segmentos GAA repetidos menos de 300 vezes tendem a ter um aparecimento tardio de sintomas (despois dos 25 anos) do que aqueles com maiores repeti\u00e7\u00f5es de trinucle\u00f3tido GAA. A repeti\u00e7\u00e3o anormalmente longa do trinucle\u00f3tido GAA interrompe a produ\u00e7\u00e3o de frataxina, o que reduz severamente a quantidade desta prote\u00edna nas c\u00e9lulas. Certas c\u00e9lulas nervosas e musculares n\u00e3o podem funcionar corretamente com uma escassez de frataxina, levando aos sinais e sintomas caracter\u00edsticos da ataxia de Friedreich."
+    },
+    {
+        "qid":"0000388-4",
+        "qtype":"inheritance",
+        "question":"Friedreich est\u00e1 herdada de ataxia?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000388-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a ataxia de Friedreich?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou gerenciamento da ataxia de Friedreich: - Friedreich's Ataxia Research Alliance: Clinical Care Guidelines - Gene Review: Gene Review: Friedreich Ataxia - Gene Testing Registry: Friedreich Ataxia 1 - MedlinePlus Enciclopedia: Friedreich's Ataxia - MedlinePlus Enciclopedia: Hipertrofic Cardiomiopathy - National Institute of Neurological Disorders and Stroke: Friedreich's Ataxia Fact Sheet Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o gerenciamento de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes diagn\u00f3sticos - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

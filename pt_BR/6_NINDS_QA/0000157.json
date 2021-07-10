@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000157-1",
+        "qtype":"information",
+        "question":"O que \u00e9 hipersomnia?",
+        "answer":"A hiperssonia \u00e9 caracterizada por epis\u00f3dios recorrentes de sonol\u00eancia diurna excessiva ou sono prolongado \u00e0 noite. Diferente de se sentir cansado por falta de sono ou interrompido \u00e0 noite, pessoas com hipers\u00f4nia s\u00e3o obrigadas a dormir repetidamente durante o dia, muitas vezes em momentos inadequados, como no trabalho, durante uma refei\u00e7\u00e3o, ou na conversa. Essas sonecas diurnas geralmente n\u00e3o d\u00e3o al\u00edvio aos sintomas. Os pacientes muitas vezes t\u00eam dificuldade em acordar de um longo sono, e podem se sentir desorientados. Outros sintomas podem incluir ansiedade, irrita\u00e7\u00e3o aumentada, diminui\u00e7\u00e3o de energia, inquieta\u00e7\u00e3o, pensamento lento, fala lenta, perda de apetite, alucina\u00e7\u00f5es e dificuldade de mem\u00f3ria. Alguns pacientes perdem a capacidade de funcionar em ambientes familiares, sociais, ocupacionais ou outros. A hiperssonia pode ser causada por outro dist\u00farbio do sono (como narcolepsia ou apneia do sono), disfun\u00e7\u00e3o do sistema nervoso aut\u00f4nomo, ou abuso de drogas ou \u00e1lcool. Em alguns casos resulta de um problema f\u00edsico, como um tumor, traumatismo craniano, ou les\u00e3o no sistema nervoso central. Alguns medicamentos, ou abstin\u00eancia de medicamentos, tamb\u00e9m podem causar hipers\u00f4nia. Condi\u00e7\u00f5es m\u00e9dicas, incluindo esclerose m\u00faltipla, depress\u00e3o, encefalite, epilepsia ou obesidade, podem contribuir para o dist\u00farbio. Algumas pessoas parecem ter predisposi\u00e7\u00e3o gen\u00e9tica \u00e0 hipers\u00f4nia; em outras, n\u00e3o h\u00e1 causa conhecida. Normalmente, a hipers\u00f4nia \u00e9 reconhecida pela primeira vez na adolesc\u00eancia ou na juventude adulta."
+    },
+    {
+        "qid":"0000157-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Hipersomnia?",
+        "answer":"O tratamento \u00e9 sintom\u00e1tico na natureza. Estimulantes, como anfetamina, metilfenidato e modafinil, podem ser prescritos. Outras drogas usadas para tratar a hipers\u00f4nia incluem clonidina, levodopa, bromocriptina, antidepressivos e inibidores da monoaminooxidase. Mudan\u00e7as de comportamento (por exemplo, evitar trabalho noturno e atividades sociais que atrasam o hor\u00e1rio de cama) e dieta podem oferecer algum al\u00edvio. Pacientes devem evitar \u00e1lcool e cafe\u00edna."
+    },
+    {
+        "qid":"0000157-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Hipersomnia?",
+        "answer":"O progn\u00f3stico das pessoas com hipers\u00f4nia depende da causa do dist\u00farbio. Embora o dist\u00farbio em si n\u00e3o seja amea\u00e7ador de vida, pode ter s\u00e9rias consequ\u00eancias, como acidentes de autom\u00f3vel causados por adormecer enquanto dirigia. Os ataques continuam indefinidamente."
+    },
+    {
+        "qid":"0000157-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Hipersomnia?",
+        "answer":"O NINDS apoia e conduz pesquisas sobre dist\u00farbios do sono, como hipersomnia. O objetivo desta pesquisa \u00e9 aumentar a compreens\u00e3o cient\u00edfica da condi\u00e7\u00e3o, encontrar m\u00e9todos melhorados para diagnostic\u00e1-la e trat\u00e1-la, e descobrir maneiras de preveni-la."
+    }
+]

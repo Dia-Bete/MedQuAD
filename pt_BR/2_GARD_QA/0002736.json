@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0002736-1",
+        "qtype":"information",
+        "question":"Qual \u00e9 a s\u00edndrome de Hashimoto?",
+        "answer":"A s\u00edndrome de Hashimotos \u00e9 uma forma de inflama\u00e7\u00e3o cr\u00f4nica que pode danificar a tireoide, reduzindo sua capacidade de produzir horm\u00f4nios (hipotiroidismo). Um sinal precoce da condi\u00e7\u00e3o pode ser o aumento da tireoide (chamado de boi), que pode interferir potencialmente na respira\u00e7\u00e3o ou degluti\u00e7\u00e3o. Outros sinais e sintomas podem incluir cansa\u00e7o, ganho de peso, cabelos finos e secos, dor nas articula\u00e7\u00f5es ou nos m\u00fasculos, obstipa\u00e7\u00e3o, intoler\u00e2ncia ao frio e/ou freq\u00fc\u00eancia card\u00edaca mais lenta. Mulheres afetadas podem ter per\u00edodos menstruais irregulares ou dificuldade em engravidar. A s\u00edndrome de Hashimotos \u00e9 a causa mais comum de hipotireoidismo nos Estados Unidos. \u00c9 mais comum nas mulheres do que nos homens, e geralmente aparece no meio da idade adulta. A causa exata \u00e9 desconhecida, mas acha-se que resulta de uma combina\u00e7\u00e3o de fatores gen\u00e9ticos e ambientais. O tratamento nem sempre \u00e9 necess\u00e1rio, mas pode incluir o uso de horm\u00f4nio tireoide sint\u00e9tico."
+    },
+    {
+        "qid":"0002736-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome de Hashimoto?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da s\u00edndrome de Hashimoto? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para a s\u00edndrome de Hashimoto. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Positividade de anticorpos autoimunes - Heran\u00e7a autoss\u00f4mica dominante - Tiroidite de Hashimoto - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0002736-3",
+        "qtype":"causes",
+        "question":"O que causa a s\u00edndrome de Hashimoto?",
+        "answer":"O que causa a s\u00edndrome de Hashimotos? A s\u00edndrome de Hashimoto \u00e9 um dist\u00farbio autoimune que se pensa que resulta de uma combina\u00e7\u00e3o de fatores gen\u00e9ticos e ambientais. Alguns desses fatores foram identificados, mas muitos permanecem desconhecidos. Pessoas com s\u00edndrome de Hashimotos t\u00eam anticorpos contra v\u00e1rios ant\u00edgenos da tireoide. Os anticorpos \"atacam\" a tireoide, resultando em danos \u00e0 gl\u00e2ndula. A maioria dos genes associados \u00e0 s\u00edndrome de Hashimotos s\u00e3o parte de uma fam\u00edlia de genes chamada de complexo de ant\u00edgeno leuc\u00f3cito humano (HLA), que ajuda o sistema imunol\u00f3gico a distinguir as prote\u00ednas do pr\u00f3prio corpo de prote\u00ednas feitas por v\u00edrus e bact\u00e9rias ou outros agentes. No entanto, os fatores gen\u00e9ticos t\u00eam apenas um pequeno efeito sobre o risco geral de uma pessoa desenvolver essa condi\u00e7\u00e3o. Fatores n\u00e3o gen\u00e9ticos que podem desencadear a condi\u00e7\u00e3o em pessoas em risco podem incluir altera\u00e7\u00f5es nos horm\u00f4nios sexuais (em especial nas mulheres), infec\u00e7\u00f5es virais, certos medicamentos, exposi\u00e7\u00e3o \u00e0 radia\u00e7\u00e3o ionizante, e consumo excessivo de iodo (uma subst\u00e2ncia envolvida na produ\u00e7\u00e3o de horm\u00f4nios tireoide)."
+    },
+    {
+        "qid":"0002736-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Hashimoto \u00e9 herdada?",
+        "answer":"A s\u00edndrome de Hashimoto \u00e9 herdada? O padr\u00e3o de heran\u00e7a da s\u00edndrome de Hashimoto n\u00e3o est\u00e1 claro porque muitos fatores gen\u00e9ticos e ambientais parecem estar envolvidos. No entanto, a condi\u00e7\u00e3o pode se agrupar em fam\u00edlias, e ter um parente pr\u00f3ximo com a s\u00edndrome de Hashimoto ou outro dist\u00farbio autoimune provavelmente aumenta o risco de uma pessoa desenvolver a condi\u00e7\u00e3o."
+    }
+]

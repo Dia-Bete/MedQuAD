@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000111-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o os dist\u00farbios de degluti\u00e7\u00e3o?",
+        "answer":"Ter dificuldade em engolir (disfagia) \u00e9 um sintoma que acompanha uma s\u00e9rie de dist\u00farbios neurol\u00f3gicos. O problema pode ocorrer em qualquer est\u00e1gio do processo normal de degluti\u00e7\u00e3o enquanto alimentos e l\u00edquidos se movem da boca, pela parte de tr\u00e1s da garganta, atrav\u00e9s do es\u00f4fago e para o est\u00f4mago. Dificuldades podem variar de uma incapacidade total de engolir, tosse ou sufocar porque o alimento ou l\u00edquido est\u00e1 entrando na traqueia, que \u00e9 referido como aspira\u00e7\u00e3o. Quando a aspira\u00e7\u00e3o \u00e9 frequente, uma pessoa pode estar em risco de desenvolver pneumonia. A comida pode ficar \"aprisionada\" na garganta ou indiv\u00edduos podem babar porque n\u00e3o conseguem engolir sua saliva. As condi\u00e7\u00f5es neurol\u00f3gicas que podem causar dificuldades de degluti\u00e7\u00e3o s\u00e3o: acidente vascular cerebral (a causa mais comum de disfagia); les\u00e3o cerebral traum\u00e1tica; paralisia cerebral; doen\u00e7a de Parkinson e outros dist\u00farbios neurol\u00f3gicos degenerativos como esclerose lateral amiotr\u00f3fica (ALS, tamb\u00e9m conhecida como doen\u00e7a de Lou Gehrig), esclerose m\u00faltipla, paralisia supranuclear progressiva, doen\u00e7a de Huntington, e miastenia gravis. Distrofia muscular e distrofia miot\u00f4nica s\u00e3o acompanhadas por disfagia, que \u00e9 tamb\u00e9m o sintoma cardinal da distrofia muscular oculofar\u00edngea, uma rara, transtorno gen\u00e9tico progressivo."
+    },
+    {
+        "qid":"0000111-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para os dist\u00farbios de degluti\u00e7\u00e3o?",
+        "answer":"Mudar a dieta de uma pessoa adicionando espessantes ajuda muitas pessoas, assim como aprender diferentes maneiras de comer e mastigar que reduzem o risco de aspira\u00e7\u00e3o. Ocasionalmente, terapia medicamentosa que ajuda o dist\u00farbio neurol\u00f3gico tamb\u00e9m pode ajudar a disfagia. Em algumas pessoas, inje\u00e7\u00f5es de toxina botul\u00ednica podem ajudar quando alimentos ou l\u00edquidos n\u00e3o podem entrar no es\u00f4fago para chegar ao est\u00f4mago. Pessoas com defici\u00eancias mais graves podem necessitar de cirurgia ou inser\u00e7\u00e3o de tubos de alimenta\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000111-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para os dist\u00farbios de degluti\u00e7\u00e3o?",
+        "answer":"O progn\u00f3stico depende do tipo de problema de degluti\u00e7\u00e3o e do curso do dist\u00farbio neurol\u00f3gico que o produz. Em alguns casos, a disfagia pode ser parcialmente ou completamente corrigida usando manipula\u00e7\u00e3o de dieta ou m\u00e9todos n\u00e3o invasivos. Em outros, especialmente quando a disfagia est\u00e1 causando aspira\u00e7\u00e3o e preven\u00e7\u00e3o de nutri\u00e7\u00e3o adequada e causando perda de peso, pode exigir interven\u00e7\u00e3o agressiva como um tubo de alimenta\u00e7\u00e3o. Para aqueles com dist\u00farbios neurol\u00f3gicos degenerativos progressivos, a disfagia ser\u00e1 apenas um em um grupo de sintomas e defici\u00eancias que precisam ser tratados."
+    },
+    {
+        "qid":"0000111-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para os dist\u00farbios de degluti\u00e7\u00e3o?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS) e outros institutos dos Institutos Nacionais de Sa\u00fade conduzem pesquisas relacionadas \u00e0 disfagia em suas cl\u00ednicas e laborat\u00f3rios e apoiam pesquisas adicionais atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. Grande parte desta pesquisa se concentra em encontrar melhores maneiras de tratar a disfagia."
+    }
+]

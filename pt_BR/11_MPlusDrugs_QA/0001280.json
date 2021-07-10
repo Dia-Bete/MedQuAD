@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0001280-1",
+        "qtype":"why get vaccinated",
+        "question":"Por que ser vacinado com Vacina Varicella (Chickenpox)?",
+        "answer":""
+    },
+    {
+        "qid":"0001280-2",
+        "qtype":"indication",
+        "question":"Quem deveria receber Vacina Varicella (Chickenpox) e por que \u00e9 prescrita?",
+        "answer":""
+    },
+    {
+        "qid":"0001280-3",
+        "qtype":"contraindication",
+        "question":"Quem n\u00e3o deve receber Vacina Varicella (Chickenpox) e quais s\u00e3o suas contra-indica\u00e7\u00f5es?",
+        "answer":""
+    },
+    {
+        "qid":"0001280-4",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Vacina Varicella (Chickenpox)?",
+        "answer":""
+    },
+    {
+        "qid":"0001280-5",
+        "qtype":"severe reaction",
+        "question":"O que fazer em caso de rea\u00e7\u00e3o grave \u00e0 Vacina Varicela (Chickenpox)?",
+        "answer":""
+    },
+    {
+        "qid":"0001280-7",
+        "qtype":"how can i learn more",
+        "question":"Como posso aprender mais sobre Vacina Varicella?",
+        "answer":""
+    },
+    {
+        "qid":"0001280-8",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes da Vacina Varicella (Chickenpox)?",
+        "answer":""
+    },
+    {
+        "qid":"0001280-9",
+        "qtype":"brand names of combination products",
+        "question":"Quais s\u00e3o os nomes de marcas de produtos combinados da Vacina Varicella (Chickenpox)?",
+        "answer":""
+    }
+]

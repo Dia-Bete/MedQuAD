@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0000092-1",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para a Febre Hemorr\u00e1gica Chapare (CHHF)? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"Como todos os arenav\u00edrus, o v\u00edrus Chapare tem um hospedeiro de roedores como reservat\u00f3rio. Os humanos podem contrair CHHF atrav\u00e9s do contato com um roedor infectado. O contato pode ser direto ou atrav\u00e9s da inala\u00e7\u00e3o do v\u00edrus do Chapare aerosol da urina ou fezes de roedores infectados. Embora os arenav\u00edrus tenham sido isolados de insetos, nem eles nem nenhum outro hospedeiro intermedi\u00e1rio parecem espalhar CHHF. Transmiss\u00e3o de pessoa a pessoa de arenav\u00edrus atrav\u00e9s de aerosol, embora poss\u00edvel, \u00e9 raro. Do \u00fanico grupo de casos observados de HCHF, n\u00e3o havia evid\u00eancia de transmiss\u00e3o de pessoa a pessoa. Transmiss\u00e3o, se pode ocorrer com CHHF, \u00e9 provavelmente o resultado de contato direto com uma pessoa infectada."
+    },
+    {
+        "qid":"0000092-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da febre hemorr\u00e1gica Chapare (CHHF)?",
+        "answer":"Os sintomas do HCHF, como relatado no \u00fanico paciente descrito, se assemelham aos de outras febres hemorr\u00e1gicas sul-americanas, como o HF argentino ou o HF boliviano. O per\u00edodo de incuba\u00e7\u00e3o \u00e9 desconhecido, mas para a febre hemorr\u00e1gica argentina (AHF) \u00e9 de 6 a 16 dias. O curso cl\u00ednico da HCHF incluiu: - febre - cefaleia - articula\u00e7\u00e3o e dor muscular - v\u00f3mitos Estes sintomas foram seguidos por deteriora\u00e7\u00e3o com sinais hemorr\u00e1gicos m\u00faltiplos. O \u00fanico paciente com HCHF descrito morreu 14 dias ap\u00f3s o in\u00edcio dos sintomas. Como os Arenav\u00edrus podem entrar no feto atrav\u00e9s da infec\u00e7\u00e3o da m\u00e3e, e evid\u00eancias aned\u00f3ticas sugerem que mulheres gr\u00e1vidas infectadas podem sofrer abortos espont\u00e2neos, \u00e9 razo\u00e1vel supor que tanto a infec\u00e7\u00e3o do feto e aborto espont\u00e2neo podem estar associados com infec\u00e7\u00e3o por HCHF na m\u00e3e."
+    },
+    {
+        "qid":"0000092-3",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para a Febre Hemorr\u00e1gica Chapare (CHHF)? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"O CHHF ocorre na regi\u00e3o de Cochabamba, na Bol\u00edvia. Trabalhadores de campo Os trabalhadores de campo est\u00e3o em maior risco devido ao aumento do contato humano com a popula\u00e7\u00e3o de roedores reservat\u00f3rios. Parceiros sexuais de trabalhadores de campo podem estar em maior risco tamb\u00e9m. Infec\u00e7\u00f5es de laborat\u00f3rio foram frequentemente descritas com Arenavirus e o v\u00edrus Chapare pode certamente ser transmitido aos trabalhadores de laborat\u00f3rio durante a manipula\u00e7\u00e3o do v\u00edrus, especialmente durante infec\u00e7\u00f5es experimentais de roedores."
+    },
+    {
+        "qid":"0000092-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a febre hemorr\u00e1gica da Chapare (CHHF)?",
+        "answer":"O v\u00edrus CHHF foi isolado com sucesso de sangue e soro durante a fase febril aguda da doen\u00e7a. Embora n\u00e3o tenha sido feito no momento do aglomerado inicial, o v\u00edrus certamente pode ser isolado do tecido obtido p\u00f3s-mortem, se dispon\u00edvel. Uma an\u00e1lise gen\u00f4mica completa subsequente do v\u00edrus Chapare facilitou o desenvolvimento de ensaios de detec\u00e7\u00e3o molecular espec\u00edfica (RT-PCR). O diagn\u00f3stico sorol\u00f3gico de HCHF pode ser feito por meio de ensaio imunofluorescente indireto e ELISA. No entanto, indiv\u00edduos de \u00e1reas end\u00eamicas que mostram febre, tonturas e mialgia, acompanhados de achados laboratoriais de baixa contagem de gl\u00f3bulos brancos e plaquetas e excesso de prote\u00edna na urina, devem ser suspeitos de ter um dos v\u00edrus da febre hemorr\u00e1gica sul-americana. Esp\u00e9cimes cl\u00ednicos devem ser testados usando ensaios espec\u00edficos."
+    },
+    {
+        "qid":"0000092-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Febre Hemorr\u00e1gica Chapare (CHHF)?",
+        "answer":"Terapia de apoio \u00e9 importante na HCHF. Isso inclui: - manuten\u00e7\u00e3o da hidrata\u00e7\u00e3o - controle do choque - seda\u00e7\u00e3o - al\u00edvio da dor - precau\u00e7\u00f5es habituais para pacientes com dist\u00farbios hemorr\u00e1gicos - transfus\u00f5es (quando necess\u00e1rio) Uso de terapia plasm\u00e1tica convalescente para o tratamento da AHF reduz a mortalidade significativamente e evid\u00eancias aned\u00f3ticas mostram que a ribavirina antiviral tamb\u00e9m pode ter promessa para o tratamento da AHF. Ribavirina tamb\u00e9m tem sido considerada para prevenir o desenvolvimento de doen\u00e7as em pessoas expostas a outros arenav\u00edrus. Recupera\u00e7\u00e3o A mortalidade precisa do HCHF \u00e9 desconhecida e o \u00fanico caso descrito foi fatal. Pacientes que sofreram de outros arenav\u00edrus podem continuar a excretar v\u00edrus na urina ou s\u00eamen por semanas ap\u00f3s a recupera\u00e7\u00e3o. Por esta raz\u00e3o, esses fluidos devem ser monitorados para infectividade, j\u00e1 que pacientes convalescentes t\u00eam o potencial de infectar outros (especialmente parceiros sexuais) atrav\u00e9s desses fluidos."
+    },
+    {
+        "qid":"0000092-6",
+        "qtype":"prevention",
+        "question":"Como prevenir a febre hemorr\u00e1gica do Chapare (CHHF)?",
+        "answer":"Embora o controle dos roedores seja desej\u00e1vel, n\u00e3o ser\u00e1 uma estrat\u00e9gia bem sucedida para prevenir casos de febre hemorr\u00e1gica causados por exposi\u00e7\u00f5es ao ar livre. Quanto a outras febres hemorr\u00e1gicas, procedimentos de enfermagem de barreira completa devem ser implementados durante o tratamento de casos suspeitos ou confirmados de HCHF."
+    }
+]

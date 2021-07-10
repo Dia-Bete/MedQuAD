@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0003860-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Tay-Sachs?",
+        "answer":""
+    },
+    {
+        "qid":"0003860-2",
+        "qtype":"causes",
+        "question":"O que causa a doen\u00e7a de Tay-Sachs?",
+        "answer":""
+    },
+    {
+        "qid":"0003860-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da doen\u00e7a de Tay-Sachs?",
+        "answer":""
+    },
+    {
+        "qid":"0003860-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a doen\u00e7a de Tay-Sachs?",
+        "answer":""
+    },
+    {
+        "qid":"0003860-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Tay-Sachs?",
+        "answer":""
+    },
+    {
+        "qid":"0003860-6",
+        "qtype":"support groups",
+        "question":"Onde encontrar apoio para pessoas com doen\u00e7a de Tay-Sachs?",
+        "answer":""
+    },
+    {
+        "qid":"0003860-7",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a doen\u00e7a de Tay-Sachs?",
+        "answer":""
+    },
+    {
+        "qid":"0003860-8",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da doen\u00e7a de Tay-Sachs?",
+        "answer":""
+    },
+    {
+        "qid":"0003860-9",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para a doen\u00e7a de Tay-Sachs?",
+        "answer":""
+    },
+    {
+        "qid":"0003860-10",
+        "qtype":"prevention",
+        "question":"Como prevenir a doen\u00e7a de Tay-Sachs?",
+        "answer":""
+    }
+]

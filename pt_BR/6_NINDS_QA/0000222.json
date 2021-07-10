@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000222-1",
+        "qtype":"information",
+        "question":"O que \u00e9 parestesia?",
+        "answer":"A parestesia refere-se a uma sensa\u00e7\u00e3o de queimadura ou picada que geralmente \u00e9 sentida nas m\u00e3os, bra\u00e7os, pernas ou p\u00e9s, mas tamb\u00e9m pode ocorrer em outras partes do corpo. A sensa\u00e7\u00e3o, que acontece sem aviso, \u00e9 geralmente indolor e descrita como formigueiro ou dorm\u00eancia, pele rastejando, ou comich\u00e3o. A maioria das pessoas tem experimentado uma parestesia tempor\u00e1ria... uma sensa\u00e7\u00e3o de \"pinos e agulhas\"... em algum momento de sua vida, quando eles sentaram com pernas cruzadas por muito tempo, ou adormeceram com um bra\u00e7o torto debaixo da cabe\u00e7a. Acontece quando a press\u00e3o sustentada \u00e9 colocada em um nervo. A sensa\u00e7\u00e3o desaparece rapidamente uma vez que a press\u00e3o \u00e9 aliviada. Parestesia cr\u00f4nica \u00e9 frequentemente um sintoma de uma doen\u00e7a neurol\u00f3gica subjacente ou dano nervo traum\u00e1tico. A parestesia pode ser causada por dist\u00farbios que afetam o sistema nervoso central, como acidente vascular cerebral e ataques isqu\u00eamicos transit\u00f3rios (mini-AVC), esclerose m\u00faltipla, mielite transversal e encefalite. Um tumor ou les\u00e3o vascular pressionado contra o c\u00e9rebro ou medula espinhal tamb\u00e9m pode causar parestesia. S\u00edndromes de encurralamento nervoso, como s\u00edndrome do t\u00fanel carpal, podem danificar os nervos perif\u00e9ricos e causar parestesia acompanhada de dor. A avalia\u00e7\u00e3o diagn\u00f3stica \u00e9 baseada na determina\u00e7\u00e3o da condi\u00e7\u00e3o subjacente causando as sensa\u00e7\u00f5es parest\u00e9ticas. A hist\u00f3ria m\u00e9dica de um indiv\u00edduo, exame f\u00edsico e exames de laborat\u00f3rio s\u00e3o essenciais para o diagn\u00f3stico. Os m\u00e9dicos podem pedir exames adicionais dependendo da causa suspeita da parestesia."
+    },
+    {
+        "qid":"0000222-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para parestesia?",
+        "answer":"O tratamento apropriado para a parestesia depende do diagn\u00f3stico preciso da causa subjacente."
+    },
+    {
+        "qid":"0000222-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva da parestesia?",
+        "answer":"O progn\u00f3stico para aqueles com parestesia depende da gravidade das sensa\u00e7\u00f5es e dos dist\u00farbios associados."
+    },
+    {
+        "qid":"0000222-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Parestesia?",
+        "answer":"O NINDS apoia pesquisas sobre dist\u00farbios do c\u00e9rebro, medula espinhal e nervos perif\u00e9ricos que podem causar parestesia. Os objetivos desta pesquisa s\u00e3o aumentar a compreens\u00e3o cient\u00edfica desses dist\u00farbios e encontrar maneiras de preveni-los, tratar e cur\u00e1-los."
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "qid":"0002337-1",
+        "qtype":"information",
+        "question":"O que \u00e9 trombocitopenia fetal e neonatal aloimune?",
+        "answer":"Trombocitopenia aloimune fetal e neonatal (TNA) \u00e9 uma condi\u00e7\u00e3o em que um feto ou rec\u00e9m-nascido sofre trombocitopenia grave (contagem baixa de plaquetas). O NAIT ocorre quando o sistema imunol\u00f3gico da m\u00e3e desenvolve anticorpos contra ant\u00edgenos nas plaquetas fetais, que s\u00e3o herdadas do pai e diferentes daqueles presentes na m\u00e3e. Estes anticorpos cruzam a placenta e podem causar trombocitopenia grave no feto. O NAIT tem sido considerado a contraparte plaquet\u00e1ria da doen\u00e7a hemol\u00edtica de Rh do rec\u00e9m-nascido (RDH). A incid\u00eancia foi estimada em 1/800 a 1/1000 nascidos vivos. O espectro da doen\u00e7a pode variar de trombocitopenia leve a sangramento com risco de vida."
+    },
+    {
+        "qid":"0002337-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para trombocitopenia fetal e neonatal aloimune?",
+        "answer":"Como pode a trombocitopenia aloimune fetal e neonatal ser tratada? O NAIT \u00e9 muitas vezes inesperado e geralmente \u00e9 diagnosticado ap\u00f3s o nascimento. Uma vez suspeito, o diagn\u00f3stico \u00e9 confirmado por demonstra\u00e7\u00e3o de anticorpos antiplaquet\u00e1rios maternos direcionados contra um ant\u00edgeno paterno herdado pelo beb\u00ea. O manejo no per\u00edodo rec\u00e9m-nascido envolve transfus\u00e3o de plaquetas que n\u00e3o cont\u00eam os ant\u00edgenos espec\u00edficos. Diagn\u00f3stico e tratamento imediato s\u00e3o essenciais para reduzir as chances de morte e incapacidade devido a sangramento grave."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000038-1",
+        "qtype":"information",
+        "question":"O que \u00e9 S\u00edndrome de Barth?",
+        "answer":"A s\u00edndrome de Barth (BTHS) \u00e9 um dist\u00farbio gen\u00e9tico raro do metabolismo lip\u00eddico que afeta principalmente os homens. \u00c9 causada por uma muta\u00e7\u00e3o no gene tafazzin (TAZ, tamb\u00e9m chamado G4.5) que leva \u00e0 diminui\u00e7\u00e3o da produ\u00e7\u00e3o de uma enzima necess\u00e1ria para produzir cardiolipina. Cardiolipina \u00e9 um lip\u00eddio essencial que \u00e9 importante no metabolismo energ\u00e9tico. A BTHS, que afeta v\u00e1rios sistemas corporais, \u00e9 considerada s\u00e9ria. Suas principais caracter\u00edsticas muitas vezes incluem combina\u00e7\u00f5es em graus variados de fraqueza muscular card\u00edaca (cardiomiopatia), neutropenia (concha de baixo n\u00edvel de gl\u00f3bulos brancos, que pode levar a um risco aumentado para infec\u00e7\u00f5es bacterianas), t\u00f4nus muscular reduzido (hipot\u00f4nia), fraqueza muscular, m\u00fasculos esquel\u00e9ticos n\u00e3o desenvolvidos, crescimento retardado, fadiga, graus variados de incapacidade f\u00edsica, e acid\u00faria metilglutac\u00f3nica (um aumento em um \u00e1cido org\u00e2nico que resulta em fun\u00e7\u00e3o mitoc\u00f4ndrica anormal). Embora alguns com BTHS possam ter todas essas caracter\u00edsticas, outros podem ter apenas um ou dois e muitas vezes s\u00e3o diagnosticados errados. BTHS \u00e9 uma condi\u00e7\u00e3o gen\u00e9tica ligada a X, transmitida de m\u00e3e para filho atrav\u00e9s do cromossomo X. Uma m\u00e3e que \u00e9 portadora de BTHS normalmente n\u00e3o mostra sinais ou sintomas do dist\u00farbio em si mesma. Em m\u00e9dia, 50% das crian\u00e7as nascidas de uma m\u00e3e portadora herdar\u00e3o o gene defeituoso, mas apenas meninos desenvolver\u00e3o sintomas. Todas as filhas nascidas de um homem afetado ser\u00e3o portadoras, mas normalmente n\u00e3o ter\u00e3o sintomas."
+    },
+    {
+        "qid":"0000038-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a S\u00edndrome de Barth?",
+        "answer":"N\u00e3o h\u00e1 tratamento espec\u00edfico para a s\u00edndrome de Barth. Infec\u00e7\u00f5es bacterianas causadas por neutropenia podem ser efetivamente tratadas com antibi\u00f3ticos. O fator estimulante da col\u00f4nia de granul\u00f3citos, ou GCSF, pode estimular a produ\u00e7\u00e3o de gl\u00f3bulos brancos pela medula \u00f3ssea e ajudar a combater infec\u00e7\u00f5es. Medicamentos podem ser prescritos para controlar problemas card\u00edacos. O suplemento diet\u00e9tico carnitina tem ajudado algumas crian\u00e7as com s\u00edndrome de Barth, mas em outras tem causado crescente fraqueza muscular e at\u00e9 mesmo insufici\u00eancia card\u00edaca precipitada. S\u00f3 um monitoramento diet\u00e9tico cuidadoso dirigido por um m\u00e9dico ou nutricionista familiarizado com o dist\u00farbio pode garantir a ingest\u00e3o calorica e nutricional adequada."
+    },
+    {
+        "qid":"0000038-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a S\u00edndrome de Barth?",
+        "answer":"Diagn\u00f3stico precoce e preciso \u00e9 chave para sobreviv\u00eancia prolongada para meninos nascidos com s\u00edndrome de Barth. O dist\u00farbio foi considerado uniformemente fatal na inf\u00e2ncia, mas alguns indiv\u00edduos est\u00e3o vivendo agora muito mais tempo. Infec\u00e7\u00f5es graves e insufici\u00eancia card\u00edaca s\u00e3o causas comuns de morte em crian\u00e7as afetadas."
+    },
+    {
+        "qid":"0000038-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a S\u00edndrome de Barth?",
+        "answer":"A miss\u00e3o do Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e AVC (NINDS) \u00e9 buscar conhecimento fundamental do c\u00e9rebro e do sistema nervoso e usar esse conhecimento para reduzir a carga da doen\u00e7a neurol\u00f3gica. O NINDS apoia pesquisas sobre dist\u00farbios gen\u00e9ticos como a s\u00edndrome de Barth, incluindo pesquisa b\u00e1sica sobre disfun\u00e7\u00e3o mitocondrial e investiga\u00e7\u00f5es de outros erros innatos do metabolismo. Cientistas identificaram muitas das muta\u00e7\u00f5es gen\u00e9ticas que causam doen\u00e7as mitocondriais e criaram modelos animais que podem ser usados para investigar tratamentos potenciais. Cientistas esperam desenvolver abordagens \u00fanicas para tratar doen\u00e7as mitocondriais atrav\u00e9s de uma melhor compreens\u00e3o da biologia mitocondrial. Porque as pessoas afetadas pela doen\u00e7a mitocondrial muitas vezes t\u00eam uma mistura de mitocondrias saud\u00e1veis e mutantes em suas c\u00e9lulas, terapia eficaz poderia envolver fazer com que as mitocondrias saud\u00e1veis assumissem o controle para as doentes."
+    }
+]

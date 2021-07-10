@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000545-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) doen\u00e7a de Batten juvenil?",
+        "answer":"A doen\u00e7a juvenil \u00e9 uma doen\u00e7a herdada que afeta principalmente o sistema nervoso. Ap\u00f3s alguns anos de desenvolvimento normal, crian\u00e7as com essa condi\u00e7\u00e3o desenvolvem perda de vis\u00e3o progressiva, defici\u00eancia intelectual e motora, dificuldades de fala e convuls\u00f5es. A defici\u00eancia visual \u00e9 frequentemente o primeiro sinal not\u00e1vel da doen\u00e7a juvenil de Batten, come\u00e7ando entre os 4 e 8 anos. Perda de vis\u00e3o tende a progredir rapidamente, eventualmente resultando em cegueira. Ap\u00f3s o comprometimento da vis\u00e3o ter come\u00e7ado, crian\u00e7as com doen\u00e7a de Batten jovem experimentam a perda de habilidades adquiridas anteriormente (regress\u00e3o do desenvolvimento), geralmente come\u00e7ando com a capacidade de falar em frases completas. Crian\u00e7as afetadas tamb\u00e9m t\u00eam dificuldade em aprender novas informa\u00e7\u00f5es. Al\u00e9m do decl\u00ednio intelectual, as crian\u00e7as afetadas perdem habilidades motoras como a capacidade de andar ou sentar. Eles tamb\u00e9m desenvolvem anormalidades de movimento que incluem rigidez ou rigidez, movimentos lentos ou diminu\u00eddos (hipocinesia), e postura entorpecida. Crian\u00e7as afetadas podem ter convuls\u00f5es recorrentes (epilepsia), problemas card\u00edacos, problemas comportamentais, dificuldade para dormir, e problemas com aten\u00e7\u00e3o que come\u00e7am no meio-a-tarde da inf\u00e2ncia. A maioria das pessoas com doen\u00e7a de Batten jovem vive em seus 20 ou 30 anos. A doen\u00e7a juvenil de Batten \u00e9 um de um grupo de dist\u00farbios conhecidos como lipofuscinoses ceroides neuronais (LNCs). Todos esses dist\u00farbios afetam o sistema nervoso e normalmente causam problemas progressivos com vis\u00e3o, movimento e capacidade de pensar. Os diferentes tipos de LNC s\u00e3o diferenciados pela idade em que os sinais e sintomas aparecem pela primeira vez. Algumas pessoas se referem a todo o grupo de NCLs como doen\u00e7a de Batten, enquanto outras limitam essa designa\u00e7\u00e3o para a forma juvenil do dist\u00farbio."
+    },
+    {
+        "qid":"0000545-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela doen\u00e7a juvenil de Batten?",
+        "answer":"A doen\u00e7a juvenil \u00e9 o tipo mais comum de LNC, mas sua preval\u00eancia exata \u00e9 desconhecida. Coletivamente, todas as formas de LNC afetam 1 em 100.000 indiv\u00edduos em todo o mundo. NCLs s\u00e3o mais comuns na Finl\u00e2ndia, onde aproximadamente 1 em 12.500 indiv\u00edduos s\u00e3o afetados."
+    },
+    {
+        "qid":"0000545-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 doen\u00e7a de Batten juvenil?",
+        "answer":"A maioria dos casos de doen\u00e7a de Batten juvenil s\u00e3o causadas por muta\u00e7\u00f5es no gene CLN3. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna cuja fun\u00e7\u00e3o \u00e9 desconhecida. N\u00e3o est\u00e1 claro como muta\u00e7\u00f5es no gene CLN3 levam \u00e0s caracter\u00edsticas da doen\u00e7a de Batten juvenil. Essas muta\u00e7\u00f5es de alguma forma interrompem a fun\u00e7\u00e3o das estruturas celulares chamadas lisossomas. Os lisossomos s\u00e3o compartimentos na c\u00e9lula que normalmente digerem e reciclam diferentes tipos de mol\u00e9culas. O disfuncionamento lisos\u00f4mico leva a uma acumula\u00e7\u00e3o de subst\u00e2ncias gordas chamadas lipopigmentos dentro dessas estruturas celulares. Esses ac\u00famulos ocorrem em c\u00e9lulas em todo o corpo, mas os neur\u00f4nios no c\u00e9rebro parecem ser particularmente vulner\u00e1veis aos danos causados pelos lipopigmentos. A morte progressiva de c\u00e9lulas, especialmente no c\u00e9rebro, leva \u00e0 perda de vis\u00e3o, convuls\u00f5es e decl\u00ednio intelectual em pessoas com doen\u00e7a de Batten juvenil. Uma pequena porcentagem de casos de doen\u00e7a de Batten juvenil s\u00e3o causados por muta\u00e7\u00f5es em outros genes. Muitos desses genes est\u00e3o envolvidos na fun\u00e7\u00e3o lisossomal, e quando mutados, podem causar esta ou outras formas de LNC."
+    },
+    {
+        "qid":"0000545-4",
+        "qtype":"inheritance",
+        "question":"A doen\u00e7a de Batten juvenil \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000545-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Batten juvenil?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da doen\u00e7a de Batten juvenil: - Centro de Diagn\u00f3stico e Pesquisa Cl\u00ednica da Doen\u00e7a de Batten no Centro M\u00e9dico da Universidade de Rochester - Associa\u00e7\u00e3o de Apoio e Pesquisa da Doen\u00e7a de Batten: Centros de Excel\u00eancia - Revis\u00e3o de Genes: Revis\u00e3o de Genes: Ceroide neuronal-Lipofuscinoses - Registro de Testes Gen\u00e9ticos: Lipofuscinose de Ceroide neuronal juvenil Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

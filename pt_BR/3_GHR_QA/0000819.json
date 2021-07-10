@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000819-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de carnitina prim\u00e1ria?",
+        "answer":"Defici\u00eancia de carnitina prim\u00e1ria \u00e9 uma condi\u00e7\u00e3o que impede o corpo de usar certas gorduras para a energia, particularmente durante per\u00edodos sem alimentos (jejum). A carnitina, uma subst\u00e2ncia natural adquirida principalmente atrav\u00e9s da dieta, \u00e9 usada pelas c\u00e9lulas para processar gorduras e produzir energia. Sinais e sintomas da defici\u00eancia prim\u00e1ria de carnitina normalmente aparecem durante a inf\u00e2ncia ou a inf\u00e2ncia e podem incluir disfun\u00e7\u00e3o cerebral grave (encefalopatia), um cora\u00e7\u00e3o enfraquecido e aumentado (cardiomiopatia), confus\u00e3o, v\u00f3mitos, fraqueza muscular e baixo n\u00edvel de a\u00e7\u00facar no sangue (hipoglicemia). A gravidade dessa condi\u00e7\u00e3o varia entre os indiv\u00edduos afetados. Algumas pessoas com defici\u00eancia prim\u00e1ria de carnitina s\u00e3o assintom\u00e1ticas, o que significa que n\u00e3o t\u00eam sinais ou sintomas da condi\u00e7\u00e3o. Todos os indiv\u00edduos com este dist\u00farbio est\u00e3o em risco de insufici\u00eancia card\u00edaca, problemas hep\u00e1ticos, coma e morte s\u00fabita. Problemas relacionados \u00e0 defici\u00eancia prim\u00e1ria de carnitina podem ser desencadeados por per\u00edodos de jejum ou por doen\u00e7as como infec\u00e7\u00f5es virais. Este dist\u00farbio \u00e9 \u00e0s vezes confundido com a s\u00edndrome de Reye, uma dist\u00farbio grave que pode se desenvolver em crian\u00e7as enquanto elas parecem estar se recuperando de infec\u00e7\u00f5es virais como a varicela ou gripe. A maioria dos casos de s\u00edndrome de Reye est\u00e3o associados ao uso de aspirina durante estas infec\u00e7\u00f5es virais."
+    },
+    {
+        "qid":"0000819-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia prim\u00e1ria de carnitina?",
+        "answer":"A incid\u00eancia da defici\u00eancia prim\u00e1ria de carnitina na popula\u00e7\u00e3o geral \u00e9 de aproximadamente 1 em 100 mil rec\u00e9m-nascidos. No Jap\u00e3o, esse dist\u00farbio afeta 1 em cada 40.000 rec\u00e9m-nascidos."
+    },
+    {
+        "qid":"0000819-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia prim\u00e1ria de carnitina?",
+        "answer":"Muta\u00e7\u00f5es no gene SLC22A5 causam defici\u00eancia prim\u00e1ria de carnitina. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada OCTN2 que transporta carnitina para c\u00e9lulas. As c\u00e9lulas precisam de carnitina para trazer certos tipos de gorduras (\u00e1cidos gordos) para mitoc\u00f4ndrias, que s\u00e3o os centros de produ\u00e7\u00e3o de energia dentro das c\u00e9lulas. Os \u00e1cidos gordos s\u00e3o uma grande fonte de energia para o cora\u00e7\u00e3o e os m\u00fasculos. Durante os per\u00edodos de jejum, os \u00e1cidos graxos tamb\u00e9m s\u00e3o uma importante fonte de energia para o f\u00edgado e outros tecidos. Muta\u00e7\u00f5es no gene SLC22A5 resultam em uma prote\u00edna OCTN2 ausente ou disfuncional. Como resultado, h\u00e1 uma escassez (defici\u00eancia) de carnitina dentro das c\u00e9lulas. Sem carnitina, os \u00e1cidos graxos n\u00e3o podem entrar em mitoc\u00f4ndrias e ser usados para produzir energia. A redu\u00e7\u00e3o da produ\u00e7\u00e3o de energia pode levar a algumas caracter\u00edsticas da defici\u00eancia prim\u00e1ria de carnitina, como fraqueza muscular e hipoglicemia. \u00c1cidos gordos tamb\u00e9m podem se acumular em c\u00e9lulas e danificar o f\u00edgado, o cora\u00e7\u00e3o e os m\u00fasculos. Esta acumula\u00e7\u00e3o anormal causa os outros sinais e sintomas do dist\u00farbio."
+    },
+    {
+        "qid":"0000819-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia prim\u00e1ria de carnitina \u00e9 herdada?",
+        "answer":"A defici\u00eancia prim\u00e1ria de carnitina \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. A maioria das vezes, os pais de um indiv\u00edduo com um dist\u00farbio autoss\u00f4mico recessivo s\u00e3o portadores, o que significa que cada um deles carrega uma c\u00f3pia do gene mutado. Portadores de muta\u00e7\u00f5es do gene SLC22A5 podem ter alguns sinais e sintomas relacionados \u00e0 condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000819-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a defici\u00eancia prim\u00e1ria de carnitina?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da defici\u00eancia de carnitina prim\u00e1ria: - Primeiro teste do beb\u00ea - Revis\u00e3o de genes: Revis\u00e3o de genes: Defici\u00eancia de carnitina prim\u00e1ria sist\u00e9mica - Registro de testes gen\u00e9ticos: Defeito de transporte da carnitina renal - Instituto Linus Pauling: L-Carnitina Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e reabilita\u00e7\u00e3o - Aconselhamento gen\u00e9tico - Cuidados paliativos"
+    }
+]

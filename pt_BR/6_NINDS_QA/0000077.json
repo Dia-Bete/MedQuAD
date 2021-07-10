@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000077-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a Polineuropatia Desmielinizante Inflamat\u00f3ria Cr\u00f4nica (CIDP)?",
+        "answer":"Polineuropatia inflamat\u00f3ria desmielinizante cr\u00f4nica (CIDP) \u00e9 um dist\u00farbio neurol\u00f3gico caracterizado por fraqueza progressiva e fun\u00e7\u00e3o sensorial prejudicada nas pernas e bra\u00e7os. O dist\u00farbio, que \u00e0s vezes \u00e9 chamado de polineuropatia recidivante cr\u00f4nica, \u00e9 causado por danos na bainha de mielina (a cobertura gorda que enrola e protege fibras nervosas) dos nervos perif\u00e9ricos. Embora possa ocorrer em qualquer idade e em ambos os sexos, o CIDP \u00e9 mais comum em adultos jovens, e em homens mais do que mulheres. Muitas vezes apresenta sintomas que incluem formigueiro ou dorm\u00eancia (come\u00e7ando nos dedos dos p\u00e9s e dos dedos), fraqueza dos bra\u00e7os e pernas, perda de reflexos tendinosos profundos (areflexia), fadiga e sensa\u00e7\u00f5es anormais. O CIDP est\u00e1 intimamente relacionado com a s\u00edndrome de Guillain-Barre e \u00e9 considerado o hom\u00f3logo cr\u00f4nico dessa doen\u00e7a aguda."
+    },
+    {
+        "qid":"0000077-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Polineuropatia Desmielinizante Inflamat\u00f3ria Cr\u00f4nica (CIDP)?",
+        "answer":"O tratamento para CIDP inclui corticosteroides como prednisona, que podem ser prescritos sozinhos ou em combina\u00e7\u00e3o com medicamentos imunossupressores. Plasmaferese (interc\u00e2mbio de plasma) e imunoglobulina intravenosa (IVG) terapia s\u00e3o eficazes. IVIg pode ser usado at\u00e9 como terapia de primeira linha. A fisioterapia pode melhorar a for\u00e7a muscular, a fun\u00e7\u00e3o e a mobilidade, e minimizar a redu\u00e7\u00e3o dos m\u00fasculos e tend\u00f5es e distor\u00e7\u00f5es das articula\u00e7\u00f5es."
+    },
+    {
+        "qid":"0000077-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva da Polineuropatia Desmielinizante Inflamat\u00f3ria Cr\u00f4nica (CIDP)?",
+        "answer":"O curso do CIDP varia muito entre os indiv\u00edduos. Alguns podem ter um ataque de CIDP seguido de recupera\u00e7\u00e3o espont\u00e2nea, enquanto outros podem ter muitos ataques com recupera\u00e7\u00e3o parcial entre recidivas. A doen\u00e7a \u00e9 uma causa trat\u00e1vel da neuropatia adquirida e o in\u00edcio do tratamento precoce para prevenir a perda de ax\u00f4nios nervosos \u00e9 recomendado. No entanto, alguns indiv\u00edduos s\u00e3o deixados com alguma dorm\u00eancia residual ou fraqueza."
+    },
+    {
+        "qid":"0000077-4",
+        "qtype":"research",
+        "question":"que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Polineuropatia Desmielinizante Inflamat\u00f3ria Cr\u00f4nica (CIDP)?",
+        "answer":"O NINDS apoia um amplo programa de pesquisa sobre dist\u00farbios do sistema nervoso, incluindo o CIDP. Grande parte desta pesquisa tem como objetivo aumentar a compreens\u00e3o desses dist\u00farbios e encontrar maneiras de preveni-los, tratar e cur\u00e1-los."
+    }
+]

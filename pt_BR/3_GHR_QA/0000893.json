@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000893-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Schindler?",
+        "answer":"A doen\u00e7a de Schindler \u00e9 uma doen\u00e7a herdada que causa principalmente problemas neurol\u00f3gicos. H\u00e1 tr\u00eas tipos de doen\u00e7a de Schindler. A doen\u00e7a de Schindler tipo I, tamb\u00e9m chamada de tipo infantil, \u00e9 a forma mais grave. Beb\u00eas com doen\u00e7a de Schindler tipo I parecem saud\u00e1veis ao nascer, mas aos 8 a 15 meses eles param de desenvolver novas habilidades e come\u00e7am a perder habilidades que j\u00e1 tinham adquirido (regress\u00e3o do desenvolvimento). \u00c0 medida que o dist\u00farbio progride, os indiv\u00edduos afetados desenvolvem cegueira e convuls\u00f5es, e eventualmente perdem a consci\u00eancia de seus arredores e se tornam insens\u00edveis. Pessoas com essa forma de desordem geralmente n\u00e3o sobrevivem ap\u00f3s a inf\u00e2ncia. A doen\u00e7a de Schindler tipo II, tamb\u00e9m chamada de doen\u00e7a de Kanzaki, \u00e9 uma forma mais leve do dist\u00farbio que geralmente aparece na idade adulta. Indiv\u00edduos afetados podem desenvolver defici\u00eancia cognitiva leve e perda auditiva causada por anormalidades do ouvido interno (perda auditiva sensorineural). Eles podem sentir fraqueza e perda de sensa\u00e7\u00e3o devido a problemas com os nervos que ligam o c\u00e9rebro e a medula espinhal aos m\u00fasculos e c\u00e9lulas sensoriais (sistema nervoso perif\u00e9rico). Clusters de vasos sangu\u00edneos ampliados que formam pequenas manchas vermelhas escuras na pele (angioqueratomas) s\u00e3o caracter\u00edsticas desta forma do dist\u00farbio. A doen\u00e7a de Schindler tipo III \u00e9 intermedi\u00e1ria em gravidade entre os tipos I e II. Indiv\u00edduos afetados podem apresentar sinais e sintomas iniciando na inf\u00e2ncia, incluindo atraso no desenvolvimento, convuls\u00f5es, um cora\u00e7\u00e3o enfraquecido e aumentado (cardiomiopatia), e um aumento do f\u00edgado (hepatomegalia). Em outros casos, as pessoas com essa forma de dist\u00farbio apresentam problemas comportamentais come\u00e7ando na inf\u00e2ncia, com algumas caracter\u00edsticas de dist\u00farbios do espectro autista. Os dist\u00farbios do espectro autista s\u00e3o caracterizados por habilidades de comunica\u00e7\u00e3o e socializa\u00e7\u00e3o prejudicadas."
+    },
+    {
+        "qid":"0000893-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela doen\u00e7a de Schindler?",
+        "answer":"A doen\u00e7a de Schindler \u00e9 muito rara. Apenas alguns indiv\u00edduos com cada tipo de dist\u00farbio foram identificados."
+    },
+    {
+        "qid":"0000893-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 doen\u00e7a de Schindler?",
+        "answer":"Muta\u00e7\u00f5es no gene NAGA causam a doen\u00e7a de Schindler. O gene NAGA fornece instru\u00e7\u00f5es para fazer a enzima alfa-N-acetilgalactosaminidase. Esta enzima funciona nos lisossomos, que s\u00e3o compartimentos dentro das c\u00e9lulas que digerem e reciclam materiais. Dentro dos lisossomos, a enzima ajuda a quebrar complexos chamados glicoprote\u00ednas e glicolip\u00eddeos, que consistem em mol\u00e9culas de a\u00e7\u00facar ligadas a certas prote\u00ednas e gorduras. Especificamente, alfa-N-acetilgalactosaminidase ajuda a remover uma mol\u00e9cula chamada alfa-N-acetilgalactosamina de a\u00e7\u00facares nestes complexos. Muta\u00e7\u00f5es no gene NAGA interferem na capacidade da enzima alfa-N-acetilgalactosaminidase para desempenhar seu papel na decomposi\u00e7\u00e3o de glicoprote\u00ednas e glicolip\u00eddeos. Essas subst\u00e2ncias se acumulam nos lisossomos e causam o mau funcionamento das c\u00e9lulas e, eventualmente, morrem. Dano celular no sistema nervoso e outros tecidos e \u00f3rg\u00e3os do corpo leva aos sinais e sintomas da doen\u00e7a de Schindler."
+    },
+    {
+        "qid":"0000893-4",
+        "qtype":"inheritance",
+        "question":"A doen\u00e7a de Schindler \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000893-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Schindler?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da doen\u00e7a de Schindler: - Registro de Testes Gen\u00e9ticos: Doen\u00e7a de Kanzaki - Registro de Testes Gen\u00e9ticos: Doen\u00e7a de Schindler, tipo 1 Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

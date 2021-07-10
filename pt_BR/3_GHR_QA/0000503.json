@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000503-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) anemia microc\u00edtica hipocr\u00f4mica com sobrecarga de ferro?",
+        "answer":"Anemia microc\u00edtica hipocr\u00f4mica com sobrecarga de ferro \u00e9 uma condi\u00e7\u00e3o que prejudica o transporte normal de ferro nas c\u00e9lulas. O ferro \u00e9 um componente essencial da hemoglobina, que \u00e9 a subst\u00e2ncia que os gl\u00f3bulos vermelhos usam para transportar oxig\u00eanio para c\u00e9lulas e tecidos por todo o corpo. Nesta condi\u00e7\u00e3o, os gl\u00f3bulos vermelhos n\u00e3o podem acessar ferro no sangue, ent\u00e3o h\u00e1 uma diminui\u00e7\u00e3o da produ\u00e7\u00e3o de gl\u00f3bulos vermelhos (anemia) que \u00e9 aparente ao nascer. Os gl\u00f3bulos vermelhos produzidos s\u00e3o anormalmente pequenos (microc\u00edticos) e p\u00e1lidos (hipocr\u00f4micos). Anemia microc\u00edtica hipocr\u00f4mica com sobrecarga de ferro pode levar a pele p\u00e1lida (pallor), cansa\u00e7o (fadiga) e crescimento lento. Na anemia microc\u00edtica hipocr\u00f4mica com sobrecarga de ferro, o ferro que n\u00e3o \u00e9 usado pelos gl\u00f3bulos vermelhos se acumula no f\u00edgado, o que pode prejudicar sua fun\u00e7\u00e3o ao longo do tempo. Os problemas hep\u00e1ticos geralmente se tornam evidentes na adolesc\u00eancia ou na idade adulta."
+    },
+    {
+        "qid":"0000503-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por anemia microc\u00edtica hipocr\u00f4mica com sobrecarga de ferro?",
+        "answer":"Anemia microc\u00edtica hipocr\u00f4mica com sobrecarga de ferro \u00e9 provavelmente um dist\u00farbio raro; pelo menos cinco fam\u00edlias afetadas foram relatadas na literatura cient\u00edfica."
+    },
+    {
+        "qid":"0000503-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 anemia microc\u00edtica hipocr\u00f4mica com sobrecarga de ferro?",
+        "answer":"Muta\u00e7\u00f5es no gene SLC11A2 causam anemia microc\u00edtica hipocr\u00f4mica com sobrecarga de ferro. O gene SLC11A2 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada transporte de metal divalente 1 (DMT1). A prote\u00edna DMT1 \u00e9 encontrada em todos os tecidos, onde seu papel principal \u00e9 transportar \u00e1tomos de ferro (ions) carregados positivamente dentro das c\u00e9lulas. Em uma se\u00e7\u00e3o do intestino delgado chamada de duodeno, a prote\u00edna DMT1 est\u00e1 localizada dentro de proje\u00e7\u00f5es semelhantes a dedos chamadas microvilli. Essas proje\u00e7\u00f5es absorvem nutrientes da comida ao atravessar o intestino e, em seguida, libert\u00e1-los para a corrente sangu\u00ednea. Em todas as outras c\u00e9lulas, incluindo os gl\u00f3bulos vermelhos imaturos chamados eritroblastos, o DMT1 est\u00e1 localizado na membrana dos endosomas, que s\u00e3o compartimentos especializados que s\u00e3o formados na superf\u00edcie celular para transportar prote\u00ednas e outras mol\u00e9culas para seus destinos dentro da c\u00e9lula. DMT1 transporta ferro dos endosomas para o citoplasma para que possa ser usado pela c\u00e9lula. Muta\u00e7\u00f5es do gene SLC11A2 levam \u00e0 redu\u00e7\u00e3o da produ\u00e7\u00e3o da prote\u00edna DMT1, diminui\u00e7\u00e3o da fun\u00e7\u00e3o proteica, ou diminui\u00e7\u00e3o da capacidade da prote\u00edna para chegar ao local correto em c\u00e9lulas. Nos eritroblastos, a escassez de prote\u00edna DMT1 diminui a quantidade de ferro transportado dentro das c\u00e9lulas para se ligar \u00e0 hemoglobina. Como resultado, o desenvolvimento de gl\u00f3bulos vermelhos saud\u00e1veis \u00e9 prejudicado, levando a uma escassez destas c\u00e9lulas. No duodeno, a escassez de prote\u00edna DMT1 diminui a absor\u00e7\u00e3o de ferro. Para compensar, as c\u00e9lulas aumentam a produ\u00e7\u00e3o de prote\u00edna DMT1 funcional, o que aumenta a absor\u00e7\u00e3o de ferro. Como os gl\u00f3bulos vermelhos n\u00e3o podem usar o ferro que \u00e9 absorvido, ele se acumula no f\u00edgado, eventualmente prejudicando a fun\u00e7\u00e3o do f\u00edgado. A falta de envolvimento de outros tecidos na anemia microc\u00edtica hipocr\u00f4mica com sobrecarga de ferro \u00e9 prov\u00e1vel porque esses tecidos t\u00eam outras maneiras de transportar ferro."
+    },
+    {
+        "qid":"0000503-4",
+        "qtype":"inheritance",
+        "question":"A anemia microc\u00edtica hipocr\u00f4mica com sobrecarga de ferro \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000503-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para anemia microc\u00edtica hipocr\u00f4mica com sobrecarga de ferro?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da anemia microc\u00edtica hipocr\u00f4mica com sobrecarga de ferro: - Registro de Testes Gen\u00e9ticos: Anemia microc\u00edtica hipocr\u00f4mica com sobrecarga de ferro Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

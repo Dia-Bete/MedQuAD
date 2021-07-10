@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0000008-1",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para a Febre Hemorr\u00e1gica de Alkhurma (AHF)? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"Transmiss\u00e3o de AHFV n\u00e3o \u00e9 bem compreendida. AHFV \u00e9 um v\u00edrus zoon\u00f3tico, e seus hospedeiros de carrapato descritos (o carrapato macio Ornithodoros savignyi e o carrapato duro Hyalomma dromedari) est\u00e3o amplamente distribu\u00eddos. As pessoas podem se infectar atrav\u00e9s de uma mordida de carrapato ou quando esmagar carrapatos infectados. Estudos epidemiol\u00f3gicos indicam que o contato com animais dom\u00e9sticos ou animais pode aumentar o risco de infec\u00e7\u00e3o humana. Nenhuma transmiss\u00e3o humana de AHF foi documentada. Embora animais de gado possam fornecer refei\u00e7\u00f5es sangu\u00edneas para carrapatos, acha-se que eles desempenham um papel menor na transmiss\u00e3o de AHFV aos humanos. Nenhuma transmiss\u00e3o atrav\u00e9s de leite n\u00e3o pasteurizado foi descrita, embora outros flaviv\u00edrus transmitidos por carrapatos tenham sido transmitidos aos humanos por esta rota."
+    },
+    {
+        "qid":"0000008-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da febre hemorr\u00e1gica de Alkhurma (AHF)?",
+        "answer":"Com base em informa\u00e7\u00f5es limitadas, ap\u00f3s um per\u00edodo de incuba\u00e7\u00e3o que pode ser t\u00e3o curto quanto 2-4 dias, a doen\u00e7a apresenta inicialmente sintomas n\u00e3o espec\u00edficos semelhantes \u00e0 gripe, incluindo febre, anorexia (perda de apetite), mal-estar geral, diarreia e v\u00f4mitos; uma segunda fase apareceu em alguns pacientes, e inclui sintomas neurol\u00f3gicos e hemorr\u00e1gicos em forma grave. Falha multiorg\u00e2nica precede resultados fatais. Nenhum sintoma repetido ou cr\u00f4nico foi relatado ap\u00f3s a recupera\u00e7\u00e3o. Evid\u00eancias sugerem que uma forma mais leve pode existir, onde a hospitaliza\u00e7\u00e3o n\u00e3o \u00e9 necess\u00e1ria. Trombocitopenia, leucopenia, e enzimas hep\u00e1ticas elevadas s\u00e3o quase sempre observadas em pacientes hospitalizados."
+    },
+    {
+        "qid":"0000008-3",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para a Febre Hemorr\u00e1gica de Alkhurma (AHF)? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"Contato com gado com exposi\u00e7\u00e3o a carrapatos s\u00e3o fatores de risco para humanos, como \u00e9 o contato com carrapatos infectados, seja por esmagar o carrapato infectado com dedos desprotegidos ou por uma mordida de um carrapato infectado. O abate de animais que podem ser agudamente, mas assintom\u00e1ticamente infectados tamb\u00e9m pode ser um fator de risco, pois \u00e9 poss\u00edvel que animais infectados desenvolvam uma viremia sem sinais cl\u00ednicos \u00f3bvios."
+    },
+    {
+        "qid":"0000008-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a febre hemorr\u00e1gica de Alkhurma (AHF)?",
+        "answer":"Diagn\u00f3stico cl\u00ednico pode ser dif\u00edcil devido \u00e0s semelhan\u00e7as entre AVHF, febre hemorr\u00e1gica Crimeia-Congo (CCHF) e febre do Vale do Rift (RVF), que ocorrem em \u00e1reas geogr\u00e1ficas semelhantes. O diagn\u00f3stico laboratorial de AHF pode ser feito no est\u00e1gio inicial da doen\u00e7a por detec\u00e7\u00e3o molecular por PCR ou isolamento de v\u00edrus do sangue. Mais tarde, testes sorol\u00f3gicos usando ensaio sorol\u00f3gico imunoabsorvente ligado \u00e0 enzima (ELISA) podem ser realizados."
+    },
+    {
+        "qid":"0000008-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Febre Hemorr\u00e1gica Alkhurma (AHF)?",
+        "answer":"N\u00e3o h\u00e1 nenhum tratamento padr\u00e3o espec\u00edfico para a doen\u00e7a. Pacientes recebem terapia de suporte, que consiste em equilibrar o fluido e eletr\u00f3litos do paciente, manter o estado de oxig\u00eanio e press\u00e3o arterial, e tratamento para qualquer complica\u00e7\u00e3o. A mortalidade em pacientes hospitalizados varia de 1 a 20%."
+    },
+    {
+        "qid":"0000008-6",
+        "qtype":"prevention",
+        "question":"Como prevenir a febre hemorr\u00e1gica de Alkhurma (AHF)?",
+        "answer":"Dado que nenhum tratamento ou profilaxia espec\u00edfica est\u00e1 dispon\u00edvel atualmente, a preven\u00e7\u00e3o e maior consci\u00eancia do AHFV s\u00e3o as \u00fanicas medidas recomendadas. O controle completo dos carrapatos e a interrup\u00e7\u00e3o do ciclo de vida do v\u00edrus n\u00e3o s\u00e3o pr\u00e1ticos; em regi\u00f5es end\u00eamicas, \u00e9 importante evitar \u00e1reas infestadas por carrapatos e limitar o contato com animais dom\u00e9sticos e pecu\u00e1rios. Os indiv\u00edduos devem usar repelentes de carrapatos na pele e roupas e verificar a pele para carrapatos ligados, removendo-os o mais r\u00e1pido poss\u00edvel. Coleiras de carrapatos est\u00e3o dispon\u00edveis para animais dom\u00e9sticos, e mergulhar em acaricidas \u00e9 eficaz em matar carrapatos em gado. As pessoas que trabalham com animais ou produtos animais em fazendas ou matadouros devem evitar contato desprotegido com o sangue, fluidos ou tecidos de animais potencialmente infectados ou vir\u00eamicos."
+    }
+]

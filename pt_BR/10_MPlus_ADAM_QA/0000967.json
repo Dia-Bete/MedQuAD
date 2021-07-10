@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0000967-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dermatite de contato?",
+        "answer":""
+    },
+    {
+        "qid":"0000967-2",
+        "qtype":"causes",
+        "question":"O que causa dermatite de contato?",
+        "answer":""
+    },
+    {
+        "qid":"0000967-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da dermatite de contato?",
+        "answer":""
+    },
+    {
+        "qid":"0000967-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar dermatite de contato?",
+        "answer":""
+    },
+    {
+        "qid":"0000967-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para dermatite de contato?",
+        "answer":""
+    },
+    {
+        "qid":"0000967-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a dermatite de contato?",
+        "answer":""
+    },
+    {
+        "qid":"0000967-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da dermatite de contato?",
+        "answer":""
+    },
+    {
+        "qid":"0000967-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para dermatite de contato?",
+        "answer":""
+    }
+]

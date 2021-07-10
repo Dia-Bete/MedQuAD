@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0001073-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o cortes e perfura\u00e7\u00f5es?",
+        "answer":""
+    },
+    {
+        "qid":"0001073-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas de cortes e perfura\u00e7\u00f5es?",
+        "answer":""
+    },
+    {
+        "qid":"0001073-3",
+        "qtype":"considerations",
+        "question":"O que fazer com cortes e perfura\u00e7\u00f5es?",
+        "answer":""
+    },
+    {
+        "qid":"0001073-4",
+        "qtype":"considerations",
+        "question":"O que fazer com cortes e perfura\u00e7\u00f5es?",
+        "answer":""
+    },
+    {
+        "qid":"0001073-5",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para cortes e perfura\u00e7\u00f5es?",
+        "answer":""
+    },
+    {
+        "qid":"0001073-6",
+        "qtype":"prevention",
+        "question":"Como evitar cortes e perfura\u00e7\u00e3o de ferimentos?",
+        "answer":""
+    }
+]

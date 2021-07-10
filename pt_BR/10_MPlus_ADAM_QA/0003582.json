@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0003582-1",
+        "qtype":"information",
+        "question":"O que \u00e9 um dobrado de Simian?",
+        "answer":""
+    },
+    {
+        "qid":"0003582-2",
+        "qtype":"considerations",
+        "question":"O que fazer com o dobrado do Simian?",
+        "answer":""
+    },
+    {
+        "qid":"0003582-3",
+        "qtype":"causes",
+        "question":"O que causa o dobramento de Simian?",
+        "answer":""
+    },
+    {
+        "qid":"0003582-4",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o dobrado de Simian?",
+        "answer":""
+    }
+]

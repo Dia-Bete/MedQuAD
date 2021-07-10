@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0002570-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Melasma?",
+        "answer":""
+    },
+    {
+        "qid":"0002570-2",
+        "qtype":"causes",
+        "question":"O que causa Melasma?",
+        "answer":""
+    },
+    {
+        "qid":"0002570-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas de Melasma?",
+        "answer":""
+    },
+    {
+        "qid":"0002570-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar Melasma?",
+        "answer":""
+    },
+    {
+        "qid":"0002570-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Melasma?",
+        "answer":""
+    },
+    {
+        "qid":"0002570-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Melasma?",
+        "answer":""
+    },
+    {
+        "qid":"0002570-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para Melasma?",
+        "answer":""
+    },
+    {
+        "qid":"0002570-8",
+        "qtype":"prevention",
+        "question":"Como prevenir Melasma?",
+        "answer":""
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0000926-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome do compartimento?",
+        "answer":""
+    },
+    {
+        "qid":"0000926-2",
+        "qtype":"causes",
+        "question":"Quais s\u00e3o as causas da s\u00edndrome do compartimento?",
+        "answer":""
+    },
+    {
+        "qid":"0000926-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome de Compartment?",
+        "answer":""
+    },
+    {
+        "qid":"0000926-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a s\u00edndrome do compartimento?",
+        "answer":""
+    },
+    {
+        "qid":"0000926-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome do compartimento?",
+        "answer":""
+    },
+    {
+        "qid":"0000926-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a s\u00edndrome do compartimento?",
+        "answer":""
+    },
+    {
+        "qid":"0000926-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da s\u00edndrome do compartimento?",
+        "answer":""
+    },
+    {
+        "qid":"0000926-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para s\u00edndrome de compartimento?",
+        "answer":""
+    },
+    {
+        "qid":"0000926-9",
+        "qtype":"prevention",
+        "question":"Como prevenir a s\u00edndrome do compartimento?",
+        "answer":""
+    }
+]

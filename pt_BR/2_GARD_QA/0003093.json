@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0003093-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) disfun\u00e7\u00e3o hipotal\u00e2mica?",
+        "answer":"A disfun\u00e7\u00e3o hipotal\u00e2mica refere-se a uma condi\u00e7\u00e3o em que o hipot\u00e1lamo n\u00e3o est\u00e1 funcionando corretamente. O hipot\u00e1lamo produz horm\u00f4nios que controlam a temperatura corporal, fome, humor, libera\u00e7\u00e3o de horm\u00f4nios de muitas gl\u00e2ndulas, como a hip\u00f3fise, puls\u00e3o sexual, sono e sede. Os sinais e sintomas dos pacientes variam dependendo dos horm\u00f4nios que faltam. Diversas causas, incluindo anorexia, sangramento, dist\u00farbio gen\u00e9tico, tumores, e mais, est\u00e3o ligadas \u00e0 disfun\u00e7\u00e3o hipotal\u00e2mica. O tratamento depende da causa da disfun\u00e7\u00e3o hipotal\u00e2mica."
+    },
+    {
+        "qid":"0003093-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da disfun\u00e7\u00e3o hipotal\u00e2mica?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da disfun\u00e7\u00e3o hipotal\u00e2mica? Os sinais e sintomas da disfun\u00e7\u00e3o hipotal\u00e2mica podem variar de pessoa para pessoa, dependendo dos horm\u00f4nios que faltam. Voc\u00ea pode ler mais visitando o seguinte link de MedlinePlus. http://www.nlm.nih.gov/medlineplus/ency/article/001202.htm"
+    },
+    {
+        "qid":"0003093-3",
+        "qtype":"causes",
+        "question":"O que causa disfun\u00e7\u00e3o hipotal\u00e2mica?",
+        "answer":"O que causa disfun\u00e7\u00e3o hipotal\u00e2mica? A disfun\u00e7\u00e3o hipotal\u00e2mica pode ser causada por qualquer uma das seguintes: defeitos de nascimento do c\u00e9rebro ou hipot\u00e1lamo (por exemplo: displasia septo-\u00f3ptica) Dist\u00farbios gen\u00e9ticos (p. ex. S\u00edndrome de Prader-Willi, defici\u00eancia de horm\u00f4nio de crescimento) Dist\u00farbios alimentares (por exemplo: Tumores (por exemplo: craniofaringiomas, germinomas, meningiomas, gliomas, ependimomas e gliomas do nervo \u00f3ptico Traumatismo na cabe\u00e7a (por exemplo: Infec\u00e7\u00f5es bacterianas, virais ou f\u00fangicas Dist\u00farbios autoimunes (por exemplo: Sarcoidose) Desnutri\u00e7\u00e3o Radia\u00e7\u00e3o craniana Cirurgia Demasiado ferro Em alguns casos de disfun\u00e7\u00e3o hipotal\u00e2mica, a causa \u00e9 desconhecida; estes casos s\u00e3o referidos como tendo disfun\u00e7\u00e3o hipotal\u00e2mica idiop\u00e1tica."
+    },
+    {
+        "qid":"0003093-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a disfun\u00e7\u00e3o hipotal\u00e2mica?",
+        "answer":"Como pode ser tratada a disfun\u00e7\u00e3o hipotal\u00e2mica? O tratamento \u00e9 baseado na causa espec\u00edfica da disfun\u00e7\u00e3o hipotal\u00e2mica. Por exemplo, se a condi\u00e7\u00e3o for causada por um tumor, a radia\u00e7\u00e3o e/ou cirurgia podem ser justificadas. Se a disfun\u00e7\u00e3o hipotal\u00e2mica \u00e9 causada por uma defici\u00eancia hormonal, a condi\u00e7\u00e3o pode ser tratada com suplementa\u00e7\u00e3o hormonal. Se a causa for desconhecida, o tratamento pode ser sintom\u00e1tico. At\u00e9 o momento, nenhum tratamento bem sucedido foi relatado para disfun\u00e7\u00e3o hipotal\u00e2mica idiop\u00e1tica."
+    }
+]

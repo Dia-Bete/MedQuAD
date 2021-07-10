@@ -1,0 +1,68 @@
+[
+    {
+        "qid":"0001168-1",
+        "qtype":"important warning",
+        "question":"Que aviso ou informa\u00e7\u00e3o importante eu deveria saber sobre Telavancin Inje\u00e7\u00e3o?",
+        "answer":""
+    },
+    {
+        "qid":"0001168-2",
+        "qtype":"indication",
+        "question":"Quem deve receber a inje\u00e7\u00e3o de Telavancin e por que \u00e9 prescrita?",
+        "answer":""
+    },
+    {
+        "qid":"0001168-3",
+        "qtype":"usage",
+        "question":"Como a Telavancin Inje\u00e7\u00e3o deve ser usada e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0001168-5",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre a inje\u00e7\u00e3o de telavancina?",
+        "answer":""
+    },
+    {
+        "qid":"0001168-6",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Telavancin Inje\u00e7\u00e3o?",
+        "answer":""
+    },
+    {
+        "qid":"0001168-7",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se eu esquecer uma dose de Telavancina Inje\u00e7\u00e3o?",
+        "answer":""
+    },
+    {
+        "qid":"0001168-8",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Telavancina Inje\u00e7\u00e3o?",
+        "answer":""
+    },
+    {
+        "qid":"0001168-9",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Telavancina Inje\u00e7\u00e3o?",
+        "answer":""
+    },
+    {
+        "qid":"0001168-10",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Telavancin Inje\u00e7\u00e3o?",
+        "answer":""
+    },
+    {
+        "qid":"0001168-11",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o devo saber sobre a Telavancin Injection?",
+        "answer":""
+    },
+    {
+        "qid":"0001168-12",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes da Telavancin Injection?",
+        "answer":""
+    }
+]

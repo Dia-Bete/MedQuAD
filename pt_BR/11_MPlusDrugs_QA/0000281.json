@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0000281-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar o Clotrimazol e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000281-2",
+        "qtype":"usage",
+        "question":"Como o clotrimazol deve ser usado e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000281-3",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre o Clotrimazol?",
+        "answer":""
+    },
+    {
+        "qid":"0000281-4",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Clotrimazol?",
+        "answer":""
+    },
+    {
+        "qid":"0000281-5",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos do Clotrimazol?",
+        "answer":""
+    },
+    {
+        "qid":"0000281-6",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o de clotrimazol?",
+        "answer":""
+    },
+    {
+        "qid":"0000281-7",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre o Clotrimazol?",
+        "answer":""
+    },
+    {
+        "qid":"0000281-8",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca do Clotrimazol?",
+        "answer":""
+    },
+    {
+        "qid":"0000281-9",
+        "qtype":"brand names of combination products",
+        "question":"Quais s\u00e3o os nomes de marcas de produtos combinados de Clotrimazol?",
+        "answer":""
+    }
+]

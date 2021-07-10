@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0003848-1",
+        "qtype":"information",
+        "question":"O que est\u00e1 falando com seu filho sobre fumar?",
+        "answer":""
+    },
+    {
+        "qid":"0003848-3",
+        "qtype":"information",
+        "question":"O que est\u00e1 falando com seu filho sobre fumar?",
+        "answer":""
+    },
+    {
+        "qid":"0003848-4",
+        "qtype":"prevention",
+        "question":"Como evitar falar com seu filho sobre fumar?",
+        "answer":""
+    },
+    {
+        "qid":"0003848-5",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico por falar com seu filho sobre fumar?",
+        "answer":""
+    }
+]

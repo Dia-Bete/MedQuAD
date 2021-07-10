@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0004177-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) coroidite multifocal?",
+        "answer":"Coroidite multifocal (MFC) \u00e9 uma desordem inflamat\u00f3ria caracterizada por incha\u00e7o do olho (chamada uve\u00edte) e les\u00f5es m\u00faltiplas no coroide, uma camada de vasos sangu\u00edneos entre o branco do olho e a retina. Os sintomas incluem vis\u00e3o borrosa, flutuadores, sensibilidade \u00e0 luz, manchas cegas e desconforto ocular leve. Embora a causa seja desconhecida, a coroidite multifocal \u00e9 observada mais frequentemente em mulheres de 20 a 60 anos, e geralmente afeta os dois olhos. MFC \u00e9 geralmente tratado com medicamentos ester\u00f3ides que podem ser tomados por via oral ou injetados no olho. Coroidite multifocal \u00e9 uma condi\u00e7\u00e3o cr\u00f4nica, assim os sintomas podem retornar ou piorar mesmo ap\u00f3s o tratamento bem sucedido."
+    },
+    {
+        "qid":"0004177-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da coroidite multifocal?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da coroidite multifocal? Coroidite multifocal (MFC) geralmente causa vis\u00e3o borrosa com ou sem sensibilidade \u00e0 luz. Outros sintomas comuns incluem manchas cegas, flutuadores, desconforto ocular e flashes de luz percebidos. O exame cl\u00ednico por um oftalmologista revela inflama\u00e7\u00e3o nas camadas dianteira, m\u00e9dia e/ou traseira do olho com m\u00faltiplas manchas amarelas/gris-brancas espalhadas na coroide e retina. Um subconjunto de pessoas com essa condi\u00e7\u00e3o tamb\u00e9m desenvolve membranas neovasculares cor\u00f3ides (CNVMs), novos vasos sangu\u00edneos que podem causar perda de vis\u00e3o mais grave."
+    },
+    {
+        "qid":"0004177-3",
+        "qtype":"causes",
+        "question":"O que causa a coroidite multifocal?",
+        "answer":"O que causa coroidite multifocal? Coroidite multifocal ocorre espontaneamente e a causa n\u00e3o \u00e9 atualmente conhecida (idiop\u00e1tica). \u00c9 poss\u00edvel que uma infec\u00e7\u00e3o bacteriana ou viral possa desencadear uma resposta imune que cause a inflama\u00e7\u00e3o vista com MFC, embora mais pesquisa seja necess\u00e1ria nesta \u00e1rea."
+    },
+    {
+        "qid":"0004177-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a coroidite multifocal?",
+        "answer":"Como \u00e9 diagnosticada a coroidite multifocal? A coroidite multifocal (MFC) \u00e9 diagnosticada por um oftalmologista, usando uma s\u00e9rie de t\u00e9cnicas de imagem. Um teste chamado angiografia de farinhasce\u00edna usa um corante especial e c\u00e2mera para estudar o fluxo sangu\u00edneo nas camadas traseiras do olho. Quando uma pessoa tem MFC, as les\u00f5es no olho aparecem como manchas fluorescentes. Testes de vis\u00e3o tamb\u00e9m podem mostrar um ponto cego aumentado ou uma diminui\u00e7\u00e3o na clareza visual. Frequentemente, os m\u00e9dicos podem pedir exames de sangue para verificar se os sintomas s\u00e3o causados por uma doen\u00e7a viral em vez de MFC."
+    },
+    {
+        "qid":"0004177-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a coroidite multifocal?",
+        "answer":"Como pode ser tratada a coroidite multifocal? A coroidite multifocal (MFC) \u00e9 geralmente tratada com medicamentos ester\u00f3ides que podem ser tomados por via oral ou injetados no olho afetado. Esses tratamentos podem ser bem sucedidos na gest\u00e3o dos sintomas, embora n\u00e3o haja cura permanente para a doen\u00e7a e os sintomas possam retornar. Se uma pessoa n\u00e3o responde mais ao tratamento com ester\u00f3ides, medicamentos que suprimem o sistema imunol\u00f3gico, como ciclosporina, podem ser recomendados. Pessoas com perda de vis\u00e3o mais grave tamb\u00e9m podem se beneficiar com terapia a laser. O monitoramento frequente por um oftalmologista \u00e9 recomendado para determinar o qu\u00e3o bem o tratamento est\u00e1 funcionando."
+    }
+]

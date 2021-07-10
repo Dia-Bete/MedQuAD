@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0003751-1",
+        "qtype":"information",
+        "question":"O que \u00e9 isso?",
+        "answer":""
+    },
+    {
+        "qid":"0003751-2",
+        "qtype":"causes",
+        "question":"O que causa Stroke?",
+        "answer":""
+    },
+    {
+        "qid":"0003751-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do acidente vascular cerebral?",
+        "answer":""
+    },
+    {
+        "qid":"0003751-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar o acidente vascular cerebral?",
+        "answer":""
+    },
+    {
+        "qid":"0003751-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Stroke?",
+        "answer":""
+    },
+    {
+        "qid":"0003751-6",
+        "qtype":"support groups",
+        "question":"Onde encontrar apoio para pessoas com Stroke?",
+        "answer":""
+    },
+    {
+        "qid":"0003751-7",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Stroke?",
+        "answer":""
+    },
+    {
+        "qid":"0003751-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para o Stroke?",
+        "answer":""
+    },
+    {
+        "qid":"0003751-9",
+        "qtype":"prevention",
+        "question":"Como prevenir o acidente vascular cerebral?",
+        "answer":""
+    }
+]

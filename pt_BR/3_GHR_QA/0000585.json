@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000585-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) distrofia da c\u00f3rnea tipo I?",
+        "answer":"A distrofia da c\u00f3rnea tipo I \u00e9 um dist\u00farbio ocular que afeta a cobertura externa clara do olho chamada c\u00f3rnea. A c\u00f3rnea deve permanecer clara para que um indiv\u00edduo veja corretamente; no entanto, na distrofia da c\u00f3rnea de rede tipo I, aglomerados de prote\u00ednas conhecidos como dep\u00f3sitos amiloides nuvem a c\u00f3rnea, o que leva \u00e0 perda de vis\u00e3o. A c\u00f3rnea \u00e9 composta por v\u00e1rias camadas de tecido, e na distrofia da c\u00f3rnea de rede tipo I, os dep\u00f3sitos formam-se na camada estromal. Os dep\u00f3sitos amiloides formam-se como fibras delicadas e ramificantes que criam um padr\u00e3o de rede. Indiv\u00edduos afetados muitas vezes t\u00eam eros\u00f5es recorrentes da c\u00f3rnea, que s\u00e3o causadas pela separa\u00e7\u00e3o de camadas particulares da c\u00f3rnea um do outro. As eros\u00f5es corneais s\u00e3o muito dolorosas e podem causar sensibilidade \u00e0 luz brilhante (fotofobia). A distrofia da c\u00f3rnea de rede tipo I \u00e9 geralmente bilateral, o que significa que afeta os dois olhos. A condi\u00e7\u00e3o torna-se evidente na inf\u00e2ncia ou adolesc\u00eancia e leva a problemas de vis\u00e3o na idade adulta."
+    },
+    {
+        "qid":"0000585-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela distrofia da c\u00f3rnea tipo I?",
+        "answer":"A distrofia da c\u00f3rnea de rede tipo I \u00e9 um dos dist\u00farbios mais comuns em um grupo de condi\u00e7\u00f5es que s\u00e3o caracterizadas por dep\u00f3sitos de prote\u00ednas na c\u00f3rnea (distrofias da c\u00f3rnea); no entanto, ainda \u00e9 uma condi\u00e7\u00e3o rara. A preval\u00eancia de distrofia da c\u00f3rnea de rede tipo I \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000585-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 distrofia da c\u00f3rnea tipo I?",
+        "answer":"A distrofia da c\u00f3rnea tipo I \u00e9 causada por muta\u00e7\u00f5es no gene TGFBI. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que \u00e9 encontrada em muitos tecidos em todo o corpo, incluindo a c\u00f3rnea. A prote\u00edna TGFBI \u00e9 parte da matriz extracelular, uma rede intrincada que se forma nos espa\u00e7os entre c\u00e9lulas e fornece suporte estrutural aos tecidos. Pensa-se que a prote\u00edna desempenha um papel na liga\u00e7\u00e3o das c\u00e9lulas entre si (ader\u00eancia celular) e movimento celular (migra\u00e7\u00e3o). As muta\u00e7\u00f5es do gene TGFBI envolvidas na distrofia da c\u00f3rnea tipo I mudam os blocos de constru\u00e7\u00e3o de prote\u00ednas \u00fanicas (amino\u00e1cidos) na prote\u00edna TGFBI. Prote\u00ednas mutantes do TGFBI se aglomeram anormalmente e formam dep\u00f3sitos amiloides. No entanto, n\u00e3o est\u00e1 claro como as altera\u00e7\u00f5es causadas pelas muta\u00e7\u00f5es g\u00eanicas induzem a prote\u00edna a formar dep\u00f3sitos."
+    },
+    {
+        "qid":"0000585-4",
+        "qtype":"inheritance",
+        "question":"A distrofia da c\u00f3rnea de rede \u00e9 do tipo que eu herdei?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Na maioria dos casos, uma pessoa afetada tem um pai com a condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000585-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para distrofia da c\u00f3rnea de rede tipo I?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da distrofia da c\u00f3rnea de rede tipo I: - Funda\u00e7\u00e3o Americana para os Cegos: Viver com Perda de Vis\u00e3o - Registro de Testes Gen\u00e9ticos: Distrofia da c\u00f3rnea de rede tipo I - Manual de Merck Home Health Edi\u00e7\u00e3o: Diagn\u00f3stico de Transtornos Oculares: Exame de L\u00e2mpada Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

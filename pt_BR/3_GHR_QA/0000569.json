@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000569-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Kuskokwim?",
+        "answer":"A s\u00edndrome de Kuskokwim \u00e9 caracterizada por deformidades articulares chamadas contraturas que restringem o movimento das articula\u00e7\u00f5es afetadas. Esta condi\u00e7\u00e3o foi encontrada apenas em uma popula\u00e7\u00e3o de nativos do Alasca conhecidos como You'ik Esquimos, que vivem em e ao redor de uma regi\u00e3o do sudoeste do Alasca conhecido como o Delta do Rio Kuskokwim. Na s\u00edndrome de Kuskokwim, as contraturas afetam mais comumente os joelhos, tornozelos e cotovelos, embora outras articula\u00e7\u00f5es, particularmente do corpo inferior, possam ser afetadas. As contraturas geralmente est\u00e3o presentes no nascimento e pioram durante a inf\u00e2ncia. Eles tendem a se estabilizar ap\u00f3s a inf\u00e2ncia, e permanecem ao longo da vida. Alguns indiv\u00edduos com esta condi\u00e7\u00e3o t\u00eam outras anormalidades \u00f3sseas, mais comumente afetando a coluna, p\u00e9lvis e p\u00e9s. Indiv\u00edduos afetados podem desenvolver uma curva interna da parte inferior das costas (lordose), uma coluna que curva para o lado (escoliose), ossos espinhal em forma de cunha, ou uma anormalidade das clav\u00edculas (clav\u00edculas) descritas como clube. Indiv\u00edduos afetados s\u00e3o tipicamente mais curtos que seus pares e eles podem ter uma cabe\u00e7a anormalmente grande (macrocefalia)."
+    },
+    {
+        "qid":"0000569-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Kuskokwim?",
+        "answer":"A s\u00edndrome de Kuskokwim \u00e9 extremamente rara. Afecta um pequeno n\u00famero de pessoas da popula\u00e7\u00e3o You'ik esquim\u00f3 no sudoeste do Alasca."
+    },
+    {
+        "qid":"0000569-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Kuskokwim?",
+        "answer":"A s\u00edndrome de Kuskokwim \u00e9 causada por muta\u00e7\u00f5es no gene FKBP10, que fornece instru\u00e7\u00f5es para fazer a prote\u00edna FKBP10 (anteriormente conhecida como FKBP65). Esta prote\u00edna \u00e9 importante para o processamento correto de mol\u00e9culas complexas chamadas col\u00e1genos, que fornecem estrutura e for\u00e7a para os tecidos conjuntivos que suportam os ossos, articula\u00e7\u00f5es e \u00f3rg\u00e3os do corpo. mol\u00e9culas de col\u00e1geno s\u00e3o interligadas entre si para formar fibrilas longas e finas, que s\u00e3o encontradas nos espa\u00e7os em torno das c\u00e9lulas (a matriz extracelular). A forma\u00e7\u00e3o de liga\u00e7\u00f5es cruzadas resulta em fibrilas de col\u00e1geno muito fortes. A prote\u00edna FKBP10 liga-se aos col\u00e1genos e desempenha um papel em sua liga\u00e7\u00e3o cruzada. Uma muta\u00e7\u00e3o no gene FKBP10 altera a prote\u00edna FKBP10, tornando-a inst\u00e1vel e facilmente quebrada. Como resultado, pessoas com s\u00edndrome de Kuskokwim t\u00eam apenas cerca de 5% da quantidade normal de prote\u00edna FKBP10. Esta redu\u00e7\u00e3o dos n\u00edveis de prote\u00ednas prejudica a liga\u00e7\u00e3o cruzada do col\u00e1geno e leva a uma rede desorganizada de mol\u00e9culas de col\u00e1geno. N\u00e3o est\u00e1 claro como essas altera\u00e7\u00f5es na matriz de col\u00e1geno est\u00e3o envolvidas no desenvolvimento de contraturas articulares e outras anormalidades em pessoas com s\u00edndrome de Kuskokwim."
+    },
+    {
+        "qid":"0000569-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Kuskokwim \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000569-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Kuskokwim?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Kuskokwim: - Registro de Testes Gen\u00e9ticos: Doen\u00e7a de Kuskokwim - Hospital Mount Sinai: Informa\u00e7\u00f5es sobre Contraturas Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

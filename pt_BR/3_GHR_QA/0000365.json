@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000365-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) piedade familiar rubra pilaris?",
+        "answer":"A piedade familiar rubra pilaris \u00e9 uma condi\u00e7\u00e3o gen\u00e9tica rara que afeta a pele. O nome da condi\u00e7\u00e3o reflete suas principais caracter\u00edsticas: o termo \"pitir\u00edase\" refere-se \u00e0 escala\u00e7\u00e3o; \"rubra\" significa vermelhid\u00e3o; e \"pilaris\" sugere o envolvimento de fol\u00edculos capilares neste dist\u00farbio. Indiv\u00edduos afetados t\u00eam uma erup\u00e7\u00e3o cut\u00e2nea cor de salm\u00e3o coberta de balancas finas. Esta erup\u00e7\u00e3o ocorre em manchas em todo o corpo, com \u00e1reas distintas de pele n\u00e3o afetada entre as manchas. Indiv\u00edduos afetados tamb\u00e9m desenvolvem bolhas chamadas queratoses foliculares que ocorrem em torno de fol\u00edculos capilares. A pele nas palmas das m\u00e3os e das solas dos p\u00e9s muitas vezes se torna espessa, dura e callused, uma condi\u00e7\u00e3o conhecida como queratoderma palmoplantar. Pesquisadores distinguiram seis tipos de piedade rubra pilaris com base nas caracter\u00edsticas do dist\u00farbio e a idade em que os sinais e sintomas aparecem. A forma familiar \u00e9 geralmente considerada parte do tipo V, que tamb\u00e9m \u00e9 conhecido como o tipo juvenil at\u00edpico. Pessoas com piedade familiar rubra pilaris geralmente t\u00eam anormalidades na pele desde o nascimento ou a inf\u00e2ncia, e esses problemas de pele persistem ao longo da vida."
+    },
+    {
+        "qid":"0000365-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela piedade familiar rubra pilaris?",
+        "answer":"A piedade familiar rubra pilaris \u00e9 uma condi\u00e7\u00e3o rara. Sua incid\u00eancia \u00e9 desconhecida, embora a forma familiar pare\u00e7a ser o tipo menos comum de piedade rubra pilaris."
+    },
+    {
+        "qid":"0000365-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 piedade familiar rubra pilaris?",
+        "answer":"Na maioria dos casos de piedade rubra pilaris, a causa da condi\u00e7\u00e3o \u00e9 desconhecida. No entanto, muta\u00e7\u00f5es no gene CARD14 t\u00eam sido encontradas para causar a forma familiar do dist\u00farbio em algumas fam\u00edlias afetadas. O gene CARD14 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que liga (ativa) um grupo de prote\u00ednas interativas conhecidas como fator nuclear kappa-B (NF-B). NF-B regula a atividade de m\u00faltiplos genes, incluindo genes que controlam as respostas imunes do corpo e rea\u00e7\u00f5es inflamat\u00f3rias. Tamb\u00e9m protege as c\u00e9lulas de certos sinais que, de outra forma, fariam com que se autodestru\u00edssem (apoptose subterr\u00e2nea). A prote\u00edna CARD14 \u00e9 encontrada em muitos tecidos do corpo, mas \u00e9 particularmente abundante na pele. A sinaliza\u00e7\u00e3o NF-B parece desempenhar um papel importante na regula\u00e7\u00e3o da inflama\u00e7\u00e3o na pele. Muta\u00e7\u00f5es no gene CARD14 levam \u00e0 sobreativa\u00e7\u00e3o da sinaliza\u00e7\u00e3o NF-B, que desencadeia uma resposta inflamat\u00f3ria anormal. Pesquisadores est\u00e3o trabalhando para determinar como essas mudan\u00e7as levam \u00e0s caracter\u00edsticas espec\u00edficas da piedade familiar rubra pilaris."
+    },
+    {
+        "qid":"0000365-4",
+        "qtype":"inheritance",
+        "question":"A piedade familiar rubra pilaris \u00e9 herdada?",
+        "answer":"A pitir\u00edase familiar rubra pilaris geralmente tem um padr\u00e3o de heran\u00e7a autoss\u00f4mica dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Indiv\u00edduos afetados geralmente herdam a condi\u00e7\u00e3o de um dos pais afetados. No entanto, a condi\u00e7\u00e3o \u00e9 dita ter penetra\u00e7\u00e3o incompleta porque nem todos que herdam o gene alterado de um pai desenvolvem as anormalidades cut\u00e2neas caracter\u00edsticas da condi\u00e7\u00e3o. Os outros tipos de piedade rubra pilaris s\u00e3o espor\u00e1dicos, o que significa que ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia."
+    },
+    {
+        "qid":"0000365-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a piedade familiar rubra pilaris?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da piedade familiar rubra pilaris: - Registro de Testes Gen\u00e9ticos: Pitir\u00edase rubra pilaris Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

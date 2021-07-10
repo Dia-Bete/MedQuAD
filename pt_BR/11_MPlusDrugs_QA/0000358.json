@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0000358-1",
+        "qtype":"indication",
+        "question":"Quem deveria fazer Diclofenac Ophtalmic e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000358-2",
+        "qtype":"usage",
+        "question":"Como Diclofenac Ophtalmic deve ser usado e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000358-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Diclofenac Ophtalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0000358-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Diclofenac Ophtalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0000358-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se eu esquecer uma dose de Diclofenac Ophtalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0000358-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos de Diclofenac Ophtalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0000358-8",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Diclofenac Ophtalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0000358-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Diclofenac Ophtalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0000358-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Diclofenac Ophtalmic?",
+        "answer":""
+    },
+    {
+        "qid":"0000358-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes da marca Diclofenac Ophtalmic?",
+        "answer":""
+    }
+]

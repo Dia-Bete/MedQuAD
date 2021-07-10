@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000098-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) dem\u00eancia?",
+        "answer":"A dem\u00eancia n\u00e3o \u00e9 uma doen\u00e7a espec\u00edfica. \u00c9 um termo descritivo para uma cole\u00e7\u00e3o de sintomas que podem ser causados por uma s\u00e9rie de dist\u00farbios que afetam o c\u00e9rebro. Pessoas com dem\u00eancia t\u00eam comprometida significativamente o funcionamento intelectual que interfere com atividades e relacionamentos normais. Eles tamb\u00e9m perdem sua capacidade de resolver problemas e manter o controle emocional, e eles podem experimentar mudan\u00e7as de personalidade e problemas comportamentais, como agita\u00e7\u00e3o, ilus\u00f5es e alucina\u00e7\u00f5es. Enquanto a perda de mem\u00f3ria \u00e9 um sintoma comum de dem\u00eancia, a perda de mem\u00f3ria por si s\u00f3 n\u00e3o significa que uma pessoa tem dem\u00eancia. Os m\u00e9dicos s\u00f3 diagnosticam dem\u00eancia se duas ou mais fun\u00e7\u00f5es cerebrais, como mem\u00f3ria e habilidades lingu\u00edsticas, s\u00e3o significativamente prejudicadas sem perda de consci\u00eancia. Algumas das doen\u00e7as que podem causar sintomas de dem\u00eancia s\u00e3o doen\u00e7a de Alzheimer, dem\u00eancia vascular, dem\u00eancia corporal de Lewy, dem\u00eancia frontotemporal, doen\u00e7a de Huntingtons, e doen\u00e7a de Creutzfeldt-Jakob. Os m\u00e9dicos identificaram outras condi\u00e7\u00f5es que podem causar dem\u00eancia ou sintomas semelhantes a dem\u00eancia, incluindo rea\u00e7\u00f5es a medicamentos, problemas metab\u00f3licos e anomalias end\u00f3crinas, defici\u00eancias nutricionais, infec\u00e7\u00f5es, envenenamento, tumores cerebrais, an\u00f3xia ou hip\u00f3xia (condi\u00e7\u00f5es em que o suprimento de oxig\u00eanio do c\u00e9rebro \u00e9 reduzido ou cortado completamente), e problemas card\u00edacos e pulmonares. Embora seja comum em indiv\u00edduos muito idosos, a dem\u00eancia n\u00e3o \u00e9 uma parte normal do processo de envelhecimento."
+    },
+    {
+        "qid":"0000098-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Dem\u00eancia?",
+        "answer":"Drogas para tratar especificamente a doen\u00e7a de Alzheimer e algumas outras dem\u00eancias progressivas est\u00e3o dispon\u00edveis agora. Embora estes f\u00e1rmacos n\u00e3o parem a doen\u00e7a ou revertam os danos cerebrais existentes, eles podem melhorar os sintomas e retardar a progress\u00e3o da doen\u00e7a. Isso pode melhorar a qualidade de vida dos indiv\u00edduos, aliviar o fardo sobre os cuidadores, ou atrasar a admiss\u00e3o em um asilo. Muitos pesquisadores tamb\u00e9m est\u00e3o examinando se esses medicamentos podem ser \u00fateis para tratar outros tipos de dem\u00eancia. Muitas pessoas com dem\u00eancia, particularmente aquelas nas fases iniciais, podem se beneficiar com a pr\u00e1tica de tarefas destinadas a melhorar o desempenho em aspectos espec\u00edficos do funcionamento cognitivo. Por exemplo, \u00e0s vezes as pessoas podem ser ensinadas a usar suportes de mem\u00f3ria, como mnem\u00f4nica, dispositivos de recorda\u00e7\u00e3o computadorizados, ou tomada de notas."
+    },
+    {
+        "qid":"0000098-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Dem\u00eancia?",
+        "answer":"H\u00e1 muitos dist\u00farbios que podem causar dem\u00eancia. Algumas, como doen\u00e7a de Alzheimer ou doen\u00e7a de Huntingtons, levam a uma perda progressiva de fun\u00e7\u00f5es mentais. Mas outros tipos de dem\u00eancia podem ser interrompidos ou invertidos com tratamento apropriado. Pessoas com dem\u00eancia moderada ou avan\u00e7ada normalmente precisam de cuidados e supervis\u00e3o 24 horas por dia para evitar que se machuquem a si mesmos ou a outros. Eles tamb\u00e9m podem precisar de ajuda com atividades di\u00e1rias como comer, tomar banho e vestir-se."
+    },
+    {
+        "qid":"0000098-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Dem\u00eancia?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS) e outros institutos dos Institutos Nacionais de Sa\u00fade (NIH) realizam pesquisas relacionadas \u00e0 dem\u00eancia em laborat\u00f3rios do NIH e tamb\u00e9m apoiam pesquisas adicionais sobre dem\u00eancia atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. Pesquisas atuais se concentram em v\u00e1rios aspectos diferentes da dem\u00eancia. Esta pesquisa promete melhorar a vida das pessoas afetadas pelas dem\u00eancias e pode eventualmente levar a formas de prevenir ou curar esses dist\u00farbios."
+    }
+]

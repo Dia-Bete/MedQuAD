@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000241-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Leucoencefalopatia Multifocal Progressiva?",
+        "answer":"A leucoencefalopatia multifocal progressiva (LMP) \u00e9 uma doen\u00e7a da mat\u00e9ria branca do c\u00e9rebro, causada por uma infec\u00e7\u00e3o viral que visa c\u00e9lulas que fazem mielina - o material que isola as c\u00e9lulas nervosas (neur\u00f5es). Poliomav\u00edrus JC (muitas vezes chamado de v\u00edrus JC) \u00e9 carregado por uma maioria de pessoas e \u00e9 inofensivo exceto entre aqueles com defesas imunes reduzidas. A doen\u00e7a \u00e9 rara e ocorre em pacientes submetidos a corticosteroides cr\u00f4nicos ou terapia imunossupressora para transplante de \u00f3rg\u00e3os, ou indiv\u00edduos com c\u00e2ncer (como doen\u00e7a de Hodgkins ou linfoma). Indiv\u00edduos com condi\u00e7\u00f5es autoimunes como esclerose m\u00faltipla, artrite reumat\u00f3ide e eritematose do l\u00fapus sist\u00eamica -- alguns dos quais s\u00e3o tratados com terapias biol\u00f3gicas que permitem a reativa\u00e7\u00e3o do v\u00edrus JC -- est\u00e3o em risco para LMP tamb\u00e9m. A LMP \u00e9 mais comum entre indiv\u00edduos com infec\u00e7\u00e3o pelo HIV-1/s\u00edndrome de imunodefici\u00eancia adquirida (AIDS). Estudos estimam que antes da terapia antirretroviral eficaz, at\u00e9 5% das pessoas infectadas com HIV-1 eventualmente desenvolvem LMP que \u00e9 uma doen\u00e7a que define a AIDS. No entanto, a terapia antirretroviral, que efetivamente restaura a fun\u00e7\u00e3o do sistema imunol\u00f3gico, permite que at\u00e9 metade de todos os pacientes com HIV-PML sobrevivam, embora \u00e0s vezes possam ter uma rea\u00e7\u00e3o inflamat\u00f3ria nas regi\u00f5es do c\u00e9rebro afetadas pela PML. Os sintomas da LMP s\u00e3o diversos, uma vez que est\u00e3o relacionados com a localiza\u00e7\u00e3o e quantidade de danos no c\u00e9rebro, e podem evoluir ao longo de v\u00e1rias semanas a meses Os sintomas mais proeminentes s\u00e3o desajeita\u00e7\u00e3o, fraqueza progressiva, e visual, fala e, \u00e0s vezes, mudan\u00e7as de personalidade. A progress\u00e3o dos d\u00e9ficits leva a defici\u00eancia potencial e (frequentemente) morte. Um diagn\u00f3stico de LMP pode ser feito ap\u00f3s bi\u00f3psia cerebral ou combinando observa\u00e7\u00f5es de um curso progressivo da doen\u00e7a, les\u00f5es consistentes de mat\u00e9ria branca vis\u00edveis em uma resson\u00e2ncia magn\u00e9tica (IRM) varredura, e a detec\u00e7\u00e3o do v\u00edrus JC no l\u00edquido espinhal."
+    },
+    {
+        "qid":"0000241-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Leucoencefalopatia Multifocal Progressiva?",
+        "answer":"Atualmente, a melhor terapia dispon\u00edvel \u00e9 revers\u00e3o do estado imunodeficiente, j\u00e1 que n\u00e3o h\u00e1 medicamentos eficazes que bloqueiam a infec\u00e7\u00e3o por v\u00edrus sem toxicidade. A revers\u00e3o pode ser alcan\u00e7ada usando a troca de plasma para acelerar a remo\u00e7\u00e3o dos agentes terap\u00eauticos que colocam os pacientes em risco de LMP. No caso da LMP associada ao VIH, come\u00e7ar imediatamente a terapia antirretroviral beneficiar\u00e1 a maioria dos indiv\u00edduos. V\u00e1rios novos f\u00e1rmacos que os testes de laborat\u00f3rio encontraram eficazes contra infec\u00e7\u00f5es est\u00e3o sendo usados em pacientes com LMP com permiss\u00e3o especial da Administra\u00e7\u00e3o de Alimentos e Drogas dos EUA. Hexadeciloxipropil-Cidofovir (CMX001) est\u00e1 atualmente sendo estudada como uma op\u00e7\u00e3o de tratamento para o JVC devido \u00e0 sua capacidade de suprimir o JVC inibindo a replica\u00e7\u00e3o do DNA viral."
+    },
+    {
+        "qid":"0000241-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Leucoencefalopatia Multifocal Progressiva?",
+        "answer":"Em geral, a LMP tem uma taxa de mortalidade de 30-50 por cento nos primeiros meses ap\u00f3s o diagn\u00f3stico, mas depende da gravidade da doen\u00e7a subjacente e do tratamento recebido. Aqueles que sobrevivem \u00e0 LMP podem ficar com graves defici\u00eancias neurol\u00f3gicas."
+    },
+    {
+        "qid":"0000241-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a Leucoencefalopatia Multifocal Progressiva?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS) e outros institutos dos Institutos Nacionais de Sa\u00fade (NIH) realizam pesquisas relacionadas \u00e0 LMP em laborat\u00f3rios do NIH, e apoiam pesquisas adicionais atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es de pesquisa em todo o pa\u00eds. Grande parte desta pesquisa se concentra em encontrar melhores maneiras de prevenir, tratar e, em \u00faltima an\u00e1lise, curar dist\u00farbios como a LMP."
+    }
+]

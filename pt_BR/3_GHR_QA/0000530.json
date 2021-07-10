@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000530-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de isobutiril-CoA desidrogenase?",
+        "answer":"A defici\u00eancia de isobutiril-CoA desidrogenase (IBD) \u00e9 uma condi\u00e7\u00e3o que interrompe a quebra de certas prote\u00ednas. Normalmente, as prote\u00ednas dos alimentos s\u00e3o divididas em partes chamadas amino\u00e1cidos. Os amino\u00e1cidos podem ser processados para fornecer energia para o crescimento e desenvolvimento. Pessoas com defici\u00eancia de IBD t\u00eam n\u00edveis inadequados de uma enzima que ajuda a quebrar um amino\u00e1cido particular chamado valina. A maioria das pessoas com defici\u00eancia de IBD s\u00e3o assintom\u00e1ticas, o que significa que n\u00e3o t\u00eam sinais ou sintomas da condi\u00e7\u00e3o. Algumas crian\u00e7as com defici\u00eancia de IBD desenvolveram caracter\u00edsticas como um cora\u00e7\u00e3o enfraquecido e aumentado (cardiomiopatia dilatada), t\u00f4nus muscular fraco (hipot\u00f4nia) e atraso no desenvolvimento. Esta condi\u00e7\u00e3o tamb\u00e9m pode causar baixo n\u00famero de gl\u00f3bulos vermelhos (anemia) e n\u00edveis muito baixos no sangue de carnitina, que \u00e9 uma subst\u00e2ncia natural que ajuda a converter certos alimentos em energia. A gama de sinais e sintomas associados \u00e0 defici\u00eancia de IBD ainda n\u00e3o est\u00e1 clara porque muito poucos indiv\u00edduos afetados foram relatados."
+    },
+    {
+        "qid":"0000530-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de isobutiril-CoA desidrogenase?",
+        "answer":"A defici\u00eancia de IBD \u00e9 um dist\u00farbio raro, aproximadamente 22 casos foram relatados na literatura m\u00e9dica."
+    },
+    {
+        "qid":"0000530-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de isobutiril-CoA desidrogenase?",
+        "answer":"Muta\u00e7\u00f5es no gene ACAD8 causam defici\u00eancia de IBD. Este gene fornece instru\u00e7\u00f5es para fazer a enzima IBD, que est\u00e1 envolvida em quebrar a valina. Muta\u00e7\u00f5es de genes ACAD8 reduzem ou eliminam a atividade da enzima IBD. Como resultado, a valina n\u00e3o est\u00e1 quebrada corretamente. Processamento deficiente da valina pode levar a redu\u00e7\u00e3o da produ\u00e7\u00e3o de energia e as caracter\u00edsticas da defici\u00eancia de IBD."
+    },
+    {
+        "qid":"0000530-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de isobutiril-CoA desidrogenase \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000530-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a defici\u00eancia de isobutiril-CoA desidrogenase?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da defici\u00eancia de isobutirilo-CoA desidrogenase: - Primeiro teste do beb\u00ea - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de isobutirilo-CoA desidrogenase - MedlinePlus Enciclop\u00e9dia: Cardiomiopatia Dilatada Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

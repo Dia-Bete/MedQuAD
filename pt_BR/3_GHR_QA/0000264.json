@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000264-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) cistin\u00faria?",
+        "answer":"Cistin\u00faria \u00e9 uma condi\u00e7\u00e3o caracterizada pela acumula\u00e7\u00e3o do amino\u00e1cido cistina, um bloco construtivo da maioria das prote\u00ednas, nos rins e bexiga. Enquanto os rins filtram o sangue para criar urina, a cistina \u00e9 normalmente absorvida de volta para a corrente sangu\u00ednea. Pessoas com cistin\u00faria n\u00e3o conseguem reabsorver a cistina na corrente sangu\u00ednea, ent\u00e3o o amino\u00e1cido se acumula na urina. \u00c0 medida que a urina se concentra nos rins, o excesso de cistina forma cristais. Cristais maiores se tornam pedras que podem se alojar nos rins ou na bexiga. \u00c0s vezes cristais de cistina se combinam com mol\u00e9culas de c\u00e1lcio nos rins para formar pedras grandes. Esses cristais e pedras podem criar bloqueios no trato urin\u00e1rio e reduzir a capacidade dos rins para eliminar desperd\u00edcios atrav\u00e9s da urina. As pedras tamb\u00e9m fornecem locais onde bact\u00e9rias podem causar infec\u00e7\u00f5es."
+    },
+    {
+        "qid":"0000264-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela cistin\u00faria?",
+        "answer":"Cistin\u00faria afeta aproximadamente 1 em 10 mil pessoas."
+    },
+    {
+        "qid":"0000264-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 cistin\u00faria?",
+        "answer":"Muta\u00e7\u00f5es no gene SLC3A1 ou SLC7A9 causam cistin\u00faria. Os genes SLC3A1 e SLC7A9 fornecem instru\u00e7\u00f5es para fazer as duas partes (subunidades) de um complexo proteico que \u00e9 encontrado principalmente nos rins. Normalmente este complexo proteico controla a reabsor\u00e7\u00e3o de certos amino\u00e1cidos, incluindo cistina, no sangue do fluido filtrado que se tornar\u00e1 urina. Muta\u00e7\u00f5es no gene SLC3A1 ou no gene SLC7A9 interrompem a capacidade do complexo proteico de reabsorver amino\u00e1cidos, o que faz com que os amino\u00e1cidos se concentrem na urina. \u00c0 medida que os n\u00edveis de cistina na urina aumentam, os cristais t\u00edpicos da cistin\u00faria se formam. Os outros amino\u00e1cidos reabsorvidos pelo complexo proteico n\u00e3o criam cristais quando se acumulam na urina."
+    },
+    {
+        "qid":"0000264-4",
+        "qtype":"inheritance",
+        "question":"A cistin\u00faria \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000264-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para cistin\u00faria?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da cistin\u00faria: - Registro de Testes Gen\u00e9ticos: Cistin\u00faria - MedlinePlus Encyclopedia: Cistin\u00faria - MedlinePlus Encyclopedia: Cistin\u00faria (imagem) Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

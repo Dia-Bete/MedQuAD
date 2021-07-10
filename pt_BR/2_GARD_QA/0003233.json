@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0003233-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a do disco intervertebral?",
+        "answer":"A doen\u00e7a intervertebral do disco (IDD) \u00e9 uma condi\u00e7\u00e3o musculoesquel\u00e9tica comum que afeta principalmente as costas. \u00c9 caracterizada por hernia do disco intervertebral e/ou dor ci\u00e1tica (ci\u00e1tica) e \u00e9 uma causa prim\u00e1ria de dor lombar, afetando cerca de 5% dos indiv\u00edduos. Tanto os fatores ambientais como gen\u00e9ticos s\u00e3o pensados para predispor um indiv\u00edduo ao desenvolvimento da condi\u00e7\u00e3o. O tratamento para DDI pode incluir fisioterapia, medicamentos para a dor e, \u00e0s vezes, interven\u00e7\u00e3o cir\u00fargica como discectomia ou fus\u00e3o espinhal."
+    },
+    {
+        "qid":"0003233-2",
+        "qtype":"causes",
+        "question":"O que causa a doen\u00e7a do disco intervertebral?",
+        "answer":"O que causa a doen\u00e7a do disco intervertebral? A doen\u00e7a intervertebral do disco (IDD) \u00e9 um dist\u00farbio multifatorial, o que significa que ambos os fatores gen\u00e9ticos e ambientais provavelmente interagem para predispor um indiv\u00edduo \u00e0 condi\u00e7\u00e3o. \u00c9 prov\u00e1vel que v\u00e1rios fatores sejam necess\u00e1rios para o desenvolvimento da IDD. Fatores como estresse ocupacional, trauma, ou obesidade, juntamente com altera\u00e7\u00f5es gen\u00e9ticas, podem resultar na fraqueza estrutural de um disco, causar uma hernia\u00e7\u00e3o, e possivelmente iniciar uma cascata de eventos levando a altera\u00e7\u00f5es ci\u00e1ticas e patol\u00f3gicas do disco. Um dos fatores de risco ambiental mais conhecidos para IDD \u00e9 a vibra\u00e7\u00e3o na condu\u00e7\u00e3o ocupacional. A inflama\u00e7\u00e3o tamb\u00e9m pode desempenhar um papel importante na progress\u00e3o deste processo."
+    },
+    {
+        "qid":"0003233-3",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a do disco intervertebral?",
+        "answer":"Como a doen\u00e7a do disco intervertebral pode ser tratada? Na aus\u00eancia de bandeiras vermelhas, a abordagem inicial ao tratamento \u00e9 tipicamente conservadora e inclui fisioterapia e rem\u00e9dios para dor. Em 90% dos indiv\u00edduos afetados, os ataques agudos de ci\u00e1tica geralmente melhoram em 4 a 6 semanas sem interven\u00e7\u00e3o cir\u00fargica. Nos casos em que a interven\u00e7\u00e3o cir\u00fargica \u00e9 necess\u00e1ria, procedimentos cir\u00fargicos podem incluir discectomia ou fus\u00e3o espinhal."
+    }
+]

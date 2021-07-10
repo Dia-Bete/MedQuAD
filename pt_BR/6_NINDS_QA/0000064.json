@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000064-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o os dist\u00farbios cef\u00e1licos?",
+        "answer":"Os dist\u00farbios cef\u00e1licos s\u00e3o condi\u00e7\u00f5es cong\u00eanitas que resultam de danos ou desenvolvimento anormal do sistema nervoso em crescimento. A maioria dos dist\u00farbios cef\u00e1licos s\u00e3o causados por um dist\u00farbio que ocorre muito cedo no desenvolvimento do sistema nervoso fetal. Danos ao sistema nervoso em desenvolvimento s\u00e3o uma das principais causas de dist\u00farbios cr\u00f4nicos e incapacitantes, e \u00e0s vezes morte em beb\u00eas, crian\u00e7as e at\u00e9 mesmo adultos. Os dist\u00farbios cef\u00e1licos podem ser influenciados por condi\u00e7\u00f5es heredit\u00e1rias ou gen\u00e9ticas ou por exposi\u00e7\u00f5es ambientais durante a gravidez (por exemplo, medicamentos tomados pela m\u00e3e, infec\u00e7\u00e3o materna, exposi\u00e7\u00e3o \u00e0 radia\u00e7\u00e3o). Alguns dist\u00farbios cef\u00e1licos ocorrem quando as suturas cranianas (as articula\u00e7\u00f5es fibrosas que ligam os ossos do cr\u00e2nio) se unem prematuramente. Compreender o desenvolvimento normal do sistema nervoso humano pode levar a uma melhor compreens\u00e3o dos dist\u00farbios cef\u00e1licos."
+    },
+    {
+        "qid":"0000064-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para os dist\u00farbios cef\u00e1licos?",
+        "answer":"Os tratamentos para dist\u00farbios cef\u00e1licos dependem do tipo particular de dist\u00farbio. Para a maioria dos dist\u00farbios cef\u00e1licos, o tratamento \u00e9 sintom\u00e1tico e de apoio. Em alguns casos, medica\u00e7\u00f5es anticonvulsivantes shunts, ou fisioterapia s\u00e3o apropriados."
+    },
+    {
+        "qid":"0000064-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para os dist\u00farbios cef\u00e1licos?",
+        "answer":"O grau em que o dano ao sistema nervoso em desenvolvimento prejudica a mente e o corpo varia enormemente. Muitas defici\u00eancias s\u00e3o suaves o suficiente para permitir que os aflitos atuem independentemente na sociedade. Outros n\u00e3o s\u00e3o. Alguns beb\u00eas, crian\u00e7as e adultos morrem; outros continuam totalmente incapacitados; e uma popula\u00e7\u00e3o ainda maior \u00e9 parcialmente incapacitada, funcionando bem abaixo da capacidade normal."
+    },
+    {
+        "qid":"0000064-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para os dist\u00farbios cef\u00e1licos?",
+        "answer":"Cientistas est\u00e3o aprendendo rapidamente como insultos prejudiciais, uma defici\u00eancia nutricional cr\u00edtica, ou exposi\u00e7\u00e3o a um insulto ambiental em v\u00e1rias fases da gravidez podem levar a dist\u00farbios do desenvolvimento. Projetos de pesquisa atualmente em curso incluem um estudo para avaliar o aumento do risco de defeitos do tubo neural e v\u00e1rias outras malforma\u00e7\u00f5es cong\u00eanitas associadas \u00e0 exposi\u00e7\u00e3o ambiental e ocupacional a pesticidas. Os cientistas tamb\u00e9m est\u00e3o concentrando seus esfor\u00e7os na compreens\u00e3o dos complexos processos respons\u00e1veis pelo desenvolvimento precoce normal do c\u00e9rebro e do sistema nervoso e como a interrup\u00e7\u00e3o de qualquer um desses processos resulta em anomalias cong\u00eanitas como dist\u00farbios cef\u00e1licos. Atualmente, pesquisadores est\u00e3o examinando os mecanismos envolvidos na neurula\u00e7\u00e3o... o processo de forma\u00e7\u00e3o do tubo neural. Investigadores tamb\u00e9m est\u00e3o conduzindo uma variedade de estudos gen\u00e9ticos. Entendendo como os genes controlam a migra\u00e7\u00e3o de c\u00e9lulas cerebrais, prolifera\u00e7\u00e3o, diferencia\u00e7\u00e3o e morte, e como radia\u00e7\u00e3o, drogas, toxinas, infec\u00e7\u00f5es e outros fatores interrompem esses processos ajudar\u00e3o na preven\u00e7\u00e3o de muitos dist\u00farbios neurol\u00f3gicos cong\u00eanitos. Estudos recentes mostraram que a adi\u00e7\u00e3o de \u00e1cido f\u00f3lico \u00e0 dieta de mulheres em idade f\u00e9rtil pode reduzir significativamente a incid\u00eancia de defeitos do tubo neural. Portanto, recomenda-se que todas as mulheres em idade f\u00e9rtil consomem 0,4 mg de \u00e1cido f\u00f3lico por dia."
+    }
+]

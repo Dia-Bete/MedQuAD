@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000426-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de armazenamento de glicog\u00eanio tipo V?",
+        "answer":"A doen\u00e7a de armazenamento de glicog\u00eanio tipo V (tamb\u00e9m conhecida como doen\u00e7a de GSDV ou McArdle) \u00e9 uma doen\u00e7a herdada causada pela incapacidade de quebrar um complexo a\u00e7\u00facar chamado glicog\u00eanio em c\u00e9lulas musculares. A falta de quebra de glicog\u00eanio interfere na fun\u00e7\u00e3o das c\u00e9lulas musculares. Pessoas com GSDV normalmente experimentam fadiga, dor muscular e c\u00e3ibras durante os primeiros minutos de exerc\u00edcio (intoler\u00e2ncia ao exerc\u00edcio). Exerc\u00edcio como levantamento de peso ou jogging geralmente desencadeia esses sintomas em indiv\u00edduos afetados. O desconforto \u00e9 geralmente aliviado com o repouso. Se os indiv\u00edduos descansam depois de um breve exerc\u00edcio e esperam que sua dor se apague, geralmente podem retomar o exerc\u00edcio com pouco ou nenhum desconforto (um fen\u00f4meno caracter\u00edstico conhecido como \"segundo vento\"). Exerc\u00edcio prolongado ou intenso pode causar danos musculares em pessoas com GSDV. Cerca de metade das pessoas com GSDV sofrem quebra de tecido muscular (rabdomi\u00f3lise). Em epis\u00f3dios graves, a destrui\u00e7\u00e3o do tecido muscular libera uma prote\u00edna chamada mioglobina, que \u00e9 filtrada atrav\u00e9s dos rins e liberada na urina (mioglobin\u00faria). A mioglobina faz com que a urina seja vermelha ou marrom. Esta prote\u00edna tamb\u00e9m pode danificar os rins, e estima-se que metade dos indiv\u00edduos com GSDV que t\u00eam mioglobin\u00faria desenvolver\u00e1 insufici\u00eancia renal potencialmente mortal. Os sinais e sintomas do GSDV podem variar significativamente nos indiv\u00edduos afetados. As caracter\u00edsticas dessa condi\u00e7\u00e3o normalmente come\u00e7am na adolesc\u00eancia ou na idade de 20 anos, mas podem aparecer a qualquer momento da inf\u00e2ncia at\u00e9 a idade adulta. Na maioria das pessoas com GSDV, a fraqueza muscular piora ao longo do tempo; no entanto, em cerca de um ter\u00e7o dos indiv\u00edduos afetados, a fraqueza muscular \u00e9 est\u00e1vel. Algumas pessoas com GSDV apresentam sintomas leves, como resist\u00eancia pobre; outras n\u00e3o apresentam nenhum sintoma."
+    },
+    {
+        "qid":"0000426-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela doen\u00e7a de armazenamento de glicog\u00eanio tipo V?",
+        "answer":"O GSDV \u00e9 um dist\u00farbio raro; no entanto, sua preval\u00eancia \u00e9 desconhecida. Na \u00e1rea de Dallas-Fort Worth, no Texas, onde a preval\u00eancia de GSDV foi estudada, a condi\u00e7\u00e3o \u00e9 estimada para afetar 1 em 100.000 indiv\u00edduos."
+    },
+    {
+        "qid":"0000426-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 doen\u00e7a de armazenamento de glicog\u00eanio tipo V?",
+        "answer":"Muta\u00e7\u00f5es no gene PYGM causam GSDV. O gene PYGM fornece instru\u00e7\u00f5es para fazer uma enzima chamada miofosforilase. Esta enzima \u00e9 encontrada apenas em c\u00e9lulas musculares, onde ele descomp\u00f5e o glicog\u00eanio em um a\u00e7\u00facar mais simples chamado glucose-1-fosfato. Passos adicionais convertem glicose-1-fosfato em glicose, um a\u00e7\u00facar simples que \u00e9 a principal fonte de energia para a maioria das c\u00e9lulas. Muta\u00e7\u00f5es do gene PYGM impedem a miofosforilase de quebrar o glicog\u00eanio de forma eficaz. Como resultado, as c\u00e9lulas musculares n\u00e3o conseguem produzir energia suficiente, ent\u00e3o os m\u00fasculos ficam facilmente fadigados. A redu\u00e7\u00e3o da produ\u00e7\u00e3o de energia nas c\u00e9lulas musculares leva \u00e0s principais caracter\u00edsticas do GSDV."
+    },
+    {
+        "qid":"0000426-4",
+        "qtype":"inheritance",
+        "question":"A doen\u00e7a de armazenamento de glicog\u00eanio tipo V \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000426-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de armazenamento de glicog\u00eanio tipo V?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da doen\u00e7a de armazenamento de glicog\u00eanio tipo V: - Gene Review: Gene Review: Glycogen Storage Disease Type V - Genetic Testing Registry: Glycogen storage disease, type V - MedlinePlus Enciclopedia: S\u00edndrome de McArdle Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0000201-1",
+        "qtype":"important warning",
+        "question":"Que aviso ou informa\u00e7\u00e3o importante eu deveria saber sobre Carmustine?",
+        "answer":""
+    },
+    {
+        "qid":"0000201-2",
+        "qtype":"indication",
+        "question":"Quem deve pegar Carmustine e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000201-3",
+        "qtype":"usage",
+        "question":"Como usar Carmustine e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000201-5",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Carmustine?",
+        "answer":""
+    },
+    {
+        "qid":"0000201-6",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Carmustina?",
+        "answer":""
+    },
+    {
+        "qid":"0000201-7",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Carmustine?",
+        "answer":""
+    },
+    {
+        "qid":"0000201-8",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Carmustine?",
+        "answer":""
+    },
+    {
+        "qid":"0000201-9",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de Carmustine?",
+        "answer":""
+    }
+]

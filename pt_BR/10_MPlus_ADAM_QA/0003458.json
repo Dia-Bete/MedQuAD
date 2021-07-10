@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0003458-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o tumores de gl\u00e2ndula salivar?",
+        "answer":""
+    },
+    {
+        "qid":"0003458-2",
+        "qtype":"causes",
+        "question":"O que causa tumores na gl\u00e2ndula salivar?",
+        "answer":""
+    },
+    {
+        "qid":"0003458-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas dos tumores da gl\u00e2ndula salivar?",
+        "answer":""
+    },
+    {
+        "qid":"0003458-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar tumores da gl\u00e2ndula salivar?",
+        "answer":""
+    },
+    {
+        "qid":"0003458-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para tumores de gl\u00e2ndula salivar?",
+        "answer":""
+    },
+    {
+        "qid":"0003458-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva dos tumores da gl\u00e2ndula salivar?",
+        "answer":""
+    },
+    {
+        "qid":"0003458-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es dos tumores da gl\u00e2ndula salivar?",
+        "answer":""
+    },
+    {
+        "qid":"0003458-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para tumores de gl\u00e2ndula salivar?",
+        "answer":""
+    }
+]

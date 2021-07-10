@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000019-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a anencefalia?",
+        "answer":"A anencefalia \u00e9 um defeito no fechamento do tubo neural durante o desenvolvimento fetal. O tubo neural \u00e9 um canal estreito que se dobra e se fecha entre as 3a e 4a semanas de gravidez para formar o c\u00e9rebro e a medula espinhal do embri\u00e3o. A anencefalia ocorre quando a extremidade \"cef\u00e1lica\" ou cabe\u00e7a do tubo neural n\u00e3o se fecha, resultando na aus\u00eancia de uma grande por\u00e7\u00e3o do c\u00e9rebro, cr\u00e2nio e couro cabeludo. Crian\u00e7as com este dist\u00farbio nascem sem uma antebraina (a parte frontal do c\u00e9rebro) e um cerebro (a parte de pensar e coordenar o c\u00e9rebro). O restante tecido cerebral \u00e9 frequentemente exposto - n\u00e3o coberto por osso ou pele. Um beb\u00ea nascido com anencefalia geralmente \u00e9 cego, surdo, inconsciente, e incapaz de sentir dor. Embora alguns indiv\u00edduos com anencefalia possam nascer com um tronco cerebral rudimentar, a falta de um c\u00e9rebro funcional exclui permanentemente a possibilidade de ganhar consci\u00eancia. A\u00e7\u00f5es reflexas como respira\u00e7\u00e3o e respostas ao som ou ao toque podem ocorrer. A causa da anencefalia \u00e9 desconhecida. Embora se pense que a dieta de uma m\u00e3e e a ingest\u00e3o de vitaminas podem desempenhar um papel, os cientistas acreditam que muitos outros fatores tamb\u00e9m est\u00e3o envolvidos. Estudos recentes mostraram que a adi\u00e7\u00e3o de \u00e1cido f\u00f3lico (vitamina B9) \u00e0 dieta de mulheres em idade f\u00e9rtil pode reduzir significativamente a incid\u00eancia de defeitos do tubo neural. Portanto, recomenda-se que todas as mulheres em idade f\u00e9rtil consomem 0,4 mg de \u00e1cido f\u00f3lico por dia."
+    },
+    {
+        "qid":"0000019-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Anencefalia?",
+        "answer":"N\u00e3o h\u00e1 cura ou tratamento padr\u00e3o para a anencefalia. O tratamento \u00e9 de apoio."
+    },
+    {
+        "qid":"0000019-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Anencefalia?",
+        "answer":"O progn\u00f3stico para beb\u00eas nascidos com anencefalia \u00e9 extremamente ruim. Se o beb\u00ea n\u00e3o nascer morto, ele ou ela geralmente morrer\u00e1 dentro de algumas horas ou dias ap\u00f3s o nascimento."
+    },
+    {
+        "qid":"0000019-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Anencefalia?",
+        "answer":"Pesquisa apoiada pelo NINDS inclui estudos para entender como o c\u00e9rebro e o sistema nervoso normalmente se desenvolvem. Esses estudos contribuem para uma maior compreens\u00e3o de dist\u00farbios do tubo neural, como a anencefalia, e abrem novas vias promissoras para tratar e prevenir defeitos neurol\u00f3gicos."
+    }
+]

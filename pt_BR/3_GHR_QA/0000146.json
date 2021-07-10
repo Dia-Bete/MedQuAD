@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000146-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Canavan?",
+        "answer":"A doen\u00e7a de Canavan \u00e9 uma rara doen\u00e7a herdada que prejudica a capacidade das c\u00e9lulas nervosas (neur\u00f4nios) no c\u00e9rebro para enviar e receber mensagens. Esta doen\u00e7a \u00e9 um grupo de dist\u00farbios gen\u00e9ticos chamados leucodistrofias. As leucodistrofias interrompem o crescimento ou manuten\u00e7\u00e3o da bainha de mielina, que \u00e9 a cobertura que protege os nervos e promove a transmiss\u00e3o eficiente dos impulsos nervosos. A doen\u00e7a de Canavana neonatal/infantil \u00e9 a forma mais comum e grave da doen\u00e7a. Crian\u00e7as afetadas parecem normais nos primeiros meses de vida, mas aos 3 a 5 meses, problemas com o desenvolvimento se tornam not\u00e1veis. Essas crian\u00e7as geralmente n\u00e3o desenvolvem habilidades motoras como virar, controlar o movimento da cabe\u00e7a, e sentar sem apoio. Outras caracter\u00edsticas comuns desta condi\u00e7\u00e3o incluem o t\u00f4nus muscular fraco (hipot\u00f4nia), um tamanho de cabe\u00e7a incomummente grande (macrocefalia), e irritabilidade. Dificuldades de alimenta\u00e7\u00e3o e degluti\u00e7\u00e3o, convuls\u00f5es e dist\u00farbios do sono tamb\u00e9m podem se desenvolver. A forma leve/juvenil da doen\u00e7a de Canavan \u00e9 menos comum. Indiv\u00edduos afetados t\u00eam um leve atraso no desenvolvimento da fala e habilidades motoras come\u00e7ando na inf\u00e2ncia. Esses atrasos podem ser t\u00e3o leves e inespec\u00edficos que nunca s\u00e3o reconhecidos como causados pela doen\u00e7a de Canavan. A expectativa de vida das pessoas com doen\u00e7a de Canavan varia. A maioria das pessoas com a forma neonatal/infantil vivem apenas na inf\u00e2ncia, embora algumas sobrevivam na adolesc\u00eancia ou al\u00e9m. Pessoas com a forma leve/juvenil n\u00e3o parecem ter uma vida curta."
+    },
+    {
+        "qid":"0000146-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela doen\u00e7a de Canavan?",
+        "answer":"Enquanto esta condi\u00e7\u00e3o ocorre em pessoas de todas as origens \u00e9tnicas, \u00e9 mais comum em pessoas de Ashkenazi (Europa Central e Oriental) heran\u00e7a judaica. Estudos sugerem que esse dist\u00farbio afeta 1 em 6.400 a 13.500 pessoas na popula\u00e7\u00e3o judaica Ashkenazi. A incid\u00eancia em outras popula\u00e7\u00f5es \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000146-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as mudan\u00e7as gen\u00e9ticas relacionadas \u00e0 doen\u00e7a de Canavan?",
+        "answer":"Muta\u00e7\u00f5es no gene ASPA causam a doen\u00e7a de Canavan. O gene ASPA fornece instru\u00e7\u00f5es para fazer uma enzima chamada aspartoacilase. Esta enzima normalmente descomp\u00f5e um composto chamado N-acetil-L-\u00e1cido asp\u00e1rtico (NAA), que \u00e9 encontrado predominantemente em neur\u00f4nios no c\u00e9rebro. A fun\u00e7\u00e3o do NAA n\u00e3o est\u00e1 clara. Pesquisadores suspeitaram que ele desempenhava um papel na produ\u00e7\u00e3o da bainha de mielina, mas estudos recentes sugerem que o NAA n\u00e3o tem essa fun\u00e7\u00e3o. A enzima pode estar envolvida no transporte de mol\u00e9culas de \u00e1gua para fora dos neur\u00f4nios. Muta\u00e7\u00f5es no gene ASPA reduzem a fun\u00e7\u00e3o da aspartoacilase, o que impede a quebra normal do NAA. As muta\u00e7\u00f5es que causam a forma neonatal/infantil da doen\u00e7a de Canavan prejudicam gravemente a atividade da enzima, permitindo que o NAA se acumule at\u00e9 n\u00edveis elevados no c\u00e9rebro. As muta\u00e7\u00f5es que causam a forma leve/juvenil do dist\u00farbio t\u00eam efeitos mais leves na atividade da enzima, levando a menos acumula\u00e7\u00e3o de NAA. Um excesso de NAA no c\u00e9rebro est\u00e1 associado com os sinais e sintomas da doen\u00e7a de Canavan. Estudos sugerem que se o NAA n\u00e3o for decomposto corretamente, o desequil\u00edbrio qu\u00edmico resultante interfere na forma\u00e7\u00e3o da bainha de mielina \u00e0 medida que o sistema nervoso se desenvolve. Uma acumula\u00e7\u00e3o de NAA tamb\u00e9m leva \u00e0 destrui\u00e7\u00e3o progressiva de bainhas de mielina existentes. Nervos sem este disfuncionamento protetor de cobertura, que interrompe o desenvolvimento cerebral normal."
+    },
+    {
+        "qid":"0000146-4",
+        "qtype":"inheritance",
+        "question":"A doen\u00e7a de Canavan \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000146-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Canavan?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da doen\u00e7a de Canavan: - Gene Review: Gene Review: Canavan Disease - Genetic Testing Registry: Canavan Disease, leve - Genetic Testing Registry: Degenera\u00e7\u00e3o esponjosa do sistema nervoso central - MedlinePlus Enciclop\u00e9dia: Canavan Disease Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

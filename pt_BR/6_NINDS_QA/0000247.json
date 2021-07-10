@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000247-1",
+        "qtype":"information",
+        "question":"O que \u00e9 S\u00edndrome de Rett?",
+        "answer":"A s\u00edndrome de Rett \u00e9 um dist\u00farbio neurodesenvolvimento infantil que afeta as f\u00eameas quase exclusivamente. A crian\u00e7a geralmente parece crescer e se desenvolver normalmente, antes que os sintomas comecem. Perda de t\u00f4nus muscular \u00e9 geralmente o primeiro sintoma. Outros sintomas precoces podem incluir uma diminui\u00e7\u00e3o do desenvolvimento, problemas de rastejamento ou caminhada, e contato visual diminu\u00eddo. \u00c0 medida que a s\u00edndrome progride, uma crian\u00e7a perder\u00e1 o uso intencional de suas m\u00e3os e a capacidade de falar. Movimentos compulsivos das m\u00e3os, como tor\u00e7\u00e3o e lavagem, seguem a perda do uso funcional das m\u00e3os. A incapacidade de realizar fun\u00e7\u00f5es motoras \u00e9 talvez a caracter\u00edstica mais severamente incapacitante da s\u00edndrome de Rett, interferindo em todos os movimentos do corpo, incluindo olhar e fala."
+    },
+    {
+        "qid":"0000247-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a S\u00edndrome de Rett?",
+        "answer":"N\u00e3o h\u00e1 cura para a s\u00edndrome de Rett. O tratamento para o dist\u00farbio \u00e9 sintom\u00e1tico, focado no manejo dos sintomas, e de apoio. Medicamentos podem ser necess\u00e1rios para irregularidades respirat\u00f3rias e dificuldades motoras, e drogas antiepil\u00e9pticas podem ser usadas para controlar convuls\u00f5es. Terapia ocupacional, fisioterapia e hidroterapia podem prolongar a mobilidade. Algumas crian\u00e7as podem precisar de equipamentos especiais e ajudas, como aparelhos para parar a escoliose, agulhas para modificar os movimentos das m\u00e3os, e programas nutricionais para ajud\u00e1-los a manter o peso adequado. Servi\u00e7os acad\u00eamicos, sociais, profissionais e de apoio especiais podem ser necess\u00e1rios em alguns casos."
+    },
+    {
+        "qid":"0000247-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a S\u00edndrome de Rett?",
+        "answer":"O curso da s\u00edndrome de Rett, incluindo a idade de in\u00edcio e a gravidade dos sintomas, varia de crian\u00e7a para crian\u00e7a. Apesar das dificuldades com os sintomas, a maioria dos indiv\u00edduos com s\u00edndrome de Rett continua vivendo bem na meia idade e al\u00e9m. Porque o dist\u00farbio \u00e9 raro, muito pouco se sabe sobre progn\u00f3stico a longo prazo e expectativa de vida."
+    },
+    {
+        "qid":"0000247-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a S\u00edndrome de Rett?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS) e outros institutos dos Institutos Nacionais de Sa\u00fade (NIH) realizam pesquisas relacionadas com a s\u00edndrome de Rett em laborat\u00f3rios do NIH, e tamb\u00e9m apoiam a pesquisa adicional de s\u00edndrome de Rett atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. A descoberta do gene da s\u00edndrome de Rett em 1999 fornece uma base para novos estudos gen\u00e9ticos. Compreender a causa deste dist\u00farbio \u00e9 necess\u00e1rio para desenvolver novas terapias para controlar sintomas espec\u00edficos, bem como para fornecer melhores m\u00e9todos de diagn\u00f3stico."
+    }
+]

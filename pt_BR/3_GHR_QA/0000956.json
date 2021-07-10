@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000956-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Stormorken?",
+        "answer":"A s\u00edndrome de Stormorken \u00e9 uma condi\u00e7\u00e3o rara que afeta muitos sistemas corporais. Os indiv\u00edduos afetados geralmente t\u00eam trombocitopenia, em que h\u00e1 um n\u00famero anormalmente baixo de c\u00e9lulas sangu\u00edneas chamadas plaquetas. As plaquetas est\u00e3o envolvidas na coagula\u00e7\u00e3o sangu\u00ednea normal; uma escassez de plaquetas normalmente resulta em hematomas f\u00e1ceis e sangramento anormal. Al\u00e9m disso, indiv\u00edduos afetados muitas vezes t\u00eam um dist\u00farbio muscular, chamado miopatia tubular agregada, que leva \u00e0 fraqueza muscular. Outra caracter\u00edstica da s\u00edndrome de Stormorken \u00e9 a constri\u00e7\u00e3o permanente das pupilas dos olhos (miose), que pode ser causada por anormalidades nos m\u00fasculos que controlam o tamanho das pupilas. Outras caracter\u00edsticas incluem a falta de um ba\u00e7o funcional (esplenia), pele escamosa (ictiose), dores de cabe\u00e7a, e dificuldade em ler e ortografia (dislexia)."
+    },
+    {
+        "qid":"0000956-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Stormorken?",
+        "answer":"A s\u00edndrome de Stormorken \u00e9 uma doen\u00e7a rara. Aproximadamente uma d\u00fazia de casos foram relatados na literatura m\u00e9dica."
+    },
+    {
+        "qid":"0000956-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Stormorken?",
+        "answer":"A s\u00edndrome de Stormorken \u00e9 causada por uma muta\u00e7\u00e3o no gene STIM1. A prote\u00edna produzida a partir deste gene est\u00e1 envolvida no controle da entrada de \u00e1tomos de c\u00e1lcio carregados positivamente (iones de c\u00e1lcio) nas c\u00e9lulas. A prote\u00edna STIM1 reconhece quando os n\u00edveis de \u00edons de c\u00e1lcio s\u00e3o baixos e estimula o fluxo de \u00edons para a c\u00e9lula atrav\u00e9s de canais especiais na membrana celular chamados canais de c\u00e1lcio ativado de libera\u00e7\u00e3o de c\u00e1lcio (CRAC). O fluxo de \u00edons de c\u00e1lcio atrav\u00e9s dos canais CRAC desencadeia sinaliza\u00e7\u00e3o dentro das c\u00e9lulas que ajuda a controlar a atividade g\u00eanica, crescimento e divis\u00e3o celular, e fun\u00e7\u00e3o imune. A muta\u00e7\u00e3o do gene STIM1 envolvida na s\u00edndrome de Stormorken leva \u00e0 produ\u00e7\u00e3o de uma prote\u00edna STIM1 que est\u00e1 constantemente ligada (constitutivamente ativa), o que significa que estimula continuamente a entrada de \u00edons de c\u00e1lcio atrav\u00e9s dos canais CRAC, independentemente dos n\u00edveis de \u00edons. Pesquisadores sugerem que o fluxo anormal de \u00edons nas plaquetas faz com que as c\u00e9lulas morram mais cedo do que de costume, levando a trombocitopenia e problemas de sangramento em pessoas com s\u00edndrome de Stormorken. Desconhece-se como a STIM1 constitutivamente ativa leva \u00e0s outras caracter\u00edsticas do dist\u00farbio."
+    },
+    {
+        "qid":"0000956-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Stormorken \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Em alguns casos, uma pessoa afetada herda a muta\u00e7\u00e3o de um pai afetado. Outros casos resultam de novas muta\u00e7\u00f5es no gene e ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia."
+    },
+    {
+        "qid":"0000956-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Stormorken?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da s\u00edndrome de Stormorken: - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Stormorken Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

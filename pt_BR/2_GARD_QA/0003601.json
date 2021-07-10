@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0003601-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) distrofia muscular de cinzas?",
+        "answer":"A distrofia muscular dos membros \u00e9 um grupo de dist\u00farbios que afetam os m\u00fasculos volunt\u00e1rios ao redor dos quadris e dos ombros. As condi\u00e7\u00f5es s\u00e3o progressivas, levando a uma perda de for\u00e7a muscular e massa ao longo de v\u00e1rios anos. O in\u00edcio pode ocorrer na inf\u00e2ncia, adolesc\u00eancia, idade adulta jovem, ou mesmo mais tarde. Machos e f\u00eameas s\u00e3o afetados em n\u00fameros iguais. A maioria das formas de distrofia muscular de cintura de membros s\u00e3o herdadas de forma autoss\u00f4mica recessiva. V\u00e1rias formas raras s\u00e3o herdadas em um padr\u00e3o autoss\u00f4mico dominante. Embora n\u00e3o haja tratamentos que invertam diretamente a fraqueza muscular associada a esta condi\u00e7\u00e3o, o tratamento de apoio pode diminuir as complica\u00e7\u00f5es. H\u00e1 pelo menos 20 tipos diferentes de distrofia muscular."
+    },
+    {
+        "qid":"0003601-2",
+        "qtype":"inheritance",
+        "question":"A distrofia muscular de cinzas de lim\u00e3o \u00e9 herdada?",
+        "answer":"Como a distrofia muscular dos membros \u00e9 herdada? A distrofia muscular de cinzas de membros (LGMD) \u00e9 mais frequentemente herdada de uma forma autoss\u00f4mica recessiva; menos comumente, os subtipos raros podem ser herdados de uma forma autoss\u00f4mica dominante. Pode haver dificuldades para diagnosticar a condi\u00e7\u00e3o com precis\u00e3o, e muitas vezes o modo de heran\u00e7a n\u00e3o pode ser determinado. Portanto, pode ser dif\u00edcil determinar os riscos exatos de recorr\u00eancia para algumas fam\u00edlias. Estabelecer o tipo de LGMD em um indiv\u00edduo afetado pode ser \u00fatil para discutir o curso cl\u00ednico da doen\u00e7a, bem como para determinar quem mais na fam\u00edlia pode estar em risco para a condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0003601-3",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a distrofia muscular de cinzas?",
+        "answer":"Como a distrofia muscular dos membros pode ser tratada? Infelizmente, n\u00e3o existem tratamentos definitivos ou medicamentos eficazes para as distrofias musculares do membro-girdle (LGMDs) atualmente. O gerenciamento depende de cada indiv\u00edduo e do tipo espec\u00edfico de LGMD que o indiv\u00edduo tem. No entanto, uma abordagem geral para o manejo da LGMD foi proposta, com base na t\u00edpica progress\u00e3o e complica\u00e7\u00f5es dos indiv\u00edduos afetados. Essa abordagem pode incluir: controle de peso para evitar obesidade; fisioterapia e exerc\u00edcios de estiramento para promover a mobilidade e prevenir contraturas (aprimoramento fixo dos m\u00fasculos); uso de ajudas mec\u00e2nicas como bast\u00f5es, caminhantes, ortop\u00e9dicos e cadeiras de rodas, conforme necess\u00e1rio para ajudar a ambula\u00e7\u00e3o e mobilidade; monitoramento e interven\u00e7\u00e3o cir\u00fargica, conforme necess\u00e1rio para complica\u00e7\u00f5es ortop\u00e9dicas, como deformidade dos p\u00e9s e escoliose; monitoramento da fun\u00e7\u00e3o respirat\u00f3ria e uso de ajudas respirat\u00f3rias quando necess\u00e1rio; monitoramento de evid\u00eancias de cardiomiopatia nos tipos de LGMD com ocorr\u00eancia conhecida de envolvimento card\u00edaco; e apoio social e emocional e estimula\u00e7\u00e3o para maximizar o sentimento de envolvimento social e produtividade, e para reduzir o sentimento de isolamento social comum nesses dist\u00farbios."
+    }
+]

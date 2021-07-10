@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000274-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Whiplash?",
+        "answer":"Whiplash, uma les\u00e3o de tecido mole no pesco\u00e7o, tamb\u00e9m \u00e9 chamada de tor\u00e7\u00e3o ou estirpe no pesco\u00e7o. \u00c9 caracterizada por uma cole\u00e7\u00e3o de sintomas que ocorrem ap\u00f3s danos no pesco\u00e7o, geralmente por extens\u00e3o e flex\u00e3o s\u00fabitas. O dist\u00farbio comumente ocorre como resultado de um acidente autom\u00f3vel e pode incluir les\u00f5es nas articula\u00e7\u00f5es intervertebrais, discos e ligamentos, m\u00fasculos cervicais e ra\u00edzes nervosas. Sintomas como dor no pesco\u00e7o podem estar presentes diretamente ap\u00f3s a les\u00e3o ou podem ser atrasados por v\u00e1rios dias. Al\u00e9m da dor cervical, outros sintomas podem incluir rigidez cervical, les\u00f5es nos m\u00fasculos e ligamentos (les\u00f5es miofasciais), dor de cabe\u00e7a, tonturas, sensa\u00e7\u00f5es anormais como queimaduras ou espinhos (parestesias), ou dor no ombro ou nas costas. Al\u00e9m disso, algumas pessoas experimentam condi\u00e7\u00f5es cognitivas, som\u00e1ticas ou psicol\u00f3gicas como perda de mem\u00f3ria, comprometimento da concentra\u00e7\u00e3o, nervosismo/irritabilidade, dist\u00farbios do sono, fadiga ou depress\u00e3o."
+    },
+    {
+        "qid":"0000274-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Whiplash?",
+        "answer":"O tratamento para indiv\u00edduos com chicote pode incluir medicamentos para a dor, anti-inflamat\u00f3rios n\u00e3o esteroides, antidepressivos, relaxantes musculares e um colar cervical (normalmente usado por 2 a 3 semanas). Gama de exerc\u00edcios de movimento, fisioterapia e tra\u00e7\u00e3o cervical tamb\u00e9m podem ser prescritos. A aplica\u00e7\u00e3o de calor suplementar pode aliviar a tens\u00e3o muscular."
+    },
+    {
+        "qid":"0000274-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Whiplash?",
+        "answer":"Geralmente, progn\u00f3stico para indiv\u00edduos com chicote \u00e9 bom. A dor no pesco\u00e7o e na cabe\u00e7a desaparece em alguns dias ou semanas. A maioria dos pacientes se recupera em 3 meses ap\u00f3s a les\u00e3o, entretanto, alguns podem continuar a ter dor residual no pesco\u00e7o e dores de cabe\u00e7a."
+    },
+    {
+        "qid":"0000274-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Whiplash?",
+        "answer":"A NINDS conduz e apoia pesquisas sobre dist\u00farbios relacionados ao trauma, como chicote. Grande parte desta pesquisa se concentra em aumentar a compreens\u00e3o cient\u00edfica desses dist\u00farbios e encontrar maneiras de preveni-los e trat\u00e1-los."
+    }
+]

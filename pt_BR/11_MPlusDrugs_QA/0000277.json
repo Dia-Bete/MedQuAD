@@ -1,0 +1,68 @@
+[
+    {
+        "qid":"0000277-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar Clonidine e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000277-2",
+        "qtype":"usage",
+        "question":"Como usar Clonidine e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000277-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Clonidine?",
+        "answer":""
+    },
+    {
+        "qid":"0000277-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Clonidine?",
+        "answer":""
+    },
+    {
+        "qid":"0000277-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Clonidine?",
+        "answer":""
+    },
+    {
+        "qid":"0000277-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da Clonidina?",
+        "answer":""
+    },
+    {
+        "qid":"0000277-8",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Clonidine?",
+        "answer":""
+    },
+    {
+        "qid":"0000277-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Clonidine?",
+        "answer":""
+    },
+    {
+        "qid":"0000277-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Clonidine?",
+        "answer":""
+    },
+    {
+        "qid":"0000277-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca da Clonidine?",
+        "answer":""
+    },
+    {
+        "qid":"0000277-12",
+        "qtype":"brand names of combination products",
+        "question":"Quais s\u00e3o os nomes de marcas de produtos combinados de Clonidine?",
+        "answer":""
+    }
+]

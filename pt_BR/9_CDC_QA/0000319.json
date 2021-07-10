@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000319-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Parasites - Paragonim\u00edase (tamb\u00e9m conhecido como Infe\u00e7\u00e3o de Paragonimus)?",
+        "answer":"Perguntas Frequentes (FAQs)"
+    },
+    {
+        "qid":"0000319-2",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco de Parasites - Paragonim\u00edase (tamb\u00e9m conhecida como Infe\u00e7\u00e3o de Paragonimus)? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"V\u00e1rias esp\u00e9cies de Paragonimus causam a maioria das infec\u00e7\u00f5es; a mais importante \u00e9 P. Westermani, que ocorre principalmente na \u00c1sia, incluindo a China, Filipinas, Jap\u00e3o, Vietn\u00e3, Coreia do Sul, Taiwan e Tail\u00e2ndia. P. africano causa infec\u00e7\u00e3o na \u00c1frica, e P. mexicano na Am\u00e9rica Central e do Sul. Pratos especiais em que marisco \u00e9 consumido cru ou preparado apenas em vinagre, salmoura ou vinho sem cozinhar desempenham um papel fundamental na transmiss\u00e3o da paragonim\u00edase. Caranguejos crus ou lagartos tamb\u00e9m s\u00e3o usados em pr\u00e1ticas de medicina tradicional na Cor\u00e9ia, Jap\u00e3o e algumas partes da \u00c1frica. Embora rara, a paragonim\u00edase humana de P. kellicotti foi adquirida nos Estados Unidos, com m\u00faltiplos casos do Centro-Oeste. V\u00e1rios casos foram associados \u00e0 ingest\u00e3o de lagartos n\u00e3o cozidos durante viagens fluviais de jangada no Missouri."
+    },
+    {
+        "qid":"0000319-5",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar Parasites - Paragonim\u00edase (tamb\u00e9m conhecido como Infe\u00e7\u00e3o de Paragonimus)?",
+        "answer":"A infec\u00e7\u00e3o \u00e9 geralmente diagnosticada por identifica\u00e7\u00e3o de ovos de Paragonimus no escarro. Os ovos \u00e0s vezes s\u00e3o encontrados em amostras de fezes (ovos tosse-up s\u00e3o engolidos). Uma bi\u00f3psia de tecido \u00e9 feita \u00e0s vezes para procurar ovos em um esp\u00e9cime de tecido. Testes de anticorpos espec\u00edficos e sens\u00edveis baseados em ant\u00edgenos de P. Westermani est\u00e3o dispon\u00edveis atrav\u00e9s de CDC, e testes sorol\u00f3gicos usando uma variedade de t\u00e9cnicas est\u00e3o dispon\u00edveis atrav\u00e9s de laborat\u00f3rios comerciais. Mais sobre: Recursos para Profissionais de Sa\u00fade: Diagn\u00f3stico Mais sobre: DPDx: Paragonimus"
+    },
+    {
+        "qid":"0000319-6",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Parasites - Paragonim\u00edase (tamb\u00e9m conhecido como Paragonimus Infection)?",
+        "answer":"Infec\u00e7\u00f5es de Paragonimus s\u00e3o tratadas pelo seu m\u00e9dico. Rem\u00e9dios prescritos est\u00e3o dispon\u00edveis. Mais sobre: Recursos para Profissionais de Sa\u00fade: Tratamento"
+    },
+    {
+        "qid":"0000319-7",
+        "qtype":"prevention",
+        "question":"Como prevenir Parasites - Paragonim\u00edase (tamb\u00e9m conhecido como Infe\u00e7\u00e3o de Paragonimus)?",
+        "answer":"Nunca coma caranguejos crus ou lagartos. Cozinhe caranguejos e lagartos para pelo menos 145\u00b0F (~63\u00b0C). Os viajantes devem ser aconselhados a evitar refei\u00e7\u00f5es tradicionais que contenham crust\u00e1ceos de \u00e1gua doce pouco cozidos. Mais sobre: Lute BAC: Manuten\u00e7\u00e3o segura de alimentos"
+    }
+]

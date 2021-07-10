@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000014-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Alexander?",
+        "answer":"A doen\u00e7a de Alexander \u00e9 um de um grupo de doen\u00e7as neurol\u00f3gicas conhecidas como leucodistrofias, dist\u00farbios que s\u00e3o o resultado de anormalidades na mielina, a mat\u00e9ria branca que protege fibras nervosas no c\u00e9rebro. A doen\u00e7a de Alexander \u00e9 uma doen\u00e7a progressiva e muitas vezes fatal. A destrui\u00e7\u00e3o da mat\u00e9ria branca \u00e9 acompanhada pela forma\u00e7\u00e3o de fibras Rosenthal, que s\u00e3o blocos anormais de prote\u00edna que se acumulam em c\u00e9lulas n\u00e3o neuronais do c\u00e9rebro chamadas astrocitos. \u00c0s vezes, as fibras Rosenthal s\u00e3o encontradas em outros dist\u00farbios, mas n\u00e3o na mesma quantidade ou \u00e1rea do c\u00e9rebro que s\u00e3o apresentados na doen\u00e7a de Alexander. A forma infantil \u00e9 o tipo mais comum de doen\u00e7a de Alexandre. Tem in\u00edcio nos dois primeiros anos de vida. Geralmente h\u00e1 atrasos no desenvolvimento mental e f\u00edsico, seguidos pela perda de marcos de desenvolvimento, um aumento anormal no tamanho da cabe\u00e7a, e convuls\u00f5es. A forma juvenil da doen\u00e7a de Alexandre \u00e9 menos comum e tem um in\u00edcio entre as idades de dois e treze. Essas crian\u00e7as podem ter v\u00f3mitos excessivos, dificuldade em engolir e falar, m\u00e1 coordena\u00e7\u00e3o e perda de controle motor. Formas adultas da doen\u00e7a de Alexandre s\u00e3o menos comuns. Os sintomas \u00e0s vezes imitam aqueles da doen\u00e7a de Parkinson ou esclerose m\u00faltipla, ou podem apresentar-se principalmente como um dist\u00farbio psiqui\u00e1trico. A doen\u00e7a ocorre em homens e mulheres, e n\u00e3o h\u00e1 diferen\u00e7as \u00e9tnicas, raciais, geogr\u00e1ficas ou culturais/econ\u00f4micas em sua distribui\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000014-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Alexander?",
+        "answer":"N\u00e3o h\u00e1 cura para a doen\u00e7a de Alexandre, nem h\u00e1 um curso padr\u00e3o de tratamento. O tratamento da doen\u00e7a de Alexander \u00e9 sintom\u00e1tico e de apoio."
+    },
+    {
+        "qid":"0000014-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a doen\u00e7a de Alexander?",
+        "answer":"O progn\u00f3stico para indiv\u00edduos com doen\u00e7a de Alexandre \u00e9 geralmente ruim. A maioria das crian\u00e7as com a forma infantil n\u00e3o sobrevivem depois dos 6 anos. As formas adultas e juvenis do dist\u00farbio t\u00eam um curso mais lento, mais longo."
+    },
+    {
+        "qid":"0000014-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a doen\u00e7a de Alexander?",
+        "answer":"Descobertas recentes mostram que a maioria dos indiv\u00edduos (aproximadamente 90%) com a doen\u00e7a de Alexander t\u00eam uma muta\u00e7\u00e3o no gene que faz prote\u00edna glial fibrilar \u00e1cida (GFAP). A GFAP \u00e9 um componente normal do c\u00e9rebro, mas n\u00e3o est\u00e1 claro como as muta\u00e7\u00f5es neste gene causam a doen\u00e7a. Na maioria dos casos as muta\u00e7\u00f5es ocorrem espontaneamente n\u00e3o s\u00e3o herdadas de pais.Um pequeno n\u00famero de pessoas que acham que t\u00eam a doen\u00e7a de Alexander n\u00e3o t\u00eam muta\u00e7\u00f5es identific\u00e1veis na GFAP, o que leva os pesquisadores a acreditar que pode haver outras causas gen\u00e9ticas ou talvez at\u00e9 mesmo n\u00e3o gen\u00e9ticas da doen\u00e7a de Alexander. A pesquisa atual tem como objetivo compreender os mecanismos pelos quais as muta\u00e7\u00f5es causam doen\u00e7as, desenvolver melhores modelos animais para o dist\u00farbio, e explorar estrat\u00e9gias potenciais para o tratamento. Atualmente, n\u00e3o existe um modelo animal exato para a doen\u00e7a; no entanto, ratos foram projetados para produzir as mesmas formas mutantes de GFAP encontradas em indiv\u00edduos com doen\u00e7a de Alexandre. Esses ratos formam fibras Rosenthal e t\u00eam uma predisposi\u00e7\u00e3o para convuls\u00f5es, mas ainda n\u00e3o imitam todas as caracter\u00edsticas da doen\u00e7a humana (como as leucodistrofias). Um estudo cl\u00ednico est\u00e1 em andamento para identificar biomarcadores da gravidade ou progress\u00e3o da doen\u00e7a em amostras de sangue ou l\u00edquido cefalorraquidiano. Esses biomarcadores, se encontrados, seria uma grande vantagem para avaliar a resposta a quaisquer tratamentos que sejam desenvolvidos no futuro."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000151-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Paraparesia Espacial Tropical?",
+        "answer":"Por v\u00e1rias d\u00e9cadas o termo paraparesia esp\u00e1stica tropical (TSP) tem sido usado para descrever uma doen\u00e7a cr\u00f4nica e progressiva do sistema nervoso que afeta adultos que vivem em \u00e1reas equatoriales do mundo e causa fraqueza progressiva, m\u00fasculos r\u00edgidos, espasmos musculares, perturba\u00e7\u00f5es sensoriais, e disfun\u00e7\u00e3o do esf\u00edncter. A causa do TSP foi obscura at\u00e9 meados da d\u00e9cada de 1980, quando uma associa\u00e7\u00e3o importante foi estabelecida entre o retrov\u00edrus humano linfotr\u00f3fico de c\u00e9lulas T humanos v\u00edrus tipo 1 (tamb\u00e9m conhecido como HTLV-1) e TSP. TSP \u00e9 agora chamado de mielopatia HTLV-1 associada/ paraparesia esp\u00e1stica tropical ou HAM/TSP. Pensa-se que o retrov\u00edrus HTLV-1 causa pelo menos 80% dos casos de HAM/TSP, prejudicando o sistema imunol\u00f3gico. Al\u00e9m dos sintomas neurol\u00f3gicos de fraqueza e rigidez muscular ou espasmos, em casos raros indiv\u00edduos com HAM/TSP tamb\u00e9m apresentam uve\u00edte (inflama\u00e7\u00e3o do trato uveal do olho), artrite (inflama\u00e7\u00e3o de uma ou mais articula\u00e7\u00f5es), alveolite linfoc\u00edtica pulmonar (inflama\u00e7\u00e3o do pulm\u00e3o), polimiosite (uma doen\u00e7a muscular inflamat\u00f3ria), queratoconjuntivite sicca (secura persistente da c\u00f3rnea e conjuntiva), e dermatite infecciosa (inflama\u00e7\u00e3o da pele). A outra complica\u00e7\u00e3o grave da infec\u00e7\u00e3o por HTLV-1 \u00e9 o desenvolvimento de leucemia de c\u00e9lulas T adultas ou linfoma. Sistema nervoso e complica\u00e7\u00f5es relacionadas ao sangue ocorrem apenas em uma pequena propor\u00e7\u00e3o de indiv\u00edduos infectados, enquanto a maioria permanecem em grande parte sem sintomas ao longo de suas vidas. O v\u00edrus HTLV-1 \u00e9 transmitido de pessoa para pessoa atrav\u00e9s de c\u00e9lulas infectadas: amamenta\u00e7\u00e3o por m\u00e3es seropositivas (ou seja, t\u00eam n\u00edveis elevados de anticorpos de v\u00edrus em seu sangue), compartilhando agulhas infectadas durante o uso de drogas intravenosas, ou tendo rela\u00e7\u00f5es sexuais com um parceiro seropositivo. Menos de 2% dos portadores seropositivos HTLV-1 se tornar\u00e3o pacientes HAM/TSP."
+    },
+    {
+        "qid":"0000151-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Paraparesia Espacial Tropical?",
+        "answer":"N\u00e3o h\u00e1 nenhum programa de tratamento para HAM/TSP. Corticosteroides podem aliviar alguns sintomas, mas n\u00e3o s\u00e3o suscept\u00edveis de mudar o curso do dist\u00farbio. Estudos cl\u00ednicos sugerem que o interfer\u00e3o alfa proporciona benef\u00edcios em curtos per\u00edodos e alguns aspectos da atividade da doen\u00e7a podem ser melhorados favoravelmente usando o interfer\u00e3o beta. Os m\u00fasculos r\u00edgidos e esp\u00e1sticos podem ser tratados com lioresal ou tizanidina. A disfun\u00e7\u00e3o urin\u00e1ria pode ser tratada com oxibutinina."
+    },
+    {
+        "qid":"0000151-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva da Paraparesia Espacial Tropical?",
+        "answer":"HAM/TSP \u00e9 uma doen\u00e7a progressiva, mas raramente \u00e9 fatal. A maioria dos indiv\u00edduos vive por v\u00e1rias d\u00e9cadas ap\u00f3s o diagn\u00f3stico. Seu progn\u00f3stico melhora se eles tomarem medidas para prevenir infec\u00e7\u00f5es do trato urin\u00e1rio e feridas na pele, e se eles participarem de programas de terapia f\u00edsica e ocupacional."
+    },
+    {
+        "qid":"0000151-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Paraparesia Espacial Tropical?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS) e outros institutos dos Institutos Nacionais de Sa\u00fade (NIH) realizam pesquisas relacionadas com HAM/TSP em laborat\u00f3rios do NIH, e apoiam pesquisas adicionais atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. Grande parte desta pesquisa se concentra em encontrar melhores maneiras de prevenir, tratar e, em \u00faltima an\u00e1lise, curar dist\u00farbios como HAM/TSP."
+    }
+]

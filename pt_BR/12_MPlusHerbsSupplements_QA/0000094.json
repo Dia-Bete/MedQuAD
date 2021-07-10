@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0000094-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Whey Protein?",
+        "answer":""
+    },
+    {
+        "qid":"0000094-2",
+        "qtype":"how effective is it",
+        "question":"Qu\u00e3o eficaz \u00e9 a prote\u00edna de soro de leite?",
+        "answer":""
+    },
+    {
+        "qid":"0000094-3",
+        "qtype":"how does it work",
+        "question":"Qual \u00e9 a a\u00e7\u00e3o da prote\u00edna de soro de leite e como funciona?",
+        "answer":""
+    },
+    {
+        "qid":"0000094-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre prote\u00edna de soro de leite?",
+        "answer":""
+    },
+    {
+        "qid":"0000094-5",
+        "qtype":"interactions with medications",
+        "question":"H\u00e1 intera\u00e7\u00f5es entre prote\u00edna de soro de leite e outros medicamentos?",
+        "answer":""
+    },
+    {
+        "qid":"0000094-6",
+        "qtype":"interactions with herbs and supplements",
+        "question":"H\u00e1 intera\u00e7\u00f5es entre prote\u00edna de soro de leite e ervas e suplementos?",
+        "answer":""
+    },
+    {
+        "qid":"0000094-7",
+        "qtype":"interactions with foods",
+        "question":"H\u00e1 intera\u00e7\u00f5es entre prote\u00edna de soro de leite e alimentos?",
+        "answer":""
+    },
+    {
+        "qid":"0000094-8",
+        "qtype":"dose",
+        "question":"Qual \u00e9 a dose de Whey Protein?",
+        "answer":""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000273-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) s\u00edndrome de surdez e miopia?",
+        "answer":"Surdez e s\u00edndrome de miopia \u00e9 um dist\u00farbio que causa problemas com a audi\u00e7\u00e3o e a vis\u00e3o. Pessoas com este dist\u00farbio t\u00eam perda auditiva moderada a profunda em ambos os ouvidos que pode piorar com o tempo. A perda auditiva pode ser descrita como neurossensorial, significando que est\u00e1 relacionada com mudan\u00e7as no ouvido interno, ou pode ser causada por neuropatia auditiva, que \u00e9 um problema com a transmiss\u00e3o de sinais sonoros (auditoria) do ouvido interno para o c\u00e9rebro. A perda auditiva est\u00e1 presente no nascimento (cong\u00eanito) ou come\u00e7a na inf\u00e2ncia, antes que a crian\u00e7a aprenda a falar (prel\u00edngue). Indiv\u00edduos afetados tamb\u00e9m t\u00eam miope grave (miopia alta). Esses indiv\u00edduos s\u00e3o capazes de ver objetos pr\u00f3ximos claramente, mas objetos que est\u00e3o mais distantes parecem borrosos. A miopia \u00e9 geralmente diagnosticada pela inf\u00e2ncia."
+    },
+    {
+        "qid":"0000273-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por surdez e s\u00edndrome de miopia?",
+        "answer":"A preval\u00eancia de surdez e s\u00edndrome de miopia \u00e9 desconhecida. Apenas algumas fam\u00edlias afetadas foram descritas na literatura m\u00e9dica."
+    },
+    {
+        "qid":"0000273-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 surdez e s\u00edndrome da miopia?",
+        "answer":"A s\u00edndrome da surdez e da miopia \u00e9 causada por muta\u00e7\u00f5es no gene SLITRK6. A prote\u00edna produzida a partir deste gene \u00e9 encontrada principalmente no ouvido interno e no olho. Esta prote\u00edna promove o crescimento e a sobreviv\u00eancia de c\u00e9lulas nervosas (neur\u00f4nios) no ouvido interno que transmitem sinais auditivos. Tamb\u00e9m controla (regula) o crescimento do olho ap\u00f3s o nascimento. Em particular, a prote\u00edna SLITRK6 influencia o comprimento do globo ocular (comprimento axial), o que afeta se uma pessoa ser\u00e1 miope ou prospectiva, ou ter\u00e1 vis\u00e3o normal. A prote\u00edna SLITRK6 abrange a membrana celular, onde est\u00e1 ancorada na posi\u00e7\u00e3o adequada para realizar sua fun\u00e7\u00e3o. Muta\u00e7\u00f5es do gene SLITRK6 que causam surdez e s\u00edndrome de miopia resultam em uma prote\u00edna SLITRK6 anormalmente curta que n\u00e3o est\u00e1 ancorada corretamente \u00e0 membrana celular. Como resultado, a prote\u00edna \u00e9 incapaz de funcionar normalmente. A fun\u00e7\u00e3o da prote\u00edna SLITRK6 prejudicada leva ao desenvolvimento nervoso anormal na orelha interna e ao crescimento do globo ocular inadequadamente controlado, resultando na perda auditiva e miopia que ocorrem na surdez e s\u00edndrome da miopia."
+    },
+    {
+        "qid":"0000273-4",
+        "qtype":"inheritance",
+        "question":"A surdez e a s\u00edndrome da miopia s\u00e3o herdadas?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000273-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para surdez e s\u00edndrome de miopia?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da s\u00edndrome de surdez e miopia: - Primeiro teste do beb\u00ea: perda auditiva - EyeSmart: \u00f3culos para corre\u00e7\u00e3o da vis\u00e3o - Revis\u00e3o g\u00eanica: Revis\u00e3o g\u00eanica: s\u00edndrome de surdez e miopia - Harvard Medical School Center for Hereditary Surdness - KidsHealth: avalia\u00e7\u00e3o auditiva em crian\u00e7as - MedlinePlus Enciclop\u00e9dia: Implante coclear - MedlinePlus Sa\u00fade T\u00f3pico: Implante coclear - MedlinePlus Sa\u00fade T\u00f3pico: Aids auditivos - MedlinePlus Sa\u00fade T\u00f3pico: Detec\u00e7\u00e3o de rec\u00e9m-nascidos Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

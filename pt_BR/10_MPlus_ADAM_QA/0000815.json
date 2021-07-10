@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0000815-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Cholestase?",
+        "answer":""
+    },
+    {
+        "qid":"0000815-2",
+        "qtype":"causes",
+        "question":"O que causa Cholestase?",
+        "answer":""
+    },
+    {
+        "qid":"0000815-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da Cholestase?",
+        "answer":""
+    },
+    {
+        "qid":"0000815-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar Cholestase?",
+        "answer":""
+    },
+    {
+        "qid":"0000815-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Cholestase?",
+        "answer":""
+    },
+    {
+        "qid":"0000815-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Cholestase?",
+        "answer":""
+    },
+    {
+        "qid":"0000815-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da Cholestase?",
+        "answer":""
+    },
+    {
+        "qid":"0000815-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para Cholestasis?",
+        "answer":""
+    },
+    {
+        "qid":"0000815-9",
+        "qtype":"prevention",
+        "question":"Como prevenir a Cholestase?",
+        "answer":""
+    }
+]

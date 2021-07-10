@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0003706-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) infec\u00e7\u00f5es de Staph - auto-cuidado em casa?",
+        "answer":""
+    },
+    {
+        "qid":"0003706-3",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para infec\u00e7\u00f5es por Staph, autocuidado em casa? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":""
+    },
+    {
+        "qid":"0003706-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para infec\u00e7\u00f5es por Staph - autocuidado em casa?",
+        "answer":""
+    },
+    {
+        "qid":"0003706-6",
+        "qtype":"prevention",
+        "question":"Como prevenir infec\u00e7\u00f5es de Staph - auto-cuidado em casa?",
+        "answer":""
+    }
+]

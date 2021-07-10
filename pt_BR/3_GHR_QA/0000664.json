@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000664-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a da encefalopatia neurointestinal mitocondrial?",
+        "answer":"Encefalopatia neurointestinal mitocondrial (MNGIE) \u00e9 uma condi\u00e7\u00e3o que afeta v\u00e1rias partes do corpo, particularmente o sistema digestivo e o sistema nervoso. As principais caracter\u00edsticas da doen\u00e7a MNGIE podem aparecer a qualquer momento desde a inf\u00e2ncia at\u00e9 a idade adulta, mas sinais e sintomas mais frequentemente come\u00e7am aos 20 anos. Os problemas m\u00e9dicos associados a este dist\u00farbio pioram com o tempo. As anormais do sistema digestivo est\u00e3o entre as caracter\u00edsticas mais comuns e graves da doen\u00e7a MNGIE. Quase todas as pessoas afetadas t\u00eam uma condi\u00e7\u00e3o conhecida como dismotilidade gastrointestinal, em que os m\u00fasculos e nervos do sistema digestivo n\u00e3o movem alimentos atrav\u00e9s do trato digestivo eficientemente. Os problemas digestivos resultantes incluem sentimentos de plenitude (satisfa\u00e7\u00e3o) ap\u00f3s comer apenas uma pequena quantidade, dificuldade em engolir (disfagia), n\u00e1useas e v\u00f4mitos ap\u00f3s comer, epis\u00f3dios de dor abdominal, diarreia e bloqueio intestinal. Esses problemas gastrointestinais levam \u00e0 perda de peso extrema e \u00e0 redu\u00e7\u00e3o da massa muscular (cachexia). A doen\u00e7a MNGIE tamb\u00e9m \u00e9 caracterizada por anormalidades do sistema nervoso, embora estes tendem a ser mais leves do que os problemas gastrointestinais. Indiv\u00edduos afetados experimentam formigueiro, dorm\u00eancia e fraqueza nos membros (neuropatia perif\u00e9rica), particularmente nas m\u00e3os e p\u00e9s. Sinais e sintomas neurol\u00f3gicos adicionais podem incluir p\u00e1lpebras ca\u00eddas (pt\u00f3se), fraqueza dos m\u00fasculos que controlam o movimento dos olhos (oftalmoplegia) e perda auditiva. A leucoencefalopatia, que \u00e9 a deteriora\u00e7\u00e3o de um tipo de tecido cerebral conhecido como mat\u00e9ria branca, \u00e9 uma caracter\u00edstica da doen\u00e7a MNGIE. Essas altera\u00e7\u00f5es no c\u00e9rebro podem ser vistas com resson\u00e2ncia magn\u00e9tica (IRM), embora geralmente n\u00e3o causem sintomas em pessoas com este dist\u00farbio."
+    },
+    {
+        "qid":"0000664-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela doen\u00e7a da encefalopatia neurointestinal mitocondrial?",
+        "answer":"A preval\u00eancia da doen\u00e7a MNGIE \u00e9 desconhecida. Cerca de 70 pessoas com este dist\u00farbio foram relatadas."
+    },
+    {
+        "qid":"0000664-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 doen\u00e7a da encefalopatia neurointestinal mitocondrial?",
+        "answer":"Muta\u00e7\u00f5es no gene TYMP (anteriormente conhecido como ECGF1) causam doen\u00e7a MNGIE. Este gene fornece instru\u00e7\u00f5es para fazer uma enzima chamada fosforilase de timidina. A timidina \u00e9 uma mol\u00e9cula conhecida como nucle\u00f3sido, que (depois de uma modifica\u00e7\u00e3o qu\u00edmica) \u00e9 usada como um bloco de constru\u00e7\u00e3o de DNA. A fosforilase de timidina destr\u00f3i a timidina em mol\u00e9culas menores, o que ajuda a regular o n\u00edvel de nucle\u00f3sidos nas c\u00e9lulas. Muta\u00e7\u00f5es de TYMP reduzem ou eliminam grandemente a atividade da fosforilase de timidina. A escassez desta enzima permite que a timidina se acumule at\u00e9 n\u00edveis muito altos no corpo. Pesquisadores acreditam que um excesso desta mol\u00e9cula \u00e9 prejudicial a um tipo particular de DNA conhecido como DNA mitocondrial ou DNA mt. Mitoc\u00f4ndrias s\u00e3o estruturas dentro das c\u00e9lulas que convertem a energia do alimento em uma forma que as c\u00e9lulas podem usar. Embora a maioria do DNA seja embalada em cromossomos dentro do n\u00facleo, mitoc\u00f4ndrias tamb\u00e9m t\u00eam uma pequena quantidade de seu pr\u00f3prio DNA. Mitoc\u00f4ndrias usam nucle\u00f3sidos, incluindo timidina, para construir novas mol\u00e9culas de mtDNA conforme necess\u00e1rio. Uma perda da atividade da fosforilase da timidina e a acumula\u00e7\u00e3o resultante da timidina interrompem a manuten\u00e7\u00e3o e repara\u00e7\u00e3o do ADNmt. Como resultado, muta\u00e7\u00f5es podem se acumular no DNA mt, fazendo com que se torne inst\u00e1vel. Al\u00e9m disso, mitoc\u00f4ndrias podem ter menos DNA mt do que o habitual (deple\u00e7\u00e3o de ADN mt). Essas altera\u00e7\u00f5es gen\u00e9ticas prejudicam a fun\u00e7\u00e3o normal das mitoc\u00f4ndrias. Embora as anormalidades do ADNm subja\u00e7am aos problemas digestivos e neurol\u00f3gicos caracter\u00edsticos da doen\u00e7a MNGIE, n\u00e3o est\u00e1 claro como as mitoc\u00f4ndrias defeituosas causam as caracter\u00edsticas espec\u00edficas do dist\u00farbio."
+    },
+    {
+        "qid":"0000664-4",
+        "qtype":"inheritance",
+        "question":"A encefalopatia neurointestinal mitocondrial \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene TYMP em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000664-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para encefalopatia neurointestinal mitocondrial?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da doen\u00e7a MNGIE: - Gene Review: Gene Review: Mitocondrial Neurointestinal Encefalopatia Doen\u00e7a - Gene Testing Registry: Myoneural gastrointestinal Encefalopatia S\u00edndrome - MedlinePlus Enciclopedia: Leucoencefalopatia (imagem) Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000414-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) malabsor\u00e7\u00e3o de glucose-galactose?",
+        "answer":"A malabsor\u00e7\u00e3o de glucose-galactose \u00e9 uma condi\u00e7\u00e3o em que as c\u00e9lulas que revestim o intestino n\u00e3o podem tomar os a\u00e7\u00facares glicose e galactose, o que impede a digest\u00e3o adequada dessas mol\u00e9culas e mol\u00e9culas maiores feitas a partir delas. Glucose e galactose s\u00e3o chamados de a\u00e7\u00facares simples, ou monossac\u00e1ridos. Sacarose (a\u00e7\u00facar da mesa) e lactose (o a\u00e7\u00facar encontrado no leite) s\u00e3o chamados dissac\u00e1ridos porque s\u00e3o feitos de dois a\u00e7\u00facares simples, e s\u00e3o divididos em esses a\u00e7\u00facares simples durante a digest\u00e3o. A sacarose \u00e9 dividida em glicose e outro a\u00e7\u00facar simples chamado frutose, e a lactose \u00e9 dividida em glicose e galactose. Como resultado, lactose, sacarose e outros compostos feitos a partir de mol\u00e9culas de a\u00e7\u00facar (carbohidratos) n\u00e3o podem ser digeridos por indiv\u00edduos com malabsor\u00e7\u00e3o de glucose-galactose. A m\u00e1 absor\u00e7\u00e3o de glucose-galactose geralmente se torna evidente nas primeiras semanas da vida de um beb\u00ea. Crian\u00e7as afetadas experimentam diarreia grave resultando em desidrata\u00e7\u00e3o potencialmente mortal, aumento da acidez do sangue e tecidos (acidose), e perda de peso quando alimentados com leite materno ou f\u00f3rmulas infantis regulares. No entanto, eles s\u00e3o capazes de digerir f\u00f3rmulas \u00e0 base de frutose que n\u00e3o cont\u00eam glicose ou galactose. Algumas crian\u00e7as afetadas s\u00e3o mais capazes de tolerar glicose e galactose \u00e0 medida que envelhecem. Pequenas quantidades de glicose na urina (glucos\u00faria leve) podem ocorrer intermitentemente neste dist\u00farbio. Indiv\u00edduos afetados tamb\u00e9m podem desenvolver c\u00e1lculos renais ou dep\u00f3sitos mais difundidos de c\u00e1lcio dentro dos rins."
+    },
+    {
+        "qid":"0000414-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela malabsor\u00e7\u00e3o de glucose e galactose?",
+        "answer":"A malabsor\u00e7\u00e3o de glucose-galactose \u00e9 um dist\u00farbio raro, apenas algumas centenas de casos foram identificados em todo o mundo. No entanto, at\u00e9 10% da popula\u00e7\u00e3o pode ter uma capacidade reduzida de absor\u00e7\u00e3o de glicose sem problemas de sa\u00fade associados. Esta condi\u00e7\u00e3o pode ser uma varia\u00e7\u00e3o mais leve da malabsor\u00e7\u00e3o de glucose-galactose."
+    },
+    {
+        "qid":"0000414-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 malabsor\u00e7\u00e3o de glucose e galactose?",
+        "answer":"Muta\u00e7\u00f5es no gene SLC5A1 causam malabsor\u00e7\u00e3o de glucose-galactose. O gene SLC5A1 fornece instru\u00e7\u00f5es para produzir uma prote\u00edna cotransportadora de s\u00f3dio/glucose chamada SGLT1. Esta prote\u00edna \u00e9 encontrada principalmente no trato intestinal e, em menor medida, nos rins, onde est\u00e1 envolvida no transporte da glicose e da galactose estruturalmente semelhante atrav\u00e9s das membranas celulares. A prote\u00edna cotransportadora de s\u00f3dio/glucose \u00e9 importante no funcionamento das c\u00e9lulas epiteliais intestinais, que s\u00e3o c\u00e9lulas que regem as paredes do intestino. Essas c\u00e9lulas t\u00eam proje\u00e7\u00f5es semelhantes a dedos chamadas microvillis que absorvem nutrientes da comida ao atravessar o intestino. Baseado em sua apar\u00eancia, grupos desses microvilos s\u00e3o conhecidos coletivamente como a borda do pincel. A prote\u00edna cotransportadora de s\u00f3dio/glucose est\u00e1 envolvida no processo de usar energia para mover glucose e galactose atrav\u00e9s da membrana borda da escova para absor\u00e7\u00e3o, um mecanismo chamado transporte ativo. S\u00f3dio e \u00e1gua s\u00e3o transportados atrav\u00e9s da borda da escova junto com os a\u00e7\u00facares neste processo. Muta\u00e7\u00f5es que impedem a prote\u00edna cotransportadora de s\u00f3dio/glucose de realizar essa fun\u00e7\u00e3o resultam em uma acumula\u00e7\u00e3o de glicose e galactose no trato intestinal. Esta falha de transporte ativo impede que a glicose e a galactose sejam absorvidas e proporcionem nutri\u00e7\u00e3o ao corpo. Al\u00e9m disso, a \u00e1gua que normalmente teria sido transportada atrav\u00e9s da borda da escova com o a\u00e7\u00facar permanece no trato intestinal para ser expulso com as fezes, resultando em desidrata\u00e7\u00e3o dos tecidos do corpo e diarreia grave."
+    },
+    {
+        "qid":"0000414-4",
+        "qtype":"inheritance",
+        "question":"A malabsor\u00e7\u00e3o de glucose-galactose \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. A maioria das vezes, os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carregam uma c\u00f3pia do gene mutado, mas n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o. Em alguns casos, indiv\u00edduos com um gene alterado t\u00eam n\u00edveis reduzidos de capacidade de absor\u00e7\u00e3o de glicose, conforme medido em testes laboratoriais, mas isso geralmente n\u00e3o tem demonstrado ter efeitos significativos para a sa\u00fade."
+    },
+    {
+        "qid":"0000414-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a malabsor\u00e7\u00e3o de glucose e galactose?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da malabsor\u00e7\u00e3o de glucose-galactose: - Registro de Testes Gen\u00e9ticos: Malabsor\u00e7\u00e3o Cong\u00eanita de glucose-galactose Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

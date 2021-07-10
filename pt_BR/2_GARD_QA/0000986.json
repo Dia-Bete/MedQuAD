@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000986-1",
+        "qtype":"information",
+        "question":"O que \u00e9 um pneumot\u00f3rax catamenial?",
+        "answer":"Pneumot\u00f3rax Catamenial \u00e9 uma condi\u00e7\u00e3o extremamente rara que afeta as mulheres. Pneumot\u00f3rax \u00e9 o termo m\u00e9dico para um pulm\u00e3o colapsado, uma condi\u00e7\u00e3o em que o ar ou g\u00e1s est\u00e1 preso no espa\u00e7o em torno dos pulm\u00f5es causando o colapso dos pulm\u00f5es. Mulheres com pneumot\u00f3rax catamenial t\u00eam epis\u00f3dios recorrentes de pneumot\u00f3rax que ocorrem dentro de 72 horas antes ou ap\u00f3s o in\u00edcio da menstrua\u00e7\u00e3o. A causa exata do pneumot\u00f3rax catamenial \u00e9 desconhecida e v\u00e1rias teorias foram propostas. Muitos casos est\u00e3o associados com o desenvolvimento anormal do tecido endometrial fora do \u00fatero (endometriose). Alguns acreditam que pneumot\u00f3rax catamenial \u00e9 a forma mais comum de endometriose tor\u00e1cica (uma condi\u00e7\u00e3o em que o tecido endometrial cresce dentro ou ao redor dos pulm\u00f5es). Um diagn\u00f3stico de pneumot\u00f3rax catamenial \u00e9 geralmente suspeito quando uma mulher em idade reprodutiva e com endometriose tem epis\u00f3dios de pneumot\u00f3rax. O tratamento \u00e9 com horm\u00f4nios e cirurgia."
+    },
+    {
+        "qid":"0000986-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do pneumot\u00f3rax catamenial?",
+        "answer":"Quais s\u00e3o os sinais e sintomas do pneumot\u00f3rax catamenial? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para pneumot\u00f3rax catamenial. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Heran\u00e7a autoss\u00f4mica recessiva - Diminui\u00e7\u00e3o da fertilidade - Dismenorreia - Endometriose - Heran\u00e7a multifatorial - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0000986-3",
+        "qtype":"causes",
+        "question":"O que causa pneumot\u00f3rax catamenial?",
+        "answer":"O que causa pneumot\u00f3rax catamenial? A causa exata n\u00e3o \u00e9 conhecida. No entanto, colapso espont\u00e2neo do pulm\u00e3o (pneumot\u00f3rax) ocorre em 72% a 73% dos casos de endometriose tor\u00e1cica. A endometriose tor\u00e1cica \u00e9 uma condi\u00e7\u00e3o na qual o tecido endometrial est\u00e1 presente na cavidade tor\u00e1cica (tor\u00e1cica). \u00c9 mais frequentemente visto em mulheres que t\u00eam cerca de 34 anos de idade. Endometriose tor\u00e1cica pode ser encontrada na maioria dos casos de pneumot\u00f3rax catamenial. Pneumot\u00f3rax associado com endometriose tamb\u00e9m pode ocorrer sem estar relacionado com menstrua\u00e7\u00e3o (pneumot\u00f3rax n\u00e3o catamenial) mesmo em casos sem sintomas ou sem diagn\u00f3stico de endometriose p\u00e9lvica."
+    },
+    {
+        "qid":"0000986-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar pneumot\u00f3rax catamenial?",
+        "answer":"Como pode o pneumot\u00f3rax catamenial ser diagnosticado? O diagn\u00f3stico deve ser suspeito em mulheres em idade reprodutiva que t\u00eam v\u00e1rios epis\u00f3dios de colapso pulmonar espont\u00e2neo (pneumot\u00f3rax) e t\u00eam endometriose. Toracoscopia m\u00e9dica ou toracoscopia assistida por v\u00eddeo pode confirmar o diagn\u00f3stico."
+    },
+    {
+        "qid":"0000986-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o pneumot\u00f3rax catamenial?",
+        "answer":"Como o pneumot\u00f3rax catamenial pode ser tratado? O tratamento de escolha \u00e9 com cirurgia, com cirurgia toracosc\u00f3pica assistida por v\u00eddeo (VATS). A toracotomia convencional pode ser necess\u00e1ria ocasionalmente, particularmente em opera\u00e7\u00f5es repetidas. \u00c9 muito importante examinar o tecido grande e fino revestimento ao redor do exterior dos pulm\u00f5es e do interior da cavidade tor\u00e1cica (pleura). O tratamento hormonal com cirurgia impede a repeti\u00e7\u00e3o de pneumot\u00f3rax relacionado com catamenial e/ou endometriose. O horm\u00f4nio liberador de gonadotrofinas (GnRH) por 6 a 12 meses ap\u00f3s a cirurgia tamb\u00e9m \u00e9 frequentemente recomendado."
+    }
+]

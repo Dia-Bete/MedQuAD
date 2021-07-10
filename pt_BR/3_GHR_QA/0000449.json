@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000449-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) carcinoma de c\u00e9lulas escamosas da cabe\u00e7a e pesco\u00e7o?",
+        "answer":"Carcinoma de c\u00e9lulas escamosas \u00e9 um c\u00e2ncer que surge de c\u00e9lulas espec\u00edficas chamadas c\u00e9lulas escamosas. C\u00e9lulas escamosas s\u00e3o encontradas na camada externa da pele e nas membranas mucosas, que s\u00e3o os tecidos \u00famidos que cercam cavidades corporais como vias a\u00e9reas e intestinos. O carcinoma de c\u00e9lulas escamosas de cabe\u00e7a e pesco\u00e7o (HNSCC) desenvolve-se nas membranas mucosas da boca, nariz e garganta. O HNSCC \u00e9 classificado por sua localiza\u00e7\u00e3o: pode ocorrer na boca ( cavidade oral), a parte m\u00e9dia da garganta perto da boca (orofaringe), o espa\u00e7o atr\u00e1s do nariz ( cavidade nasal e seios paranasais), a parte superior da garganta perto da cavidade nasal (nasofaringe), a caixa de voz (laringe), ou a parte inferior da garganta perto da laringe (hipofaringe). Dependendo da localiza\u00e7\u00e3o, o c\u00e2ncer pode causar manchas anormais ou \u00falceras abertas na boca e garganta, sangramento incomum ou dor na boca, congest\u00e3o sinusal que n\u00e3o limpa, dor na garganta, dor no ouvido, dor ao engolir ou dificuldade em engolir, voz rouca, dificuldade em respirar ou linfonodos aumentados. HNSCC pode se espalhar (met\u00e1stase) para outras partes do corpo, como os linfonodos ou pulm\u00f5es. Se se espalhar, o c\u00e2ncer tem pior progn\u00f3stico e pode ser fatal. Cerca de metade dos indiv\u00edduos afetados sobrevivem mais de cinco anos ap\u00f3s o diagn\u00f3stico."
+    },
+    {
+        "qid":"0000449-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por carcinoma de c\u00e9lulas escamosas da cabe\u00e7a e pesco\u00e7o?",
+        "answer":"HNSCC \u00e9 o s\u00e9timo c\u00e2ncer mais comum em todo o mundo. Aproximadamente 600.000 novos casos s\u00e3o diagnosticados a cada ano, incluindo cerca de 50 mil nos Estados Unidos. O HNSCC ocorre mais frequentemente em homens de 50 ou 60 anos, embora a incid\u00eancia entre indiv\u00edduos mais jovens esteja aumentando."
+    },
+    {
+        "qid":"0000449-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas ao carcinoma de c\u00e9lulas escamosas da cabe\u00e7a e pesco\u00e7o?",
+        "answer":"O HNSCC \u00e9 causado por uma variedade de fatores que podem alterar o DNA nas c\u00e9lulas. Os fatores de risco mais fortes para desenvolver essa forma de c\u00e2ncer s\u00e3o o consumo de tabaco (incluindo fumar ou mastigar tabaco) e o consumo de \u00e1lcool pesado. Al\u00e9m disso, estudos mostraram que a infec\u00e7\u00e3o com certas cepas de papilomav\u00edrus humano (HPV) est\u00e1 ligada ao desenvolvimento do HNSCC. A infec\u00e7\u00e3o pelo HPV \u00e9 respons\u00e1vel pelo aumento da incid\u00eancia de HNSCC em pessoas mais jovens. Pesquisadores identificaram muta\u00e7\u00f5es em muitos genes em pessoas com HNSCC; no entanto, ainda n\u00e3o est\u00e1 claro o papel que a maioria dessas muta\u00e7\u00f5es desempenham no desenvolvimento ou progress\u00e3o do c\u00e2ncer. As prote\u00ednas produzidas a partir de v\u00e1rios dos genes associados ao HNSCC, incluindo TP53, NOTCH1 e CDKN2A, funcionam como supressores tumorais, o que significa que normalmente evitam que as c\u00e9lulas cres\u00e7am e se dividam muito rapidamente ou de forma descontrolada. Quando os supressores tumorais s\u00e3o prejudicados, as c\u00e9lulas podem crescer e se dividir sem controle, levando \u00e0 forma\u00e7\u00e3o tumoral. \u00c9 prov\u00e1vel que uma s\u00e9rie de mudan\u00e7as em m\u00faltiplos genes esteja envolvida no desenvolvimento e progress\u00e3o do HNSCC."
+    },
+    {
+        "qid":"0000449-4",
+        "qtype":"inheritance",
+        "question":"O carcinoma de c\u00e9lulas escamosas de cabe\u00e7a e pesco\u00e7o \u00e9 herdado?",
+        "answer":"HNSCC geralmente n\u00e3o \u00e9 herdado; normalmente surge de muta\u00e7\u00f5es nas c\u00e9lulas do corpo que ocorrem durante a vida de um indiv\u00edduo. Este tipo de altera\u00e7\u00e3o \u00e9 chamado de muta\u00e7\u00e3o som\u00e1tica. Raramente, o HNSCC \u00e9 encontrado em v\u00e1rios membros de uma fam\u00edlia. Essas fam\u00edlias herdaram dist\u00farbios que aumentam o risco de v\u00e1rios tipos de c\u00e2ncer."
+    },
+    {
+        "qid":"0000449-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para carcinoma de c\u00e9lulas escamosas de cabe\u00e7a e pesco\u00e7o?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo de carcinoma de c\u00e9lulas escamosas da cabe\u00e7a e pesco\u00e7o: - Cancer.Net: C\u00e2ncer de cabe\u00e7a e pesco\u00e7o: Op\u00e7\u00f5es de tratamento - Instituto Nacional de C\u00e2ncer: C\u00e2ncer de cabe\u00e7a e pesco\u00e7o Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

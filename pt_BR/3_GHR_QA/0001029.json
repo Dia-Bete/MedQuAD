@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001029-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de quebra de Vars\u00f3via?",
+        "answer":"A s\u00edndrome de quebra de Vars\u00f3via \u00e9 uma condi\u00e7\u00e3o que pode causar m\u00faltiplas anormalidades. Pessoas com s\u00edndrome de quebra de Vars\u00f3via t\u00eam defici\u00eancia intelectual que varia de leve a grave. Eles tamb\u00e9m t\u00eam prejudicado o crescimento desde o nascimento levando a estatura curta e um pequeno tamanho da cabe\u00e7a (microcefalia). Indiv\u00edduos afetados t\u00eam caracter\u00edsticas faciais distintas que podem incluir uma testa pequena, um nariz curto, uma pequena mand\u00edbula inferior, uma \u00e1rea plana entre o nariz e a boca (filtro), e bochechas proeminentes. Outras caracter\u00edsticas comuns incluem a perda auditiva causada por dano nervoso no ouvido interno (perda auditiva sensorineural) e malforma\u00e7\u00f5es card\u00edacas."
+    },
+    {
+        "qid":"0001029-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de quebra de Vars\u00f3via?",
+        "answer":"A s\u00edndrome de quebra de Vars\u00f3via \u00e9 uma condi\u00e7\u00e3o rara, pelo menos quatro casos foram descritos na literatura m\u00e9dica."
+    },
+    {
+        "qid":"0001029-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de quebra de Vars\u00f3via?",
+        "answer":"Muta\u00e7\u00f5es no gene DDX11 causam s\u00edndrome de quebra de Vars\u00f3via. O gene DDX11 fornece instru\u00e7\u00f5es para fazer uma enzima chamada ChlR1. Esta enzima funciona como helicase. Helicases s\u00e3o enzimas que se ligam ao DNA e desenrolam temporariamente os dois fios espirais ( h\u00e9lice dupla) da mol\u00e9cula de DNA. Este desenrolar \u00e9 necess\u00e1rio para copiar (replicar) DNA em prepara\u00e7\u00e3o para a divis\u00e3o celular, e para reparar DNA danificado e quaisquer erros que s\u00e3o cometidos quando o DNA \u00e9 copiado. Al\u00e9m disso, depois que o DNA \u00e9 copiado, ChlR1 desempenha um papel na garantia da separa\u00e7\u00e3o adequada de cada cromossomo durante a divis\u00e3o celular. Ao ajudar a reparar erros no DNA e garantir a replica\u00e7\u00e3o adequada do DNA, a enzima ChlR1 est\u00e1 envolvida na manuten\u00e7\u00e3o da estabilidade da informa\u00e7\u00e3o gen\u00e9tica de uma c\u00e9lula. Muta\u00e7\u00f5es do gene DDX11 reduzem ou eliminam completamente a atividade da enzima ChlR1. Como resultado, a enzima n\u00e3o pode se ligar ao DNA e n\u00e3o pode desconectar os fios de DNA para ajudar com a replica\u00e7\u00e3o e reparo do DNA. A falta de ChlR1 funcional prejudica a divis\u00e3o celular e leva a um ac\u00famulo de dano de DNA. Este dano de DNA pode aparecer como quebras no DNA, dando o nome da condi\u00e7\u00e3o. N\u00e3o est\u00e1 claro como esses problemas na manuten\u00e7\u00e3o do DNA levam \u00e0s anormalidades espec\u00edficas caracter\u00edsticas da s\u00edndrome de quebra de Vars\u00f3via."
+    },
+    {
+        "qid":"0001029-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de quebra de Vars\u00f3via \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0001029-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de quebra de Vars\u00f3via?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de quebra de Vars\u00f3via: - Centros de Controle e Preven\u00e7\u00e3o de Doen\u00e7as: P\u00e9rdida auditiva em Crian\u00e7as - Registro de Testes Gen\u00e9ticos: S\u00edndrome de quebra de Vars\u00f3via - MedlinePlus Enciclop\u00e9dia: P\u00e9rdida auditiva - Infantes Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

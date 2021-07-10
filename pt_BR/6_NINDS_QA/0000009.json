@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000009-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a agenesia do Corpus Callosum?",
+        "answer":"A agenese do corpus callosum (ACC) \u00e9 um dos v\u00e1rios dist\u00farbios do corpus callosum, a estrutura que conecta os dois hemisf\u00e9rios (esquerda e direita) do c\u00e9rebro. No ACC o corpo callosum est\u00e1 parcialmente ou completamente ausente. \u00c9 causada por uma interrup\u00e7\u00e3o da migra\u00e7\u00e3o de c\u00e9lulas cerebrais durante o desenvolvimento fetal. O ACC pode ocorrer como uma condi\u00e7\u00e3o isolada ou em combina\u00e7\u00e3o com outras anormalidades cerebrais, incluindo malforma\u00e7\u00e3o de Arnold-Chiari, s\u00edndrome de Dandy-Walker, esquizenc\u00e9falia (fissuras ou divis\u00f5es profundas no tecido cerebral), e holoprosenc\u00e9falia (falha da antebra\u00edna para se dividir em lobos). As meninas podem ter uma condi\u00e7\u00e3o espec\u00edfica de g\u00eanero chamada S\u00edndrome de Aicardi, que causa graves defici\u00eancias cognitivas e atrasos no desenvolvimento, convuls\u00f5es, anomalias na v\u00e9rtebra da coluna vertebral, e les\u00f5es na retina do olho. O ACC tamb\u00e9m pode ser associado a malforma\u00e7\u00f5es em outras partes do corpo, como defeitos da linha m\u00e9dia do rosto. Os efeitos do dist\u00farbio variam de sutis ou leves a graves, dependendo das anormalidades cerebrais associadas. Crian\u00e7as com malforma\u00e7\u00f5es cerebrais mais graves podem ter defici\u00eancia intelectual, convuls\u00f5es, hidrocefalia e espasticidade. Outros dist\u00farbios do corpo calloso incluem disgenese, em que o corpo calloso \u00e9 desenvolvido de forma malformada ou incompleta, e hipoplasia, em que o corpo calloso \u00e9 mais fino do que o habitual. Indiv\u00edduos com esses dist\u00farbios t\u00eam maior risco de d\u00e9ficit auditivo e anormalidades card\u00edacas do que indiv\u00edduos com a estrutura normal. Estima-se que no arrendamento um em cada 4.000 indiv\u00edduos tem um dist\u00farbio do corpus callosum."
+    },
+    {
+        "qid":"0000009-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Agenesia do Corpus Callosum?",
+        "answer":"N\u00e3o h\u00e1 tratamento padr\u00e3o para o ACC. O tratamento geralmente envolve o manejo de sintomas e convuls\u00f5es se ocorrerem. Dificuldades associadas s\u00e3o muito mais gerenciadas com reconhecimento precoce e terapia, especialmente terapias focadas na coordena\u00e7\u00e3o esquerda/direita. Diagn\u00f3stico precoce e interven\u00e7\u00f5es s\u00e3o atualmente os melhores tratamentos para melhorar os resultados sociais e de desenvolvimento."
+    },
+    {
+        "qid":"0000009-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Agenesia do Corpus Callosum?",
+        "answer":"O progn\u00f3stico depende da extens\u00e3o e gravidade das malforma\u00e7\u00f5es. A defici\u00eancia intelectual n\u00e3o piora. Indiv\u00edduos com um dist\u00farbio do corpus callosum geralmente t\u00eam atrasos em alcan\u00e7ar marcos de desenvolvimento como caminhar, falar ou ler; desafios com intera\u00e7\u00f5es sociais; torpeza e m\u00e1 coordena\u00e7\u00e3o motora, particularmente em habilidades que exigem coordena\u00e7\u00e3o das m\u00e3os e p\u00e9s esquerdos e direitos (como nata\u00e7\u00e3o, ciclismo e condu\u00e7\u00e3o; e problemas de processamento mental e social que se tornam mais evidentes com a idade, com problemas particularmente evidentes do ensino m\u00e9dio at\u00e9 a idade adulta."
+    },
+    {
+        "qid":"0000009-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a Agenese do Corpus Callosum?",
+        "answer":"A miss\u00e3o do Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Accidentes (NINDS) \u00e9 buscar conhecimento fundamental sobre o c\u00e9rebro e o sistema nervoso e usar esse conhecimento para reduzir a carga da doen\u00e7a neurol\u00f3gica. O NINDS conduz e apoia uma ampla gama de estudos que exploram os complexos mecanismos do desenvolvimento cerebral normal. Pesquisas financiadas pelo NINDS incluem estudos para entender as causas gen\u00e9ticas do ACC, bem como para entender como os achados de resson\u00e2ncia magn\u00e9tica podem ajudar a prever o desfecho e a resposta \u00e0 terapia."
+    }
+]

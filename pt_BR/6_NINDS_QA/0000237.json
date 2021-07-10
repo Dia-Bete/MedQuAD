@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000237-1",
+        "qtype":"information",
+        "question":"O que \u00e9 S\u00edndrome P\u00f3s-Polio?",
+        "answer":"A s\u00edndrome p\u00f3s-polio (SPP) \u00e9 uma condi\u00e7\u00e3o que afeta sobreviventes da poliomielite muitos anos ap\u00f3s a recupera\u00e7\u00e3o de um ataque inicial do v\u00edrus da poliomielite. A PPS \u00e9 caracterizada por um novo enfraquecimento dos m\u00fasculos que foram anteriormente afetados pela infec\u00e7\u00e3o por poliomielite. Os sintomas mais comuns incluem fraqueza muscular progressiva lentamente, fadiga (geral e muscular), e uma diminui\u00e7\u00e3o do tamanho muscular (atrofia muscular). Dor por deteriora\u00e7\u00e3o articular e aumento das deformidades esquel\u00e9ticas, como escoliose, s\u00e3o comuns. Alguns indiv\u00edduos experimentam apenas sintomas menores, enquanto outros desenvolvem fraqueza muscular mais vis\u00edvel e atrofia. A PPS raramente amea\u00e7a a vida, mas os sintomas podem interferir significativamente na capacidade do indiv\u00edduo de funcionar de forma independente. Embora a poliomielite seja contagiosa, a PPS n\u00e3o \u00e9 transmiss\u00edvel. S\u00f3 um sobrevivente de poliomielite pode desenvolver PPS."
+    },
+    {
+        "qid":"0000237-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a S\u00edndrome P\u00f3s-Polio?",
+        "answer":"Atualmente, n\u00e3o foi encontrada nenhuma preven\u00e7\u00e3o que possa parar a deteriora\u00e7\u00e3o ou reverter os d\u00e9ficits causados pela s\u00edndrome Diversos estudos controlados demonstraram que exerc\u00edcios n\u00e3o fatigantes podem melhorar a for\u00e7a muscular e reduzir o cansa\u00e7o. Os m\u00e9dicos recomendam que os sobreviventes da poliomielite sigam pr\u00e1ticas normais de estilo de vida saud\u00e1vel: consumir uma dieta equilibrada, fazer exerc\u00edcios sensatos (de prefer\u00eancia sob a supervis\u00e3o de um profissional de sa\u00fade experiente), e visitar um m\u00e9dico regularmente. Houve muito debate sobre se incentivar ou desencorajar exerc\u00edcios para sobreviventes de poliomielite ou indiv\u00edduos que j\u00e1 t\u00eam PPS. Uma abordagem sensata, em que as pessoas usam a toler\u00e2ncia individual como seu limite, \u00e9 atualmente recomendada. Estudos preliminares indicam que a imunoglobulina intravenosa pode reduzir a dor, aumentar a qualidade de vida e melhorar a for\u00e7a modestamente."
+    },
+    {
+        "qid":"0000237-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a S\u00edndrome P\u00f3s-Polio?",
+        "answer":"A PPS \u00e9 uma condi\u00e7\u00e3o de progresso muito lento, marcada por longos per\u00edodos de estabilidade. A gravidade do PPS depende do grau de fraqueza residual e incapacidade que um indiv\u00edduo tem ap\u00f3s o ataque original de poliomielite. Pessoas que tiveram apenas sintomas m\u00ednimos do ataque original e subsequentemente desenvolver PPS provavelmente experimentar\u00e3o apenas sintomas ligeiros de PPS. As pessoas originalmente atingidas pelo v\u00edrus da poliomielite, que foram deixadas com fraqueza residual grave, podem desenvolver um caso mais grave de PPS com uma maior perda de fun\u00e7\u00e3o muscular, dificuldade em engolir, e mais per\u00edodos de fadiga."
+    },
+    {
+        "qid":"0000237-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para S\u00edndrome P\u00f3s-Polio?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS) e outros institutos dos Institutos Nacionais de Sa\u00fade (NIH) realizam pesquisas relacionadas com o PPS em laborat\u00f3rios do NIH, e tamb\u00e9m apoiam pesquisas adicionais do PPS atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds."
+    }
+]

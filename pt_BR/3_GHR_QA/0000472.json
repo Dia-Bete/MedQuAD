@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000472-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) neuropatia sensorial e auton\u00f4mica heredit\u00e1ria tipo IE?",
+        "answer":"A neuropatia sensorial e auton\u00f4mica heredit\u00e1ria tipo IE (HSAN IE) \u00e9 uma desordem que afeta o sistema nervoso. Indiv\u00edduos afetados t\u00eam uma perda gradual da fun\u00e7\u00e3o intelectual (dem\u00eancia), normalmente come\u00e7ando em seus trinta anos. Em algumas pessoas com essa desordem, mudan\u00e7as na personalidade se tornam evidentes antes de problemas com habilidades de pensamento. Pessoas com HSAN IE tamb\u00e9m desenvolvem perda auditiva que \u00e9 causada por anormalidades no ouvido interno (perda auditiva sensorineural). A perda auditiva piora ao longo do tempo e geralmente progride para surdez moderada ou grave entre os 20 e 35 anos. HSAN IE \u00e9 caracterizado pela fun\u00e7\u00e3o prejudicada das c\u00e9lulas nervosas chamadas neur\u00f4nios sensoriais, que transmitem informa\u00e7\u00f5es sobre sensa\u00e7\u00f5es como dor, temperatura e toque. Sensa\u00e7\u00f5es nos p\u00e9s e pernas s\u00e3o particularmente afetadas em pessoas com HSAN IE. A perda gradual de sensa\u00e7\u00e3o nos p\u00e9s (neuropatia perif\u00e9rica), que geralmente come\u00e7a na adolesc\u00eancia ou na idade adulta, pode levar \u00e0 dificuldade de andar. Indiv\u00edduos afetados podem n\u00e3o estar cientes de les\u00f5es nos p\u00e9s, o que pode levar a feridas e infec\u00e7\u00f5es abertas. Se essas complica\u00e7\u00f5es forem graves, a amputa\u00e7\u00e3o das \u00e1reas afetadas pode ser necess\u00e1ria. HSAN IE tamb\u00e9m \u00e9 caracterizado por uma perda da capacidade de suor (fun\u00e7\u00e3o sudomotora), especialmente nas m\u00e3os e p\u00e9s. Suar \u00e9 uma fun\u00e7\u00e3o do sistema nervoso aut\u00f4nomo, que tamb\u00e9m controla as fun\u00e7\u00f5es involunt\u00e1rias do corpo, como frequ\u00eancia card\u00edaca, digest\u00e3o e respira\u00e7\u00e3o. Essas outras fun\u00e7\u00f5es auton\u00f4micas n\u00e3o s\u00e3o afetadas em pessoas com HSAN IE. A gravidade dos sinais e sintomas de HSAN IE e sua idade de in\u00edcio s\u00e3o vari\u00e1veis, mesmo dentro da mesma fam\u00edlia."
+    },
+    {
+        "qid":"0000472-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por neuropatias sensoriais e auton\u00f4micas heredit\u00e1rias tipo IE?",
+        "answer":"HSAN IE \u00e9 um dist\u00farbio raro; sua preval\u00eancia \u00e9 desconhecida. Pequenos n\u00fameros de fam\u00edlias afetadas foram identificados em popula\u00e7\u00f5es ao redor do mundo."
+    },
+    {
+        "qid":"0000472-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas com neuropatias sensoriais e auton\u00f4micas heredit\u00e1rias tipo IE?",
+        "answer":"HSAN IE \u00e9 causada por muta\u00e7\u00f5es no gene DNMT1. Este gene fornece instru\u00e7\u00f5es para fazer uma enzima chamada DNA (citosina-5)-metiltransferase 1. Esta enzima est\u00e1 envolvida na metila\u00e7\u00e3o do DNA, que \u00e9 a adi\u00e7\u00e3o de grupos met\u00edlicos, compostos por um \u00e1tomo de carbono e tr\u00eas \u00e1tomos de hidrog\u00eanio, \u00e0s mol\u00e9culas de DNA. Em particular, a enzima ajuda a adicionar grupos met\u00edlicos a blocos de constru\u00e7\u00e3o de DNA (nucle\u00f3tidos) chamados citosinas. Metila\u00e7\u00e3o de DNA \u00e9 importante em muitas fun\u00e7\u00f5es celulares. Estas incluem determinar se as instru\u00e7\u00f5es em um determinado segmento de DNA s\u00e3o realizadas ou suprimidas (silenciamento de genes), regulando rea\u00e7\u00f5es envolvendo prote\u00ednas e gorduras (l\u00edpidos), e controlando o processamento de produtos qu\u00edmicos que transmitem sinais no sistema nervoso (neurotransmissores). O DNA (citosina-5)-metiltransferase 1 \u00e9 ativo no sistema nervoso adulto. Embora sua fun\u00e7\u00e3o espec\u00edfica n\u00e3o seja bem compreendida, a enzima pode ajudar a regular a matura\u00e7\u00e3o e especializa\u00e7\u00e3o das c\u00e9lulas nervosas (neur\u00f4nios) (diferencia\u00e7\u00e3o), a capacidade dos neur\u00f4nios para migrar onde necess\u00e1rio e se conectar entre si, e a sobreviv\u00eancia dos neur\u00f4nios. Muta\u00e7\u00f5es do gene DNMT1 que causam HSAN IE reduzem ou eliminam a fun\u00e7\u00e3o de metila\u00e7\u00e3o da enzima, resultando em anormalidades na manuten\u00e7\u00e3o dos neur\u00f4nios que comp\u00f5em o sistema nervoso. No entanto, n\u00e3o se sabe como as muta\u00e7\u00f5es causam os sinais e sintomas espec\u00edficos de HSAN IE."
+    },
+    {
+        "qid":"0000472-4",
+        "qtype":"inheritance",
+        "question":"\u00c9 heredit\u00e1ria neuropatia sensorial e auton\u00f4mica tipo IE herdado?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Na maioria dos casos, uma pessoa afetada tem um pai com a condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000472-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para neuropatias heredit\u00e1rias sensoriais e auton\u00f4micas tipo IE?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo de neuropatias heredit\u00e1rias sensoriais e auton\u00f4micas tipo IE: - Gene Review: Gene Review: DNMT1-Related Dementia, Surdness, and Sensory Neuropathy - University of Chicago: Center for Peripheral Neuropathy Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes diagn\u00f3sticos - terapia medicamentosa - cirurgia e reabilita\u00e7\u00e3o - aconselhamento gen\u00e9tico - cuidados paliativos"
+    }
+]

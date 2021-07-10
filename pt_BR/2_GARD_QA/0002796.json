@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0002796-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Henoch-Schonlein purpura?",
+        "answer":"Henoch-Schonlein purpura (HSP) \u00e9 uma doen\u00e7a que envolve manchas roxas na pele (purpura), dor nas articula\u00e7\u00f5es, problemas digestivos e glomerulonefrite (um tipo de dist\u00farbio renal). Embora a causa desta condi\u00e7\u00e3o n\u00e3o seja totalmente compreendida, ela pode se desenvolver como resposta imune a uma infec\u00e7\u00e3o. HSP \u00e9 geralmente visto em crian\u00e7as, mas pode afetar pessoas de qualquer idade. A maioria dos casos desaparecem sozinhos sem tratamento. Para os casos que requerem tratamento, o objetivo principal \u00e9 aliviar sintomas como dor nas articula\u00e7\u00f5es, dor abdominal ou incha\u00e7o. Em muitos casos, medicamentos de venda livre podem ser usados. Em alguns pacientes com artrite grave, prednisona, um medicamento esteroide, pode ser prescrito."
+    },
+    {
+        "qid":"0002796-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da p\u00farpura de Henoch-Schonlein?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da p\u00farpura de Henoch-Schonlein? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para a p\u00farpura de Henoch-Schonlein. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Dor abdominal 90% Artralgia 90% Susceptibilidade a contus\u00e3o 90% Infartos gastrointestinais 90% Hemat\u00faria 90% N\u00e1useas e v\u00f4mitos 90% Pustulo 90% Erup\u00e7\u00e3o cut\u00e2nea 90% Vasculite 90% morfologia do tend\u00e3o anormal 50% Anormalidade da regula\u00e7\u00e3o da temperatura 50% Anorexia 50% Artrite 50% Encefalite 50% Migrania 50% Mialgia 50% Orquite 50% \u00falcera cut\u00e2nea 50% Edema 7,5% Hemorragia gastrointestinal 7,5% Glomerulopatia 7,5% Hemiplegia/hemiparesia 7,5% M\u00e1cula hipermelan\u00f3tica 7,5% Anormalidade inflamat\u00f3ria do olho 7,5% Fraqueza muscular 7,5% Atrofia \u00f3ptica 7,5% Protein\u00faria 7,5% Insufici\u00eancia renal 7,5% Doen\u00e7a pulmonar restritiva 7,5% Urticaria 7,5% A Ontologia Fenot\u00edpica Humana (HPO) recolheu informa\u00e7\u00f5es sobre a frequ\u00eancia de ocorr\u00eancia de sinais ou sintomas em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0002796-3",
+        "qtype":"inheritance",
+        "question":"Henoch-Schonlein Purpura \u00e9 herdada?",
+        "answer":"Henoch-Schonlein p\u00farpura pode ser herdado? A causa da p\u00farpura de Henoch-Schonlein \u00e9 atualmente desconhecida. Algumas evid\u00eancias sugerem que a predisposi\u00e7\u00e3o gen\u00e9tica pode contribuir para o desenvolvimento desta doen\u00e7a em alguns casos. Apenas algumas fam\u00edlias com v\u00e1rios parentes afetados pelo HSP foram relatadas na literatura m\u00e9dica. A associa\u00e7\u00e3o entre genes particulares e um ligeiro aumento na chance de desenvolver HSP n\u00e3o foi comprovada."
+    },
+    {
+        "qid":"0002796-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Henoch-Schonlein purpura?",
+        "answer":"Que tratamentos est\u00e3o dispon\u00edveis para Henoch-Schonlein purpura? Infelizmente, n\u00e3o h\u00e1 cura para Henoch-Schonlein purpura (HSP). Os tratamentos visam aliviar os sintomas desta condi\u00e7\u00e3o. Por exemplo, medicamentos anti-inflamat\u00f3rios n\u00e3o ester\u00f3ides (AINEs) ou corticosteroides (como prednisona) podem ser usados para aliviar a dor. Se os rins s\u00e3o severamente afetados em um indiv\u00edduo com HSP, medicamentos imunossupressores, como ciclofosfamida, podem ser prescritos. Em casos raros, indiv\u00edduos com HSP podem precisar ser hospitalizados se sofrerem dor abdominal grave, sangramento do trato digestivo, ou problemas nos rins."
+    }
+]

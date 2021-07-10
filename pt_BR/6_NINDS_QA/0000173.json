@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000173-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) atrofia muscular espinhal?",
+        "answer":"Atrofia Muscular Espinal (SMA) Tipos I, II e III pertencem a um grupo de doen\u00e7as heredit\u00e1rias que causam fraqueza e desperd\u00edcio dos m\u00fasculos volunt\u00e1rios nos bra\u00e7os e pernas de beb\u00eas e crian\u00e7as. Os dist\u00farbios s\u00e3o causados por um gene anormal ou faltante conhecido como o gene de neuron motor de sobreviv\u00eancia 1 (SMN1), que \u00e9 respons\u00e1vel pela produ\u00e7\u00e3o de uma prote\u00edna essencial para os neur\u00f4nios motor. Sem essa prote\u00edna, os neur\u00f4nios motores inferiores na medula espinhal degeneram e morrem. O tipo de SMA (I, II ou III) \u00e9 determinado pela idade de in\u00edcio e gravidade dos sintomas. Tipo I (tamb\u00e9m conhecido como doen\u00e7a de Werdnig-Hoffman, ou SMA de in\u00edcio infantil) \u00e9 evidente no nascimento ou nos primeiros meses. Os sintomas incluem membros fl\u00e1cidos e tronco, movimentos fracos dos bra\u00e7os e pernas, dificuldades de engolir e alimentar, e respira\u00e7\u00e3o prejudicada. Tipo II (a forma intermedi\u00e1ria) geralmente come\u00e7a 6 e 18 meses de idade. As pernas tendem a ser mais prejudicadas do que os bra\u00e7os. Crian\u00e7as do tipo II podem sentar e algumas podem ficar de p\u00e9 ou andar com ajuda. Sintomas do tipo III (tamb\u00e9m chamado de doen\u00e7a de Kugelberg-Welander) aparecem entre 2 e 17 anos de idade e incluem dificuldade em correr, escalar escadas, ou levantar de uma cadeira. As extremidades mais baixas s\u00e3o afetadas. Complica\u00e7\u00f5es incluem escoliose e encurtamento cr\u00f4nico de m\u00fasculos ou tend\u00f5es em torno das articula\u00e7\u00f5es."
+    },
+    {
+        "qid":"0000173-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a atrofia muscular espinal?",
+        "answer":"N\u00e3o h\u00e1 cura para SMA. O tratamento consiste em controlar os sintomas e prevenir complica\u00e7\u00f5es."
+    },
+    {
+        "qid":"0000173-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Atrofia Muscular Espinal?",
+        "answer":"O progn\u00f3stico \u00e9 ruim para beb\u00eas com SMA tipo I. A maioria morre nos dois primeiros anos. Para crian\u00e7as com SMA Tipo II, o progn\u00f3stico para a expectativa de vida ou para a posi\u00e7\u00e3o independente ou caminhar correlaciona-se aproximadamente com a idade quando come\u00e7am a sentir sintomas - crian\u00e7as mais velhas tendem a ter sintomas menos graves A expectativa de vida \u00e9 reduzida, mas alguns indiv\u00edduos vivem na adolesc\u00eancia ou na idade adulta jovem. Indiv\u00edduos com SMA tipo III podem ser propensos a infec\u00e7\u00f5es respirat\u00f3rias, mas com cuidado podem ter uma vida normal."
+    },
+    {
+        "qid":"0000173-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a atrofia muscular espinal?",
+        "answer":"Entre 2003 e 2012, o NINDS pilotou o Projeto de Atrofia Muscular Espinal para acelerar o desenvolvimento terap\u00eautico para esta doen\u00e7a neurodegenerativa heredit\u00e1ria. O projeto foi projetado para acelerar o processo de pesquisa identificando drogas que aumentam o n\u00edvel de prote\u00edna SMN em c\u00e9lulas cultivadas, para que possam ser usadas como potenciais leads para a descoberta de drogas e testes cl\u00ednicos. Leia mais sobre a hist\u00f3ria deste esfor\u00e7o pioneiro e como ele levou \u00e0 colabora\u00e7\u00e3o com v\u00e1rias empresas farmac\u00eauticas e biotecnol\u00f3gicas."
+    }
+]

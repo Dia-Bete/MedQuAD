@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000810-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome do pter\u00edgio popl\u00edteo?",
+        "answer":"S\u00edndrome de pter\u00edgio popl\u00edteo \u00e9 uma condi\u00e7\u00e3o que afeta o desenvolvimento do rosto, pele e genitais. A maioria das pessoas com este dist\u00farbio nascem com um l\u00e1bio fendido, um paladar fendido (uma abertura no telhado da boca), ou ambos. Indiv\u00edduos afetados podem ter depress\u00f5es (pisos) perto do centro do l\u00e1bio inferior, que podem parecer \u00famidos devido \u00e0 presen\u00e7a de gl\u00e2ndulas salivares e mucosas nos po\u00e7os. Pequenos mont\u00edculos de tecido no l\u00e1bio inferior tamb\u00e9m podem ocorrer. Em alguns casos, pessoas com s\u00edndrome de pter\u00edgio popl\u00edteo t\u00eam dentes faltando. Indiv\u00edduos com s\u00edndrome de pterygium popl\u00edteo podem nascer com teias de pele nas costas das pernas atrav\u00e9s da articula\u00e7\u00e3o do joelho, o que pode prejudicar a mobilidade a n\u00e3o ser removida cirurgicamente. Indiv\u00edduos afetados tamb\u00e9m podem ter cinzas ou fus\u00e3o dos dedos dos dedos dos p\u00e9s (sindactilia), caracter\u00edsticas dobras triangulares da pele sobre as unhas dos dedos dos p\u00e9s grandes, ou tecido ligando as p\u00e1lpebras superiores e inferiores ou as mand\u00edbulas superiores e inferiores. Podem ter genitais anormais, incluindo pequenas pregas genitais externas (hipoplasia do labio majora) nas f\u00eameas. Os machos afetados podem ter test\u00edculos n\u00e3o descendentes (criptorquidismo) ou um escroto dividido em dois lobos (escroto b\u00edfido). Pessoas com s\u00edndrome de pterygium popl\u00edteo que t\u00eam fissura de l\u00e1bio e/ou palato, como outros indiv\u00edduos com essas condi\u00e7\u00f5es faciais, podem ter um risco aumentado de atraso no desenvolvimento da linguagem, defici\u00eancias de aprendizagem, ou outros problemas cognitivos leves. O QI m\u00e9dio de indiv\u00edduos com s\u00edndrome de pter\u00edgio popl\u00edteo n\u00e3o \u00e9 significativamente diferente do da popula\u00e7\u00e3o geral."
+    },
+    {
+        "qid":"0000810-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome do pter\u00edgio popl\u00edteo?",
+        "answer":"A s\u00edndrome do pter\u00edgio popl\u00edteo \u00e9 uma condi\u00e7\u00e3o rara, ocorrendo em aproximadamente 1 em 300.000 indiv\u00edduos."
+    },
+    {
+        "qid":"0000810-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome do pter\u00edgio popl\u00edteo?",
+        "answer":"Muta\u00e7\u00f5es no gene IRF6 causam s\u00edndrome de pter\u00edgio popl\u00edteo. O gene IRF6 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que desempenha um papel importante no desenvolvimento precoce. Esta prote\u00edna \u00e9 um fator de transcri\u00e7\u00e3o, o que significa que se liga (vindas) a regi\u00f5es espec\u00edficas do DNA e ajuda a controlar a atividade de genes particulares. A prote\u00edna IRF6 \u00e9 ativa em c\u00e9lulas que d\u00e3o origem a tecidos na cabe\u00e7a e no rosto. Tamb\u00e9m est\u00e1 envolvido no desenvolvimento de outras partes do corpo, incluindo a pele e genitais. Muta\u00e7\u00f5es no gene IRF6 que causam s\u00edndrome de pter\u00edgio popl\u00edteo podem alterar o efeito do fator de transcri\u00e7\u00e3o na atividade de certos genes. Isso afeta o desenvolvimento e matura\u00e7\u00e3o de tecidos no rosto, pele e genitais, resultando nos sinais e sintomas da s\u00edndrome do pter\u00edgio popl\u00edteo."
+    },
+    {
+        "qid":"0000810-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome do pter\u00edgio popl\u00edteo \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000810-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome do pter\u00edgio popl\u00edteo?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de pterygium popl\u00edteo: - Gene Review: Gene Review: IRF6-Related Disorders - Genetic Testing Registry: Popliteal pterygium syndrome Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

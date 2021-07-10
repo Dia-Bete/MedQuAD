@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000432-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Parasites - Trichur\u00edase (tamb\u00e9m conhecida como Infec\u00e7\u00e3o por Whipworm)?",
+        "answer":"Whipworm (Trichuris trichiura) \u00e9 um parasita intestinal de humanos. As larvas e vermes adultos vivem no intestino dos humanos e podem causar doen\u00e7as intestinais. O nome \u00e9 derivado da forma de chicote distinta do verme."
+    },
+    {
+        "qid":"0000432-2",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para Parasites - Trichur\u00edase (tamb\u00e9m conhecido como Whipworm Infection)? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"Whipworm \u00e9 um helminto transmitido pelo solo (STH) e \u00e9 a terceira minhoca redonda mais comum de humanos. Whipworm causa uma infec\u00e7\u00e3o chamada trichur\u00edase e muitas vezes ocorre em \u00e1reas onde as fezes humanas s\u00e3o usadas como fertilizante ou onde a defeca\u00e7\u00e3o no solo acontece. Os vermes s\u00e3o espalhados de pessoa para pessoa por transmiss\u00e3o fecal-oral ou atrav\u00e9s de alimentos contaminados por fezes. Distribui\u00e7\u00e3o Geogr\u00e1fica Em todo o mundo, a infec\u00e7\u00e3o ocorre mais frequentemente em \u00e1reas com clima tropical e pr\u00e1ticas de saneamento deficientes, e entre as crian\u00e7as. Em 2002, o n\u00famero estimado de pessoas infectadas com whipworm foi de 1 bilh\u00e3o. A trivur\u00edase tamb\u00e9m ocorre no sul dos Estados Unidos."
+    },
+    {
+        "qid":"0000432-5",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar Parasites - Trichur\u00edase (tamb\u00e9m conhecido como Whipworm Infection)?",
+        "answer":"O m\u00e9todo padr\u00e3o para diagnosticar a presen\u00e7a de whipworm \u00e9 atrav\u00e9s da identifica\u00e7\u00e3o microsc\u00f3pica de ovos de whipworm em uma amostra de fezes. Como os ovos podem ser dif\u00edceis de encontrar em infec\u00e7\u00f5es leves, recomenda-se um procedimento de concentra\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000432-6",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Parasites - Trichur\u00edase (tamb\u00e9m conhecido como Whipworm Infection)?",
+        "answer":"Medicamentos antihelm\u00ednticos (drogas que livram o corpo de vermes parasit\u00e1rios), como albendazol e mebendazol, s\u00e3o as drogas de escolha para o tratamento. As infec\u00e7\u00f5es s\u00e3o geralmente tratadas por 3 dias. Os medicamentos recomendados s\u00e3o eficazes. Os profissionais de sa\u00fade podem decidir repetir um exame de fezes ap\u00f3s o tratamento. Suplementos de ferro tamb\u00e9m podem ser prescritos se a pessoa infectada sofre de anemia. Mais sobre: Recursos para Profissionais de Sa\u00fade: Tratamento"
+    },
+    {
+        "qid":"0000432-7",
+        "qtype":"prevention",
+        "question":"Como prevenir Parasites - Trichur\u00edase (tamb\u00e9m conhecido como Whipworm Infection)?",
+        "answer":"A melhor maneira de prevenir a infec\u00e7\u00e3o por lombrigas \u00e9 sempre: - Evitar ingest\u00e3o de solos que podem estar contaminados com fezes humanas, incluindo onde mat\u00e9ria fecal humana (\"sol noturno\") ou \u00e1guas residuais \u00e9 usada para fertilizar colheitas. - Lave as m\u00e3os com sab\u00e3o e \u00e1gua quente antes de manusear comida. Ensine \u00e0s crian\u00e7as a import\u00e2ncia de lavar as m\u00e3os para prevenir infec\u00e7\u00f5es. - Lavar, descascar, ou cozinhar todos os vegetais crus e frutas antes de comer, particularmente aqueles que foram cultivados em solo que foi fertilizado com estrume. Mais sobre: Lavagem \u00e0 m\u00e3o A transmiss\u00e3o de infec\u00e7\u00e3o para outros pode ser evitada por n\u00e3o defecar ao ar livre. - Sistemas eficazes de elimina\u00e7\u00e3o de esgotos."
+    }
+]

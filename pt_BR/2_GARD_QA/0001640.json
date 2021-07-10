@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0001640-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Craniofaringioma?",
+        "answer":"Um craniofaringioma \u00e9 um tumor benigno de crescimento lento que se desenvolve perto da gl\u00e2ndula pituit\u00e1ria (uma pequena gl\u00e2ndula end\u00f3crina na base do c\u00e9rebro) e do hipot\u00e1lamo (um pequeno \u00f3rg\u00e3o em forma de cone conectado \u00e0 gl\u00e2ndula pituit\u00e1ria pelos nervos). Este tumor afeta mais comumente crian\u00e7as entre 5 e 10 anos de idade; no entanto, adultos \u00e0s vezes podem ser afetados. Craniofaringiomas s\u00e3o pensados para surgir de remanescentes do ducto craniofar\u00edngeo e/ou rathke fissura ou de metaplasia (transforma\u00e7\u00e3o anormal das c\u00e9lulas) de remanescentes de c\u00e9lulas epiteliais escamosas do estomadeum. O craniofaringioma \u00e9 tratado com cirurgia sozinha ou com cirurgia seguida de radia\u00e7\u00e3o."
+    },
+    {
+        "qid":"0001640-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do Craniofaringioma?",
+        "answer":"Que sintomas podem estar associados ao craniofaringioma? Craniofaringioma causa sintomas de tr\u00eas maneiras diferentes: aumentando a press\u00e3o no c\u00e9rebro (press\u00e3o intracraniana) interrompendo a fun\u00e7\u00e3o da gl\u00e2ndula pituit\u00e1ria danificando o nervo \u00f3ptico A press\u00e3o no c\u00e9rebro causa dor de cabe\u00e7a, n\u00e1useas, v\u00f4mitos (especialmente pela manh\u00e3), e dificuldade com o equil\u00edbrio. Danos \u00e0 gl\u00e2ndula pituit\u00e1ria causam desequil\u00edbrios hormonais que podem levar a sede excessiva e mic\u00e7\u00e3o (diabetes insipidus) e crescimento retardado. Quando o nervo \u00f3ptico \u00e9 danificado pelo tumor, problemas de vis\u00e3o se desenvolvem. Esses defeitos s\u00e3o muitas vezes permanentes, e podem ser piores ap\u00f3s a cirurgia para remover o tumor. A maioria dos pacientes tem pelo menos alguns defeitos visuais e evid\u00eancias de diminui\u00e7\u00e3o da produ\u00e7\u00e3o hormonal no momento do diagn\u00f3stico."
+    },
+    {
+        "qid":"0001640-3",
+        "qtype":"causes",
+        "question":"O que causa Craniofaringioma?",
+        "answer":"O que causa craniofaringoma? Pensa-se que os craniofaringiomas surgem de restos epiteliais do ducto craniofar\u00edngeo ou da bolsa de Rathke (tumor do tipo adamantinomatoso) ou de metaplasia de restos de c\u00e9lulas epiteliais escamosas que s\u00e3o restos da parte do estomadeo que contribu\u00edram para a mucosa bucal (tumor do tipo papilar escamoso)."
+    },
+    {
+        "qid":"0001640-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Craniofaringioma?",
+        "answer":"Como os craniofaringiomas podem ser tratados? Tradicionalmente, a cirurgia tem sido o principal tratamento para craniofaringioma. No entanto, tratamento de radia\u00e7\u00e3o em vez de cirurgia pode ser a melhor escolha para alguns pacientes. Em tumores que n\u00e3o podem ser removidos completamente com cirurgia sozinha, a radioterapia \u00e9 geralmente necess\u00e1ria. Se o tumor tem uma apar\u00eancia cl\u00e1ssica na tomografia, ent\u00e3o mesmo uma bi\u00f3psia pode n\u00e3o ser necess\u00e1ria, se o tratamento com radia\u00e7\u00e3o \u00e9 planejado. Este tumor \u00e9 melhor tratado em um centro com experi\u00eancia em lidar com craniofaringiomas."
+    }
+]

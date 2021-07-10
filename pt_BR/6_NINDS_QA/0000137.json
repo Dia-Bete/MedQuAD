@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000137-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Gerstmann-Straussler-Scheinker?",
+        "answer":"A doen\u00e7a de Gerstmann-Straussler-Scheinker (GSS) \u00e9 uma doen\u00e7a cerebral neurodegenerativa extremamente rara. \u00c9 quase sempre herdado e \u00e9 encontrado em poucas fam\u00edlias ao redor do mundo. O in\u00edcio da doen\u00e7a geralmente ocorre entre os 35 e 55 anos. Nos est\u00e1gios iniciais, os pacientes podem experimentar diferentes n\u00edveis de ataxia (falta de coordena\u00e7\u00e3o muscular), incluindo desajeitamento, instabilidade e dificuldade de caminhar. \u00c0 medida que a doen\u00e7a progride, a ataxia se torna mais acentuada e a maioria dos pacientes desenvolve dem\u00eancia. Outros sintomas podem incluir disartria (apagamento da fala), nistagmo (movimentos involunt\u00e1rios dos olhos), espasticidade (t\u00f4nus muscular r\u00edgido), e dist\u00farbios visuais, \u00e0s vezes levando \u00e0 cegueira. Surdez tamb\u00e9m pode ocorrer. Em algumas fam\u00edlias, caracter\u00edsticas parkinsonianas est\u00e3o presentes. GSS pertence a uma fam\u00edlia de doen\u00e7as humanas e animais conhecidas como encefalopatias espongiformes transmiss\u00edveis (TSE). Outras EET incluem doen\u00e7a de Creutzfeldt-Jakob, kuru e ins\u00f4nia familiar fatal."
+    },
+    {
+        "qid":"0000137-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Gerstmann-Straussler-Scheinker?",
+        "answer":"N\u00e3o h\u00e1 cura para o GSS, nem h\u00e1 nenhum tratamento conhecido para retardar a progress\u00e3o da doen\u00e7a. As terapias atuais visam aliviar os sintomas e tornar o paciente o mais confort\u00e1vel poss\u00edvel."
+    },
+    {
+        "qid":"0000137-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a doen\u00e7a de Gerstmann-Straussler-Scheinker?",
+        "answer":"GSS \u00e9 uma condi\u00e7\u00e3o lentamente progressiva que dura de 2 a 10 anos. A doen\u00e7a, em \u00faltima an\u00e1lise, causa incapacidade grave e, finalmente, morte, muitas vezes depois que o paciente entra em coma ou tem uma infec\u00e7\u00e3o secund\u00e1ria como pneumonia de aspira\u00e7\u00e3o devido a uma habilidade prejudicada de engolir."
+    },
+    {
+        "qid":"0000137-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a doen\u00e7a de Gerstmann-Straussler-Scheinker?",
+        "answer":"O NINDS apoia e conduz pesquisas sobre EET, incluindo GSS. Grande parte desta pesquisa tem como objetivo caracterizar os agentes que causam esses dist\u00farbios, esclarecer os mecanismos subjacentes a eles, e, em \u00faltima an\u00e1lise, encontrar maneiras de preveni-los, tratar e cur\u00e1-los."
+    }
+]

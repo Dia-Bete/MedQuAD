@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0000530-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a gastrite atr\u00f3fica autoimune?",
+        "answer":"Gastrite atr\u00f3fica autoimune \u00e9 uma doen\u00e7a autoimune em que o sistema imunol\u00f3gico ataca erroneamente as c\u00e9lulas saud\u00e1veis do revestimento do est\u00f4mago. Overtime, isso pode desgastar a barreira protetora do est\u00f4mago e interferir com a absor\u00e7\u00e3o de v\u00e1rias vitaminas chave (i.e. vitamina B12, ferro, folato). Em alguns casos, a gastrite atr\u00f3fica autoimune n\u00e3o causa sinais e sintomas \u00f3bvios. No entanto, algumas pessoas podem sentir n\u00e1useas, v\u00f4mitos, uma sensa\u00e7\u00e3o de plenitude no abdome superior ap\u00f3s comer, dor abdominal e/ou defici\u00eancias vitam\u00ednicas. A condi\u00e7\u00e3o est\u00e1 associada a um aumento do risco de anemia perniciosa, p\u00f3lipos g\u00e1stricos e adenocarcinoma g\u00e1strico. Embora a causa gen\u00e9tica subjacente n\u00e3o tenha sido identificada, estudos sugerem que a condi\u00e7\u00e3o pode ser herdada de uma forma autoss\u00f4mica dominante em algumas fam\u00edlias. O tratamento \u00e9 baseado nos sinais e sintomas presentes em cada pessoa, mas pode incluir inje\u00e7\u00f5es de vitamina B12 e vigil\u00e2ncia endosc\u00f3pica."
+    },
+    {
+        "qid":"0000530-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da gastrite atr\u00f3fica autoimune?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da gastrite atr\u00f3fica autoimune? Em alguns casos, a gastrite atr\u00f3fica autoimune n\u00e3o causa sinais e sintomas \u00f3bvios. No entanto, algumas pessoas podem sentir n\u00e1useas, v\u00f4mitos, uma sensa\u00e7\u00e3o de plenitude no abdome superior ap\u00f3s comer, ou dor abdominal. \u00c9 frequentemente associado com a absor\u00e7\u00e3o prejudicada da vitamina B12 e possivelmente outras defici\u00eancias vitam\u00ednicas (como folato e ferro). Pessoas com defici\u00eancia de vitamina B12 est\u00e3o em risco de anemia perniciosa, uma condi\u00e7\u00e3o em que o corpo n\u00e3o tem gl\u00f3bulos vermelhos saud\u00e1veis o suficiente. Gastrite atr\u00f3fica autoimune \u00e9 considerada uma condi\u00e7\u00e3o \"precancerosa\" e pode ser respons\u00e1vel pelo desenvolvimento de adenocarcinoma g\u00e1strico ou carcinoides."
+    },
+    {
+        "qid":"0000530-3",
+        "qtype":"causes",
+        "question":"O que causa gastrite atr\u00f3fica autoimune?",
+        "answer":"O que causa gastrite atr\u00f3fica autoimune? Gastrite atr\u00f3fica autoimune \u00e9 considerada uma doen\u00e7a autoimune. Em pessoas que s\u00e3o afetadas por esta condi\u00e7\u00e3o, o sistema imunol\u00f3gico ataca erroneamente as c\u00e9lulas saud\u00e1veis do revestimento do est\u00f4mago. Overtime, isso pode desgastar a barreira protetora do est\u00f4mago e interferir com a absor\u00e7\u00e3o de v\u00e1rias vitaminas chave (i.e. vitamina B12, ferro, folato). Isso leva aos sinais e sintomas da gastrite atr\u00f3fica autoimune."
+    },
+    {
+        "qid":"0000530-4",
+        "qtype":"inheritance",
+        "question":"A gastrite autoimune atr\u00f3fica \u00e9 herdada?",
+        "answer":"A gastrite atr\u00f3fica autoimune \u00e9 herdada? Em alguns casos, mais de um membro da fam\u00edlia pode ser afetado por gastrite atr\u00f3fica autoimune. Embora a causa gen\u00e9tica subjacente n\u00e3o tenha sido identificada, estudos sugerem que a condi\u00e7\u00e3o pode ser herdada de forma autoss\u00f4mica dominante nessas fam\u00edlias. Em condi\u00e7\u00f5es autoss\u00f4micas dominantes, uma pessoa afetada s\u00f3 precisa de uma mudan\u00e7a (muta\u00e7\u00e3o) em uma c\u00f3pia do gene respons\u00e1vel em cada c\u00e9lula. Em alguns casos, uma pessoa afetada herda a muta\u00e7\u00e3o de um pai afetado. Outros casos podem resultar de novas muta\u00e7\u00f5es (de novo) no gene. Esses casos ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia. Uma pessoa com a condi\u00e7\u00e3o tem 50% de chance com cada gravidez de passar o gene alterado para seu filho."
+    },
+    {
+        "qid":"0000530-5",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a gastrite atr\u00f3fica autoimune?",
+        "answer":"Como \u00e9 diagnosticada a gastrite atr\u00f3fica autoimune? Um diagn\u00f3stico de gastrite atr\u00f3fica autoimune geralmente n\u00e3o \u00e9 suspeito at\u00e9 que sinais e sintomas caracter\u00edsticos estejam presentes. Testes adicionais podem ser ordenados para confirmar o diagn\u00f3stico. Isso geralmente inclui: uma bi\u00f3psia do tecido afetado obtida atrav\u00e9s de endoscopia O trabalho de sangue que demonstra autoanticorpos contra certas c\u00e9lulas do est\u00f4mago"
+    },
+    {
+        "qid":"0000530-6",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a gastrite atr\u00f3fica autoimune?",
+        "answer":"Como pode a gastrite atr\u00f3fica autoimune ser tratada? O tratamento da gastrite atr\u00f3fica autoimune \u00e9 geralmente focado na preven\u00e7\u00e3o e/ou al\u00edvio de sinais e sintomas da condi\u00e7\u00e3o. Por exemplo, o manejo \u00e9 focado na preven\u00e7\u00e3o de defici\u00eancias de vitamina B12, folato e ferro nos est\u00e1gios iniciais da condi\u00e7\u00e3o. Com suplementa\u00e7\u00e3o adequada dessas vitaminas e minerais, anemia e outros problemas de sa\u00fade podem ser evitados. Se a anemia perniciosa j\u00e1 est\u00e1 presente no momento do diagn\u00f3stico, a substitui\u00e7\u00e3o da vitamina B12 \u00e9 geralmente recomendada por inje\u00e7\u00f5es. Em alguns casos, a vigil\u00e2ncia endosc\u00f3pica tamb\u00e9m pode ser recomendada devido ao risco aumentado de certos tipos de c\u00e2ncer. Embora a cirurgia possa ser apropriada para o tratamento de c\u00e2nceres relacionados, n\u00e3o estamos cientes de op\u00e7\u00f5es de tratamento cir\u00fargico ou recomenda\u00e7\u00f5es de outra forma. Sintomas de gastrite em geral podem ser controlados com receita m\u00e9dica ou medicamentos de venda livre (al\u00e9m de antibi\u00f3ticos para gastrite associada a H. pylori) que bloqueiam ou reduzem a produ\u00e7\u00e3o de \u00e1cido e promovem a cicatriza\u00e7\u00e3o. Os inibidores da bomba de prot\u00f5es reduzem o \u00e1cido bloqueando a a\u00e7\u00e3o das partes das c\u00e9lulas que produzem \u00e1cido. Exemplos podem incluir omeprazol, lansoprazol, rabeprazole, esomeprazol, dexlansoprazol e pantoprazol. Os bloqueadores de histamina (H-2) reduzem a quantidade de \u00e1cido liberado no trato digestivo, o que alivia a dor gastrite e promove a cicatriza\u00e7\u00e3o. Exemplos incluem ranitidina, famotidina, cimetidina e nizatidina. Anti\u00e1cidos que neutralizam o \u00e1cido estomacal e proporcionam al\u00edvio da dor tamb\u00e9m podem ser usados. N\u00f3s n\u00e3o estamos cientes de diretrizes diet\u00e9ticas ou recomenda\u00e7\u00f5es para gastrite atr\u00f3fica autoimune. Grande parte da literatura sobre o manejo alimentar da gastrite \u00e9 espec\u00edfica da gastrite associada a H. Pylori. No entanto, pessoas com gastrite em geral podem encontrar algum al\u00edvio ao comer refei\u00e7\u00f5es menores e mais freq\u00fcentes; evitar alimentos irritantes; evitar \u00e1lcool; trocar analg\u00e9sicos; e controlar o estresse."
+    }
+]

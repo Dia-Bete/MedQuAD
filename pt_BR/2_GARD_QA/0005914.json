@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0005914-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) degenera\u00e7\u00e3o cerebelar subaguda?",
+        "answer":"A degenera\u00e7\u00e3o cerebelar subaguda \u00e9 a quebra da \u00e1rea do c\u00e9rebro que controla a coordena\u00e7\u00e3o e o equil\u00edbrio muscular (o cerebelo). Menos comumente, a \u00e1rea que liga a medula espinhal ao c\u00e9rebro est\u00e1 envolvida. Degenera\u00e7\u00e3o cerebelar subaguda pode ocorrer em associa\u00e7\u00e3o com um c\u00e2ncer (degenera\u00e7\u00e3o cerebelar paraneopl\u00e1sica) ou falta de tiamina (degenera\u00e7\u00e3o cerebelar alco\u00f3lica ou nutricional). Sinais e sintomas podem incluir ataxia, problemas de fala e degluti\u00e7\u00e3o, dem\u00eancia, problemas de vis\u00e3o e vertigem."
+    },
+    {
+        "qid":"0005914-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da degenera\u00e7\u00e3o cerebelar subaguda?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da degenera\u00e7\u00e3o cerebelar subaguda? Sinais e sintomas de degenera\u00e7\u00e3o cerebelar subaguda, incluem ataxia, problemas de fala e degluti\u00e7\u00e3o, dem\u00eancia (em cerca de metade das pessoas com esta condi\u00e7\u00e3o), e dificuldade de caminhar. Pessoas com degenera\u00e7\u00e3o cerebelar subaguda devido \u00e0 defici\u00eancia de tiamina tamb\u00e9m podem experimentar movimentos involunt\u00e1rios r\u00e1pidos do globo ocular (nistagmo), vis\u00e3o dupla, tonturas e paralisia dos m\u00fasculos oculares. Na degenera\u00e7\u00e3o cerebelar paraneopl\u00e1sica, tonturas, n\u00e1useas e v\u00f4mitos podem preceder os sintomas neurol\u00f3gicos. A degenera\u00e7\u00e3o cerebelar paraneopl\u00e1sica pode ocorrer em associa\u00e7\u00e3o com a s\u00edndrome miastenica de Lambert Eaton ou encefalomielite."
+    },
+    {
+        "qid":"0005914-3",
+        "qtype":"causes",
+        "question":"O que causa degenera\u00e7\u00e3o cerebelar subaguda?",
+        "answer":"O que causa degenera\u00e7\u00e3o cerebelar subaguda? A degenera\u00e7\u00e3o cerebelar subaguda pode ocorrer quando o sistema imunol\u00f3gico do corpo ataca tecido saud\u00e1vel, seja por raz\u00f5es desconhecidas ou como rea\u00e7\u00e3o anormal a um c\u00e2ncer subjacente. Esses casos s\u00e3o referidos como degenera\u00e7\u00e3o cerebelar paraneopl\u00e1sica. A degenera\u00e7\u00e3o cerebelar subaguda tamb\u00e9m pode ocorrer devido \u00e0 defici\u00eancia de tiamina. As causas da defici\u00eancia de tiamina incluem alcoolismo, v\u00f4mitos recorrentes, cirurgia g\u00e1strica, e dietas pobres nesta vitamina B. Esses casos s\u00e3o referidos como degenera\u00e7\u00e3o cerebelar alco\u00f3lica/nutricional. Para mais informa\u00e7\u00f5es sobre os efeitos neurol\u00f3gicos da defici\u00eancia de tiamina grave, veja o seguinte link para a p\u00e1gina de recursos da s\u00edndrome de Wernicke-Korsakoff. http://rarediseases.info.nih.gov/gard/6843/wernicke-korsakoff-s\u00edndrome/Resources/1"
+    }
+]

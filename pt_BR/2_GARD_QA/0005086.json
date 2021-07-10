@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0005086-1",
+        "qtype":"information",
+        "question":"O que \u00e9 atrofia hemifacial progressiva?",
+        "answer":"Atrofia hemifacial progressiva, ou s\u00edndrome de Parry-Romberg, \u00e9 uma condi\u00e7\u00e3o que causa a quebra da pele e tecidos moles da metade do rosto. Sintomas e gravidade variam de pessoa para pessoa. Essa condi\u00e7\u00e3o tende a come\u00e7ar na inf\u00e2ncia entre 5 e 15 anos, e piorar no decorrer de 2 a 10 anos antes de se estabilizar. Al\u00e9m da pele e tecidos moles, a deteriora\u00e7\u00e3o pode envolver a boca e a l\u00edngua, ossos faciais, a cavidade dos olhos e os olhos. Outros sintomas podem incluir perda de cabelo facial, altera\u00e7\u00f5es na cor da pele nas \u00e1reas afetadas, convuls\u00f5es e epis\u00f3dios de dor facial grave. O tratamento pode envolver cirurgia reconstrutiva ou microvascular. Atualmente, a causa da condi\u00e7\u00e3o \u00e9 desconhecida."
+    },
+    {
+        "qid":"0005086-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da atrofia hemifacial progressiva?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da atrofia hemifacial progressiva? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para atrofia hemifacial progressiva. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Hiperpigmenta\u00e7\u00e3o irregular 90% Anormalidade da musculatura 50% Aplasia/Hipoplasia da pele 50% Crescimento assim\u00e9trico 50% Convuls\u00f5es 50% Olho de fundo 7,5% Heterocromia iridis 7,5% Ptose 7,5% Alopecia areata - Ataxia - Blefaropimose - Erup\u00e7\u00e3o retardada dos dentes - Maoclus\u00e3o dent\u00e1ria - Atrofia Hemifacial - S\u00edndrome de Horner - Cifose - Microtia - Migraine - Onset - Poliose - Rami mandibular curto - Espor\u00e1dica - Neuralgia Trigeminal - A Ontologia Fenot\u00edpica Humana (HPO) recolheu informa\u00e7\u00f5es sobre a frequ\u00eancia com que um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0005086-3",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para atrofia hemifacial progressiva?",
+        "answer":"Como a atrofia hemifacial progressiva pode ser tratada?"
+    }
+]

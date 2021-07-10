@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0005951-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Swyer-James?",
+        "answer":"A s\u00edndrome de Swyer-James \u00e9 uma condi\u00e7\u00e3o rara em que o pulm\u00e3o (ou por\u00e7\u00e3o do pulm\u00e3o) n\u00e3o cresce normalmente e \u00e9 ligeiramente menor que o pulm\u00e3o oposto, geralmente ap\u00f3s bronquiolite na inf\u00e2ncia. \u00c9 normalmente diagnosticado ap\u00f3s uma radiografia de t\u00f3rax ou tomografia que mostra hiperluc\u00eancia pulmonar unilateral (um pulm\u00e3o parece menos denso) e art\u00e9rias pulmonares diminu\u00eddas. Indiv\u00edduos afetados podem n\u00e3o ter nenhum sintoma, ou mais comumente, eles podem ter infec\u00e7\u00f5es pulmonares recorrentes e sintomas respirat\u00f3rios comuns. A causa da condi\u00e7\u00e3o n\u00e3o \u00e9 completamente compreendida."
+    },
+    {
+        "qid":"0005951-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome de Swyer-James?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da s\u00edndrome de Swyer-James? Indiv\u00edduos com s\u00edndrome de Swyer-James podem n\u00e3o ter nenhum sintoma, mas indiv\u00edduos afetados podem ter infec\u00e7\u00f5es pulmonares cr\u00f4nicas ou recorrentes, falta de ar (dispneia) ao realizar uma atividade, tosse para cima do sangue (hemoptise), e at\u00e9 mesmo grave defici\u00eancia respirat\u00f3ria."
+    },
+    {
+        "qid":"0005951-3",
+        "qtype":"causes",
+        "question":"O que causa a s\u00edndrome de Swyer-James?",
+        "answer":"O que causa a s\u00edndrome de Swyer-James? A causa da s\u00edndrome de Swyer-James n\u00e3o \u00e9 completamente compreendida. A maioria dos especialistas concorda que a anormalidade inicial ocorre nos br\u00f4nquios distais (tubos de ar que trazem ar para e dos pulm\u00f5es) ap\u00f3s uma infec\u00e7\u00e3o durante a inf\u00e2ncia. O tamanho menor do pulm\u00e3o afetado pode ser devido \u00e0 infec\u00e7\u00e3o inibindo o crescimento normal do pulm\u00e3o. Diversos relatos descrevem s\u00edndrome de Swyer-James ap\u00f3s hist\u00f3rias infantis incluindo radioterapia, sarampo, coqueluche, tuberculose, respira\u00e7\u00e3o em um corpo estranho, micoplasma e infec\u00e7\u00f5es virais, especialmente adenov\u00edrus. Pesquisa sugeriu que uma rea\u00e7\u00e3o hiper-imune no pulm\u00e3o (produzindo uma abund\u00e2ncia incomum de anticorpos) pode desempenhar um papel na sustenta\u00e7\u00e3o de danos nas vias a\u00e9reas ap\u00f3s a infec\u00e7\u00e3o inicial. Alguns argumentaram que uma anormalidade pulmonar pr\u00e9-existente pode predispor os indiv\u00edduos \u00e0 condi\u00e7\u00e3o. Embora os danos br\u00f4nquicos de algum tipo durante a inf\u00e2ncia sejam geralmente considerados como desempenhando um papel importante, muitos indiv\u00edduos afetados n\u00e3o tiveram hist\u00f3rico conhecido de infec\u00e7\u00e3o por vias a\u00e9reas. \u00c9 poss\u00edvel que alguns fatores desconhecidos presentes no nascimento possam contribuir para o desenvolvimento da s\u00edndrome de Swyer-James."
+    },
+    {
+        "qid":"0005951-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Swyer-James?",
+        "answer":"Como a s\u00edndrome de Swyer-James pode ser tratada? Indiv\u00edduos com s\u00edndrome de Swyer-James foram tratados conservadormente no passado. No entanto, embora haja poucos relatos publicados, tem sido reconhecido que o tratamento cir\u00fargico deve ser considerado quando infec\u00e7\u00f5es n\u00e3o podem ser controladas. H\u00e1 relatos de indiv\u00edduos afetados sendo tratados com pneumonectomia (remo\u00e7\u00e3o de um pulm\u00e3o), lobectomia (remo\u00e7\u00e3o de um ou mais lobos de um pulm\u00e3o) ou segmentectomia (remo\u00e7\u00e3o de um segmento espec\u00edfico). Foi proposto que indiv\u00edduos com s\u00edndrome de Swyer-James possam se beneficiar com a cirurgia de redu\u00e7\u00e3o de volume pulmonar (LVRS), um procedimento no qual tecido danificado \u00e9 removido do pulm\u00e3o. O LVRS foi realizado com sucesso em um indiv\u00edduo com s\u00edndrome de Swyer-James, e foi sugerido que o procedimento poderia ser usado para controlar a condi\u00e7\u00e3o em outros indiv\u00edduos afetados porque mostrou ser eficaz para melhorar a fun\u00e7\u00e3o pulmonar e sintomas."
+    }
+]

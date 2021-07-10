@@ -1,0 +1,14 @@
+[
+    {
+        "qid":"0000860-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Brown-Sequard?",
+        "answer":"S\u00edndrome Brown-Sequard \u00e9 uma condi\u00e7\u00e3o neurol\u00f3gica rara caracterizada por uma les\u00e3o na medula espinhal. Esta condi\u00e7\u00e3o resulta em fraqueza ou paralisia de um lado do corpo (hemiparaplegia) e uma perda de sensa\u00e7\u00e3o no lado oposto (hemiestesia). S\u00edndrome Brown-Sequard pode ser causada por um tumor da medula espinhal, trauma (como uma ferida de pun\u00e7\u00e3o no pesco\u00e7o ou nas costas), vaso sangu\u00edneo obstru\u00eddo, ou doen\u00e7as infecciosas ou inflamat\u00f3rias, como tuberculose, ou esclerose m\u00faltipla. O tratamento e o progn\u00f3stico dependem da causa subjacente da doen\u00e7a."
+    },
+    {
+        "qid":"0000860-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Brown-Sequard?",
+        "answer":"Como a s\u00edndrome de Brown-Sequard pode ser tratada?"
+    }
+]

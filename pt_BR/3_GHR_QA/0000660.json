@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000660-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Milroy?",
+        "answer":"A doen\u00e7a de Milroy \u00e9 uma condi\u00e7\u00e3o que afeta a fun\u00e7\u00e3o normal do sistema linf\u00e1tico. O sistema linf\u00e1tico produz e transporta fluidos e c\u00e9lulas imunes por todo o corpo. Transporte prejudicado com ac\u00famulo de l\u00edquido linf\u00e1tico pode causar incha\u00e7o (linfedema). Indiv\u00edduos com doen\u00e7a de Milroy geralmente t\u00eam linfedema nas pernas e p\u00e9s ao nascer ou o desenvolvem na inf\u00e2ncia. O linfedema normalmente ocorre em ambos os lados do corpo e pode piorar com o tempo. A doen\u00e7a de Milroy est\u00e1 associada a outras caracter\u00edsticas al\u00e9m do linfedema. Homens com doen\u00e7a de Milroy \u00e0s vezes nascem com um ac\u00famulo de l\u00edquido no escroto (hidrocele). Masculinos e f\u00eameas podem ter unhas inclinadas dos p\u00e9s, dobras profundas nos dedos dos p\u00e9s, crescimentos semelhantes a verrugas (papilomas), e veias proeminentes das pernas. Alguns indiv\u00edduos desenvolvem infec\u00e7\u00f5es cut\u00e2neas n\u00e3o contagiosas chamadas celulite que podem danificar os tubos finos que transportam l\u00edquido linf\u00e1tico (vasos linf\u00e1ticos). Epis\u00f3dios de celulite podem causar mais incha\u00e7o nos membros inferiores."
+    },
+    {
+        "qid":"0000660-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela doen\u00e7a de Milroy?",
+        "answer":"A doen\u00e7a de Milroy \u00e9 uma doen\u00e7a rara, sua incid\u00eancia \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000660-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as mudan\u00e7as gen\u00e9ticas relacionadas \u00e0 doen\u00e7a de Milroy?",
+        "answer":"Muta\u00e7\u00f5es no gene FLT4 causam alguns casos de doen\u00e7a de Milroy. O gene FLT4 fornece instru\u00e7\u00f5es para produzir uma prote\u00edna chamada receptor 3 do fator de crescimento endotelial vascular (VEGFR-3), que regula o desenvolvimento e manuten\u00e7\u00e3o do sistema linf\u00e1tico. Muta\u00e7\u00f5es no gene FLT4 interferem no crescimento, movimento e sobreviv\u00eancia das c\u00e9lulas que regem os vasos linf\u00e1ticos (c\u00e9lulas endoteliais linf\u00e1ticas). Essas muta\u00e7\u00f5es levam ao desenvolvimento de pequenos ou ausentes vasos linf\u00e1ticos. Se o l\u00edquido linf\u00e1tico n\u00e3o for transportado corretamente, ele se acumula nos tecidos do corpo e causa linfedema. N\u00e3o se sabe como muta\u00e7\u00f5es no gene FLT4 levam \u00e0s outras caracter\u00edsticas deste dist\u00farbio. Muitos indiv\u00edduos com doen\u00e7a de Milroy n\u00e3o t\u00eam muta\u00e7\u00e3o no gene FLT4. Nestes indiv\u00edduos, a causa do dist\u00farbio \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000660-4",
+        "qtype":"inheritance",
+        "question":"A doen\u00e7a de Milroy \u00e9 herdada?",
+        "answer":"A doen\u00e7a de Milroy \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Em muitos casos, uma pessoa afetada herda a muta\u00e7\u00e3o de um pai afetado. Outros casos podem resultar de novas muta\u00e7\u00f5es no gene FLT4. Esses casos ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia. Cerca de 10% a 15% das pessoas com muta\u00e7\u00e3o no gene FLT4 n\u00e3o desenvolvem as caracter\u00edsticas da doen\u00e7a de Milroy."
+    },
+    {
+        "qid":"0000660-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Milroy?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da doen\u00e7a de Milroy: - Revis\u00e3o gen\u00e9tica: Revis\u00e3o gen\u00e9tica: Doen\u00e7a de Milroy - Registro de Testes Gen\u00e9ticos: Linfedema Heredit\u00e1rio tipo I - MedlinePlus Enciclop\u00e9dia: Obstru\u00e7\u00e3o Linf\u00e1tica Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

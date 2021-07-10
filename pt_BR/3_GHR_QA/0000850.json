@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000850-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) doen\u00e7a veno-oclusiva pulmonar?",
+        "answer":"A doen\u00e7a veno-oclusiva pulmonar (PVOD) \u00e9 caracterizada pelo bloqueio (oclus\u00e3o) dos vasos sangu\u00edneos que transportam sangue rico em oxig\u00eanio (oxigenado) dos pulm\u00f5es para o cora\u00e7\u00e3o (as veias pulmonares). A oclus\u00e3o \u00e9 causada por uma acumula\u00e7\u00e3o de tecido fibroso anormal nas pequenas veias dos pulm\u00f5es, que estreita os vasos e prejudica o fluxo sangu\u00edneo. Como o fluxo sangu\u00edneo pelos pulm\u00f5es \u00e9 dif\u00edcil, a press\u00e3o aumenta nos vasos que transportam sangue que precisa ser oxigenado para os pulm\u00f5es do cora\u00e7\u00e3o (as art\u00e9rias pulmonares). O aumento da press\u00e3o nestes vasos \u00e9 conhecido como hipertens\u00e3o arterial pulmonar. Os problemas com o fluxo sangu\u00edneo na DPVO tamb\u00e9m prejudicam a entrega de sangue oxigenado para o resto do corpo, o que leva aos sinais e sintomas da condi\u00e7\u00e3o. Falta de ar (dispneia) e cansa\u00e7o (fadiga) durante o esfor\u00e7o s\u00e3o os sintomas mais comuns desta condi\u00e7\u00e3o. Outras caracter\u00edsticas comuns incluem tonturas, falta de energia (letargia), dificuldade em respirar quando deitado, e uma tosse que n\u00e3o desaparece. \u00c0 medida que a condi\u00e7\u00e3o piora, indiv\u00edduos afetados podem desenvolver uma tinta azulada para a pele (cianose), dores no peito, desmaios, e um ac\u00famulo de l\u00edquido nos pulm\u00f5es (edema pulmonar). Algumas caracter\u00edsticas comumente vistas em pessoas com DPV podem ser identificadas usando um teste chamado tomografia. Uma destas caracter\u00edsticas, que \u00e9 vista nos pulm\u00f5es de indiv\u00edduos afetados, \u00e9 uma anormalidade descrita como opacidades centrilobulares de vidro fundido. Indiv\u00edduos afetados tamb\u00e9m t\u00eam espessamento anormal de certos tecidos nos pulm\u00f5es, que \u00e9 descrito como linhas septais. Al\u00e9m disso, os linfonodos no t\u00f3rax (linfonodos mediastinais) s\u00e3o anormalmente aumentados em pessoas com DPVO. A DPVO pode come\u00e7ar a qualquer idade, e os problemas de fluxo sangu\u00edneo pioram com o tempo. Devido ao aumento da press\u00e3o arterial nas art\u00e9rias pulmonares, o cora\u00e7\u00e3o deve trabalhar mais do que o normal para bombear sangue para os pulm\u00f5es, o que pode eventualmente levar a insufici\u00eancia card\u00edaca fatal. A maioria das pessoas com este dist\u00farbio grave n\u00e3o vivem mais de 2 anos ap\u00f3s o diagn\u00f3stico."
+    },
+    {
+        "qid":"0000850-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por doen\u00e7a veno-oclusiva pulmonar?",
+        "answer":"A preval\u00eancia exata de DPVO \u00e9 desconhecida. Muitos casos provavelmente s\u00e3o diagnosticados como hipertens\u00e3o arterial pulmonar idiop\u00e1tica, que \u00e9 o aumento da press\u00e3o arterial nas art\u00e9rias pulmonares sem uma causa conhecida. Pesquisas sugerem que 5 a 25 por cento das pessoas diagnosticadas com hipertens\u00e3o arterial pulmonar idiop\u00e1tica t\u00eam DOP. Com base nesses n\u00fameros, acha-se que o PVOD afeta entre 1 e 2 por 10 milh\u00f5es de pessoas."
+    },
+    {
+        "qid":"0000850-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 doen\u00e7a veno-oclusiva pulmonar?",
+        "answer":"A principal causa gen\u00e9tica da DPVO \u00e9 muta\u00e7\u00f5es no gene EIF2AK4. Muta\u00e7\u00f5es em outros genes podem causar uma pequena porcentagem de casos. Outras causas suspeitas de DPV incluem infec\u00e7\u00e3o viral e exposi\u00e7\u00e3o a qu\u00edmicos t\u00f3xicos, incluindo alguns f\u00e1rmacos de quimioterapia. A prote\u00edna produzida a partir do gene EIF2AK4 ajuda as c\u00e9lulas a responder adequadamente a altera\u00e7\u00f5es que podem danificar a c\u00e9lula. Por exemplo, quando o n\u00edvel de blocos de constru\u00e7\u00e3o de prote\u00ednas (amino\u00e1cidos) em uma c\u00e9lula cai muito baixo, a atividade da prote\u00edna EIF2AK4 ajuda a reduzir a produ\u00e7\u00e3o de outras prote\u00ednas, que conserva amino\u00e1cidos. As muta\u00e7\u00f5es do gene EIF2AK4 envolvidas na PVOD provavelmente eliminam a prote\u00edna funcional EIF2AK4; no entanto, \u00e9 desconhecido como a aus\u00eancia da fun\u00e7\u00e3o desta prote\u00edna leva \u00e0s anormalidades dos vasos pulmonares que subjacem \u00e0 PVOD."
+    },
+    {
+        "qid":"0000850-4",
+        "qtype":"inheritance",
+        "question":"A doen\u00e7a veno-oclusiva pulmonar \u00e9 herdada?",
+        "answer":"Quando causada por muta\u00e7\u00f5es no gene EIF2AK4, a DVOP \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o. Em contraste, quando causada por muta\u00e7\u00f5es em outro gene, a condi\u00e7\u00e3o pode ter um padr\u00e3o autoss\u00f4mico dominante de heran\u00e7a, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Nestes casos, um dos pais de um indiv\u00edduo afetado normalmente tem press\u00e3o arterial aumentada nos vasos dos pulm\u00f5es."
+    },
+    {
+        "qid":"0000850-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a veno-oclusiva pulmonar?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo de doen\u00e7as veno-oclusivas pulmonares: - Registro de Testes Gen\u00e9ticos: Doen\u00e7a veno-oclusiva pulmonar Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000015-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) discinesia relacionada com ADCY5?",
+        "answer":"Discinesia relacionada com ADCY5 \u00e9 um dist\u00farbio de movimento; o termo \"discinesia\" refere-se a movimentos involunt\u00e1rios anormais. Os movimentos anormais que ocorrem na discinesia relacionada com ADCY5 normalmente aparecem como s\u00fabitos (paroxismais) idiotas, contra\u00e7\u00f5es, tremores, tens\u00f5es musculares (distonia), ou movimentos contorcidos (coreiformes), e podem afetar os membros, pesco\u00e7o e rosto. Os movimentos anormais associados \u00e0 discinesia relacionada com ADCY5 geralmente come\u00e7am entre a inf\u00e2ncia e a adolesc\u00eancia tardia. Podem ocorrer continuamente durante as horas de despertar e, em alguns casos, tamb\u00e9m durante o sono. Crian\u00e7as gravemente afetadas podem ter um t\u00f4nus muscular fraco (hipot\u00f4nia) e atraso no desenvolvimento de habilidades motoras como rastejar e caminhar; estes indiv\u00edduos podem ter dificuldades com atividades de vida di\u00e1ria e podem eventualmente precisar de uma cadeira de rodas. Em indiv\u00edduos mais levemente afetados, a condi\u00e7\u00e3o tem pouco impacto na caminhada e outras habilidades motoras, embora os movimentos anormais possam levar \u00e0 desajeita\u00e7\u00e3o ou dificuldade com a aceita\u00e7\u00e3o social na escola ou em outras situa\u00e7\u00f5es. Em algumas pessoas com discinesia relacionada com ADCY5, o dist\u00farbio \u00e9 geralmente est\u00e1vel ao longo de sua vida. Em outros, ele lentamente fica pior (progressos) tanto em frequ\u00eancia e gravidade antes de estabilizar ou at\u00e9 mesmo melhorar na idade m\u00e9dia. Ansiedade, fadiga e outro estresse podem aumentar temporariamente a gravidade dos sinais e sintomas da discinesia relacionada com ADCY5, enquanto alguns indiv\u00edduos afetados podem experimentar per\u00edodos de remiss\u00e3o de dias ou semanas sem movimentos anormais. A expectativa de vida e a intelig\u00eancia n\u00e3o s\u00e3o afetadas por essa desordem."
+    },
+    {
+        "qid":"0000015-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela discinesia relacionada \u00e0 ADCY5?",
+        "answer":"A preval\u00eancia de discinesia relacionada \u00e0 ADCY5 \u00e9 desconhecida. Pelo menos 50 indiv\u00edduos afetados foram descritos na literatura m\u00e9dica."
+    },
+    {
+        "qid":"0000015-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 discinesia relacionada \u00e0 ADCY5?",
+        "answer":"Como seu nome sugere, discinesia relacionada com ADCY5 \u00e9 causada por muta\u00e7\u00f5es no gene ADCY5. Este gene fornece instru\u00e7\u00f5es para fazer uma enzima chamada adenilato ciclase 5. Esta enzima ajuda a converter uma mol\u00e9cula chamada adenosina trifosfato (ATP) para outra mol\u00e9cula chamada adenosina monofosfato c\u00edclico (caAMP). ATP \u00e9 uma mol\u00e9cula que fornece energia para as atividades das c\u00e9lulas, incluindo a contra\u00e7\u00e3o muscular, e o cAMP est\u00e1 envolvido na sinaliza\u00e7\u00e3o de muitas fun\u00e7\u00f5es celulares. Algumas muta\u00e7\u00f5es do gene ADCY5 que causam discinesia relacionada com ADCY5 s\u00e3o consideradas para aumentar a atividade da enzima adenilato ciclase 5 e o n\u00edvel de AMPc dentro das c\u00e9lulas. Outros impedem a produ\u00e7\u00e3o de adenilato ciclase 5. N\u00e3o est\u00e1 claro como qualquer tipo de muta\u00e7\u00e3o leva aos movimentos anormais que ocorrem neste dist\u00farbio."
+    },
+    {
+        "qid":"0000015-4",
+        "qtype":"inheritance",
+        "question":"A discinesia relacionada \u00e0 ADCY5 \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Em alguns casos, uma pessoa afetada herda a muta\u00e7\u00e3o de um pai afetado. Outros casos resultam de novas muta\u00e7\u00f5es no gene e ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia."
+    },
+    {
+        "qid":"0000015-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para discinesia relacionada \u00e0 ADCY5?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo de discinesia relacionada com ADCY5: - Gene Review: Gene Review: ADCY5-Related Diskinesia - Gene Testing Registry: Diskinesia, familiar, com miocimia facial - National Ataxia Foundation: Movement Disorder Clinics Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

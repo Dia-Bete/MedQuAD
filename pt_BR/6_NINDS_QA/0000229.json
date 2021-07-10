@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000229-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Neuropatia Perif\u00e9rica?",
+        "answer":"A neuropatia perif\u00e9rica descreve danos no sistema nervoso perif\u00e9rico, que transmite informa\u00e7\u00f5es do c\u00e9rebro e da medula espinhal para todas as outras partes do corpo. Mais de 100 tipos de neuropatia perif\u00e9rica foram identificados, cada um com seu pr\u00f3prio conjunto caracter\u00edstico de sintomas, padr\u00e3o de desenvolvimento e progn\u00f3stico. Fun\u00e7\u00e3o e sintomas danificados dependem do tipo de nervos, motores, sensoriais ou auton\u00f4micos, que est\u00e3o danificados. Algumas pessoas podem sentir dorm\u00eancia tempor\u00e1ria, formigamento, e sensa\u00e7\u00f5es de picadas, sensibilidade ao toque, ou fraqueza muscular. Outros podem sofrer sintomas mais extremos, incluindo dor de ardor (especialmente \u00e0 noite), desperd\u00edcio muscular, paralisia, ou disfun\u00e7\u00e3o de \u00f3rg\u00e3os ou gl\u00e2ndulas. A neuropatia perif\u00e9rica pode ser herdada ou adquirida. As causas da neuropatia perif\u00e9rica adquirida incluem les\u00e3o f\u00edsica (trauma) a um nervo, tumores, toxinas, respostas autoimunes, defici\u00eancias nutricionais, alcoolismo, procedimentos m\u00e9dicos e dist\u00farbios vasculares e metab\u00f3licos. As neuropatias perif\u00e9ricas adquiridas s\u00e3o causadas por doen\u00e7as sist\u00eamicas, traumas por agentes externos, ou infec\u00e7\u00f5es ou dist\u00farbios autoimunes que afetam o tecido nervoso. Formas heredit\u00e1rias de neuropatia perif\u00e9rica s\u00e3o causadas por erros innatos no c\u00f3digo gen\u00e9tico ou por novas muta\u00e7\u00f5es gen\u00e9ticas."
+    },
+    {
+        "qid":"0000229-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Neuropatia Perif\u00e9rica?",
+        "answer":"N\u00e3o existem tratamentos m\u00e9dicos que possam curar a neuropatia perif\u00e9rica herdada. No entanto, existem terapias para muitas outras formas. Em geral, adotar h\u00e1bitos saud\u00e1veis -- tais como manter o peso ideal, evitar a exposi\u00e7\u00e3o a toxinas, seguir um programa de exerc\u00edcio supervisionado por um m\u00e9dico, comer uma dieta equilibrada, corrigir defici\u00eancias vitam\u00ednicas, e limitar ou evitar o consumo de \u00e1lcool -- pode reduzir os efeitos f\u00edsicos e emocionais da neuropatia perif\u00e9rica. Doen\u00e7as sist\u00e9micas requerem tratamentos mais complexos."
+    },
+    {
+        "qid":"0000229-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Neuropatia Perif\u00e9rica?",
+        "answer":"Em neuropatias agudas, como a s\u00edndrome de Guillain-Barr, os sintomas aparecem repentinamente, progridem rapidamente, e se resolvem lentamente quando os nervos danificados se curam. Em formas cr\u00f4nicas, os sintomas come\u00e7am sutilmente e progridem lentamente. Algumas pessoas podem ter per\u00edodos de al\u00edvio seguidos de reca\u00edda. Outros podem chegar a um est\u00e1gio de plat\u00f4 onde os sintomas permanecem os mesmos por muitos meses ou anos. Algumas neuropatias cr\u00f4nicas pioram com o tempo, mas poucas formas se mostram fatais a menos que sejam complicadas por outras doen\u00e7as. Ocasionalmente a neuropatia \u00e9 um sintoma de outro dist\u00farbio."
+    },
+    {
+        "qid":"0000229-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Neuropatia Perif\u00e9rica?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS) e outros institutos dos Institutos Nacionais de Sa\u00fade (NIH) realizam pesquisas relacionadas com neuropatias perif\u00e9ricas em laborat\u00f3rios do NIH e tamb\u00e9m apoiam pesquisas adicionais atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. Projetos de pesquisa atuais financiados pelo NINDS envolvem investiga\u00e7\u00f5es de fatores gen\u00e9ticos associados a neuropatias heredit\u00e1rias, estudos de mecanismos biol\u00f3gicos envolvidos em neuropatias associadas ao diabetes, e investiga\u00e7\u00f5es explorando como o sistema imunol\u00f3gico contribui para danos nos nervos perif\u00e9ricos. A dor neurop\u00e1tica \u00e9 um alvo prim\u00e1rio de estudos patrocinados pelo NINDS que visam desenvolver terapias mais eficazes para sintomas de neuropatia perif\u00e9rica. Alguns cientistas esperam identificar subst\u00e2ncias que bloqueiam os qu\u00edmicos cerebrais que geram sinais de dor, enquanto outros est\u00e3o investigando as vias pelas quais os sinais de dor chegam ao c\u00e9rebro."
+    }
+]

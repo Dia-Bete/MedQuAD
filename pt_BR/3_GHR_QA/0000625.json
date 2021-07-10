@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000625-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de lectina de liga\u00e7\u00e3o \u00e0 mannose?",
+        "answer":"Defici\u00eancia de lectina de liga\u00e7\u00e3o \u00e0 mannose \u00e9 uma condi\u00e7\u00e3o que afeta o sistema imunol\u00f3gico. Pessoas com essa condi\u00e7\u00e3o t\u00eam baixos n\u00edveis de uma prote\u00edna do sistema imunol\u00f3gico chamada lectina de liga\u00e7\u00e3o \u00e0 mannose no sangue. Esses indiv\u00edduos s\u00e3o propensos a infec\u00e7\u00f5es recorrentes, incluindo infec\u00e7\u00f5es do trato respirat\u00f3rio superior e outros sistemas corporais. Pessoas com essa condi\u00e7\u00e3o tamb\u00e9m podem contrair infec\u00e7\u00f5es mais graves, como pneumonia e meningite. Dependendo do tipo de infec\u00e7\u00e3o, os sintomas causados pelas infec\u00e7\u00f5es variam em frequ\u00eancia e gravidade. Crian\u00e7as e crian\u00e7as pequenas com defici\u00eancia de lectina de liga\u00e7\u00e3o \u00e0 mannose parecem ser mais suscet\u00edveis a infec\u00e7\u00f5es, mas adultos tamb\u00e9m podem desenvolver infec\u00e7\u00f5es recorrentes. Al\u00e9m disso, indiv\u00edduos afetados submetidos a quimioterapia ou tomar drogas que suprimem o sistema imunol\u00f3gico s\u00e3o especialmente propensos a infec\u00e7\u00f5es."
+    },
+    {
+        "qid":"0000625-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de lectina?",
+        "answer":"Acha-se que a defici\u00eancia de lectina de liga\u00e7\u00e3o \u00e0 mannose afeta aproximadamente 5 a 10 por cento das pessoas em todo o mundo; no entanto, muitos indiv\u00edduos afetados n\u00e3o t\u00eam sinais ou sintomas relacionados com n\u00edveis baixos de lectina de liga\u00e7\u00e3o \u00e0 mannose. A condi\u00e7\u00e3o \u00e9 mais comum em certas popula\u00e7\u00f5es, como os africanos subsaarianos."
+    },
+    {
+        "qid":"0000625-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de lectina de liga\u00e7\u00e3o \u00e0 mannose?",
+        "answer":"Muta\u00e7\u00f5es relativamente comuns no gene MBL2 podem levar \u00e0 defici\u00eancia de lectina. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que se re\u00fane em um complexo chamado lectina de liga\u00e7\u00e3o \u00e0 mannose. As lectinas de liga\u00e7\u00e3o \u00e0 mannose funcionais s\u00e3o compostas por dois a seis grupos de prote\u00ednas chamados trimers, que s\u00e3o compostos por tr\u00eas dos peda\u00e7os de prote\u00edna (subunidades) produzidos a partir do gene MBL2. A lectina de liga\u00e7\u00e3o \u00e0 mannose desempenha um papel importante na resposta imune do corpo, ligando-se a invasores estrangeiros, como bact\u00e9rias, v\u00edrus ou levedura e ligando (ativando) o sistema de complemento. O sistema de complemento \u00e9 um grupo de prote\u00ednas do sistema imunol\u00f3gico que trabalham juntos para destruir invasores estranhos (pat\u00f3genos), desencadear inflama\u00e7\u00e3o, e remover detritos de c\u00e9lulas e tecidos. Lectina de liga\u00e7\u00e3o \u00e0 mannose tamb\u00e9m pode estimular c\u00e9lulas imunes especiais para engolir e quebrar o pat\u00f3geno ligado. Muta\u00e7\u00f5es associadas \u00e0 doen\u00e7a no gene MBL2 podem reduzir a produ\u00e7\u00e3o da subunidade de lectina de liga\u00e7\u00e3o \u00e0 mannose ou eliminar a capacidade da subunidade de se montar em lectina de liga\u00e7\u00e3o \u00e0 mannose funcional. Uma diminui\u00e7\u00e3o na disponibilidade da prote\u00edna subunit\u00e1ria normal pode levar a uma redu\u00e7\u00e3o da lectina de liga\u00e7\u00e3o \u00e0 mannose funcional no sangue. Com n\u00edveis reduzidos de lectina de liga\u00e7\u00e3o \u00e0 mannose, o corpo n\u00e3o reconhece e luta contra invasores estrangeiros eficientemente. Consequentemente, infec\u00e7\u00f5es podem ser mais comuns em pessoas com esta condi\u00e7\u00e3o. No entanto, nem todo mundo com uma mudan\u00e7a no gene MBL2 tem n\u00edveis reduzidos de lectina de liga\u00e7\u00e3o \u00e0 mannose, e nem todo mundo com n\u00edveis diminu\u00eddos de prote\u00ednas \u00e9 propenso a infec\u00e7\u00e3o. Pesquisadores acreditam que uma s\u00e9rie de fatores, incluindo outros fatores gen\u00e9ticos e ambientais, est\u00e3o envolvidos no desenvolvimento de defici\u00eancia de lectina de liga\u00e7\u00e3o \u00e0 mannose e susceptibilidade \u00e0 infec\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000625-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de lectina \u00e9 herdada?",
+        "answer":"O padr\u00e3o de heran\u00e7a da defici\u00eancia de lectina de liga\u00e7\u00e3o \u00e0 mannose n\u00e3o est\u00e1 claro. Alguns relatos mostram que ter uma muta\u00e7\u00e3o associada \u00e0 doen\u00e7a em uma c\u00f3pia do gene MBL2 em cada c\u00e9lula pode levar \u00e0 condi\u00e7\u00e3o, enquanto outros relatos afirmam que uma muta\u00e7\u00e3o em ambas as c\u00f3pias do gene \u00e9 necess\u00e1ria. \u00c9 importante notar que as pessoas herdam um risco aumentado de desenvolver defici\u00eancia de lectina de liga\u00e7\u00e3o \u00e0 mannose, n\u00e3o a pr\u00f3pria condi\u00e7\u00e3o. Nem todas as pessoas que herdam muta\u00e7\u00f5es neste gene desenvolver\u00e3o a condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000625-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a defici\u00eancia de lectina?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da defici\u00eancia de lectina de liga\u00e7\u00e3o \u00e0 mannose: - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de prote\u00edna de liga\u00e7\u00e3o \u00e0 mannose Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

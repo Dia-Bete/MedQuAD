@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0002346-1",
+        "qtype":"information",
+        "question":"O que \u00e9 alergia ao l\u00e1tex para pacientes hospitalares?",
+        "answer":""
+    },
+    {
+        "qid":"0002346-2",
+        "qtype":"information",
+        "question":"O que \u00e9 alergia ao l\u00e1tex para pacientes hospitalares?",
+        "answer":""
+    },
+    {
+        "qid":"0002346-4",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco de alergias ao l\u00e1tex para pacientes hospitalares? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":""
+    },
+    {
+        "qid":"0002346-5",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar alergias de l\u00e1tex para pacientes hospitalizados?",
+        "answer":""
+    },
+    {
+        "qid":"0002346-6",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas de alergias ao l\u00e1tex para pacientes hospitalares?",
+        "answer":""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000125-1",
+        "qtype":"information",
+        "question":"O que \u00e9 defici\u00eancia de biotinidase?",
+        "answer":"A defici\u00eancia de biotinidase \u00e9 uma desordem herdada em que o corpo \u00e9 incapaz de reciclar a biotina de vitaminas. Se essa condi\u00e7\u00e3o n\u00e3o for reconhecida e tratada, seus sinais e sintomas normalmente aparecem nos primeiros meses de vida, embora tamb\u00e9m possa se tornar evidente mais tarde na inf\u00e2ncia. Defici\u00eancia profunda de biotinidase, a forma mais grave da condi\u00e7\u00e3o, pode causar convuls\u00f5es, t\u00f4nus muscular fraco (hipot\u00f4nia), problemas respirat\u00f3rios, perda de audi\u00e7\u00e3o e vis\u00e3o, problemas com movimento e equil\u00edbrio (ataxia), erup\u00e7\u00f5es cut\u00e2neas, perda de cabelo (alop\u00e9cia), e uma infec\u00e7\u00e3o f\u00fangica chamada candid\u00edase. Crian\u00e7as afetadas tamb\u00e9m atrasaram o desenvolvimento. O tratamento ao longo da vida pode prevenir essas complica\u00e7\u00f5es ou melhor\u00e1-las se j\u00e1 se desenvolveram. A defici\u00eancia parcial de biotinidase \u00e9 uma forma mais leve desta condi\u00e7\u00e3o. Sem tratamento, as crian\u00e7as afetadas podem ter hipotonia, erup\u00e7\u00f5es cut\u00e2neas e perda de cabelo, mas esses problemas podem aparecer apenas durante a doen\u00e7a, infec\u00e7\u00e3o, ou outros momentos de estresse."
+    },
+    {
+        "qid":"0000125-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de biotinidase?",
+        "answer":"Defici\u00eancia profunda ou parcial de biotinidase ocorre em aproximadamente 1 em 60.000 rec\u00e9m-nascidos."
+    },
+    {
+        "qid":"0000125-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de biotinidase?",
+        "answer":"Muta\u00e7\u00f5es no gene BTD causam defici\u00eancia de biotinidase. O gene BTD fornece instru\u00e7\u00f5es para fazer uma enzima chamada biotinidase. Esta enzima recicla biotina, uma vitamina B encontrada em alimentos como f\u00edgado, gemas de ovos e leite. A biotinidase remove a biotina que est\u00e1 ligada \u00e0s prote\u00ednas nos alimentos, deixando a vitamina em seu estado livre. Biotina livre \u00e9 necess\u00e1ria por enzimas chamadas carboxylases dependentes de biotina para quebrar gorduras, prote\u00ednas e carboidratos. Como v\u00e1rias dessas enzimas s\u00e3o prejudicadas na defici\u00eancia de biotinidase, a condi\u00e7\u00e3o \u00e9 considerada uma forma de defici\u00eancia m\u00faltipla de carboxilase. Muta\u00e7\u00f5es no gene BTD reduzem ou eliminam a atividade da biotinidase. Defici\u00eancia profunda de biotinidase resulta quando a atividade da biotinidase \u00e9 reduzida para menos de 10% do normal. A defici\u00eancia parcial de biotinidase ocorre quando a atividade da biotinidase \u00e9 reduzida para entre 10% e 30% do normal. Sem o suficiente desta enzima, a biotina n\u00e3o pode ser reciclada. A escassez resultante de biotina livre prejudica a atividade das carboxilases dependentes de biotina, levando a uma acumula\u00e7\u00e3o de compostos potencialmente t\u00f3xicos no corpo. Se a condi\u00e7\u00e3o n\u00e3o for tratada prontamente, esta acumula\u00e7\u00e3o danifica v\u00e1rias c\u00e9lulas e tecidos, causando os sinais e sintomas descritos acima."
+    },
+    {
+        "qid":"0000125-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de biotinidase \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene BTD em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com defici\u00eancia de biotinidase carregam uma c\u00f3pia do gene mutado, mas normalmente n\u00e3o t\u00eam nenhum problema de sa\u00fade associado \u00e0 condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000125-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para defici\u00eancia de biotinidase?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da defici\u00eancia de biotinidase: - Primeiro teste do beb\u00ea - Revis\u00e3o de genes: Revis\u00e3o de genes: Defici\u00eancia de biotinidase - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de biotinidase - MedlinePlus Enciclop\u00e9dia: \u00c1cido Pantot\u00e9nico e Biotina Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

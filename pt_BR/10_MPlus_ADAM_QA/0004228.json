@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0004228-1",
+        "qtype":"information",
+        "question":"O que \u00e9 gastroenterite viral?",
+        "answer":""
+    },
+    {
+        "qid":"0004228-2",
+        "qtype":"causes",
+        "question":"O que causa gastroenterite viral?",
+        "answer":""
+    },
+    {
+        "qid":"0004228-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da gastroenterite viral?",
+        "answer":""
+    },
+    {
+        "qid":"0004228-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar gastroenterite viral?",
+        "answer":""
+    },
+    {
+        "qid":"0004228-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para gastroenterite viral?",
+        "answer":""
+    },
+    {
+        "qid":"0004228-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a gastroenterite viral?",
+        "answer":""
+    },
+    {
+        "qid":"0004228-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da gastroenterite viral?",
+        "answer":""
+    },
+    {
+        "qid":"0004228-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para gastroenterite viral?",
+        "answer":""
+    },
+    {
+        "qid":"0004228-9",
+        "qtype":"prevention",
+        "question":"Como prevenir a gastroenterite viral?",
+        "answer":""
+    }
+]

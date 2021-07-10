@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000030-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Parasites - Ascar\u00edase?",
+        "answer":"Ascaris \u00e9 um parasita intestinal de humanos. \u00c9 a infec\u00e7\u00e3o mais comum de vermes humanos. As larvas e vermes adultos vivem no intestino delgado e podem causar doen\u00e7as intestinais."
+    },
+    {
+        "qid":"0000030-2",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para Parasites - Ascar\u00edase? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"A infec\u00e7\u00e3o por ascaris \u00e9 uma das infec\u00e7\u00f5es mais comuns por vermes intestinais. \u00c9 encontrado em associa\u00e7\u00e3o com uma higiene pessoal ruim, um saneamento ruim, e em lugares onde as fezes humanas s\u00e3o usadas como fertilizante. Distribui\u00e7\u00e3o geogr\u00e1fica A distribui\u00e7\u00e3o geogr\u00e1fica de Ascaris \u00e9 mundial em \u00e1reas com climas quentes e h\u00famidos e est\u00e3o amplamente sobrepostas. A infec\u00e7\u00e3o ocorre em todo o mundo e \u00e9 mais comum em \u00e1reas tropicais e subtropicais onde o saneamento e a higiene s\u00e3o pobres."
+    },
+    {
+        "qid":"0000030-5",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar Parasites - Ascar\u00edase?",
+        "answer":"O m\u00e9todo padr\u00e3o para diagnosticar ascar\u00edase \u00e9 identificar ovos de Ascaris em uma amostra de fezes usando um microsc\u00f3pio. Como os ovos podem ser dif\u00edceis de encontrar em infec\u00e7\u00f5es leves, recomenda-se um procedimento de concentra\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000030-6",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Parasites - Ascar\u00edase?",
+        "answer":"Medicamentos antihelm\u00ednticos (drogas que livram o corpo de vermes parasit\u00e1rios), como albendazol e mebendazol, s\u00e3o os medicamentos de escolha para o tratamento de infec\u00e7\u00f5es Ascaris. As infec\u00e7\u00f5es s\u00e3o geralmente tratadas por 1-3 dias. As drogas s\u00e3o eficazes e parecem ter poucos efeitos colaterais. Mais sobre: Recursos para Profissionais de Sa\u00fade: Tratamento"
+    },
+    {
+        "qid":"0000030-7",
+        "qtype":"prevention",
+        "question":"Como prevenir Parasites - Ascar\u00edase?",
+        "answer":"A melhor maneira de prevenir a ascar\u00edse \u00e9 sempre: - Evitar ingest\u00e3o de solos que podem estar contaminados com fezes humanas, incluindo onde mat\u00e9ria fecal humana (\"sol noturno\") ou \u00e1guas residuais \u00e9 usada para fertilizar colheitas. - Lave as m\u00e3os com sab\u00e3o e \u00e1gua quente antes de manusear comida. Ensine \u00e0s crian\u00e7as a import\u00e2ncia de lavar as m\u00e3os para prevenir infec\u00e7\u00f5es. - Lavar, descascar, ou cozinhar todos os vegetais crus e frutas antes de comer, particularmente aqueles que foram cultivados em solo que foi fertilizado com estrume. Mais sobre: Lavagem \u00e0 m\u00e3o A transmiss\u00e3o de infec\u00e7\u00e3o para outros pode ser evitada por n\u00e3o defecar ao ar livre. - Sistemas eficazes de elimina\u00e7\u00e3o de esgotos. Mais sobre: Lavagem de m\u00e3os"
+    }
+]

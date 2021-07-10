@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0003697-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) entorses?",
+        "answer":""
+    },
+    {
+        "qid":"0003697-2",
+        "qtype":"causes",
+        "question":"O que causa entorpecimentos?",
+        "answer":""
+    },
+    {
+        "qid":"0003697-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas de entorpecimentos?",
+        "answer":""
+    },
+    {
+        "qid":"0003697-4",
+        "qtype":"considerations",
+        "question":"O que fazer para torcer?",
+        "answer":""
+    },
+    {
+        "qid":"0003697-5",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para entorpecer?",
+        "answer":""
+    },
+    {
+        "qid":"0003697-6",
+        "qtype":"prevention",
+        "question":"Como evitar entorpecimentos?",
+        "answer":""
+    }
+]

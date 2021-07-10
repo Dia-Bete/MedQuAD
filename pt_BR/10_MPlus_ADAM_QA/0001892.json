@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001892-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dor de calcanhar?",
+        "answer":""
+    },
+    {
+        "qid":"0001892-2",
+        "qtype":"considerations",
+        "question":"O que fazer pela dor de calcanhar?",
+        "answer":""
+    },
+    {
+        "qid":"0001892-3",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para dor de calcanhar?",
+        "answer":""
+    },
+    {
+        "qid":"0001892-4",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a dor de calcanhar?",
+        "answer":""
+    },
+    {
+        "qid":"0001892-5",
+        "qtype":"prevention",
+        "question":"Como evitar dor de calcanhar?",
+        "answer":""
+    }
+]

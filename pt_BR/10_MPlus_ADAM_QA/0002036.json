@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0002036-1",
+        "qtype":"information",
+        "question":"Como parar de fumar, lidar com desejos?",
+        "answer":""
+    },
+    {
+        "qid":"0002036-2",
+        "qtype":"causes",
+        "question":"O que faz parar de fumar: lidar com desejos?",
+        "answer":""
+    },
+    {
+        "qid":"0002036-3",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para parar de fumar?",
+        "answer":""
+    },
+    {
+        "qid":"0002036-4",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para parar de fumar, lidar com desejos?",
+        "answer":""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000011-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) miopatia actina-acumula\u00e7\u00e3o?",
+        "answer":"A miopatia actin-acumula\u00e7\u00e3o \u00e9 um dist\u00farbio que afeta principalmente os m\u00fasculos esquel\u00e9ticos, que s\u00e3o m\u00fasculos que o corpo usa para o movimento. Pessoas com miopatia actina-acumula\u00e7\u00e3o t\u00eam fraqueza muscular grave (miopatia) e t\u00f4nus muscular ruim (hipot\u00f4nia) em todo o corpo. Sinais e sintomas desta condi\u00e7\u00e3o s\u00e3o evidentes na inf\u00e2ncia e incluem dificuldades de alimenta\u00e7\u00e3o e degluti\u00e7\u00e3o, um grito fraco, e dificuldade em controlar os movimentos da cabe\u00e7a. Os beb\u00eas afetados \u00e0s vezes s\u00e3o descritos como \"floppy\" e podem ser incapazes de se mover sozinhos. A fraqueza muscular grave que ocorre na miopatia actina-acumula\u00e7\u00e3o tamb\u00e9m afeta os m\u00fasculos usados para respirar. Indiv\u00edduos com este dist\u00farbio podem ter respira\u00e7\u00f5es rasas (hipoventilato), especialmente durante o sono, resultando em uma escassez de oxig\u00eanio e uma acumula\u00e7\u00e3o de di\u00f3xido de carbono no sangue. Infec\u00e7\u00f5es respirat\u00f3rias frequentes e dificuldades respirat\u00f3rias potencialmente fatais podem ocorrer. Por causa dos problemas respirat\u00f3rios, os indiv\u00edduos mais afetados n\u00e3o sobrevivem ap\u00f3s a inf\u00e2ncia. Aqueles que sobrevivem t\u00eam atraso no desenvolvimento de habilidades motoras como sentar, rastejar, ficar de p\u00e9 e caminhar. O nome miopatia actina-acumula\u00e7\u00e3o deriva de ac\u00famulos caracter\u00edsticos em c\u00e9lulas musculares de filamentos compostos por uma prote\u00edna chamada actina. Esses filamentos podem ser vistos quando o tecido muscular \u00e9 visto sob um microsc\u00f3pio."
+    },
+    {
+        "qid":"0000011-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela miopatia actina-acumula\u00e7\u00e3o?",
+        "answer":"A miopatia actin-acumula\u00e7\u00e3o \u00e9 uma dist\u00farbio raro que foi identificado em apenas um pequeno n\u00famero de indiv\u00edduos. Sua preval\u00eancia exata \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000011-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 miopatia actina-acumula\u00e7\u00e3o?",
+        "answer":"A miopatia actin-acumula\u00e7\u00e3o \u00e9 causada por uma muta\u00e7\u00e3o no gene ACTA1. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada alfa ()-actina esquel\u00e9tica, que \u00e9 um membro da fam\u00edlia da prote\u00edna actina encontrada nos m\u00fasculos esquel\u00e9ticos. As prote\u00ednas actinas s\u00e3o importantes para o movimento celular e a tens\u00e3o das fibras musculares (contra\u00e7\u00e3o muscular). Filamentos finos constitu\u00eddos por mol\u00e9culas de actina e filamentos grossos constitu\u00eddos por outra prote\u00edna chamada miosina s\u00e3o os principais componentes das fibras musculares e s\u00e3o importantes para a contra\u00e7\u00e3o muscular. Fixa\u00e7\u00e3o (liga\u00e7\u00e3o) e libera\u00e7\u00e3o dos filamentos grossos e finos sobrepostos permite que eles se movam em rela\u00e7\u00e3o um ao outro para que os m\u00fasculos possam se contrair. Muta\u00e7\u00f5es do gene ACTA1 que causam miopatia actina-acumula\u00e7\u00e3o podem afetar a forma como a prote\u00edna actina-esquel\u00e9tica se liga ao ATP. ATP \u00e9 uma mol\u00e9cula que fornece energia para as atividades das c\u00e9lulas, e \u00e9 importante na forma\u00e7\u00e3o de filamentos finos a partir de mol\u00e9culas individuais de actina. A liga\u00e7\u00e3o disfuncional da actina-ATP pode resultar em forma\u00e7\u00e3o anormal de filamentos finos e prejudicar a contra\u00e7\u00e3o muscular, levando \u00e0 fraqueza muscular e outros sinais e sintomas de miopatia da actina-acumula\u00e7\u00e3o. Em algumas pessoas com miopatia actina-acumula\u00e7\u00e3o, nenhuma muta\u00e7\u00e3o do gene ACTA1 foi identificada. A causa do dist\u00farbio nesses indiv\u00edduos \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000011-4",
+        "qtype":"inheritance",
+        "question":"A miopatia de acumula\u00e7\u00e3o de actina \u00e9 herdada?",
+        "answer":"A miopatia actin-acumula\u00e7\u00e3o \u00e9 uma condi\u00e7\u00e3o autoss\u00f4mica dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. A maioria dos casos n\u00e3o s\u00e3o herdados; eles resultam de novas muta\u00e7\u00f5es no gene e ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia."
+    },
+    {
+        "qid":"0000011-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a miopatia actina-acumula\u00e7\u00e3o?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da miopatia actina-acumula\u00e7\u00e3o: - Registro de Testes Gen\u00e9ticos: miopatia nemalina 3 Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

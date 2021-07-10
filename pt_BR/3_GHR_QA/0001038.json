@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001038-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Winchester?",
+        "answer":"A s\u00edndrome de Winchester \u00e9 uma doen\u00e7a herdada rara caracterizada por perda de tecido \u00f3sseo (oste\u00f3lise), particularmente nas m\u00e3os e p\u00e9s. A s\u00edndrome de Winchester costumava ser considerada parte de uma condi\u00e7\u00e3o relacionada agora chamada oste\u00f3lise multic\u00eantrica, nodulose e artropatia (MONA). No entanto, como a s\u00edndrome de Winchester e a MONA s\u00e3o causadas por muta\u00e7\u00f5es em diferentes genes, eles s\u00e3o agora considerados como dist\u00farbios separados. Na maioria dos casos de s\u00edndrome de Winchester, a perda \u00f3ssea come\u00e7a nas m\u00e3os e p\u00e9s, causando dor e limitando o movimento. Anomalias \u00f3sseas se espalharam para outras partes do corpo, com problemas articulares (artropatia) ocorrendo nos cotovelos, ombros, joelhos, quadris e coluna. A maioria das pessoas com s\u00edndrome de Winchester desenvolvem baixa densidade mineral \u00f3ssea (osteopenia) e dilui\u00e7\u00e3o dos ossos (osteoporose) em todo o esqueleto. Essas anormalidades tornam os ossos quebradi\u00e7os e mais propensos \u00e0 fratura. As anormalidades \u00f3sseas tamb\u00e9m levam a estatura curta. Algumas pessoas com s\u00edndrome de Winchester t\u00eam anormalidades na pele, incluindo manchas de pele escura, grossa e couro. Outras caracter\u00edsticas da condi\u00e7\u00e3o podem incluir a nubla\u00e7\u00e3o da cobertura frontal clara do olho (opacidade corneana), o crescimento excessivo do cabelo (hipertricose), o crescimento excessivo das gengivas, anormalidades card\u00edacas, e caracter\u00edsticas faciais distintas que s\u00e3o descritas como \"coarse\"."
+    },
+    {
+        "qid":"0001038-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Winchester?",
+        "answer":"A s\u00edndrome de Winchester \u00e9 uma condi\u00e7\u00e3o rara cuja preval\u00eancia \u00e9 desconhecida. Tem sido relatado em apenas alguns indiv\u00edduos em todo o mundo."
+    },
+    {
+        "qid":"0001038-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Winchester?",
+        "answer":"A s\u00edndrome de Winchester \u00e9 causada por muta\u00e7\u00f5es no gene MMP14 (tamb\u00e9m conhecido como MT1-MMP). Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada metaloptidase de matriz 14, que \u00e9 encontrada na superf\u00edcie das c\u00e9lulas. Matriz metaloptidase 14 normalmente ajuda a modificar e quebrar v\u00e1rios componentes da matriz extracelular, que \u00e9 a rede complexa de prote\u00ednas e outras mol\u00e9culas que se formam nos espa\u00e7os entre c\u00e9lulas. Essas mudan\u00e7as influenciam muitas atividades e fun\u00e7\u00f5es celulares, incluindo promover o crescimento celular e estimular o movimento celular (migra\u00e7\u00e3o). A metalopeptidase de matriz 14 tamb\u00e9m liga (ativa) uma prote\u00edna chamada metalopeptidase de matriz 2. A atividade da matriz metaloptidase 2 parece ser importante para uma variedade de fun\u00e7\u00f5es corporais, incluindo remodela\u00e7\u00e3o \u00f3ssea, que \u00e9 um processo normal em que o osso velho \u00e9 quebrado e novo osso \u00e9 criado para substitu\u00ed-lo. Muta\u00e7\u00f5es no gene MMP14 alteram a matriz metaloptidase 14 para que menos da enzima seja capaz de alcan\u00e7ar a superf\u00edcie celular. Como resultado, a enzima n\u00e3o est\u00e1 dispon\u00edvel para quebrar os componentes da matriz extracelular e ativar a metaloptidase da matriz 2. N\u00e3o est\u00e1 claro como a escassez desta enzima leva aos sinais e sintomas da s\u00edndrome de Winchester. \u00c9 poss\u00edvel que uma perda da ativa\u00e7\u00e3o da metaloptidase 2 da matriz interrompa de alguma forma o equil\u00edbrio da nova cria\u00e7\u00e3o \u00f3ssea e a quebra do osso existente durante a remodela\u00e7\u00e3o \u00f3ssea, causando uma perda progressiva do tecido \u00f3sseo. Como uma quantidade reduzida de metaloptidase de matriz 14 leva \u00e0s outras caracter\u00edsticas da s\u00edndrome de Winchester \u00e9 desconhecida."
+    },
+    {
+        "qid":"0001038-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Winchester \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0001038-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Winchester?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Winchester: - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Winchester Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

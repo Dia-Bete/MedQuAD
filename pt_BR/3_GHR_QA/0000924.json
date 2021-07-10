@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000924-1",
+        "qtype":"information",
+        "question":"O que \u00e9 S\u00edndrome de Anoftalmia SOX2?",
+        "answer":"A s\u00edndrome de anoftalmia SOX2 \u00e9 um dist\u00farbio raro caracterizado pelo desenvolvimento anormal dos olhos e outras partes do corpo. Pessoas com s\u00edndrome de anoftalmia SOX2 geralmente nascem sem globos oculares (anoftalmia), embora alguns indiv\u00edduos tenham olhos pequenos (microftalmia). O termo anoftalmia \u00e9 frequentemente usado intercambiavelmente com microftalmia grave porque indiv\u00edduos sem globos oculares vis\u00edveis geralmente t\u00eam algum tecido ocular restante. Esses problemas oculares podem causar perda de vis\u00e3o significativa. Enquanto ambos os olhos s\u00e3o normalmente afetados na s\u00edndrome de anoftalmia SOX2, um olho pode ser mais afetado do que o outro. Indiv\u00edduos com s\u00edndrome de anoftalmia SOX2 tamb\u00e9m podem ter convuls\u00f5es, anormalidades cerebrais, crescimento lento, atraso no desenvolvimento de habilidades motoras (como caminhar), e defici\u00eancias de aprendizagem de leve a grave. Algumas pessoas com esta condi\u00e7\u00e3o nascem com um es\u00f4fago bloqueado (\u00e1tresia esof\u00e1gica), que muitas vezes \u00e9 acompanhado por uma conex\u00e3o anormal entre o es\u00f4fago e a traqueia (f\u00edstula traqueoesof\u00e1gica). Anomalias genitais foram descritas em indiv\u00edduos afetados, especialmente homens. As anormalidades genitais masculinas incluem test\u00edculos n\u00e3o descendentes (crigorquidismo) e um p\u00eanis incomummente pequeno (microp\u00e9nis)."
+    },
+    {
+        "qid":"0000924-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de anoftalmia SOX2?",
+        "answer":"Estima-se que a s\u00edndrome de anoftalmia SOX2 afecte 1 em 250.000 indiv\u00edduos. Cerca de 10% a 15% das pessoas com anoftalmia em ambos os olhos t\u00eam s\u00edndrome de anoftalmia SOX2."
+    },
+    {
+        "qid":"0000924-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de anoftalmia SOX2?",
+        "answer":"Muta\u00e7\u00f5es no gene SOX2 causam s\u00edndrome de anoftalmia SOX2. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que desempenha um papel cr\u00edtico na forma\u00e7\u00e3o de v\u00e1rios tecidos e \u00f3rg\u00e3os diferentes durante o desenvolvimento embrion\u00e1rio. A prote\u00edna SOX2 regula a atividade de outros genes, especialmente aqueles que s\u00e3o importantes para o desenvolvimento normal dos olhos. Muta\u00e7\u00f5es no gene SOX2 impedem a produ\u00e7\u00e3o de prote\u00edna SOX2 funcional. A aus\u00eancia desta prote\u00edna interrompe a atividade de genes que s\u00e3o essenciais para o desenvolvimento dos olhos e outras partes do corpo. O desenvolvimento anormal dessas estruturas causa sinais e sintomas da s\u00edndrome de anoftalmia SOX2."
+    },
+    {
+        "qid":"0000924-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Anoftalmia SOX2 \u00e9 herdada?",
+        "answer":"A s\u00edndrome de anoftalmia SOX2 \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. A maioria dos casos resulta de novas muta\u00e7\u00f5es no gene SOX2 e ocorre em pessoas sem hist\u00f3ria do dist\u00farbio em sua fam\u00edlia. Em um pequeno n\u00famero de casos, pessoas com s\u00edndrome de Anoftalmia SOX2 herdaram o gene alterado de um pai n\u00e3o afetado que tem uma muta\u00e7\u00e3o SOX2 apenas em seus espermatoz\u00f3ides ou \u00f3vulos. Este fen\u00f4meno \u00e9 chamado de mosaicismo germinativo."
+    },
+    {
+        "qid":"0000924-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de anoftalmia SOX2?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de anoftalmia SOX2: - Gene Review: Gene Review: SOX2-Related Oye Disorders - Genetic Testing Registry: Microftalmia syndromic 3 - MedlinePlus Enciclop\u00e9dia: Problemas de Vis\u00e3o Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

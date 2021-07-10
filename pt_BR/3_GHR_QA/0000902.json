@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000902-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) s\u00edndrome QT curta?",
+        "answer":"S\u00edndrome QT curta \u00e9 uma condi\u00e7\u00e3o que pode causar uma ruptura do ritmo normal do cora\u00e7\u00e3o (arritmia). Em pessoas com essa condi\u00e7\u00e3o, o m\u00fasculo card\u00edaco leva menos tempo do que o normal para recarregar entre batimentos. O termo \"QT curto\" refere-se a um padr\u00e3o espec\u00edfico de atividade card\u00edaca que \u00e9 detectado com um eletrocardiograma (EKG), que \u00e9 um teste usado para medir a atividade el\u00e9trica do cora\u00e7\u00e3o. Em pessoas com essa condi\u00e7\u00e3o, a parte do batimento card\u00edaco conhecida como intervalo QT \u00e9 anormalmente curta. Se n\u00e3o tratada, a arritmia associada \u00e0 s\u00edndrome QT curta pode levar a uma variedade de sinais e sintomas, desde tonturas e desmaios (s\u00edncope) at\u00e9 parada card\u00edaca e morte s\u00fabita. Esses sinais e sintomas podem ocorrer a qualquer momento desde a inf\u00e2ncia at\u00e9 a velhice. Essa condi\u00e7\u00e3o pode explicar alguns casos de S\u00edndrome de Morte Infantil S\u00fabita (SIDS), que \u00e9 uma das principais causas de morte inexplic\u00e1vel em beb\u00eas menores de 1 ano. No entanto, algumas pessoas com s\u00edndrome QT curta nunca experimentam nenhum problema de sa\u00fade associado \u00e0 condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000902-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome QT curta?",
+        "answer":"A s\u00edndrome QT curta parece ser rara. Pelo menos 70 casos foram identificados em todo o mundo desde que a condi\u00e7\u00e3o foi descoberta em 2000. No entanto, a condi\u00e7\u00e3o pode ser subdiagnosticada porque alguns indiv\u00edduos afetados nunca apresentam sintomas."
+    },
+    {
+        "qid":"0000902-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome QT curta?",
+        "answer":"Muta\u00e7\u00f5es nos genes KCNH2, KCNJ2 e KCNQ1 podem causar s\u00edndrome QT curta. Esses genes fornecem instru\u00e7\u00f5es para fazer canais que transportam positivamente \u00e1tomos carregados (ions) de pot\u00e1ssio para fora das c\u00e9lulas. No m\u00fasculo card\u00edaco, esses canais de \u00edons desempenham pap\u00e9is cr\u00edticos na manuten\u00e7\u00e3o do ritmo normal do cora\u00e7\u00e3o. Muta\u00e7\u00f5es no gene KCNH2, KCNJ2 ou KCNQ1 aumentam a atividade dos canais, o que aumenta o fluxo de \u00edons de pot\u00e1ssio atrav\u00e9s da membrana das c\u00e9lulas musculares card\u00edacas. Esta mudan\u00e7a no transporte de \u00edons altera a atividade el\u00e9trica do cora\u00e7\u00e3o e pode levar aos ritmos card\u00edacos anormais caracter\u00edsticos da s\u00edndrome QT curta. Alguns indiv\u00edduos afetados n\u00e3o t\u00eam uma muta\u00e7\u00e3o identificada no gene KCNH2, KCNJ2 ou KCNQ1. Altera\u00e7\u00f5es em outros genes que n\u00e3o foram identificados podem causar o dist\u00farbio nestes casos."
+    },
+    {
+        "qid":"0000902-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome QT curta \u00e9 herdada?",
+        "answer":"A s\u00edndrome QT curta parece ter um padr\u00e3o autoss\u00f4mico dominante de heran\u00e7a, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Alguns indiv\u00edduos afetados t\u00eam hist\u00f3rico familiar de s\u00edndrome QT curta ou problemas card\u00edacos relacionados e morte card\u00edaca s\u00fabita. Outros casos de s\u00edndrome QT curta s\u00e3o classificados como espor\u00e1dicos e ocorrem em pessoas sem hist\u00f3rico familiar aparente de problemas card\u00edacos relacionados."
+    },
+    {
+        "qid":"0000902-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome QT curta?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome QT curta: - Registro de Testes Gen\u00e9ticos: S\u00edndrome QT curta 1 - Registro de Testes Gen\u00e9ticos: S\u00edndrome QT curta 2 - Registro de Testes Gen\u00e9ticos: S\u00edndrome QT curta 3 - MedlinePlus Enciclop\u00e9dia: Arritmias Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001826-1",
+        "qtype":"information",
+        "question":"O que \u00e9 mastopatia diab\u00e9tica?",
+        "answer":"Mastopatia diab\u00e9tica s\u00e3o les\u00f5es n\u00e3o cancerosas na mama mais comumente diagnosticadas em mulheres pr\u00e9-menop\u00e1usicas com diabetes tipo 1. A causa desta condi\u00e7\u00e3o \u00e9 desconhecida. Os sintomas podem incluir massas de mama duras, irregulares, facilmente m\u00f3veis, discretas e indolores."
+    },
+    {
+        "qid":"0001826-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da mastopatia diab\u00e9tica?",
+        "answer":"Quais s\u00e3o os sintomas da mastopatia diab\u00e9tica? Os sintomas comuns da mastopatia diab\u00e9tica incluem massas mam\u00e1rias duras, irregulares, facilmente m\u00f3veis, discretas e indolores. Essa condi\u00e7\u00e3o pode envolver um ou ambos os seios e pode afetar machos e f\u00eameas. As les\u00f5es mam\u00e1rias podem n\u00e3o ser palp\u00e1veis em alguns pacientes. Pacientes com mastopatia diab\u00e9tica que t\u00eam tido diabetes com necessidade de insulina por um longo tempo (> 15 anos) comumente t\u00eam outras complica\u00e7\u00f5es da diabetes tamb\u00e9m (por exemplo, tireoide, olhos e envolvimento articular)."
+    },
+    {
+        "qid":"0001826-3",
+        "qtype":"causes",
+        "question":"O que causa mastopatia diab\u00e9tica?",
+        "answer":"O que causa mastopatia diab\u00e9tica? A causa da mastopatia diab\u00e9tica \u00e9 desconhecida. Teorias incluem uma rea\u00e7\u00e3o autoimune, fatores gen\u00e9ticos como o tipo de ant\u00edgeno leuc\u00f3cito humano (HLA), associa\u00e7\u00e3o com a terapia insul\u00ednica, e associa\u00e7\u00e3o com hiperglicemia."
+    },
+    {
+        "qid":"0001826-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a mastopatia diab\u00e9tica?",
+        "answer":"Como \u00e9 diagnosticada a mastopatia diab\u00e9tica? O diagn\u00f3stico de mastopatia diab\u00e9tica deve ser considerado em pacientes com diabetes insulino-dependente de longa data e uma massa mam\u00e1ria firme e m\u00f3vel. Imagens iniciais podem incluir mamografia e ultrassom. Embora estes m\u00e9todos possam ajudar a diferenciar ainda mais a massa, eles n\u00e3o podem fornecer um diagn\u00f3stico espec\u00edfico de mastopatia diab\u00e9tica com a exclus\u00e3o confiante de malignidade. \u00c9 improv\u00e1vel que a resson\u00e2ncia magn\u00e9tica acrescente informa\u00e7\u00f5es adicionais. A pr\u00e1tica atual dita que uma bi\u00f3psia de n\u00facleo (utilizando uma agulha para remover um pequeno cilindro de tecido) seja realizada para um diagn\u00f3stico definitivo. Resultados de biopsia demonstram lobulite linfoc\u00edtica e ductite, atrofia glandular (desperd\u00edcio), inflama\u00e7\u00e3o perivascular (vasculite), fibrose queloide densa (cicatriza\u00e7\u00e3o), e fibroblastos epitelioides."
+    },
+    {
+        "qid":"0001826-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a mastopatia diab\u00e9tica?",
+        "answer":"Como \u00e9 tratada a mastopatia diab\u00e9tica? Mastopatia diab\u00e9tica \u00e9 uma condi\u00e7\u00e3o benigna e deve ser controlada como tal. Os pacientes devem ser avisados sobre a condi\u00e7\u00e3o e como examinar os seios. Devem ser avisados que se houver alguma mudan\u00e7a no tamanho e n\u00famero de bultos mam\u00e1rios que eles devem consultar sua equipe mam\u00e1ria ou o m\u00e9dico geral. Pacientes devem ser rotineiramente acompanhados com RM ou ultrassom e bi\u00f3psia do n\u00facleo se as les\u00f5es se tornarem clinicamente ou radiologicamente suspeitas. As les\u00f5es podem ser extirpadas por raz\u00f5es cosm\u00e9ticas ou se a malignidade n\u00e3o pode ser exclu\u00edda. Nenhum acompanhamento \u00e9 recomendado quando a malignidade foi descartada."
+    }
+]

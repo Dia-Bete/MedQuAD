@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0001505-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dor ocular?",
+        "answer":""
+    },
+    {
+        "qid":"0001505-2",
+        "qtype":"considerations",
+        "question":"O que fazer para a dor nos olhos?",
+        "answer":""
+    },
+    {
+        "qid":"0001505-3",
+        "qtype":"causes",
+        "question":"O que causa dor nos olhos?",
+        "answer":""
+    },
+    {
+        "qid":"0001505-4",
+        "qtype":"considerations",
+        "question":"O que fazer para a dor nos olhos?",
+        "answer":""
+    },
+    {
+        "qid":"0001505-5",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para dor nos olhos?",
+        "answer":""
+    },
+    {
+        "qid":"0001505-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a dor ocular?",
+        "answer":""
+    }
+]

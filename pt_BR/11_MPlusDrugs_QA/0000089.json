@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0000089-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar \u00c1cido Asc\u00f3rbico e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000089-2",
+        "qtype":"usage",
+        "question":"Como o \u00c1cido Asc\u00f3rbico deve ser usado e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000089-3",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre \u00c1cido Asc\u00f3rbico?",
+        "answer":""
+    },
+    {
+        "qid":"0000089-4",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com \u00c1cido Asc\u00f3rbico?",
+        "answer":""
+    },
+    {
+        "qid":"0000089-5",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de \u00c1cido Asc\u00f3rbico?",
+        "answer":""
+    },
+    {
+        "qid":"0000089-6",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos do \u00c1cido Asc\u00f3rbico?",
+        "answer":""
+    },
+    {
+        "qid":"0000089-7",
+        "qtype":"storage and disposal",
+        "question":"O que devo saber sobre armazenamento e elimina\u00e7\u00e3o de \u00c1cido Asc\u00f3rbico?",
+        "answer":""
+    },
+    {
+        "qid":"0000089-8",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de \u00c1cido Asc\u00f3rbico?",
+        "answer":""
+    },
+    {
+        "qid":"0000089-9",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre \u00c1cido Asc\u00f3rbico?",
+        "answer":""
+    },
+    {
+        "qid":"0000089-10",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca do \u00c1cido Asc\u00f3rbico?",
+        "answer":""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0002808-1",
+        "qtype":"information",
+        "question":"O que \u00e9 o sinal Nikolsky?",
+        "answer":""
+    },
+    {
+        "qid":"0002808-2",
+        "qtype":"considerations",
+        "question":"O que fazer pela placa Nikolsky?",
+        "answer":""
+    },
+    {
+        "qid":"0002808-3",
+        "qtype":"causes",
+        "question":"O que causa o signo Nikolsky?",
+        "answer":""
+    },
+    {
+        "qid":"0002808-4",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para a placa Nikolsky?",
+        "answer":""
+    },
+    {
+        "qid":"0002808-5",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o signo Nikolsky?",
+        "answer":""
+    }
+]

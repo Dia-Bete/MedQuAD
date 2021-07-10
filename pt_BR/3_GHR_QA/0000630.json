@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000630-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Mayer-Rokitansky-Kster-Hauser?",
+        "answer":"A s\u00edndrome de Mayer-Rokitansky-Kster-Hauser (MRKH) \u00e9 uma desordem que ocorre nas f\u00eameas e afeta principalmente o sistema reprodutivo. Essa condi\u00e7\u00e3o faz com que a vagina e o \u00fatero estejam subdesenvolvidos ou ausentes. As mulheres afetadas geralmente n\u00e3o t\u00eam menstrua\u00e7\u00e3o devido ao \u00fatero ausente. Muitas vezes, o primeiro sinal not\u00e1vel da s\u00edndrome MRKH \u00e9 que a menstrua\u00e7\u00e3o n\u00e3o come\u00e7a com os 16 anos (amenorreia prim\u00e1ria). Mulheres com s\u00edndrome MRKH t\u00eam um padr\u00e3o cromoss\u00f4mico feminino (46,XX) e ov\u00e1rios normalmente funcionando. Eles tamb\u00e9m t\u00eam genit\u00e1lia externa feminina normal e desenvolvimento normal de mama e cabelo p\u00fabico. Apesar de mulheres com essa condi\u00e7\u00e3o serem geralmente incapazes de carregar uma gravidez, elas podem ser capazes de ter filhos atrav\u00e9s da reprodu\u00e7\u00e3o assistida. Mulheres com s\u00edndrome de MRKH tamb\u00e9m podem ter anormalidades em outras partes do corpo. Os rins podem estar anormalmente formados ou posicionados, ou um rim pode falhar em se desenvolver (agenese renal unilateral). Indiv\u00edduos afetados geralmente desenvolvem anormalidades esquel\u00e9ticas, particularmente dos ossos espinhal (vertebras). Mulheres com s\u00edndrome MRKH tamb\u00e9m podem ter perda auditiva ou defeitos card\u00edacos."
+    },
+    {
+        "qid":"0000630-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Mayer-Rokitansky-Kster-Hauser?",
+        "answer":"A s\u00edndrome MRKH afeta aproximadamente 1 em 4.500 rec\u00e9m-nascidas."
+    },
+    {
+        "qid":"0000630-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Mayer-Rokitansky-Kster-Hauser?",
+        "answer":"A causa da s\u00edndrome MRKH \u00e9 desconhecida, embora provavelmente resulte de uma combina\u00e7\u00e3o de fatores gen\u00e9ticos e ambientais. Pesquisadores n\u00e3o identificaram nenhum gene associado \u00e0 s\u00edndrome MRKH. As anormalidades reprodutivas da s\u00edndrome MRKH s\u00e3o devido ao desenvolvimento incompleto do ducto mlleriano. Esta estrutura do embri\u00e3o desenvolve-se no \u00fatero, tubos de Falopio, colo do \u00fatero e na parte superior da vagina. A causa do desenvolvimento anormal do ducto mlleriano em indiv\u00edduos afetados \u00e9 desconhecida. Originalmente, pesquisadores acreditavam que a s\u00edndrome MRKH foi causada por algo que o feto foi exposto durante a gravidez, como uma medica\u00e7\u00e3o ou doen\u00e7a materna. No entanto, estudos n\u00e3o identificaram associa\u00e7\u00e3o com uso de drogas maternas, doen\u00e7as ou outros fatores. Tamb\u00e9m n\u00e3o est\u00e1 claro por que alguns indiv\u00edduos afetados t\u00eam anormalidades em partes do corpo al\u00e9m do sistema reprodutivo."
+    },
+    {
+        "qid":"0000630-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Mayer-Rokitansky-Kster-Hauser \u00e9 herdada?",
+        "answer":"A maioria dos casos de s\u00edndrome de MRKH ocorre em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia. Menos frequentemente, a s\u00edndrome MRKH passa por gera\u00e7\u00f5es em fam\u00edlias. Seu padr\u00e3o de heran\u00e7a geralmente n\u00e3o \u00e9 claro porque os sinais e sintomas da condi\u00e7\u00e3o freq\u00fcentemente variam entre indiv\u00edduos afetados na mesma fam\u00edlia. No entanto, em algumas fam\u00edlias, a condi\u00e7\u00e3o parece ter um padr\u00e3o autoss\u00f4mico dominante de heran\u00e7a. Heran\u00e7a autoss\u00f4mica dominante significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 tipicamente suficiente para causar o dist\u00farbio, embora nenhum gene tenha sido associado \u00e0 s\u00edndrome MRKH."
+    },
+    {
+        "qid":"0000630-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Mayer-Rokitansky-Kster-Hauser?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da s\u00edndrome de Mayer-Rokitansky-Kster-Hauser: - American Urological Association Foundation: Agenesis Vaginal - Children's Hospital Boston: Center for Young Women's Health - Genetic Testing Registry: Rokitansky Kuster Hauser syndrome Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Medicina - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

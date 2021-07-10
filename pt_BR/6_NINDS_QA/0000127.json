@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000127-1",
+        "qtype":"information",
+        "question":"O que \u00e9 paraplegia espasm\u00e1tica heredit\u00e1ria?",
+        "answer":"Paraplegia esp\u00e1stica heredit\u00e1ria (HSP), tamb\u00e9m chamada de paraparesia esp\u00e1stica familiar (FSP), refere-se a um grupo de dist\u00farbios herdados que s\u00e3o caracterizados por fraqueza progressiva e espasticidade (estricidade) das pernas. No in\u00edcio do curso da doen\u00e7a, pode haver dificuldades de marcha leves e rigidez. Esses sintomas normalmente progridem lentamente para que, eventualmente, indiv\u00edduos com HSP possam precisar da ajuda de uma bengala, caminhante ou cadeira de rodas. Embora as principais caracter\u00edsticas do HSP \"puro\" sejam espasticidade progressiva dos membros inferiores e fraqueza, formas complicadas podem ser acompanhadas por outros sintomas. Estes sintomas adicionais incluem diminui\u00e7\u00e3o da vis\u00e3o devido \u00e0s cataratas e problemas com o nervo \u00f3ptico e retina do olho, ataxia (falta de coordena\u00e7\u00e3o muscular), epilepsia, defici\u00eancia cognitiva, neuropatia perif\u00e9rica e surdez. O diagn\u00f3stico de HSP \u00e9 principalmente por exames neurol\u00f3gicos e testes para descartar outros dist\u00farbios. Anomalias da resson\u00e2ncia magn\u00e9tica cerebral, como um corpo caloso, podem ser observadas em algumas das complicadas formas de HSP. V\u00e1rias muta\u00e7\u00f5es gen\u00e9ticas foram identificadas que subjacem a v\u00e1rias formas de HSP, e testes gen\u00e9ticos especializados e diagn\u00f3sticos est\u00e3o dispon\u00edveis em alguns centros m\u00e9dicos. HSP tem v\u00e1rias formas de heran\u00e7a. Nem todas as crian\u00e7as de uma fam\u00edlia ir\u00e3o necessariamente desenvolver sintomas, embora eles possam ser portadores do gene anormal. Os sintomas podem come\u00e7ar na inf\u00e2ncia ou na idade adulta, dependendo do gene espec\u00edfico do HSP envolvido."
+    },
+    {
+        "qid":"0000127-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a paraplegia esp\u00e1stica heredit\u00e1ria?",
+        "answer":"N\u00e3o h\u00e1 tratamentos espec\u00edficos para prevenir, devagar ou reverter HSP. Tratamentos sintom\u00e1ticos usados para espasticidade, como relaxantes musculares, s\u00e3o \u00e0s vezes \u00fateis. Fisioterapia regular \u00e9 importante para a for\u00e7a muscular e para preservar a amplitude do movimento."
+    },
+    {
+        "qid":"0000127-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Paraplegia Espacial Hereditaria?",
+        "answer":"O progn\u00f3stico para indiv\u00edduos com HSP varia Alguns indiv\u00edduos s\u00e3o muito deficientes e outros s\u00f3 t\u00eam defici\u00eancia leve. A maioria dos indiv\u00edduos com HSP simples tem uma expectativa de vida normal."
+    },
+    {
+        "qid":"0000127-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para paraplegia espasm\u00e1tica heredit\u00e1ria?",
+        "answer":"O NINDS apoia pesquisas sobre dist\u00farbios gen\u00e9ticos como HSP. Mais de 30 genes que s\u00e3o respons\u00e1veis por v\u00e1rias formas de HSP foram identificados, e muitos mais provavelmente ser\u00e3o identificados no futuro. Esses genes geralmente codificam prote\u00ednas que normalmente ajudam a manter a fun\u00e7\u00e3o de ax\u00f5es na medula espinhal. Entender como muta\u00e7\u00f5es desses genes causam HSP deve levar a maneiras de prevenir, tratar e curar HSP."
+    }
+]

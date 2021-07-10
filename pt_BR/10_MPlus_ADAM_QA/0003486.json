@@ -1,0 +1,44 @@
+[
+    {
+        "qid":"0003486-1",
+        "qtype":"information",
+        "question":"O que \u00e9 colangite esclerosante?",
+        "answer":""
+    },
+    {
+        "qid":"0003486-2",
+        "qtype":"causes",
+        "question":"O que causa colangite esclerosante?",
+        "answer":""
+    },
+    {
+        "qid":"0003486-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da colangite esclerosante?",
+        "answer":""
+    },
+    {
+        "qid":"0003486-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar colangite esclerosante?",
+        "answer":""
+    },
+    {
+        "qid":"0003486-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para colangite esclerosante?",
+        "answer":""
+    },
+    {
+        "qid":"0003486-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para colangite esclerosante?",
+        "answer":""
+    },
+    {
+        "qid":"0003486-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da colangite esclerosante?",
+        "answer":""
+    }
+]

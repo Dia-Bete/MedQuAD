@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001008-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Unverricht-Lundborg?",
+        "answer":"A doen\u00e7a de Unverricht-Lundborg \u00e9 uma rara forma herdada de epilepsia. Indiv\u00edduos afetados geralmente come\u00e7am a mostrar sinais e sintomas do dist\u00farbio entre os 6 e 15 anos. A doen\u00e7a de Unverricht-Lundborg \u00e9 classificada como um tipo de epilepsia mioclonus progressiva. Pessoas com este dist\u00farbio experimentam epis\u00f3dios de masturba\u00e7\u00e3o muscular involunt\u00e1ria ou contra\u00e7\u00f5es (mioclonus) que aumentam na frequ\u00eancia e gravidade ao longo do tempo. Epis\u00f3dios de mioclono podem ser provocados por esfor\u00e7o f\u00edsico, estresse, luz, ou outros est\u00edmulos. Dentro de 5 a 10 anos, os epis\u00f3dios miocl\u00f4nicos podem se tornar graves o suficiente para interferir com a caminhada e outras atividades di\u00e1rias. Indiv\u00edduos afetados tamb\u00e9m geralmente t\u00eam convuls\u00f5es envolvendo perda de consci\u00eancia, rigidez muscular e convuls\u00f5es (convuls\u00f5es t\u00f4nicas-cl\u00f4nicas ou de grande mal). Como os epis\u00f3dios miocl\u00f4nicos, estes podem aumentar na frequ\u00eancia ao longo de v\u00e1rios anos, mas podem ser controlados com tratamento. Ap\u00f3s v\u00e1rios anos de progress\u00e3o, a frequ\u00eancia de convuls\u00f5es pode estabilizar ou diminuir. Eventualmente, pessoas com doen\u00e7a de Unverricht-Lundborg podem desenvolver problemas com equil\u00edbrio e coordena\u00e7\u00e3o (ataxia), agita\u00e7\u00e3o r\u00edtmica involunt\u00e1ria que piora durante o movimento (tremor intencional), dificuldade em falar (disartria), depress\u00e3o, e um decl\u00ednio lento e leve no funcionamento intelectual. Pessoas com doen\u00e7a de Unverricht-Lundborg normalmente vivem na idade adulta. Dependendo da gravidade da condi\u00e7\u00e3o e da resposta de uma pessoa ao tratamento, a expectativa de vida pode ser normal."
+    },
+    {
+        "qid":"0001008-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela doen\u00e7a de Unverricht-Lundborg?",
+        "answer":"A epilepsia progressiva do mioclono \u00e9 uma condi\u00e7\u00e3o rara. Acredita-se que a doen\u00e7a de Unverricht-Lundborg seja a causa mais comum deste tipo de epilepsia, mas sua preval\u00eancia mundial \u00e9 desconhecida. A doen\u00e7a de Unverricht-Lundborg ocorre mais frequentemente na Finl\u00e2ndia, onde aproximadamente 4 em 100 mil pessoas s\u00e3o afetadas."
+    },
+    {
+        "qid":"0001008-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 doen\u00e7a de Unverricht-Lundborg?",
+        "answer":"Muta\u00e7\u00f5es no gene CSSB causam doen\u00e7a de Unverricht-Lundborg. O gene CSSB fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada cistatina B. Esta prote\u00edna reduz a atividade das enzimas chamadas catepsinas. Catepsinas ajudam a quebrar certas prote\u00ednas nos lisossomos (compartimentos na c\u00e9lula que digerem e reciclam materiais). Embora a fun\u00e7\u00e3o espec\u00edfica da cistatina B n\u00e3o esteja clara, pode ajudar a proteger as prote\u00ednas das c\u00e9lulas das catepsinas que vazam dos lisossomos. Em quase todos os indiv\u00edduos afetados, a doen\u00e7a de Unverricht-Lundborg \u00e9 causada por um aumento no tamanho do gene CSSB. Uma regi\u00e3o do gene CSSB tem uma sequ\u00eancia particular de repeti\u00e7\u00e3o de 12 blocos de constru\u00e7\u00e3o de DNA (nucle\u00f3tidos). Esta sequ\u00eancia \u00e9 normalmente repetida duas ou tr\u00eas vezes dentro do gene e \u00e9 chamada de repeti\u00e7\u00e3o dodecamer. A maioria das pessoas com este dist\u00farbio tem mais de 30 repeti\u00e7\u00f5es da sequ\u00eancia dodecamer em ambas as c\u00f3pias do gene CSSB. Um pequeno n\u00famero de pessoas com doen\u00e7a de Unverricht-Lundborg carregam outras muta\u00e7\u00f5es. O aumento do n\u00famero de repeti\u00e7\u00f5es de dodecamer no gene CSSB parece interferir na produ\u00e7\u00e3o da prote\u00edna B da cistatina. N\u00edveis de cistatina B em indiv\u00edduos afetados s\u00e3o apenas 5 a 10 por cento do normal, e n\u00edveis de catepsina est\u00e3o significativamente aumentados. Acredita-se que essas altera\u00e7\u00f5es causem os sinais e sintomas da doen\u00e7a de Unverricht-Lundborg, mas n\u00e3o est\u00e1 claro como uma redu\u00e7\u00e3o na quantidade de cistatina B leva \u00e0s caracter\u00edsticas dessa doen\u00e7a."
+    },
+    {
+        "qid":"0001008-4",
+        "qtype":"inheritance",
+        "question":"A doen\u00e7a de Unverricht-Lundborg \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0001008-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Unverricht-Lundborg?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da doen\u00e7a de Unverricht-Lundborg: - Gene Review: Gene Review: Unverricht-Lundborg Doen\u00e7a - Gene Testing Registry: S\u00edndrome de Unverricht-Lundborg Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

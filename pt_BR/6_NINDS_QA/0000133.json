@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000133-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a Ataxia de Friedreich?",
+        "answer":"A ataxia de Friedreich \u00e9 uma doen\u00e7a herdada rara que causa danos progressivos ao sistema nervoso e problemas de movimento. Os sintomas neurol\u00f3gicos incluem movimentos inest\u00e1veis, fun\u00e7\u00e3o sensorial prejudicada, problemas de fala, vis\u00e3o e perda auditiva. A coordena\u00e7\u00e3o muscular prejudicada (ataxia) resulta da degenera\u00e7\u00e3o do tecido nervoso na medula espinhal e dos nervos que controlam o movimento muscular nos bra\u00e7os e pernas. Os sintomas geralmente come\u00e7am entre 5 e 15 anos, mas podem aparecer na idade adulta ou mais tarde. O primeiro sintoma \u00e9 a dificuldade de andar. A ataxia gradualmente piora e lentamente se espalha para os bra\u00e7os e depois o tronco. As pessoas lavam a perda de sensa\u00e7\u00e3o nos bra\u00e7os e pernas, que pode se espalhar para outras partes do corpo. Muitas pessoas com a ataxia de Friedreich desenvolvem escoliose (curva da coluna para um lado), que, se grave, pode prejudicar a respira\u00e7\u00e3o. Outros sintomas incluem dor no peito, falta de ar e problemas card\u00edacos. Alguns indiv\u00edduos podem desenvolver diabetes. Os m\u00e9dicos diagnosticam a ataxia de Friedreich fazendo um exame cl\u00ednico cuidadoso, que inclui um hist\u00f3rico m\u00e9dico e um exame f\u00edsico completo. V\u00e1rios testes podem ser realizados, incluindo eletromiograma (EMG, que mede a atividade el\u00e9trica das c\u00e9lulas) e testes gen\u00e9ticos."
+    },
+    {
+        "qid":"0000133-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Ataxia de Friedreich?",
+        "answer":"Atualmente n\u00e3o h\u00e1 cura ou tratamento eficaz para a ataxia de Friedreich. No entanto, muitos dos sintomas e complica\u00e7\u00f5es associadas podem ser tratados para ajudar os indiv\u00edduos a manter o melhor funcionamento poss\u00edvel. Diabetes e problemas card\u00edacos podem ser tratados com medicamentos. Problemas ortop\u00e9dicos como deformidades nos p\u00e9s e escoliose podem ser tratados com aparelhos ou cirurgia. A fisioterapia pode prolongar o uso dos bra\u00e7os e pernas."
+    },
+    {
+        "qid":"0000133-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Ataxia de Friedreich?",
+        "answer":"Geralmente, dentro de 15 a 20 anos ap\u00f3s a apari\u00e7\u00e3o dos primeiros sintomas, a pessoa est\u00e1 confinada a uma cadeira de rodas, e em est\u00e1gios posteriores da doen\u00e7a, os indiv\u00edduos podem ficar completamente incapacitados. A ataxia de Friedreich pode reduzir a expectativa de vida; a doen\u00e7a card\u00edaca \u00e9 a causa mais comum de morte. Muitos indiv\u00edduos com a ataxia de Friedreich morrem no in\u00edcio da idade adulta, mas algumas pessoas com sintomas menos graves vivem em seus 60, 70 ou mais anos."
+    },
+    {
+        "qid":"0000133-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a Ataxia de Friedreich?",
+        "answer":"A ataxia de Friedreich \u00e9 causada por uma muta\u00e7\u00e3o na frataxina da prote\u00edna, que est\u00e1 envolvida na fun\u00e7\u00e3o de mitocondria a energia produzindo usinas de energia da c\u00e9lula. A frataxina controla passos importantes no metabolismo do ferro mitocondrial e na estabilidade global do ferro celular.Os pesquisadores financiados pelo NINDS est\u00e3o estudando as fun\u00e7\u00f5es metab\u00f3licas da mitocondria em indiv\u00edduos com ataxia de Friedreichs. A pesquisa em curso tem como objetivo compreender a base molecular e os mecanismos envolvidos na inativa\u00e7\u00e3o do gene que fornece instru\u00e7\u00f5es para a frataxina, o que poderia levar a formas potenciais de reverter o silenciamento e restaurar a fun\u00e7\u00e3o normal do gene.E os pesquisadores est\u00e3o usando sequenciamento de pr\u00f3xima gera\u00e7\u00e3o (que pode rapidamente identificar a estrutura de milh\u00f5es de pequenos fragmentos de DNA ao mesmo tempo) para identificar novos genes na ataxia de Friedreich."
+    }
+]

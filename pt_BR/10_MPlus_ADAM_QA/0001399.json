@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0001399-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o adenoides ampliados?",
+        "answer":""
+    },
+    {
+        "qid":"0001399-2",
+        "qtype":"causes",
+        "question":"O que causa adenoides ampliados?",
+        "answer":""
+    },
+    {
+        "qid":"0001399-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas de adenoides ampliados?",
+        "answer":""
+    },
+    {
+        "qid":"0001399-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar adenoides ampliados?",
+        "answer":""
+    },
+    {
+        "qid":"0001399-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para adenoides ampliados?",
+        "answer":""
+    },
+    {
+        "qid":"0001399-6",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para adenoides alargados?",
+        "answer":""
+    }
+]

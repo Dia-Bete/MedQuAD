@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000584-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) lipofuscinose ceroide neuronal tardio-infantil?",
+        "answer":"Lipofuscinose neuronal tardia (LNC) \u00e9 uma desordem herdada que afeta principalmente o sistema nervoso. Os sinais e sintomas dessa condi\u00e7\u00e3o normalmente come\u00e7am na inf\u00e2ncia ou na inf\u00e2ncia. As caracter\u00edsticas iniciais geralmente incluem convuls\u00f5es recorrentes (epilepsia) e dificuldade em coordenar movimentos (ataxia). Crian\u00e7as afetadas tamb\u00e9m desenvolvem contra\u00e7\u00f5es musculares (mioclonus) e defici\u00eancia de vis\u00e3o. O NCL infantil tardio afeta as habilidades motoras, como sentar e caminhar, e o desenvolvimento da fala. Essa condi\u00e7\u00e3o tamb\u00e9m causa a perda de habilidades adquiridas anteriormente (regress\u00e3o ao desenvolvimento), defici\u00eancia intelectual progressiva e problemas comportamentais. Indiv\u00edduos com essa condi\u00e7\u00e3o muitas vezes requerem o uso de uma cadeira de rodas at\u00e9 o final da inf\u00e2ncia e normalmente n\u00e3o sobrevivem al\u00e9m de seus adolescentes. O NCL infantil tardio \u00e9 um grupo de NCLs (coletivamente chamado doen\u00e7a de Batten) que afetam o sistema nervoso e normalmente causam problemas progressivos com vis\u00e3o, movimento e capacidade de pensar. Os diferentes tipos de LNC s\u00e3o diferenciados pela idade em que os sinais e sintomas aparecem pela primeira vez."
+    },
+    {
+        "qid":"0000584-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela lipofuscinose neuronal tardia?",
+        "answer":"A preval\u00eancia de LNC tardio-infantil \u00e9 desconhecida. Coletivamente, todas as formas de LNC afetam 1 em 100.000 indiv\u00edduos em todo o mundo. NCLs s\u00e3o mais comuns na Finl\u00e2ndia, onde aproximadamente 1 em 12.500 indiv\u00edduos s\u00e3o afetados."
+    },
+    {
+        "qid":"0000584-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 lipofuscinose ceroide neuronal tardio-infantil?",
+        "answer":"Muta\u00e7\u00f5es no gene TPP1 causam a maioria dos casos de LNC tardio-infantil. Muta\u00e7\u00f5es nos genes CLN5, CLN6, CLN8, MFSD8 e PPT1 cada um representam uma pequena porcentagem de casos. O gene TPP1 produz uma enzima chamada tripeptidil peptidase 1. Esta enzima \u00e9 encontrada em estruturas celulares chamadas lisossomas, que digerem e reciclam diferentes tipos de mol\u00e9culas. Tripeptidil peptidase 1 quebra fragmentos de prote\u00ednas, conhecidos como pept\u00eddeos, em seus blocos de constru\u00e7\u00e3o individuais (amino\u00e1cidos). As prote\u00ednas produzidas a partir dos outros genes envolvidos nesta condi\u00e7\u00e3o s\u00e3o ativas em lisossomos ou em outro compartimento celular chamado ret\u00edculo endoplasm\u00e1tico. O ret\u00edculo endoplasm\u00e1tico est\u00e1 envolvido na produ\u00e7\u00e3o, processamento e transporte de prote\u00ednas. Dentro dessas estruturas celulares, as prote\u00ednas desempenham pap\u00e9is na degrada\u00e7\u00e3o de outras prote\u00ednas ou subst\u00e2ncias. Muta\u00e7\u00f5es no gene TPP1, CLN5, CLN6, CLN8, MFSD8, ou PPT1 geralmente reduzem a produ\u00e7\u00e3o ou atividade da prote\u00edna ou enzima espec\u00edfica feita a partir do gene. Em muitos casos, uma redu\u00e7\u00e3o na prote\u00edna ou enzima funcional resulta em quebra incompleta de certas prote\u00ednas e outros materiais. Estes materiais se acumulam no lissossoma formando subst\u00e2ncias gordas chamadas lipopigmentos. Em alguns casos, n\u00e3o est\u00e1 claro o que causa a acumula\u00e7\u00e3o de lipopigmentos. No NCL tardio-infantil, esses ac\u00famulos ocorrem em c\u00e9lulas em todo o corpo, mas os neur\u00f4nios parecem particularmente vulner\u00e1veis a danos causados por lipopigmentos e uma diminui\u00e7\u00e3o na fun\u00e7\u00e3o proteica espec\u00edfica. A morte progressiva de c\u00e9lulas no c\u00e9rebro e em outros tecidos leva aos sinais e sintomas da LNC infantil tardia."
+    },
+    {
+        "qid":"0000584-4",
+        "qtype":"inheritance",
+        "question":"A lipofuscinose neuronal tardia \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000584-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para lipofuscinose ceroide neuronal tardio-infantil?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da lipofuscinose ceroidal tardio-infantil: - Gene Review: Gene Review: Ceroide neuronal-Lipofuscinoses - Genetic Testing Registry: Ceroide lipofuscinose neuronal 5 - Genetic Testing Registry: Ceroide lipofuscinose neuronal 6 - Genetic Testing Registry: Ceroide lipofuscinose neuronal 7 - Genetic Testing Registry: Ceroide lipofuscinose neuronal 8 - Genetic Testing Registry: Late-infantil ceroide ceroide lipofuscinose - Gene Testing Registry: Ceroide lipofuscinose neuronal 7 - Gene Testing Registry: Ceroide lipofuscinose neuronal 7 - Gene Testing Registry: Ceroide lipofuscinose neuronal 7 - Gene Testing Registry: Ceroide lipofuscinose neuronal 7 - Genetic Testing Registry: Ceroid lipofuscinose neuronal 7 - Ceroidering: Ceroid lipofuscinose ceroidering lipofuscinose 8 - Ceroidering lipofusinose ceroidering lipofusnioid lipofusinose 8 - Ceroide"
+    }
+]

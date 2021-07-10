@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0001280-1",
+        "qtype":"information",
+        "question":"O que est\u00e1 afundando?",
+        "answer":""
+    },
+    {
+        "qid":"0001280-2",
+        "qtype":"considerations",
+        "question":"O que fazer para Drooling?",
+        "answer":""
+    },
+    {
+        "qid":"0001280-3",
+        "qtype":"causes",
+        "question":"O que causa o drooling?",
+        "answer":""
+    },
+    {
+        "qid":"0001280-4",
+        "qtype":"considerations",
+        "question":"O que fazer para Drooling?",
+        "answer":""
+    },
+    {
+        "qid":"0001280-5",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para o Drooling?",
+        "answer":""
+    },
+    {
+        "qid":"0001280-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Drooling?",
+        "answer":""
+    }
+]

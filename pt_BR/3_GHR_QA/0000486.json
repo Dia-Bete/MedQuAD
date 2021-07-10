@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000486-1",
+        "qtype":"information",
+        "question":"O que \u00e9 homocistin\u00faria?",
+        "answer":"Homocistin\u00faria \u00e9 um dist\u00farbio herdado em que o corpo \u00e9 incapaz de processar certos blocos de constru\u00e7\u00e3o de prote\u00ednas (amino\u00e1cidos) corretamente. H\u00e1 v\u00e1rias formas de homocistin\u00faria, que se distinguem pelos seus sinais e sintomas e causa gen\u00e9tica. A forma mais comum de homocistin\u00faria \u00e9 caracterizada por miopia (miopia), luxa\u00e7\u00e3o da lente na frente do olho, um risco aumentado de coagula\u00e7\u00e3o sangu\u00ednea anormal, e ossos quebradi\u00e7os que s\u00e3o propensos a fraturas (osteoporose) ou outras anormalidades esquel\u00e9ticas. Alguns indiv\u00edduos afetados tamb\u00e9m t\u00eam atraso no desenvolvimento e problemas de aprendizagem. Formas menos comuns de homocistin\u00faria podem causar defici\u00eancia intelectual, falha em crescer e ganhar peso \u00e0 taxa esperada (falha em prosperar), convuls\u00f5es, problemas com o movimento, e um dist\u00farbio sangu\u00edneo chamado anemia megalobl\u00e1stica. A anemia megalobl\u00e1stica ocorre quando uma pessoa tem um n\u00famero baixo de gl\u00f3bulos vermelhos (anemia), e os gl\u00f3bulos vermelhos restantes s\u00e3o maiores do que o normal (megalobl\u00e1stico). Os sinais e sintomas da homocistin\u00faria normalmente se desenvolvem no primeiro ano de vida, embora algumas pessoas levemente afetadas n\u00e3o desenvolvam caracter\u00edsticas at\u00e9 mais tarde na inf\u00e2ncia ou na idade adulta."
+    },
+    {
+        "qid":"0000486-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela homocistin\u00faria?",
+        "answer":"A forma mais comum de homocistin\u00faria afeta pelo menos 1 em 200.000 a 335.000 pessoas em todo o mundo. O dist\u00farbio parece ser mais comum em alguns pa\u00edses, como Irlanda (1 em 65.000), Alemanha (1 em 17.800), Noruega (1 em 6.400) e Catar (1 em 1.800). As formas mais raras de homocistin\u00faria t\u00eam um pequeno n\u00famero de casos relatados na literatura cient\u00edfica."
+    },
+    {
+        "qid":"0000486-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 homocistin\u00faria?",
+        "answer":"Muta\u00e7\u00f5es nos genes CBS, MTHFR, MTR, MTR e MMADHC causam homocistin\u00faria. Muta\u00e7\u00f5es no gene CBS causam a forma mais comum de homocistin\u00faria. O gene CBS fornece instru\u00e7\u00f5es para produzir uma enzima chamada cistationina beta-sintase. Esta enzima atua em uma via qu\u00edmica e \u00e9 respons\u00e1vel pela convers\u00e3o do amino\u00e1cido homociste\u00edna em uma mol\u00e9cula chamada cistationina. Como resultado desta via, outros amino\u00e1cidos, incluindo metionina, s\u00e3o produzidos. Muta\u00e7\u00f5es no gene CBS interrompem a fun\u00e7\u00e3o da cistationina beta-sintase, impedindo que a homociste\u00edna seja usada corretamente. Como resultado, estes amino\u00e1cidos e subprodutos t\u00f3xicos se acumulam no sangue. Parte do excesso de homociste\u00edna \u00e9 excretado na urina. Raramente, a homocistin\u00faria pode ser causada por muta\u00e7\u00f5es em v\u00e1rios outros genes. As enzimas feitas pelos genes MTHFR, MTR, MTR e MMADHC desempenham pap\u00e9is na convers\u00e3o da homociste\u00edna em metionina. Muta\u00e7\u00f5es em qualquer um desses genes impedem que as enzimas funcionem corretamente, o que leva a uma acumula\u00e7\u00e3o de homociste\u00edna no corpo. Pesquisadores n\u00e3o determinaram como o excesso de homociste\u00edna e compostos relacionados levam aos sinais e sintomas da homocistin\u00faria."
+    },
+    {
+        "qid":"0000486-4",
+        "qtype":"inheritance",
+        "question":"A homocistin\u00faria \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. A maioria das vezes, os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carregam uma c\u00f3pia do gene mutado, mas n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o. Embora as pessoas que carregam uma c\u00f3pia mutada e uma c\u00f3pia normal do gene CBS n\u00e3o tenham homocistin\u00faria, s\u00e3o mais propensos que as pessoas sem muta\u00e7\u00e3o CBS a ter escassez (defici\u00eancias) de vitamina B12 e \u00e1cido f\u00f3lico."
+    },
+    {
+        "qid":"0000486-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para homocistin\u00faria?",
+        "answer":"Estes recursos abordam o diagn\u00f3stico ou a gest\u00e3o da homocistin\u00faria: - Baby's First Test - Gene Review: Gene Review: Dist\u00farbios do Metabolismo da Cobalamina Intracelular - Gene Review: Gene Review: Homocistin\u00faria Causada pela Cistationina Beta-Sinthase Defici\u00eancia - Genetic Testing Registry: Homocisteinemia devido \u00e0 defici\u00eancia de MTHFR - Gene Testing Registry: Homocistin\u00faria devido \u00e0 defici\u00eancia de CBS - Genetic Testing Registry: Homocistin\u00faria, tipo cblD, variante 1 - Genetic Testing Registry: Homocistin\u00faria-Anemia megalobl\u00e1stica devido a defeito no metabolismo da cobalamina, cble Complementation Registry: METHILCOBALAMIN DEFICIENY, cblG TYPE - Genetic Testing Registry:"
+    }
+]

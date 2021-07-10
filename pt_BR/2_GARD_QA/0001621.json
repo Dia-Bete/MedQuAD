@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001621-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) S\u00edndrome de Fascicula\u00e7\u00e3o de Cramp?",
+        "answer":"A s\u00edndrome de fascicula\u00e7\u00e3o por cr\u00e2nio (SFC) \u00e9 uma condi\u00e7\u00e3o rara dos m\u00fasculos. Pessoas afetadas t\u00eam contra\u00e7\u00f5es musculares persistentes (fascicula\u00e7\u00f5es) e c\u00e3ibras, o que pode levar a desconforto muscular, dor, ou cansa\u00e7o. Os m\u00fasculos na perna s\u00e3o mais comumente afetados, embora esta condi\u00e7\u00e3o possa envolver v\u00e1rias partes do corpo. Os sintomas s\u00e3o considerados devidos \u00e0 hiperatividade dos nervos associados. Na maioria dos casos, o SFC ocorre esporadicamente em pessoas sem hist\u00f3rico familiar da condi\u00e7\u00e3o. H\u00e1 poucas informa\u00e7\u00f5es sobre o tratamento da CFS, mas certos medicamentos foram relatados como ben\u00e9ficos em casos individuais."
+    },
+    {
+        "qid":"0001621-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da S\u00edndrome de Fascicula\u00e7\u00e3o de Cramp?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da s\u00edndrome de fascicula\u00e7\u00e3o por c\u00e3ibras? A s\u00edndrome de fascicula\u00e7\u00e3o por cr\u00e2nio (SFC) \u00e9 principalmente associada a c\u00e3ibras musculares severas e contra\u00e7\u00f5es musculares ocorrendo em pessoas saud\u00e1veis. Esses sintomas s\u00e3o frequentemente desencadeados pela atividade f\u00edsica e podem ser aliviados por exerc\u00edcios de alongamento e/ou massagem. M\u00fasculos nas coxas e bezerros s\u00e3o mais comumente afetados, embora outros m\u00fasculos (i.e. bra\u00e7o, peito) tamb\u00e9m pode estar envolvido. A gravidade da condi\u00e7\u00e3o varia significativamente. Em casos graves, CFS pode interferir com atividades di\u00e1rias (i.e. trabalho, tarefas dom\u00e9sticas) e qualidade de vida."
+    },
+    {
+        "qid":"0001621-3",
+        "qtype":"causes",
+        "question":"O que causa S\u00edndrome de Fascicula\u00e7\u00e3o de Cramp?",
+        "answer":"O que causa a s\u00edndrome de fascicula\u00e7\u00e3o de c\u00e3ibras? Em muitos casos, a causa subjacente exata da s\u00edndrome de fascicula\u00e7\u00e3o por c\u00e3ibras (SFC) \u00e9 desconhecida (idiop\u00e1tica). Em geral, acha-se que est\u00e1 relacionado com excitabilidade anormal (superatividade) dos neur\u00f4nios perif\u00e9ricos. Alguns casos de SFC est\u00e3o associados com: Desordens gen\u00e9ticas Doen\u00e7as autoimunes Neuropatia perif\u00e9rica Doen\u00e7a das c\u00e9lulas anterior-horn Anomalias metab\u00f3licas"
+    },
+    {
+        "qid":"0001621-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a S\u00edndrome de Fascicula\u00e7\u00e3o de Cramp?",
+        "answer":"Como \u00e9 diagnosticada a s\u00edndrome de fascicula\u00e7\u00e3o por c\u00e3ibras? Um diagn\u00f3stico de s\u00edndrome de fascicula\u00e7\u00e3o de c\u00e3ibra geralmente se baseia na presen\u00e7a de sinais e sintomas caracter\u00edsticos. Ou seja, um hist\u00f3rico de c\u00f3licas musculares frequentes, contra\u00e7\u00f5es e dor (muitas vezes piorada pelo exerc\u00edcio) sem fraqueza muscular ou desperd\u00edcio \u00e9 sugestivo da condi\u00e7\u00e3o. Tamb\u00e9m \u00e9 importante descartar outras condi\u00e7\u00f5es que podem causar caracter\u00edsticas semelhantes. A eletromiografia (EMG) ou estudos repetitivos de estimula\u00e7\u00e3o nervosa tamb\u00e9m podem ser feitos para avaliar a sa\u00fade dos m\u00fasculos e dos nervos que os controlam. Em estudos repetitivos de estimula\u00e7\u00e3o nervosa, as respostas musculares s\u00e3o registradas quando os nervos s\u00e3o estimulados repetitivamente por pequenos pulsos de eletricidade."
+    },
+    {
+        "qid":"0001621-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a S\u00edndrome de Fascicula\u00e7\u00e3o de Cramp?",
+        "answer":"Como pode a s\u00edndrome de fascicula\u00e7\u00e3o de c\u00e3ibra ser tratada? H\u00e1 poucas informa\u00e7\u00f5es na literatura m\u00e9dica sobre o tratamento da s\u00edndrome de fascicula\u00e7\u00e3o por c\u00e3ibras (SFC). Muito do que est\u00e1 dispon\u00edvel descreve casos individuais. Algumas pessoas com CFS melhoram sem tratamento. O tratamento com carbamazepina, gabapentina ou pregabalina (medicamentos que reduzem a hiperexcitabilidade dos nervos) foi descrito como \u00fatil para melhorar os sintomas em casos individuais. Terapia imunossupressora (por exemplo, prednisona) foi usada para tratar casos de SFC que n\u00e3o responderam a outros tratamentos. Para casos graves, op\u00e7\u00f5es de tratamento adicionais podem ser consideradas. Decis\u00f5es sobre o tratamento devem ser cuidadosamente consideradas e discutidas com um profissional de sa\u00fade competente."
+    }
+]

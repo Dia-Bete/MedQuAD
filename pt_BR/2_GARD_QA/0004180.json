@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0004180-1",
+        "qtype":"information",
+        "question":"O que \u00e9 neuropatia motora multifocal?",
+        "answer":"A neuropatia motora multifocal (NMM) \u00e9 uma neuropatia rara caracterizada por fraqueza muscular progressiva e assim\u00e9trica e atrofia (desperd\u00edcio). Sinais e sintomas incluem fraqueza nas m\u00e3os e bra\u00e7os inferiores, c\u00e3ibras, contra\u00e7\u00f5es ou contra\u00e7\u00f5es involunt\u00e1rias e atrofia dos m\u00fasculos afetados. O MMN \u00e9 considerado devido a uma resposta imune anormal, mas a causa subjacente n\u00e3o \u00e9 clara. A maioria das pessoas tratadas com imunoglobulina intravenosa (IVIG) tem melhora r\u00e1pida na fraqueza, mas manuten\u00e7\u00e3o IVIG \u00e9 geralmente necess\u00e1ria para melhoria sustentada."
+    },
+    {
+        "qid":"0004180-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da neuropatia motora multifocal?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da neuropatia motora multifocal? Sinais e sintomas de neuropatia motora multifocal (NMM) podem incluir fraqueza, c\u00e3ibras, contra\u00e7\u00f5es involunt\u00e1rias ou contra\u00e7\u00f5es, e desperd\u00edcio (atrofia) dos m\u00fasculos afetados. A atrofia ocorre tardiamente no decorrer da condi\u00e7\u00e3o. Os m\u00fasculos das m\u00e3os e bra\u00e7os inferiores s\u00e3o mais comumente afetados, mas os m\u00fasculos dos membros inferiores tamb\u00e9m podem estar envolvidos. Os sintomas s\u00e3o ami\u00fade assim\u00e9tricos, significando que diferem do lado direito e esquerdo do corpo."
+    },
+    {
+        "qid":"0004180-3",
+        "qtype":"causes",
+        "question":"O que causa neuropatia motora multifocal?",
+        "answer":"O que causa neuropatia motora multifocal? A causa subjacente exata da neuropatia motora multifocal (MMN) \u00e9 mal compreendida. \u00c9 considerado um dist\u00farbio imunomediado (devido a uma resposta anormal do sistema imunol\u00f3gico), tanto porque a terapia IVIG melhora os sintomas, e muitos pacientes t\u00eam anticorpos anti-GM1. Pesquisas para entender a causa do MMN est\u00e3o em andamento."
+    },
+    {
+        "qid":"0004180-4",
+        "qtype":"inheritance",
+        "question":"A neuropatia motora multifocal \u00e9 herdada?",
+        "answer":"A neuropatia motora multifocal \u00e9 herdada? N\u00e3o sabemos de nenhuma evid\u00eancia de que a neuropatia motora multifocal (NMM) \u00e9 herdada ou de qualquer relato de casos familiares (ocorrendo em mais de uma pessoa em uma fam\u00edlia). Al\u00e9m disso, para nosso conhecimento, nenhum gene espec\u00edfico conhecido por estar associado ao MMN foi identificado."
+    },
+    {
+        "qid":"0004180-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para neuropatia motora multifocal?",
+        "answer":"Como a neuropatia motora multifocal pode ser tratada? A neuropatia motora multifocal (NMM) \u00e9 considerada trat\u00e1vel com imunoglobulina intravenosa (IVIG). O tratamento precoce logo ap\u00f3s o in\u00edcio dos sintomas \u00e9 recomendado. A maioria das pessoas tem uma melhoria bastante r\u00e1pida na fraqueza com IVIG, mas a melhoria geralmente n\u00e3o dura mais de alguns meses. Manuten\u00e7\u00e3o Infus\u00f5es IVIG s\u00e3o geralmente necess\u00e1rias a cada duas a seis semanas. Para aqueles com doen\u00e7a grave cujos sintomas n\u00e3o respondem ao IVIG (ou para aqueles que se tornam resistentes), as op\u00e7\u00f5es de tratamento s\u00e3o limitadas. V\u00e1rios relatos sugerem que a ciclofosfamida pode ser parcialmente eficaz."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000366-1",
+        "qtype":"information",
+        "question":"O que \u00e9 porencefalia familiar?",
+        "answer":"A porencefalia familiar faz parte de um grupo de doen\u00e7as chamadas dist\u00farbios relacionados ao COL4A1. As condi\u00e7\u00f5es neste grupo t\u00eam uma s\u00e9rie de sinais e sintomas que envolvem vasos sangu\u00edneos fr\u00e1geis. Na porencefalia familiar, cistos cheios de l\u00edquido se desenvolvem no c\u00e9rebro (porencefalia) durante o desenvolvimento fetal ou logo ap\u00f3s o nascimento. Esses cistos normalmente ocorrem em apenas um lado do c\u00e9rebro e variam de tamanho. Pensa-se que os cistos s\u00e3o o resultado de sangramento no c\u00e9rebro (AVC hemorr\u00e1gico). Pessoas com esta condi\u00e7\u00e3o tamb\u00e9m t\u00eam leucoencefalopatia, que \u00e9 uma mudan\u00e7a em um tipo de tecido cerebral chamado mat\u00e9ria branca que pode ser visto com resson\u00e2ncia magn\u00e9tica (IRM). Durante a inf\u00e2ncia, pessoas com porencefalia familiar geralmente t\u00eam paralisia afetando um lado do corpo (hemiplegia infantil). Indiv\u00edduos afetados tamb\u00e9m podem ter convuls\u00f5es recorrentes (epilepsia), enxaquecas, problemas de fala, defici\u00eancia intelectual e tens\u00e3o muscular descontrolada (distonia). Algumas pessoas s\u00e3o gravemente afetadas, e outras podem n\u00e3o ter sintomas relacionados aos cistos cerebrais."
+    },
+    {
+        "qid":"0000366-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela porencefalia familiar?",
+        "answer":"A porencefalia familiar \u00e9 uma condi\u00e7\u00e3o rara, embora a preval\u00eancia exata seja desconhecida. Pelo menos oito fam\u00edlias afetadas foram descritas na literatura cient\u00edfica."
+    },
+    {
+        "qid":"0000366-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 porencefalia familiar?",
+        "answer":"Muta\u00e7\u00f5es no gene COL4A1 causam porencefalia familiar. O gene COL4A1 fornece instru\u00e7\u00f5es para fazer um componente de uma prote\u00edna chamada col\u00e1geno tipo IV. Mol\u00e9culas de col\u00e1geno tipo IV se ligam umas \u00e0s outras para formar redes de prote\u00ednas complexas. Essas redes de prote\u00ednas s\u00e3o os principais componentes das membranas do por\u00e3o, que s\u00e3o estruturas finas como folhas que separam e suportam c\u00e9lulas em muitos tecidos. As redes de col\u00e1geno tipo IV desempenham um papel importante nas membranas do por\u00e3o em praticamente todos os tecidos do corpo, particularmente as membranas do por\u00e3o que rodeiam os vasos sangu\u00edneos do corpo (vasculatura). As muta\u00e7\u00f5es do gene COL4A1 que causam porencefalia familiar resultam na produ\u00e7\u00e3o de uma prote\u00edna que interrompe a estrutura do col\u00e1geno tipo IV. Como resultado, mol\u00e9culas de col\u00e1geno tipo IV n\u00e3o podem se ligar umas \u00e0s outras para formar as redes de prote\u00ednas em membranas do por\u00e3o. Membranas de por\u00e3o sem col\u00e1geno tipo IV normal s\u00e3o inst\u00e1veis, levando ao enfraquecimento dos tecidos que eles rodeiam. Em pessoas com porencefalia familiar, a vasculatura no c\u00e9rebro enfraquece, o que pode levar a quebra de vasos sangu\u00edneos e acidente vascular cerebral hemorr\u00e1gico. Sangramento dentro do c\u00e9rebro \u00e9 seguido pela forma\u00e7\u00e3o de cistos cheios de fluidos caracter\u00edsticos desta condi\u00e7\u00e3o. Pensa-se que a press\u00e3o e estresse na cabe\u00e7a durante o nascimento contribui para a quebra de vasos em pessoas com esta condi\u00e7\u00e3o; no entanto, em alguns indiv\u00edduos, o sangramento no c\u00e9rebro pode ocorrer antes do nascimento."
+    },
+    {
+        "qid":"0000366-4",
+        "qtype":"inheritance",
+        "question":"A porencefalia familiar \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000366-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a porencefalia familiar?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da porencefalia familiar: - Gene Review: Gene Review: COL4A1-Related Disorders - Genetic Testing Registry: Familial Porencefalia Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

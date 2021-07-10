@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000209-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a miopatia tirot\u00f3xica?",
+        "answer":"A miopatia tirot\u00f3xica \u00e9 uma doen\u00e7a neuromuscular que pode acompanhar o hipertiroidismo (doen\u00e7a de Graves, causada pela sobreprodu\u00e7\u00e3o do horm\u00f4nio tireoideo tiroxina). Os sintomas podem incluir fraqueza muscular, mialgias (sensibilidade muscular), desperd\u00edcio da cintura p\u00e9lvica e m\u00fasculos do ombro, fadiga e/ou intoler\u00e2ncia ao calor. A miopatia tireoidiana pode estar associada a rabdomi\u00f3lise (quebra muscular aguda), danos nos m\u00fasculos que controlam o movimento dos olhos e ataques tempor\u00e1rios, mas graves, de fraqueza muscular que est\u00e3o associados a baixos n\u00edveis de pot\u00e1ssio no sangue (conhecido como paralisia peri\u00f3dica)."
+    },
+    {
+        "qid":"0000209-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a miopatia tirot\u00f3xica?",
+        "answer":"Tratamento envolve restaurar n\u00edveis normais de horm\u00f4nio tireoide e pode incluir drogas tireoide, iodo radioativo, e \u00e0s vezes remo\u00e7\u00e3o cir\u00fargica parcial ou completa da tireoide."
+    },
+    {
+        "qid":"0000209-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a miopatia Thyrotoxic?",
+        "answer":"Com o tratamento, a fraqueza muscular pode melhorar ou ser revertida."
+    },
+    {
+        "qid":"0000209-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a miopatia Thyrotoxic?",
+        "answer":"O NINDS apoia uma ampla gama de pesquisas sobre dist\u00farbios neuromusculares, como miopatia tirot\u00f3xica. Grande parte desta pesquisa tem como objetivo aprender mais sobre esses dist\u00farbios e encontrar maneiras de preveni-los e trat\u00e1-los."
+    }
+]

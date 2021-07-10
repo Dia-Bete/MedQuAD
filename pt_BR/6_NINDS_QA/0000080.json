@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000080-1",
+        "qtype":"information",
+        "question":"O que \u00e9 S\u00edndrome de Coffin Lowry?",
+        "answer":"A s\u00edndrome de Coffin-Lowry \u00e9 uma doen\u00e7a gen\u00e9tica rara caracterizada por anormalidades craniofaciais (cabe\u00e7a e facial) e esquel\u00e9ticas, atraso no desenvolvimento intelectual, estatura curta e hipotonia. Caracter\u00edsticas faciais podem incluir um osso da maxilar superior subdesenvolvido (hipoplasia m\u00e1xima), um nariz largo, narinas protuberantes (nares), uma frente anormalmente proeminente, dobras das p\u00e1lpebras inclinadas para baixo (fissuras palpebrais), olhos amplamente espa\u00e7ados (hipertelorismo), grandes orelhas baixas e sobrancelhas incomummente espessas. Anomalias esquel\u00e9ticas podem incluir anormalidade da frente para tr\u00e1s e curvatura lateral da coluna vertebral (cifoscoliose), proemin\u00eancia incomum do estern\u00e3o (peito de pige\u00e3o, ou pectus carinatum), anomalias dent\u00e1rias, e dedos curtos, hiperextens\u00edveis, c\u00f4nicos. Outras caracter\u00edsticas podem incluir alimenta\u00e7\u00e3o e problemas respirat\u00f3rios, atraso no desenvolvimento, defici\u00eancia auditiva, marcha desconfort\u00e1vel, epis\u00f3dios de gota induzidos por est\u00edmulos, e envolvimento card\u00edaco e renal. O dist\u00farbio afeta machos e f\u00eameas em n\u00fameros iguais, mas sintomas s\u00e3o geralmente mais graves em machos. O dist\u00farbio \u00e9 causado por um gene defeituoso, RSK2, que \u00e9 encontrado em 1996 no cromossomo X (Xp22.2-p22.1). Assim, a s\u00edndrome \u00e9 tipicamente mais grave em machos porque os machos t\u00eam apenas um cromossomo X, enquanto as f\u00eameas t\u00eam dois. N\u00e3o est\u00e1 claro como mudan\u00e7as (muta\u00e7\u00f5es) na estrutura do DNA do gene levam aos achados cl\u00ednicos."
+    },
+    {
+        "qid":"0000080-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a S\u00edndrome de Coffin Lowry?",
+        "answer":"N\u00e3o h\u00e1 cura nem tratamento padr\u00e3o para a s\u00edndrome de Coffin-Lowry. O tratamento \u00e9 sintom\u00e1tico e de apoio, e pode incluir terapia f\u00edsica e fonoaudiol\u00f3gica e servi\u00e7os educativos."
+    },
+    {
+        "qid":"0000080-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a S\u00edndrome de Coffin Lowry?",
+        "answer":"O progn\u00f3stico para indiv\u00edduos com s\u00edndrome de Coffin-Lowry varia dependendo da gravidade dos sintomas. A interven\u00e7\u00e3o precoce pode melhorar as perspectivas dos pacientes. A dura\u00e7\u00e3o de vida \u00e9 reduzida em alguns indiv\u00edduos com s\u00edndrome de Coffin-Lowry."
+    },
+    {
+        "qid":"0000080-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a S\u00edndrome de Coffin Lowry?",
+        "answer":"O NINDS apoia e conduz pesquisas sobre dist\u00farbios gen\u00e9ticos, como a s\u00edndrome de Coffin-Lowry, em um esfor\u00e7o para encontrar maneiras de prevenir, tratar e curar esses dist\u00farbios."
+    }
+]

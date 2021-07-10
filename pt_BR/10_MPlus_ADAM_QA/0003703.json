@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0003703-1",
+        "qtype":"information",
+        "question":"O que \u00e9 angina est\u00e1vel?",
+        "answer":""
+    },
+    {
+        "qid":"0003703-2",
+        "qtype":"causes",
+        "question":"O que causa angina est\u00e1vel?",
+        "answer":""
+    },
+    {
+        "qid":"0003703-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da angina est\u00e1vel?",
+        "answer":""
+    },
+    {
+        "qid":"0003703-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar angina est\u00e1vel?",
+        "answer":""
+    },
+    {
+        "qid":"0003703-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para angina est\u00e1vel?",
+        "answer":""
+    },
+    {
+        "qid":"0003703-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a angina est\u00e1vel?",
+        "answer":""
+    },
+    {
+        "qid":"0003703-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para angina est\u00e1vel?",
+        "answer":""
+    },
+    {
+        "qid":"0003703-8",
+        "qtype":"prevention",
+        "question":"Como evitar angina est\u00e1vel?",
+        "answer":""
+    }
+]

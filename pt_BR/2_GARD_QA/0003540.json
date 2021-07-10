@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0003540-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Lemierre?",
+        "answer":"A s\u00edndrome de Lemierre \u00e9 uma doen\u00e7a rara e potencialmente mortal. A bact\u00e9ria respons\u00e1vel por esta doen\u00e7a \u00e9 tipicamente Fusobacterium necrophorum, embora uma grande variedade de bact\u00e9rias tenham sido relatadas como causando a doen\u00e7a. A infec\u00e7\u00e3o bacteriana come\u00e7a na orofaringe e se espalha pelos vasos linf\u00e1ticos. Ap\u00f3s esta infec\u00e7\u00e3o prim\u00e1ria, a tromboflebite da veia jugular interna (VJI) se desenvolve. A fase final da doen\u00e7a ocorre quando os embolis s\u00e9pticos (tecido contendo pus) migram de sua localiza\u00e7\u00e3o original no corpo para v\u00e1rios \u00f3rg\u00e3os. Os pulm\u00f5es s\u00e3o mais comumente envolvidos, entretanto outros locais podem incluir as articula\u00e7\u00f5es, m\u00fasculo, pele e tecido mole, f\u00edgado e ba\u00e7o. Os sintomas da s\u00edndrome de Lemierre incluem febre, dor de garganta, incha\u00e7o no pesco\u00e7o, envolvimento pulmonar e dor nas articula\u00e7\u00f5es. \u00c9 uma doen\u00e7a incomum que ocorre em cerca de uma pessoa por milh\u00e3o por ano. A doen\u00e7a afeta principalmente jovens saud\u00e1veis antes dos 40 anos. Diagn\u00f3stico da s\u00edndrome de Lemierre repousa na presen\u00e7a de um co\u00e1gulo sangu\u00edneo (ou co\u00e1gulos) no IJV e culturas sangu\u00edneas que mostram a presen\u00e7a de Fusobacterium necrophorum. Os antibi\u00f3ticos intravenosos s\u00e3o a base do tratamento."
+    },
+    {
+        "qid":"0003540-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome de Lemierre?",
+        "answer":"Quais os sintomas relatados em crian\u00e7as com s\u00edndrome de Lemierre? Em crian\u00e7as e adolescentes, a s\u00edndrome de Lemierre geralmente come\u00e7a com dor de garganta grave, febre persistente e, possivelmente, calafrios. Alguns casos come\u00e7am com otite m\u00e9dia aguda. \u00c0 medida que a s\u00edndrome progride, h\u00e1 dor cervical e incha\u00e7o doloroso ao longo da veia jugular interna. [Se n\u00e3o diagnosticado, o pr\u00f3ximo est\u00e1gio \u00e9 a \"met\u00e1stase\" de embolias s\u00e9pticas para os pulm\u00f5es, \u00f3rg\u00e3os abdominais, c\u00e9rebro ou cora\u00e7\u00e3o. O envolvimento pulmonar normalmente resulta em uma tosse produtiva (uma tosse que traz muco ou flema) e dor no peito. Garotas podem relatar dor abdominal e ter aumento do f\u00edgado (hepatomegalia) e icter\u00edcia, todos os quais indicam envolvimento do f\u00edgado."
+    },
+    {
+        "qid":"0003540-3",
+        "qtype":"causes",
+        "question":"O que causa a s\u00edndrome de Lemierre?",
+        "answer":"O que causa a s\u00edndrome de Lemierre? Em cerca de 90% dos casos, a s\u00edndrome de Lemierre \u00e9 causada por Fusobacterium necrophorum; no entanto, a s\u00edndrome tamb\u00e9m foi relatada com outras bact\u00e9rias, incluindo Stapylococcus aureus, Bacteroides, Eikenella, Porphyromonas, Prevotella, Proteus, Peptostreptococo e Streptococcus pyogenes."
+    },
+    {
+        "qid":"0003540-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a s\u00edndrome de Lemierre?",
+        "answer":"Como \u00e9 diagnosticada a s\u00edndrome de Lemierre? Depois de realizar hemoculturas e hemogramas completos, a tomografia computadorizada de contraste (TC) do pesco\u00e7o fornece o diagn\u00f3stico definitivo. O ultrassom tamb\u00e9m pode confirmar a trombose da veia jugular interna."
+    },
+    {
+        "qid":"0003540-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Lemierre?",
+        "answer":"Como \u00e9 tratada a s\u00edndrome de Lemierre? A maioria dos casos de tromboflebite jugular interna pode ser tratada m\u00e9dicamente sem a necessidade de cirurgia da veia infectada. Geralmente s\u00e3o necess\u00e1rios ciclos prolongados de antibi\u00f3ticos intravenosos (3 a 6 semanas). Anticoagulantes t\u00eam sido usados \u00e0s vezes, mas a efic\u00e1cia n\u00e3o \u00e9 confirmada. A cirurgia da veia jugular interna s\u00f3 pode ser necess\u00e1ria no paciente raro que n\u00e3o responde ao tratamento antibiotico sozinho."
+    }
+]

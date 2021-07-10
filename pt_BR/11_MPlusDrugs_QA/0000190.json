@@ -1,0 +1,68 @@
+[
+    {
+        "qid":"0000190-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar Canagliflozin e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000190-2",
+        "qtype":"usage",
+        "question":"Como Canagliflozina deve ser usada e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000190-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Canagliflozin?",
+        "answer":""
+    },
+    {
+        "qid":"0000190-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Canagliflozin?",
+        "answer":""
+    },
+    {
+        "qid":"0000190-6",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se eu esquecer uma dose de Canagliflozin?",
+        "answer":""
+    },
+    {
+        "qid":"0000190-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos de Canagliflozin?",
+        "answer":""
+    },
+    {
+        "qid":"0000190-8",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Canagliflozin?",
+        "answer":""
+    },
+    {
+        "qid":"0000190-9",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Canagliflozin?",
+        "answer":""
+    },
+    {
+        "qid":"0000190-10",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Canagliflozin?",
+        "answer":""
+    },
+    {
+        "qid":"0000190-11",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de Canagliflozin?",
+        "answer":""
+    },
+    {
+        "qid":"0000190-12",
+        "qtype":"brand names of combination products",
+        "question":"Quais s\u00e3o os nomes de marcas de produtos combinados de Canagliflozin?",
+        "answer":""
+    }
+]

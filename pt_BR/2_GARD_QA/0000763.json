@@ -1,0 +1,14 @@
+[
+    {
+        "qid":"0000763-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) monocromatismo de cone azul?",
+        "answer":"O monocromatismo do cone azul \u00e9 um dist\u00farbio de vis\u00e3o herdado. Nesta condi\u00e7\u00e3o, as sensibilidades do cone vermelho e verde est\u00e3o ausentes, no entanto, a fun\u00e7\u00e3o da vara e as sensibilidades do cone azul est\u00e3o presentes. Sinais e sintomas incluem acuidade visual severamente reduzida (claros), fixa\u00e7\u00e3o exc\u00eantrica, nistagmo infantil que diminui com a idade, sem anormalidades retinais \u00f3bvias, e m\u00e1 ou nenhuma discrimina\u00e7\u00e3o de cor."
+    },
+    {
+        "qid":"0000763-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do monocromatismo do cone azul?",
+        "answer":"Quais s\u00e3o os sinais e sintomas do monocromatismo do cone azul? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para o monocromatismo do cone azul. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Nistagmo 75% Eletroretinograma anormal 7,5% Anormalidade da vis\u00e3o de cor 7,5% Anormalidade da pigmenta\u00e7\u00e3o macular 7,5% Anormalidade da pigmenta\u00e7\u00e3o retina 7,5% Distrofia corneal 7,5% Fotofobia 7,5% Defici\u00eancia visual 7,5% Monocromacia do cone azul - Miopia - Redu\u00e7\u00e3o da acuidade visual - Heran\u00e7a recessiva ligada a X - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    }
+]

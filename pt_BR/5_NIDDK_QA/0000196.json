@@ -1,0 +1,62 @@
+[
+    {
+        "qid":"0000196-1",
+        "qtype":"information",
+        "question":"O que eu preciso saber sobre a hepatite C?",
+        "answer":"Hepatite C \u00e9 um v\u00edrus, ou infec\u00e7\u00e3o, que causa doen\u00e7a hep\u00e1tica e inflama\u00e7\u00e3o do f\u00edgado. V\u00edrus podem causar doen\u00e7as. Por exemplo, a gripe \u00e9 causada por um v\u00edrus. As pessoas podem passar v\u00edrus um para o outro. Inflama\u00e7\u00e3o \u00e9 incha\u00e7o que ocorre quando os tecidos do corpo se machucam ou infectam. A inflama\u00e7\u00e3o pode causar que os \u00f3rg\u00e3os n\u00e3o funcionem corretamente."
+    },
+    {
+        "qid":"0000196-2",
+        "qtype":"information",
+        "question":"O que eu preciso saber sobre a hepatite C?",
+        "answer":"O f\u00edgado \u00e9 um \u00f3rg\u00e3o que faz muitas coisas importantes. Voc\u00ea n\u00e3o pode viver sem um f\u00edgado. Veja o Guia de Pron\u00fancia para dicas sobre como dizer as palavras em negrito. O f\u00edgado - remove produtos qu\u00edmicos nocivos do seu sangue - luta contra a infec\u00e7\u00e3o - ajuda a digerir alimentos - armazena nutrientes e vitaminas - armazena energia"
+    },
+    {
+        "qid":"0000196-3",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para o que preciso saber sobre a hepatite C? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"Qualquer um pode ter hepatite C, mas aquelas que s\u00e3o mais propensas a ser pessoas que - nasceram de uma m\u00e3e com hepatite C - est\u00e3o em contato com sangue ou agulhas infectadas no trabalho - tiveram mais de um parceiro sexual nos \u00faltimos 6 meses ou t\u00eam um hist\u00f3rico de doen\u00e7as sexualmente transmiss\u00edveis - est\u00e3o em di\u00e1lise renal o processo de filtragem de res\u00edduos e \u00e1gua extra do corpo por meio de outros meios que os rins - est\u00e3o infectados com HIV - injetaram drogas ilegais - tiveram tatuagens ou piercings corporais - trabalharam ou viveram em uma pris\u00e3o - tiveram uma transfus\u00e3o de sangue ou transplante de \u00f3rg\u00e3os antes de julho de 1992 - t\u00eam hemofilia e receberam fator de coagula\u00e7\u00e3o antes de 1987 Tamb\u00e9m, homens que fazem sexo com homens s\u00e3o mais propensos a receber hepatite C."
+    },
+    {
+        "qid":"0000196-5",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do que preciso saber sobre a hepatite C?",
+        "answer":"A maioria das pessoas n\u00e3o tem sintomas at\u00e9 que o v\u00edrus da hepatite C cause danos no f\u00edgado, o que pode levar 10 ou mais anos para acontecer. Outros podem ter um ou mais dos seguintes sintomas: - sensa\u00e7\u00e3o de cansa\u00e7o - dor muscular - dor de est\u00f4mago - dor de est\u00f4mago - febre - perda de apetite - diarreia - urina amarela-escura - fezes de cor clara - olhos amarelados e pele, chamada icter\u00edcia Quando os sintomas da hepatite C ocorrem, eles podem come\u00e7ar 1 a 3 meses ap\u00f3s entrar em contato com o v\u00edrus. Consulte um m\u00e9dico imediatamente se voc\u00ea ou uma crian\u00e7a sob seu cuidado tem sintomas de hepatite C."
+    },
+    {
+        "qid":"0000196-6",
+        "qtype":"information",
+        "question":"O que eu preciso saber sobre a hepatite C?",
+        "answer":"Hepatite C aguda \u00e9 uma infec\u00e7\u00e3o de curto prazo pelo v\u00edrus da hepatite C. Sintomas podem durar at\u00e9 6 meses. A infec\u00e7\u00e3o \u00e0s vezes se esclarece porque seu corpo \u00e9 capaz de combater a infec\u00e7\u00e3o e se livrar do v\u00edrus."
+    },
+    {
+        "qid":"0000196-7",
+        "qtype":"information",
+        "question":"O que eu preciso saber sobre a hepatite C?",
+        "answer":"Hepatite C cr\u00f4nica \u00e9 uma infec\u00e7\u00e3o duradoura pelo v\u00edrus da hepatite C. A hepatite C cr\u00f4nica ocorre quando o corpo n\u00e3o consegue se livrar do v\u00edrus da hepatite C. A maioria das infec\u00e7\u00f5es por hepatite C se tornam cr\u00f4nicas. Sem tratamento, a hepatite C cr\u00f4nica pode causar c\u00e2ncer de f\u00edgado ou danos hep\u00e1ticos graves que levam a insufici\u00eancia hep\u00e1tica. A falha hep\u00e1tica ocorre quando o f\u00edgado p\u00e1ra de funcionar corretamente."
+    },
+    {
+        "qid":"0000196-8",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar o que preciso saber sobre a hepatite C?",
+        "answer":"Um exame de sangue mostrar\u00e1 se voc\u00ea tem hepatite C. Os exames de sangue s\u00e3o feitos em um consult\u00f3rio m\u00e9dico ou ambulat\u00f3rio. Uma amostra de sangue \u00e9 tirada usando uma agulha inserida em uma veia no bra\u00e7o ou na m\u00e3o. A amostra de sangue \u00e9 enviada para um laborat\u00f3rio para testar a hepatite C. Se voc\u00ea estiver com maior risco de receber hepatite C, fa\u00e7a o teste. Muitas pessoas com hepatite C n\u00e3o sabem que est\u00e3o infectadas. Seu m\u00e9dico pode sugerir fazer uma bi\u00f3psia hep\u00e1tica se suspeitar de hepatite C cr\u00f4nica. Uma bi\u00f3psia do f\u00edgado \u00e9 um teste para pegar um peda\u00e7o do seu f\u00edgado para procurar danos no f\u00edgado. O m\u00e9dico pode pedir que pare de tomar certos medicamentos antes do teste. Pode ser pedido para jejuar por 8 horas antes do teste. Durante o teste, voc\u00ea deita-se em uma mesa com a m\u00e3o direita sobre a cabe\u00e7a. A medicina \u00e9 aplicada para amortecer a \u00e1rea onde a agulha da bi\u00f3psia ser\u00e1 inserida. Se necess\u00e1rio, sedativos e rem\u00e9dios para a dor tamb\u00e9m s\u00e3o administrados. O m\u00e9dico usa uma agulha para pegar um pequeno peda\u00e7o de tecido do f\u00edgado. Depois do teste, voc\u00ea deve deitar no seu lado direito por at\u00e9 2 horas. Voc\u00ea ficar\u00e1 2 a 4 horas depois do teste antes de ser mandado para casa. Uma bi\u00f3psia de f\u00edgado \u00e9 feita em um hospital ou ambulat\u00f3rio por um m\u00e9dico. A amostra do f\u00edgado \u00e9 enviada para um laborat\u00f3rio especial onde um m\u00e9dico olha o tecido com um microsc\u00f3pio e envia um relat\u00f3rio para o seu m\u00e9dico."
+    },
+    {
+        "qid":"0000196-9",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o que preciso saber sobre a hepatite C?",
+        "answer":"A hepatite C geralmente n\u00e3o \u00e9 tratada a menos que se torne cr\u00f4nica. A hepatite C cr\u00f4nica \u00e9 tratada com medicamentos que retardam ou impedem o v\u00edrus de danificar o f\u00edgado. Seu m\u00e9dico vigiar\u00e1 de perto seus sintomas e programar\u00e1 exames de sangue regulares para ter certeza que o tratamento est\u00e1 funcionando. Medicamentos para Hepatite C Cr\u00f4nica A hepatite Cr\u00f4nica \u00e9 mais frequentemente tratada com uma combina\u00e7\u00e3o de medicamentos que ataca o v\u00edrus da hepatite C. O tratamento pode durar de 24 a 48 semanas. Hoje, tratamentos mais recentes com rem\u00e9dio para hepatite C cr\u00f4nica est\u00e3o aparecendo rapidamente. Fale com seu m\u00e9dico se tiver d\u00favidas sobre o tratamento. Fale com seu m\u00e9dico antes de tomar outros medicamentos e medicamentos de venda livre. Transplante de f\u00edgado Um transplante de f\u00edgado pode ser necess\u00e1rio se hepatite C cr\u00f4nica causar danos hep\u00e1ticos graves que levam a insufici\u00eancia hep\u00e1tica. Sintomas de danos hep\u00e1ticos graves incluem os sintomas da hepatite C e - comich\u00e3o generalizada - um tempo mais longo do que o habitual para o sangramento para parar - hematomas f\u00e1ceis - est\u00f4mago ou tornozelos inchados - vasos sangu\u00edneos semelhantes a aranha, chamados angiomas aranha, que se desenvolvem na pele transplante de f\u00edgado \u00e9 cirurgia para remover um f\u00edgado doente ou ferido e substitu\u00ed-lo por um saud\u00e1vel de outra pessoa, chamado de doador. Se seus m\u00e9dicos dizem que voc\u00ea precisa de um transplante, voc\u00ea deve falar com eles sobre as exig\u00eancias a longo prazo de viver com um transplante de f\u00edgado. Uma equipe de cirurgi\u00f5es especializados em cirurgia realiza um transplante de f\u00edgado em um hospital. Voc\u00ea aprender\u00e1 a cuidar de si mesmo depois de ir para casa e sobre os rem\u00e9dios que voc\u00ea precisa tomar para proteger seu novo f\u00edgado. Voc\u00ea continuar\u00e1 tomando medicamentos porque a hepatite C pode voltar ap\u00f3s a cirurgia. Testes para c\u00e2ncer de f\u00edgado Com hepatite C aumenta seu risco de c\u00e2ncer de f\u00edgado, ent\u00e3o seu m\u00e9dico pode sugerir um exame de ultrassom do f\u00edgado a cada 6 a 12 meses. Encontrar c\u00e2ncer cedo torna mais trat\u00e1vel. Ultrassom \u00e9 uma m\u00e1quina que usa ondas sonoras para criar uma imagem do seu f\u00edgado. A ultrassonografia \u00e9 realizada em um hospital ou centro de radiologia por um t\u00e9cnico especialmente treinado. A imagem, chamada de ecograma, pode mostrar o tamanho do f\u00edgado e a presen\u00e7a de tumores cancerosos."
+    },
+    {
+        "qid":"0000196-12",
+        "qtype":"considerations",
+        "question":"O que fazer pelo que preciso saber sobre a hepatite C?",
+        "answer":"Se voc\u00ea tem hepatite C cr\u00f4nica, voc\u00ea deve fazer coisas para cuidar de si mesmo, incluindo comer uma dieta saud\u00e1vel. Evite beber \u00e1lcool, o que pode prejudicar o f\u00edgado. Fale com seu m\u00e9dico antes de tomar vitaminas e outros suplementos."
+    },
+    {
+        "qid":"0000196-13",
+        "qtype":"considerations",
+        "question":"O que fazer pelo que preciso saber sobre a hepatite C?",
+        "answer":"- Hepatite C \u00e9 um v\u00edrus, ou infec\u00e7\u00e3o, que causa inflama\u00e7\u00e3o do f\u00edgado. - Qualquer um pode ter hepatite C, mas algumas pessoas s\u00e3o mais propensas que outras. - Voc\u00ea pode pegar hepatite C atrav\u00e9s do contato com uma pessoa infectada sangue. A maioria das pessoas n\u00e3o tem sintomas at\u00e9 que o v\u00edrus da hepatite C cause danos no f\u00edgado, o que pode levar 10 ou mais anos para acontecer. -Veja um m\u00e9dico imediatamente se voc\u00ea ou uma crian\u00e7a no seu cuidado tem sintomas de hepatite C. -A hepatite C aguda \u00e9 uma infec\u00e7\u00e3o de curto prazo com o v\u00edrus da hepatite C. - Hepatite C cr\u00f4nica \u00e9 uma infec\u00e7\u00e3o duradoura com o v\u00edrus da hepatite C. A hepatite C cr\u00f4nica ocorre quando o corpo n\u00e3o consegue se livrar do v\u00edrus da hepatite C. Um exame de sangue mostrar\u00e1 se voc\u00ea tem hepatite C. Muitas pessoas com hepatite C n\u00e3o sabem que est\u00e3o infectadas. A hepatite C geralmente n\u00e3o \u00e9 tratada a menos que se torne cr\u00f4nica. A hepatite C cr\u00f4nica \u00e9 tratada com medicamentos que retardam ou impedem o v\u00edrus de danificar o f\u00edgado. Diga ao seu m\u00e9dico e dentista se voc\u00ea tem hepatite C. O diagn\u00f3stico precoce e o tratamento da hepatite C cr\u00f4nica podem ajudar a prevenir danos hep\u00e1ticos."
+    }
+]

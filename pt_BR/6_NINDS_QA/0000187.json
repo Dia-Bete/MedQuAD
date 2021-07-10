@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000187-1",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da doen\u00e7a de Machado-Joseph?",
+        "answer":"A doen\u00e7a de Lyme \u00e9 causada por um organismo bacteriano que \u00e9 transmitido aos humanos atrav\u00e9s da mordida de um carrapato infectado. A maioria das pessoas com doen\u00e7a de Lyme desenvolvem uma erup\u00e7\u00e3o cut\u00e2nea caracter\u00edstica em torno da \u00e1rea da mordida. A erup\u00e7\u00e3o pode sentir-se quente ao toque, e variar em tamanho, forma e cor, mas muitas vezes ter\u00e1 uma apar\u00eancia de \"olho de bull\" (um anel vermelho com um centro claro). No entanto, h\u00e1 aqueles que n\u00e3o v\u00e3o desenvolver a erup\u00e7\u00e3o cut\u00e2nea, o que pode tornar a doen\u00e7a de Lyme dif\u00edcil de diagnosticar porque seus sintomas e sinais imitam aqueles de muitas outras doen\u00e7as. Em qualquer lugar de 7 a 14 dias (ou em alguns casos, 30 dias) ap\u00f3s a mordida de um carrapato infectado, o primeiro est\u00e1gio da doen\u00e7a de Lyme pode come\u00e7ar com sintomas gripais como febre, arrepios, linfonodos inchados, dores de cabe\u00e7a, fadiga, dores musculares e dor nas articula\u00e7\u00f5es. Complica\u00e7\u00f5es neurol\u00f3gicas ocorrem mais frequentemente no segundo est\u00e1gio da doen\u00e7a de Lyme, com dorm\u00eancia, dor, fraqueza, paralisia de Bell (paralisia dos m\u00fasculos faciais), dist\u00farbios visuais, e sintomas de meningite como febre, rigidez no pesco\u00e7o, e dor de cabe\u00e7a grave. Outros problemas, que podem s\u00f3 aparecer semanas, meses ou anos ap\u00f3s uma mordida de carrapato, incluem diminui\u00e7\u00e3o da concentra\u00e7\u00e3o, irritabilidade, dist\u00farbios de mem\u00f3ria e sono, e danos nos bra\u00e7os e pernas."
+    },
+    {
+        "qid":"0000187-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Machado-Joseph?",
+        "answer":"A doen\u00e7a de Lyme \u00e9 tratada com antibi\u00f3ticos sob a supervis\u00e3o de um m\u00e9dico."
+    },
+    {
+        "qid":"0000187-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a doen\u00e7a de Machado-Joseph?",
+        "answer":"A maioria dos indiv\u00edduos com doen\u00e7a de Lyme responde bem aos antibi\u00f3ticos e tem recupera\u00e7\u00e3o completa. Em uma pequena porcentagem de indiv\u00edduos, os sintomas podem continuar ou recidivar, requerendo tratamento antibi\u00f3tico adicional. Diferentes graus de les\u00e3o articular permanente ou do sistema nervoso podem se desenvolver em indiv\u00edduos com doen\u00e7a de Lyme em est\u00e1gio tardio."
+    },
+    {
+        "qid":"0000187-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a doen\u00e7a de Machado-Joseph?",
+        "answer":"O NINDS apoia a pesquisa sobre a doen\u00e7a de Lyme. As \u00e1reas atuais de interesse incluem melhorar os testes diagn\u00f3sticos e desenvolver tratamentos mais eficazes. O Instituto Nacional de Alergia e Doen\u00e7as Infecciosas (NIAID), o Instituto Nacional de Artrite e Doen\u00e7as Musculoesquel\u00e9ticas e Cut\u00e2neas (NIAMS), e o Centro Nacional de Recursos de Pesquisa (NCRR), todas as partes dos Institutos Nacionais de Sa\u00fade (NIH), tamb\u00e9m apoiam a pesquisa sobre a doen\u00e7a de Lyme."
+    }
+]

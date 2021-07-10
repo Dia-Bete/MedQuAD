@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000546-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) fibromatose hialina juvenil?",
+        "answer":"Fibromatose hialina juvenil \u00e9 um dist\u00farbio que afeta a pele, articula\u00e7\u00f5es e ossos. Indiv\u00edduos com essa condi\u00e7\u00e3o normalmente come\u00e7am a desenvolver sinais e sintomas nos primeiros anos de vida. A fibromatose hialina juvenil \u00e9 caracterizada por bolhas cut\u00e2neas que aparecem frequentemente nas m\u00e3os, pesco\u00e7o, couro cabeludo, orelhas e nariz. Essas manchas cut\u00e2neas tamb\u00e9m podem desenvolver-se em dobras articulares e na regi\u00e3o genital. Eles variam de tamanho e \u00e0s vezes s\u00e3o dolorosos. Indiv\u00edduos afetados geralmente desenvolvem mais batimentos cut\u00e2neos ao longo do tempo. A fibromatose hialina juvenil tamb\u00e9m \u00e9 caracterizada por crescimento excessivo das gengivas (hipertrofia gengival) e deformidades articulares (contraturas) que podem prejudicar o movimento. Al\u00e9m disso, indiv\u00edduos afetados podem crescer lentamente e apresentar anormalidades \u00f3sseas. Pessoas com fibromatose hialina juvenil geralmente t\u00eam severas limita\u00e7\u00f5es f\u00edsicas, mas a maioria dos indiv\u00edduos t\u00eam intelig\u00eancia normal e vivem at\u00e9 a idade adulta."
+    },
+    {
+        "qid":"0000546-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela fibromatose hialina juvenil?",
+        "answer":"A preval\u00eancia de fibromatose hialina juvenil \u00e9 desconhecida. Cerca de 70 pessoas com este dist\u00farbio foram relatadas."
+    },
+    {
+        "qid":"0000546-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 fibromatose hialina juvenil?",
+        "answer":"Muta\u00e7\u00f5es no gene ANTXR2 (tamb\u00e9m conhecido como gene CMG2) causam fibromatose hialina juvenil. O gene ANTXR2 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna envolvida na forma\u00e7\u00e3o de pequenos vasos sangu\u00edneos (capilares). Pesquisadores acreditam que a prote\u00edna ANTXR2 tamb\u00e9m \u00e9 importante para manter a estrutura das membranas do por\u00e3o, que s\u00e3o finas, estruturas semelhantes a folhas que separam e suportam as c\u00e9lulas em muitos tecidos. Os sinais e sintomas da fibromatose hialina juvenil s\u00e3o causados pelo ac\u00famulo de uma subst\u00e2ncia clara (hialina) em diferentes partes do corpo. A natureza desta subst\u00e2ncia n\u00e3o \u00e9 bem conhecida, mas provavelmente \u00e9 composta de prote\u00ednas e mol\u00e9culas de a\u00e7\u00facar. Pesquisadores suspeitam que muta\u00e7\u00f5es no gene ANTXR2 interrompem a forma\u00e7\u00e3o de membranas do por\u00e3o, permitindo que a subst\u00e2ncia hialina vaze e se acumule em v\u00e1rios tecidos corporais."
+    },
+    {
+        "qid":"0000546-4",
+        "qtype":"inheritance",
+        "question":"A fibromatose hialina juvenil \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000546-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a fibromatose hialina juvenil?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da fibromatose hialina juvenil: - Revis\u00e3o gen\u00e9tica: Revis\u00e3o gen\u00e9tica: Hialinose, Sist\u00e9mica Hereda - Registro de Testes Gen\u00e9ticos: S\u00edndrome da fibromatose hialina Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

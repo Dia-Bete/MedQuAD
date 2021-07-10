@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000086-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Degenera\u00e7\u00e3o Corticobasal?",
+        "answer":"A degenera\u00e7\u00e3o corticobasal \u00e9 um dist\u00farbio neurol\u00f3gico progressivo caracterizado pela perda de c\u00e9lulas nervosas e atrofia (atrofia) de m\u00faltiplas \u00e1reas do c\u00e9rebro, incluindo o c\u00f3rtex cerebral e os g\u00e2nglios basais. A degenera\u00e7\u00e3o corticobasal progride gradualmente. Os sintomas iniciais, que normalmente come\u00e7am com ou por volta dos 60 anos, podem aparecer primeiro em um lado do corpo (unilateral), mas eventualmente afetam ambos os lados \u00e0 medida que a doen\u00e7a progride. Os sintomas s\u00e3o semelhantes aos encontrados na doen\u00e7a de Parkinson, tais como m\u00e1 coordena\u00e7\u00e3o, acinesia (aus\u00eancia de movimentos), rigidez (resist\u00eancia ao movimento imposto), desequil\u00edbrio (equil\u00edbrio prejudicado); e distonia de membros ( posturas musculares anormais). Outros sintomas, como defici\u00eancias cognitivas e visuais-espaciais, apraxia (perda da capacidade de fazer movimentos familiares e propositais), hesita\u00e7\u00e3o e interrup\u00e7\u00e3o da fala, mioclono (sacos musculares) e disfagia (dificuldade na degluti\u00e7\u00e3o) tamb\u00e9m podem ocorrer. Um indiv\u00edduo com degenera\u00e7\u00e3o corticobasal eventualmente se torna incapaz de andar."
+    },
+    {
+        "qid":"0000086-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Degenera\u00e7\u00e3o Corticobasal?",
+        "answer":"N\u00e3o h\u00e1 tratamento dispon\u00edvel para atrasar o curso da degenera\u00e7\u00e3o corticobasal, e os sintomas da doen\u00e7a s\u00e3o geralmente resistentes \u00e0 terapia. Drogas usadas para tratar sintomas do tipo Parkinson n\u00e3o produzem nenhuma melhoria significativa ou sustentada. O clonazepam pode ajudar o mioclono. Terapia ocupacional, f\u00edsica e fonoaudiol\u00f3gica pode ajudar na gest\u00e3o da defici\u00eancia."
+    },
+    {
+        "qid":"0000086-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Degenera\u00e7\u00e3o Corticobasal?",
+        "answer":"A degenera\u00e7\u00e3o corticobasal geralmente progride lentamente ao longo de 6 a 8 anos. A morte geralmente \u00e9 causada por pneumonia ou outras complica\u00e7\u00f5es de debilidade grave, como sepse ou embolia pulmonar."
+    },
+    {
+        "qid":"0000086-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a Degenera\u00e7\u00e3o Corticobasal?",
+        "answer":"O NINDS apoia e conduz pesquisas sobre dist\u00farbios degenerativos como a degenera\u00e7\u00e3o corticobasal. Os objetivos desses estudos s\u00e3o aumentar a compreens\u00e3o cient\u00edfica desses dist\u00farbios e encontrar maneiras de preveni-los, tratar e cur\u00e1-los."
+    }
+]

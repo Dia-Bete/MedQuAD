@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0002316-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) tumor da gl\u00e2ndula lacrimal?",
+        "answer":""
+    },
+    {
+        "qid":"0002316-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do tumor da gl\u00e2ndula Lacrimal?",
+        "answer":""
+    },
+    {
+        "qid":"0002316-3",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar o tumor da gl\u00e2ndula lacrimal?",
+        "answer":""
+    },
+    {
+        "qid":"0002316-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o tumor da gl\u00e2ndula Lacrimal?",
+        "answer":""
+    },
+    {
+        "qid":"0002316-5",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o tumor da gl\u00e2ndula Lacrimal?",
+        "answer":""
+    }
+]

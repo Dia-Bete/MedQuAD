@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001315-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a descarga auditiva?",
+        "answer":""
+    },
+    {
+        "qid":"0001315-2",
+        "qtype":"causes",
+        "question":"O que causa a descarga do ouvido?",
+        "answer":""
+    },
+    {
+        "qid":"0001315-3",
+        "qtype":"considerations",
+        "question":"O que fazer para a descarga do ouvido?",
+        "answer":""
+    },
+    {
+        "qid":"0001315-4",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para alta auditiva?",
+        "answer":""
+    },
+    {
+        "qid":"0001315-5",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a alta da orelha?",
+        "answer":""
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000168-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a S\u00edndrome de Kearns-Sayre?",
+        "answer":"A s\u00edndrome de Kearns-Sayre (KSS) \u00e9 uma dist\u00farbio neuromuscular raro com in\u00edcio geralmente antes da idade de 20 anos. \u00c9 o resultado de anormalidades no DNA das mitoc\u00f4ndrias... pequenas estruturas semelhantes a varas encontradas em todas as c\u00e9lulas do corpo que produzem a energia que impulsiona as fun\u00e7\u00f5es celulares. As doen\u00e7as mitocondriais correlacionam com muta\u00e7\u00f5es espec\u00edficas de DNA que causam problemas com muitos dos \u00f3rg\u00e3os e tecidos do corpo. O KSS \u00e9 caracterizado pela limita\u00e7\u00e3o progressiva dos movimentos oculares at\u00e9 que haja imobilidade completa, acompanhada de queda nas p\u00e1lpebras. Tamb\u00e9m est\u00e1 associada com ac\u00famulo anormal de material pigmentado na membrana que revesti os olhos. Sintomas adicionais podem incluir fraqueza do m\u00fasculo esquel\u00e9tico leve, bloqueio card\u00edaco (um defeito de condu\u00e7\u00e3o card\u00edaca), estatura curta, perda auditiva, incapacidade de coordenar movimentos volunt\u00e1rios (ataxia), fun\u00e7\u00e3o cognitiva prejudicada e diabetes. As convuls\u00f5es s\u00e3o pouco frequentes. V\u00e1rios dist\u00farbios end\u00f3crinos podem ser associados ao KSS."
+    },
+    {
+        "qid":"0000168-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a S\u00edndrome de Kearns-Sayre?",
+        "answer":"Atualmente n\u00e3o h\u00e1 nenhuma forma eficaz de tratar as anomalias da mitoc\u00f4ndria no KSS. O tratamento \u00e9 geralmente sintom\u00e1tico e de apoio. O gerenciamento do KSS envolve v\u00e1rias especialidades dependendo dos \u00f3rg\u00e3os envolvidos. O mais essencial \u00e9 um acompanhamento regular e a longo prazo com cardiologistas. Problemas de condu\u00e7\u00e3o de impulso card\u00edaco como bloqueio card\u00edaco podem ser tratados com um marca-passo. Outras consultas podem incluir audiologia, oftalmologia, endocrinologia, neurologia e neuropsiquiatria. Aparelhos auditivos podem ser necess\u00e1rios. Normalmente n\u00e3o h\u00e1 tratamento para limita\u00e7\u00e3o no movimento dos olhos. Anomalias endocrinol\u00f3gicas podem ser tratadas com drogas."
+    },
+    {
+        "qid":"0000168-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a S\u00edndrome de Kearns-Sayre?",
+        "answer":"KSS \u00e9 um desordem progressivo lentamente. O progn\u00f3stico para indiv\u00edduos com SKV varia de acordo com a gravidade e o n\u00famero de \u00f3rg\u00e3os envolvidos. Diagn\u00f3stico precoce e eletrocardiograma peri\u00f3dico (ECG) s\u00e3o importantes j\u00e1 que bloqueio card\u00edaco pode causar morte em 20% dos pacientes. Implanta\u00e7\u00e3o precoce de marca-passo pode ser de grande benef\u00edcio e oferecer uma maior expectativa de vida em muitos pacientes."
+    },
+    {
+        "qid":"0000168-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a S\u00edndrome de Kearns-Sayre?",
+        "answer":"O NINDS apoia pesquisas sobre dist\u00farbios neuromusculares como o KSS. Os objetivos desta pesquisa s\u00e3o aumentar a compreens\u00e3o desses dist\u00farbios, e encontrar maneiras de prevenir, tratar e, em \u00faltima an\u00e1lise, cur\u00e1-los. A abordagem mais promissora para o tratamento no futuro ser\u00e1 alterar a replica\u00e7\u00e3o ou destruir mitoc\u00f4ndrias anormais."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0001858-1",
+        "qtype":"information",
+        "question":"O que \u00e9 um bloqueio card\u00edaco?",
+        "answer":""
+    },
+    {
+        "qid":"0001858-2",
+        "qtype":"causes",
+        "question":"O que causa bloqueio card\u00edaco?",
+        "answer":""
+    },
+    {
+        "qid":"0001858-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do bloqueio card\u00edaco?",
+        "answer":""
+    },
+    {
+        "qid":"0001858-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar bloqueio card\u00edaco?",
+        "answer":""
+    },
+    {
+        "qid":"0001858-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o bloqueio card\u00edaco?",
+        "answer":""
+    },
+    {
+        "qid":"0001858-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o bloqueio do cora\u00e7\u00e3o?",
+        "answer":""
+    },
+    {
+        "qid":"0001858-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es do bloqueio card\u00edaco?",
+        "answer":""
+    },
+    {
+        "qid":"0001858-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para o bloqueio do cora\u00e7\u00e3o?",
+        "answer":""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000514-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dor ou ternura \u00f3ssea?",
+        "answer":""
+    },
+    {
+        "qid":"0000514-2",
+        "qtype":"considerations",
+        "question":"O que fazer para dor ou ternura \u00f3ssea?",
+        "answer":""
+    },
+    {
+        "qid":"0000514-3",
+        "qtype":"causes",
+        "question":"O que causa dor ou ternura \u00f3ssea?",
+        "answer":""
+    },
+    {
+        "qid":"0000514-4",
+        "qtype":"considerations",
+        "question":"O que fazer para dor ou ternura \u00f3ssea?",
+        "answer":""
+    },
+    {
+        "qid":"0000514-5",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para dor ou ternura \u00f3ssea?",
+        "answer":""
+    }
+]

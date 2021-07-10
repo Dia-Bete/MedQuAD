@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000720-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) nephronophthisis?",
+        "answer":"Nefronoftise \u00e9 uma desordem que afeta os rins. \u00c9 caracterizado por inflama\u00e7\u00e3o e cicatrizes (fibrose) que prejudicam a fun\u00e7\u00e3o renal. Essas anormalidades levam ao aumento da produ\u00e7\u00e3o de urina (poli\u00faria), sede excessiva (polidipsia), fraqueza geral e cansa\u00e7o extremo (fadiga). Al\u00e9m disso, indiv\u00edduos afetados desenvolvem cistos cheios de l\u00edquido nos rins, geralmente em uma \u00e1rea conhecida como regi\u00e3o corticomedular. Outra caracter\u00edstica da nefronoftise \u00e9 a escassez de gl\u00f3bulos vermelhos, uma condi\u00e7\u00e3o conhecida como anemia. Nephronophthisis acaba levando \u00e0 doen\u00e7a renal terminal (ESRD), uma falha mortal da fun\u00e7\u00e3o renal que ocorre quando os rins n\u00e3o s\u00e3o mais capazes de filtrar fluidos e res\u00edduos do corpo efetivamente. Nephronophthisis pode ser classificado pela idade aproximada em que a ESRD come\u00e7a: por volta da 1a idade (infantil), por volta da 13a idade (juvenil), e por volta da 19a idade (adolescente). Cerca de 85% de todos os casos de nefronoftise s\u00e3o isolados, o que significa que ocorrem sem outros sinais e sintomas. Algumas pessoas com nefronoftise t\u00eam caracter\u00edsticas adicionais, que podem incluir fibrose hep\u00e1tica, anormalidades card\u00edacas, ou revers\u00e3o da imagem espelho da posi\u00e7\u00e3o de um ou mais \u00f3rg\u00e3os dentro do corpo (situs inversus). Nephronophthisis pode ocorrer como parte de s\u00edndromes separadas que afetam outras \u00e1reas do corpo; estas s\u00e3o frequentemente referidas como ciliopatias associadas \u00e0 nephronophthisis. Por exemplo, a s\u00edndrome de Senior-Lken \u00e9 caracterizada pela combina\u00e7\u00e3o de nefronoftise e uma quebra do tecido sens\u00edvel \u00e0 luz na parte de tr\u00e1s do olho (degenera\u00e7\u00e3o retinal); a s\u00edndrome de Joubert afeta muitas partes do corpo, causando problemas neurol\u00f3gicos e outras caracter\u00edsticas, que podem incluir nefronoftise."
+    },
+    {
+        "qid":"0000720-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela nefronoftise?",
+        "answer":"Nephronophthisis \u00e9 encontrada em popula\u00e7\u00f5es em todo o mundo. Ocorre em 1 em 50 mil rec\u00e9m-nascidos no Canad\u00e1, 1 em 100 mil na Finl\u00e2ndia e 1 em 922.000 nos Estados Unidos. Sua incid\u00eancia em outras popula\u00e7\u00f5es \u00e9 desconhecida. Nephronophthisis \u00e9 a causa gen\u00e9tica mais comum de ESRD em crian\u00e7as e adultos jovens."
+    },
+    {
+        "qid":"0000720-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 nefronoftise?",
+        "answer":"Nephronophthisis tem v\u00e1rias causas gen\u00e9ticas, que s\u00e3o usadas para dividir a condi\u00e7\u00e3o em tipos distintos. Nephronophthisis tipo 1, que \u00e9 o tipo mais comum do dist\u00farbio e uma causa de nephronophthisis juvenil, resulta de mudan\u00e7as afetando o gene NPHP1. As prote\u00ednas produzidas a partir do NPHP1 e os outros genes envolvidos na nefronoftise s\u00e3o conhecidos ou suspeitos de desempenhar pap\u00e9is em estruturas celulares chamadas cilia. C\u00edlias s\u00e3o microsc\u00f3picas, como proje\u00e7\u00f5es de dedos que saem da superf\u00edcie das c\u00e9lulas e est\u00e3o envolvidas na sinaliza\u00e7\u00e3o qu\u00edmica. C\u00edlias s\u00e3o importantes para a estrutura e fun\u00e7\u00e3o de muitos tipos de c\u00e9lulas e tecidos, incluindo c\u00e9lulas nos rins, f\u00edgado e c\u00e9rebro e o tecido sens\u00edvel \u00e0 luz na parte de tr\u00e1s do olho (a retina). As muta\u00e7\u00f5es gen\u00e9ticas envolvidas na nefronoftise s\u00e3o consideradas para prejudicar a estrutura ou fun\u00e7\u00e3o da c\u00edlia de alguma forma, o que provavelmente interrompe importantes vias de sinaliza\u00e7\u00e3o qu\u00edmica durante o desenvolvimento. Embora os pesquisadores acreditem que a c\u00edlia defeituosa leva \u00e0s caracter\u00edsticas da nefronoftise, o mecanismo ainda n\u00e3o est\u00e1 claro. Desconhece-se por que algumas pessoas com muta\u00e7\u00f5es em genes associados \u00e0 nefronoftisis t\u00eam apenas problemas renais, enquanto outras desenvolvem sinais e sintomas adicionais."
+    },
+    {
+        "qid":"0000720-4",
+        "qtype":"inheritance",
+        "question":"Nephronophthisis \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000720-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a nefronoftise?",
+        "answer":"Estes recursos abordam o diagn\u00f3stico ou gerenciamento da nefronoftise: - Registro de Testes Gen\u00e9ticos: Nefronoftise Adolescente - Registro de Testes Gen\u00e9ticos: Nefronoftise Infantil - Registro de Testes Gen\u00e9ticos: Nefronoftise - Registro de Testes Gen\u00e9ticos: Nefronoftise 1 - Registro de Testes Gen\u00e9ticos: Nefronoftise 11 - Registro de Testes Gen\u00e9ticos: Nefronoftise 12 - Registro de Testes Gen\u00e9ticos: Nefronoftise 14 - Registro de Testes Gen\u00e9ticos: Nefronoftise 15 - Registro de Testes Gen\u00e9ticos: Nefronoftise 16 - Registro de Testes Gen\u00e9ticos: Nefronoftise 18 - Registro de Testes Gen\u00e9ticos: Nefronoftise 4 - Registro de Testes Gen\u00e9ticos: Nefronoftise 7 - Registro de Testes Gen\u00e9ticos: Nefronoftise 9 - Edi\u00e7\u00e3o Profissional de Merck Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o gerenciamento de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes de Diagn\u00f3stico - Terapia - Cirurgia e Reabilita\u00e7\u00e3o Gen\u00e9tica"
+    }
+]

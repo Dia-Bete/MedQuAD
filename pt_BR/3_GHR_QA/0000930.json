@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000930-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) paraplegia esp\u00e1stica tipo 4?",
+        "answer":"Paraplegia espasm\u00e1tica tipo 4 faz parte de um grupo de dist\u00farbios gen\u00e9ticos conhecidos como paraplegias espasm\u00e1ticas heredit\u00e1rias. Esses dist\u00farbios s\u00e3o caracterizados por rigidez muscular progressiva (espasticidade) e o desenvolvimento de paralisia dos membros inferiores (paraplegia). Paraplegias espasm\u00e1ticas heredit\u00e1rias s\u00e3o divididas em dois tipos: puros e complexos. Os tipos puros envolvem apenas os membros inferiores, enquanto os tipos complexos tamb\u00e9m envolvem os membros superiores (em menor grau) e o sistema nervoso. Paraplegia esp\u00e1stica tipo 4 \u00e9 uma pura paraplegia esp\u00e1stica heredit\u00e1ria. Como todas as paraplegias espasm\u00e1ticas heredit\u00e1rias, a paraplegia espasm\u00e1tica tipo 4 envolve espasticidade dos m\u00fasculos da perna e fraqueza muscular. Pessoas com essa condi\u00e7\u00e3o tamb\u00e9m podem experimentar reflexos exagerados (hiperreflexia), espasmos no tornozelo, p\u00e9s com arquid\u00f5es altos (pes cavus), e controle da bexiga reduzido. A paraplegia esp\u00e1stica tipo 4 geralmente afeta a fun\u00e7\u00e3o nervosa e muscular apenas na parte inferior do corpo."
+    },
+    {
+        "qid":"0000930-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por paraplegia esp\u00e1stica tipo 4?",
+        "answer":"A preval\u00eancia de paraplegia esp\u00e1stica tipo 4 \u00e9 estimada em 2 a 6 em 100.000 pessoas em todo o mundo."
+    },
+    {
+        "qid":"0000930-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 paraplegia esp\u00e1stica tipo 4?",
+        "answer":"Muta\u00e7\u00f5es no gene ESPAST causam paraplegia esp\u00e1stica tipo 4. O gene Spast fornece instru\u00e7\u00f5es para produzir uma prote\u00edna chamada spastin. Spastin \u00e9 encontrado em todo o corpo, particularmente em certas c\u00e9lulas nervosas (neur\u00f4nios). A prote\u00edna de spastina desempenha um papel na fun\u00e7\u00e3o de microt\u00fabulos, que s\u00e3o fibras r\u00edgidas e ocas que comp\u00f5em a estrutura estrutural da c\u00e9lula (o citoesqueleto). Microtubulos tamb\u00e9m est\u00e3o envolvidos no transporte de componentes celulares e facilitando a divis\u00e3o celular. Spastin provavelmente ajuda a restringir o comprimento do microt\u00fabulo e desmontar estruturas de microt\u00fabulo quando n\u00e3o s\u00e3o mais necess\u00e1rios. Muta\u00e7\u00f5es na espastina prejudicam a capacidade dos microt\u00fabulos de transportar componentes celulares, especialmente em c\u00e9lulas nervosas; pesquisadores acreditam que isso contribui para os principais sinais e sintomas da paraplegia esp\u00e1stica tipo 4."
+    },
+    {
+        "qid":"0000930-4",
+        "qtype":"inheritance",
+        "question":"A paraplegia esp\u00e1stica tipo 4 \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Na maioria dos casos, uma pessoa afetada herda a muta\u00e7\u00e3o de um pai afetado. Os casos restantes podem resultar de novas muta\u00e7\u00f5es no gene. Esses casos ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia."
+    },
+    {
+        "qid":"0000930-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para paraplegia esp\u00e1stica tipo 4?",
+        "answer":"Estes recursos abordam o diagn\u00f3stico ou manejo de paraplegia esp\u00e1stica tipo 4: - Revis\u00e3o gen\u00e9tica: Revis\u00e3o gen\u00e9tica: Paraplegia esp\u00e1stica heredit\u00e1ria Vis\u00e3o geral - Revis\u00e3o gen\u00e9tica: Revis\u00e3o gen\u00e9tica: Paraplegia esp\u00e1stica 4 - Registro de testes gen\u00e9ticos: Paraplegia esp\u00e1stica 4, dominante autoss\u00f4mica - Funda\u00e7\u00e3o Spastic Paraplegia, Inc.: Tratamentos e terapias Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o gerenciamento de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento gen\u00e9tico - Cuidados paliativos"
+    }
+]

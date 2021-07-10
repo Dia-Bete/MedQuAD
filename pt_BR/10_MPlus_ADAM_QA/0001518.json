@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0001518-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o os tiques faciais?",
+        "answer":""
+    },
+    {
+        "qid":"0001518-2",
+        "qtype":"causes",
+        "question":"O que causa tics faciais?",
+        "answer":""
+    },
+    {
+        "qid":"0001518-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas dos tiques faciais?",
+        "answer":""
+    },
+    {
+        "qid":"0001518-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar os tiques faciais?",
+        "answer":""
+    },
+    {
+        "qid":"0001518-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para tics faciais?",
+        "answer":""
+    },
+    {
+        "qid":"0001518-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva dos tics faciais?",
+        "answer":""
+    },
+    {
+        "qid":"0001518-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es dos tiques faciais?",
+        "answer":""
+    },
+    {
+        "qid":"0001518-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para tics faciais?",
+        "answer":""
+    },
+    {
+        "qid":"0001518-9",
+        "qtype":"prevention",
+        "question":"Como prevenir tics faciais?",
+        "answer":""
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0004303-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Naegeli?",
+        "answer":"A s\u00edndrome de Naegeli pertence a um grupo de disfun\u00e7\u00f5es conhecidas como displasias ectod\u00e9rmicas. Esta condi\u00e7\u00e3o \u00e9 caracterizada por impress\u00f5es digitais ausentes, espessamento das palmas e solas (queratoderma palmoplantar), diminui\u00e7\u00e3o da suda\u00e7\u00e3o (hipohidrose), intoler\u00e2ncia ao calor, manchas de pele mais escura (hiperpigmentada), unhas quebradi\u00e7as, dentes anormalmente coloridos, e perda precoce de dentes. A s\u00edndrome de Naegeli \u00e9 causada por muta\u00e7\u00f5es no gene KRT14 e herdada de uma forma autoss\u00f4mica dominante. O tratamento \u00e9 baseado nos sintomas de um indiv\u00edduo."
+    },
+    {
+        "qid":"0004303-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome de Naegeli?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da s\u00edndrome de Naegeli? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para a s\u00edndrome de Naegeli. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Anormalidade do esmalte dent\u00e1rio 90% Anormalidade das unhas 90% Anormalidade das unhas dos p\u00e9s 90% Hiperpigmenta\u00e7\u00e3o irregular 90% Ceratoderma palmoplantar 90% Heran\u00e7a dominante autoss\u00f4mica - Dentes carinhosos - Unhas fr\u00e1geis - Intoler\u00e2ncia ao calor - Hipohidrose - Perda precoce dos dentes - Hiperpigmenta\u00e7\u00e3o reticular - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0004303-3",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a s\u00edndrome de Naegeli?",
+        "answer":"Como \u00e9 diagnosticada a s\u00edndrome de Naegeli? Na maioria dos casos da s\u00edndrome de Naegeli, um diagn\u00f3stico \u00e9 feito com base nas caracter\u00edsticas cl\u00ednicas t\u00edpicas dessa condi\u00e7\u00e3o. O diagn\u00f3stico cl\u00ednico pode ser confirmado por testes gen\u00e9ticos do gene KRT14. GeneTests lista um laborat\u00f3rio que faz testes gen\u00e9ticos do gene KRT14. Se voc\u00ea est\u00e1 interessado em testes gen\u00e9ticos para esta condi\u00e7\u00e3o, recomendamos que voc\u00ea consulte um profissional de gen\u00e9tica."
+    },
+    {
+        "qid":"0004303-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Naegeli?",
+        "answer":"Existe um tratamento para a s\u00edndrome de Naegeli? O tratamento para a s\u00edndrome de Naegeli \u00e9 baseado nos sintomas de um indiv\u00edduo. A pele seca pode ser hidratada com cremes. Para evitar o sobreaquecimento, os indiv\u00edduos afetados devem usar roupas apropriadas e usar curativos molhados. Cuidados dent\u00e1rios s\u00e3o necess\u00e1rios tratar cavidades e perda de dentes."
+    }
+]

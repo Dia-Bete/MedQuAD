@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001044-1",
+        "qtype":"information",
+        "question":"O que \u00e9 uma cong\u00eanita de hipoplasia adrenal ligada a X?",
+        "answer":"A hipoplasia adrenal cong\u00eanita ligada a X \u00e9 um dist\u00farbio que afeta principalmente os homens. Envolve muitos tecidos horm\u00f4nio-produtores (endocrinos) no corpo, particularmente um par de gl\u00e2ndulas pequenas em cima de cada rim chamadas gl\u00e2ndulas adrenais. Essas gl\u00e2ndulas produzem uma variedade de horm\u00f4nios que regulam muitas fun\u00e7\u00f5es essenciais no corpo. Um dos principais sinais deste dist\u00farbio \u00e9 a insufici\u00eancia suprarrenal, que ocorre quando as gl\u00e2ndulas suprarrenais n\u00e3o produzem horm\u00f4nios suficientes. A insufici\u00eancia suprarrenal normalmente come\u00e7a na inf\u00e2ncia ou na inf\u00e2ncia e pode causar v\u00f3mitos, dificuldade em alimentar, desidrata\u00e7\u00e3o, a\u00e7\u00facar no sangue extremamente baixo (hipoglicemia) e choque. Se n\u00e3o tratadas, essas complica\u00e7\u00f5es s\u00e3o muitas vezes amea\u00e7adoras de vida. Machos afetados tamb\u00e9m podem ter uma escassez de horm\u00f4nios sexuais masculinos, o que leva a tecidos reprodutivos subdesenvolvidos, test\u00edculos n\u00e3o descendentes (crigorquidismo), puberdade atrasada, e uma incapacidade de ter filhos ( infertilidade). Juntos, essas caracter\u00edsticas s\u00e3o conhecidas como hipogonadismo hipogonadotr\u00f3pico. O in\u00edcio e a gravidade desses sinais e sintomas podem variar, mesmo entre os membros afetados da mesma fam\u00edlia."
+    },
+    {
+        "qid":"0001044-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela hipoplasia adrenal cong\u00eanita?",
+        "answer":"A hipoplasia adrenal ligada a X \u00e9 estimada em afetar 1 em 12.500 rec\u00e9m-nascidos."
+    },
+    {
+        "qid":"0001044-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 hipoplasia adrenal cong\u00eanita ligada a X?",
+        "answer":"Muta\u00e7\u00f5es no gene NR0B1 causam hipoplasia adrenal ligada a X cong\u00eanita. O gene NR0B1 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada DAX1. Esta prote\u00edna desempenha um papel importante no desenvolvimento e na fun\u00e7\u00e3o de v\u00e1rios tecidos horm\u00f4nios (endocrinos), incluindo as gl\u00e2ndulas suprarrenais, duas gl\u00e2ndulas horm\u00f4nio-secretoras no c\u00e9rebro (o hipot\u00e1lamo e a pituit\u00e1ria), e as g\u00f4nadas (ov\u00e1rios em f\u00eameas e test\u00edculos em machos). Os horm\u00f4nios produzidos por essas gl\u00e2ndulas controlam muitas fun\u00e7\u00f5es importantes do corpo. Algumas muta\u00e7\u00f5es NR0B1 resultam na produ\u00e7\u00e3o de uma vers\u00e3o inativa da prote\u00edna DAX1, enquanto outras muta\u00e7\u00f5es excluem todo o gene. A escassez resultante de DAX1 interrompe o desenvolvimento normal e a fun\u00e7\u00e3o dos tecidos que produzem hormonas no corpo. Os sinais e sintomas de insufici\u00eancia suprarrenal e hipogonadismo hipogonadotr\u00f3pico ocorrem quando gl\u00e2ndulas end\u00f3crinas n\u00e3o produzem as quantidades certas de certos horm\u00f4nios."
+    },
+    {
+        "qid":"0001044-4",
+        "qtype":"inheritance",
+        "question":"A hipoplasia adrenal ligada a X \u00e9 cong\u00eanita herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o recessivo ligado a X. Uma condi\u00e7\u00e3o \u00e9 considerada ligada a X se o gene mutado que causa a desordem est\u00e1 localizado no cromossomo X, um dos dois cromossomos sexuais. Em machos (que t\u00eam apenas um cromossomo X), uma c\u00f3pia alterada do gene em cada c\u00e9lula \u00e9 suficiente para causar a condi\u00e7\u00e3o. Em f\u00eameas (que t\u00eam dois cromossomos X), uma muta\u00e7\u00e3o deve estar presente em ambas as c\u00f3pias do gene para causar a desordem. Os homens s\u00e3o afetados por dist\u00farbios recessivos ligados a X muito mais freq\u00fcentemente que as f\u00eameas. Uma caracter\u00edstica da heran\u00e7a ligada a X \u00e9 que os pais n\u00e3o podem passar os tra\u00e7os ligados a X para seus filhos. Na heran\u00e7a recessiva ligada a X, uma f\u00eamea com uma c\u00f3pia mutada do gene em cada c\u00e9lula \u00e9 chamada de portadora. Ela pode transmitir o gene alterado, mas geralmente n\u00e3o experimenta sinais e sintomas do dist\u00farbio. Em casos raros, no entanto, as f\u00eameas portadoras de muta\u00e7\u00e3o NR0B1 podem experimentar insufici\u00eancia adrenal ou sinais de hipogonadismo hipogonadotr\u00f3pico como tecidos reprodutivos subdesenvolvidos, puberdade retardada e aus\u00eancia de menstrua\u00e7\u00e3o."
+    },
+    {
+        "qid":"0001044-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para hipoplasia adrenal ligada a X cong\u00eanita?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da hipoplasia adrenal ligada a X congenita: - Gene Review: Gene Review: X-Linked Hipoplasia Adrenal Congenita - Gene Testing Registry: Congenital adrenal hypoplasia, X-linked - MedlinePlus Enciclopedia: Adrenal Glands - MedlinePlus Enciclopedia: Hipogonadismo Hipogonadismo Hipogonadismo Hipogonadismo Hipogonadismo Hipogonadismo Hipogonadismo Hipogonadismo Hipogonadismo Hipogonadismo Hipogonadismo Hipogonadismo Hipogonadismo Hipogonadismo Hipogonadismo Hipogonadismo Hipogonadismo Hipoplasia Adrenal Adrenal Ligado a MedlinePlus"
+    }
+]

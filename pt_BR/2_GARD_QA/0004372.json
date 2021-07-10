@@ -1,0 +1,14 @@
+[
+    {
+        "qid":"0004372-1",
+        "qtype":"information",
+        "question":"O que \u00e9 neurofibromatose?",
+        "answer":"A neurofibromatose (NF) \u00e9 uma condi\u00e7\u00e3o gen\u00e9tica que faz com que os tumores se desenvolvam no sistema nervoso. H\u00e1 tr\u00eas tipos de neurofibromatose que est\u00e3o associados a sinais e sintomas \u00fanicos: neurofibromatose tipo 1 (NF1) causa altera\u00e7\u00f5es cut\u00e2neas (malhas de caf\u00e9-au-lait, picadas na axila e \u00e1rea da virilha); anormalidades \u00f3sseas; gliomas \u00f3pticos; e tumores no tecido nervoso ou sob a pele. Os sinais e sintomas geralmente est\u00e3o presentes ao nascer. Neurofibromatose tipo 2 (NF2) causa neuromas ac\u00fasticos; perda auditiva; zumbido nos ouvidos; mau equil\u00edbrio; tumores cerebrais e/ou espinhal; e cataratas em uma idade jovem. Muitas vezes come\u00e7a nos anos de adolesc\u00eancia. Schwannomatose causa schwannomas, dor, dorm\u00eancia e fraqueza. \u00c9 o tipo mais raro. Os tr\u00eas tipos de NF s\u00e3o herdados de uma forma autoss\u00f4mica dominante. N\u00e3o h\u00e1 cura para a neurofibromatose. O tratamento tem como objetivo controlar os sintomas e pode incluir cirurgia para remover tumores, radioterapia e/ou medicamentos."
+    },
+    {
+        "qid":"0004372-2",
+        "qtype":"inheritance",
+        "question":"A neurofibromatose \u00e9 herdada?",
+        "answer":"A neurofibromatose \u00e9 herdada? A neurofibromatose \u00e9 herdada de uma forma autoss\u00f4mica dominante. Isso significa que para ser afetado, uma pessoa s\u00f3 precisa de uma mudan\u00e7a (muta\u00e7\u00e3o) em uma c\u00f3pia do gene respons\u00e1vel em cada c\u00e9lula. Em alguns casos, uma pessoa afetada herda a muta\u00e7\u00e3o de um pai afetado. Outros casos podem resultar de novas muta\u00e7\u00f5es (de novo) no gene. Esses casos ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia. Uma pessoa com neurofibromatose tem 50% de chance em cada gravidez de passar o gene alterado para seu filho."
+    }
+]

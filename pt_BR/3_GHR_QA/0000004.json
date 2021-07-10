@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000004-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) acatalasemia?",
+        "answer":"A catalasemia \u00e9 uma condi\u00e7\u00e3o caracterizada por n\u00edveis muito baixos de uma enzima chamada catalase. Muitas pessoas com acatasemia nunca t\u00eam problemas de sa\u00fade relacionados \u00e0 condi\u00e7\u00e3o e s\u00e3o diagnosticadas porque afetaram membros da fam\u00edlia. Alguns dos primeiros indiv\u00edduos relatados com acatalasemia desenvolveram feridas abertas (ulceras) dentro da boca que levaram \u00e0 morte de tecido mole (gangreno). Quando \u00falceras bucais e gangrena ocorrem com catalasemia, a condi\u00e7\u00e3o \u00e9 conhecida como doen\u00e7a de Takahara. Essas complica\u00e7\u00f5es raramente s\u00e3o observadas em casos mais recentes de acatasemia, provavelmente devido a melhorias na higiene bucal. Estudos sugerem que pessoas com acatalasemia t\u00eam um risco aumentado de desenvolver diabetes mellitus tipo 2, que \u00e9 a forma mais comum de diabetes. Uma porcentagem maior de pessoas com acatasemia t\u00eam diabetes mellitus tipo 2 do que na popula\u00e7\u00e3o em geral, e a doen\u00e7a tende a se desenvolver em uma idade mais precoce (em 30 ou 40 anos de uma pessoa, em m\u00e9dia). Pesquisadores especulam que a acatasemia tamb\u00e9m pode ser um fator de risco para outras doen\u00e7as comuns e complexas; no entanto, apenas um pequeno n\u00famero de casos foram estudados."
+    },
+    {
+        "qid":"0000004-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por catalasemia?",
+        "answer":"Mais de 100 casos de acatasemia foram relatados na literatura m\u00e9dica. Pesquisadores estimam que a condi\u00e7\u00e3o ocorre em cerca de 1 em 12.500 pessoas no Jap\u00e3o, 1 em 20.000 pessoas na Hungria, e 1 em 25.000 pessoas na Su\u00ed\u00e7a. A preval\u00eancia de acatasemia em outras popula\u00e7\u00f5es \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000004-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 acatasemia?",
+        "answer":"Muta\u00e7\u00f5es no gene CAT podem causar acatasemia. Este gene fornece instru\u00e7\u00f5es para fazer a enzima catalase, que descomp\u00f5e mol\u00e9culas de per\u00f3xido de hidrog\u00eanio em oxig\u00eanio e \u00e1gua. O per\u00f3xido de hidr\u00f3geno \u00e9 produzido atrav\u00e9s de rea\u00e7\u00f5es qu\u00edmicas dentro das c\u00e9lulas. Em n\u00edveis baixos, est\u00e1 envolvido em v\u00e1rias vias de sinaliza\u00e7\u00e3o qu\u00edmica, mas em n\u00edveis elevados \u00e9 t\u00f3xico para as c\u00e9lulas. Se o per\u00f3xido de hidrog\u00eanio n\u00e3o \u00e9 decomposto pela catalase, rea\u00e7\u00f5es adicionais o convertem em compostos chamados esp\u00e9cies reativas de oxig\u00eanio que podem danificar DNA, prote\u00ednas e membranas celulares. Muta\u00e7\u00f5es no gene CAT reduzem grandemente a atividade da catalase. Uma escassez desta enzima pode permitir que o per\u00f3xido de hidrog\u00eanio se acumule at\u00e9 n\u00edveis t\u00f3xicos em certas c\u00e9lulas. Por exemplo, o per\u00f3xido de hidrog\u00eanio produzido por bact\u00e9rias na boca pode acumular e danificar os tecidos moles, levando a \u00falceras bucais e gangrena. Uma acumula\u00e7\u00e3o de per\u00f3xido de hidrog\u00eanio tamb\u00e9m pode danificar as c\u00e9lulas beta do p\u00e2ncreas, que liberam um horm\u00f4nio chamado insulina que ajuda a controlar o a\u00e7\u00facar no sangue. C\u00e9lulas beta que funcionam mal s\u00e3o consideradas subjacentes ao aumento do risco de diabetes mellitus tipo 2 em pessoas com acatalasemia. N\u00e3o est\u00e1 claro por que algumas pessoas n\u00e3o t\u00eam problemas de sa\u00fade associados a uma perda de atividade catalase. Muitas pessoas com atividade de catalase reduzida n\u00e3o t\u00eam uma muta\u00e7\u00e3o identificada no gene CAT; nestes casos, a causa da condi\u00e7\u00e3o \u00e9 desconhecida. Pesquisadores acreditam que outros fatores gen\u00e9ticos e ambientais tamb\u00e9m podem influenciar a atividade da catalase."
+    },
+    {
+        "qid":"0000004-4",
+        "qtype":"inheritance",
+        "question":"A acatalasemia \u00e9 herdada?",
+        "answer":"A catalasemia tem um padr\u00e3o autoss\u00f4mico recessivo de heran\u00e7a, o que significa que ambas as c\u00f3pias do gene CAT em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Quando ambas as c\u00f3pias do gene s\u00e3o alteradas, a atividade da catalase \u00e9 reduzida para menos de 10% do normal. Quando apenas uma das duas c\u00f3pias do gene CAT tem uma muta\u00e7\u00e3o, a atividade da catalase \u00e9 reduzida aproximadamente pela metade. Esta redu\u00e7\u00e3o na atividade da catalase \u00e9 muitas vezes chamada de hipocatalasemia. Como acatalasemia, a hipocatalasemia geralmente n\u00e3o causa problemas de sa\u00fade."
+    },
+    {
+        "qid":"0000004-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para acatasemia?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo de acatalasemia: - Registro de Testes Gen\u00e9ticos: Acatalasemia - Registro de Testes Gen\u00e9ticos: Acatalasemia, tipo japon\u00eas Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

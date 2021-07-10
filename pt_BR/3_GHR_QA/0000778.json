@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000778-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) leucemia eosinof\u00edlica cr\u00f4nica associada ao PDGFRB?",
+        "answer":"A leucemia eosinof\u00edlica cr\u00f4nica associada ao PDGFRB \u00e9 um tipo de c\u00e2ncer de c\u00e9lulas formadoras de sangue. \u00c9 caracterizado por um n\u00famero elevado de gl\u00f3bulos brancos chamados eosin\u00f3filos no sangue. Essas c\u00e9lulas ajudam a combater infec\u00e7\u00f5es por certos parasitas e est\u00e3o envolvidas na inflama\u00e7\u00e3o associada a rea\u00e7\u00f5es al\u00e9rgicas. No entanto, essas circunst\u00e2ncias n\u00e3o explicam o aumento do n\u00famero de eosin\u00f3filos na leucemia eosinof\u00edlica cr\u00f4nica associada ao PDGFRB. Algumas pessoas com essa condi\u00e7\u00e3o t\u00eam um n\u00famero aumentado de outros tipos de gl\u00f3bulos brancos, como neutr\u00f3filos ou mast\u00f3citos, al\u00e9m de eosin\u00f3filos. Pessoas com esta condi\u00e7\u00e3o podem ter um aumento do ba\u00e7o (esplenomegalia) ou aumento do f\u00edgado (hepatomegalia). Alguns indiv\u00edduos afetados desenvolvem erup\u00e7\u00f5es cut\u00e2neas, provavelmente como resultado de uma resposta imune anormal devido ao aumento do n\u00famero de eosin\u00f3filos."
+    },
+    {
+        "qid":"0000778-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela leucemia eosinof\u00edlica cr\u00f4nica associada ao PDGFRB?",
+        "answer":"A preval\u00eancia exata de leucemia eosinof\u00edlica cr\u00f4nica associada ao PDGFRB \u00e9 desconhecida. Por raz\u00f5es desconhecidas, os machos s\u00e3o at\u00e9 nove vezes mais propensos que as f\u00eameas a desenvolver leucemia eosinof\u00edlica cr\u00f4nica associada ao PDGFRB."
+    },
+    {
+        "qid":"0000778-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 leucemia eosinof\u00edlica cr\u00f4nica associada ao PDGFRB?",
+        "answer":"A leucemia cr\u00f4nica eosinof\u00edlica associada ao PDGFRB \u00e9 causada por rearranjos gen\u00e9ticos que unem parte do gene PDGFRB com parte de outro gene. Pelo menos 20 genes foram encontrados que se fundem com o gene PDGFRB para causar leucemia eosinof\u00edlica cr\u00f4nica associada ao PDGFRB. A anormalidade gen\u00e9tica mais comum nesta condi\u00e7\u00e3o resulta de um rearranjo (transloca\u00e7\u00e3o) do material gen\u00e9tico que traz parte do gene PDGFRB no cromossomo 5 juntamente com parte do gene ETV6 no cromossomo 12, criando o gene de fus\u00e3o ETV6-PDGFRB. O gene PDGFRB fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que desempenha um papel na ativa\u00e7\u00e3o (ativa\u00e7\u00e3o) vias de sinaliza\u00e7\u00e3o que controlam muitos processos celulares, incluindo crescimento celular e divis\u00e3o (prolifera\u00e7\u00e3o). O gene ETV6 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que desliga (reprime) a atividade do gene. Esta prote\u00edna \u00e9 importante no desenvolvimento antes do nascimento e na regula\u00e7\u00e3o da forma\u00e7\u00e3o de c\u00e9lulas sangu\u00edneas. A prote\u00edna produzida a partir do gene de fus\u00e3o ETV6-PDGFRB, chamado ETV6/PDGFR, funciona de forma diferente das prote\u00ednas normalmente produzidas a partir dos genes individuais. Como a prote\u00edna PDGFR normal, a prote\u00edna de fus\u00e3o ETV6/PDGFR liga as vias de sinaliza\u00e7\u00e3o. No entanto, a prote\u00edna de fus\u00e3o n\u00e3o precisa ser ligada para ser ativa, ent\u00e3o as vias de sinaliza\u00e7\u00e3o s\u00e3o constantemente ligadas (ativadas constitutivamente). A prote\u00edna de fus\u00e3o \u00e9 incapaz de reprimir a atividade g\u00eanica regulada pela prote\u00edna normal ETV6, ent\u00e3o a atividade g\u00eanica \u00e9 aumentada. As vias de sinaliza\u00e7\u00e3o constitutivamente ativas e atividade gen\u00e9tica anormal aumentam a prolifera\u00e7\u00e3o e sobreviv\u00eancia das c\u00e9lulas. Quando a muta\u00e7\u00e3o do gene de fus\u00e3o ETV6-PDGFRB ocorre em c\u00e9lulas que se desenvolvem em c\u00e9lulas sangu\u00edneas, o crescimento de eosin\u00f3filos (e ocasionalmente outras c\u00e9lulas sangu\u00edneas, como neutr\u00f3filos e mast\u00f3citos) \u00e9 mal controlado, levando \u00e0 leucemia eosinof\u00edlica cr\u00f4nica associada ao PDGFRB. N\u00e3o est\u00e1 claro por que os eosin\u00f3filos s\u00e3o preferencialmente afetados por essa mudan\u00e7a gen\u00e9tica."
+    },
+    {
+        "qid":"0000778-4",
+        "qtype":"inheritance",
+        "question":"A leucemia eosinof\u00edlica cr\u00f4nica associada ao PDGFRB \u00e9 herdada?",
+        "answer":"A leucemia cr\u00f4nica eosinof\u00edlica associada ao PDGFRB n\u00e3o \u00e9 herdada e ocorre em pessoas sem hist\u00f3rico da condi\u00e7\u00e3o em suas fam\u00edlias. Rearranjos cromoss\u00f4micos que levam a um gene de fus\u00e3o PDGFRB s\u00e3o muta\u00e7\u00f5es som\u00e1ticas, que s\u00e3o muta\u00e7\u00f5es adquiridas durante a vida de uma pessoa e presentes apenas em certas c\u00e9lulas. A muta\u00e7\u00e3o som\u00e1tica ocorre inicialmente em uma \u00fanica c\u00e9lula, que continua a crescer e dividir, produzindo um grupo de c\u00e9lulas com a mesma muta\u00e7\u00e3o (uma popula\u00e7\u00e3o clonal)."
+    },
+    {
+        "qid":"0000778-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a leucemia eosinof\u00edlica cr\u00f4nica associada ao PDGFRB?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da leucemia eosinof\u00edlica cr\u00f4nica associada ao PDGFRB: - Cancer.Net: Leucemia--Eosinof\u00edlica: Tratamento - Registro de Testes Gen\u00e9ticos: Dist\u00farbio mieloproliferativo, cr\u00f4nico, com eosinofilia - MedlinePlus Enciclopedia: Eosin\u00f3filos Conte--Absoluto - Seattle Cancer Care Alliance: Hipereosinofilia Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

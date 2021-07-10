@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0003626-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Lipedema?",
+        "answer":"Lipedema \u00e9 uma s\u00edndrome caracterizada por aumento sim\u00e9trico das pernas devido a dep\u00f3sitos de gordura sob a pele, o que muitas vezes \u00e9 doloroso. \u00c9 uma condi\u00e7\u00e3o comum afetando at\u00e9 11% das mulheres A causa subjacente \u00e9 atualmente desconhecida; no entanto, muitas pessoas com lipodema t\u00eam um hist\u00f3rico familiar de pernas igualmente ampliadas. Horm\u00f4nios tamb\u00e9m s\u00e3o pensados para desempenhar um papel."
+    },
+    {
+        "qid":"0003626-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas de Lipedema?",
+        "answer":"Quais s\u00e3o os sinais e sintomas do lipedema? Sinais e sintomas de lipedema incluem pernas ampliadas que se estendem das n\u00e1degas aos tornozelos. Este alargamento pode ser doloroso. O tamanho das pernas s\u00e3o tipicamente desproporcionados com a parte superior do corpo (apesar dos indiv\u00edduos IMC). Os p\u00e9s est\u00e3o muito menos envolvidos ou poupados inteiramente. No lipodema, a pele n\u00e3o parece verrugada, dura (escler\u00f3tica), ou descolorada. Lipedema n\u00e3o \u00e9 pensado para predispor uma pessoa ao desenvolvimento de \u00falceras. Pessoas com lipedema podem tender a machucar facilmente, possivelmente devido ao aumento da fragilidade de pequenos vasos sangu\u00edneos dentro do tecido adiposo."
+    },
+    {
+        "qid":"0003626-3",
+        "qtype":"causes",
+        "question":"O que causa Lipedema?",
+        "answer":"O que causa o lipedema? A causa do lipedema \u00e9 desconhecida. As hormonas parecem desempenhar um papel, especialmente considerando que a condi\u00e7\u00e3o ocorre quase inteiramente nas f\u00eameas e muitas vezes se desenvolve ap\u00f3s a puberdade ou outros per\u00edodos de altera\u00e7\u00e3o hormonal (por exemplo, gravidez, menopausa). Embora as pessoas que s\u00e3o obesas possam estar super-representadas entre aqueles com lipedema, pessoas de peso normal tamb\u00e9m s\u00e3o comumente afetadas. Como resultado, \u00e9 improv\u00e1vel que a obesidade seja um dos principais determinantes desta s\u00edndrome. Muitas pessoas com lipedema t\u00eam um hist\u00f3rico familiar de pernas igualmente ampliadas. Neste momento, o papel da gen\u00e9tica na causalidade do lipedema \u00e9 desconhecido."
+    },
+    {
+        "qid":"0003626-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Lipedema?",
+        "answer":"Como pode ser tratado o lipedema? As op\u00e7\u00f5es de tratamento para o lipedema s\u00e3o limitadas. Uma s\u00e9rie de terapias que foram experimentadas com m\u00ednimo sucesso incluem dieta, diur\u00e9ticos, eleva\u00e7\u00e3o da perna e compress\u00e3o. Tratamentos invasivos como lipoectomia ou liposuc\u00e7\u00e3o n\u00e3o s\u00e3o recomendados porque eles arriscam causar danos ao sistema linf\u00e1tico. Enquanto a terapia de compress\u00e3o pode n\u00e3o fazer muito para melhorar o lipedema, pode ajudar a prevenir o agravamento e progress\u00e3o para linfedema (lipolimfedema)."
+    }
+]

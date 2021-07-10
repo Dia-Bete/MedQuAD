@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000051-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Hipotens\u00e3o Ortost\u00e1tica?",
+        "answer":"A hipotens\u00e3o ortost\u00e1tica \u00e9 uma queda repentina da press\u00e3o arterial que ocorre quando uma pessoa assume uma posi\u00e7\u00e3o em p\u00e9. \u00c9 devido a uma les\u00e3o do loop baroreflex, que sente uma mudan\u00e7a na press\u00e3o arterial e ajusta a frequ\u00eancia card\u00edaca e ativa fibras do sistema nervoso simp\u00e1tico para fazer os vasos sangu\u00edneos estreitar e corrigir a press\u00e3o arterial. Tamb\u00e9m pode ser causada por hipovolemia (uma diminui\u00e7\u00e3o da quantidade de sangue no corpo), resultante do uso excessivo de diur\u00e9ticos, vasodilatadores, ou outros tipos de drogas, desidrata\u00e7\u00e3o, ou repouso prolongado da cama. O dist\u00farbio pode estar associado \u00e0 doen\u00e7a de Addison, diabetes, e certos dist\u00farbios neurol\u00f3gicos, incluindo atrofia do sistema m\u00faltiplo com hipotens\u00e3o ortost\u00e1tica (anteriormente conhecida como s\u00edndrome de Shy-Drager), neuropatias do sistema auton\u00f4mico, e outras disautonomias. Sintomas, que geralmente ocorrem ap\u00f3s a posi\u00e7\u00e3o repentina, incluem tonturas, tonturas, vis\u00e3o borrada e s\u00edncope (perda tempor\u00e1ria de consci\u00eancia)."
+    },
+    {
+        "qid":"0000051-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para hipotens\u00e3o ortost\u00e1tica?",
+        "answer":"Quando a hipotens\u00e3o ortost\u00e1tica \u00e9 causada por hipovolemia devido a medicamentos, o dist\u00farbio pode ser revertido ajustando a dose ou interrompendo a medica\u00e7\u00e3o. Quando a condi\u00e7\u00e3o \u00e9 causada pelo repouso prolongado da cama, a melhora pode ocorrer sentando-se com frequ\u00eancia crescente a cada dia. Em alguns casos, contrapress\u00e3o f\u00edsica como mangueira el\u00e1stica ou ternos infl\u00e1veis do corpo inteiro pode ser necess\u00e1ria. A desidrata\u00e7\u00e3o \u00e9 tratada com sal e fluidos. Casos mais graves podem ser tratados com drogas, como midodrina, para aumentar a press\u00e3o arterial."
+    },
+    {
+        "qid":"0000051-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva da hipotens\u00e3o ortost\u00e1tica?",
+        "answer":"O progn\u00f3stico para indiv\u00edduos com hipotens\u00e3o ortost\u00e1tica depende da causa subjacente da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000051-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a Hipotens\u00e3o Ortost\u00e1tica?",
+        "answer":"O NINDS apoia pesquisas em condi\u00e7\u00f5es como hipotens\u00e3o ortost\u00e1tica neurog\u00eanica, visando aumentar a compreens\u00e3o cient\u00edfica da condi\u00e7\u00e3o e encontrar maneiras de trat\u00e1-la e preveni-la."
+    }
+]

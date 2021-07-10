@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0000861-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar Nicotine Lozenges e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0000861-2",
+        "qtype":"usage",
+        "question":"Como deve ser usada a nicotina Lozenges e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000861-4",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre nicotina Lozenges?",
+        "answer":""
+    },
+    {
+        "qid":"0000861-5",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com Nicotine Lozenges?",
+        "answer":""
+    },
+    {
+        "qid":"0000861-6",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos de nicotina?",
+        "answer":""
+    },
+    {
+        "qid":"0000861-7",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de nicotina Lozenges?",
+        "answer":""
+    },
+    {
+        "qid":"0000861-8",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de nicotina Lozenges?",
+        "answer":""
+    },
+    {
+        "qid":"0000861-9",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Nicotine Lozenges?",
+        "answer":""
+    },
+    {
+        "qid":"0000861-10",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de Nicotine Lozenges?",
+        "answer":""
+    }
+]

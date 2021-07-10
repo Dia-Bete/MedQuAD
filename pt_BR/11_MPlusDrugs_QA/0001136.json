@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0001136-1",
+        "qtype":"indication",
+        "question":"Quem deveria pegar o Softeners e por que \u00e9 prescrito?",
+        "answer":""
+    },
+    {
+        "qid":"0001136-2",
+        "qtype":"usage",
+        "question":"Como devem ser usados os Softeners e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0001136-3",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre Softeners?",
+        "answer":""
+    },
+    {
+        "qid":"0001136-4",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se eu esquecer uma dose de Softeners?",
+        "answer":""
+    },
+    {
+        "qid":"0001136-5",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos dos Softeners?",
+        "answer":""
+    },
+    {
+        "qid":"0001136-6",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Softeners?",
+        "answer":""
+    },
+    {
+        "qid":"0001136-7",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre Stool Softeners?",
+        "answer":""
+    },
+    {
+        "qid":"0001136-8",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes da marca dos Softeners de Taco?",
+        "answer":""
+    },
+    {
+        "qid":"0001136-9",
+        "qtype":"brand names of combination products",
+        "question":"Quais s\u00e3o os nomes de marcas de produtos combinados de Softeners de Taco?",
+        "answer":""
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0002606-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o as neuropatias metab\u00f3licas?",
+        "answer":""
+    },
+    {
+        "qid":"0002606-2",
+        "qtype":"causes",
+        "question":"O que causa neuropatias metab\u00f3licas?",
+        "answer":""
+    },
+    {
+        "qid":"0002606-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas das neuropatias metab\u00f3licas?",
+        "answer":""
+    },
+    {
+        "qid":"0002606-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar neuropatias metab\u00f3licas?",
+        "answer":""
+    },
+    {
+        "qid":"0002606-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para as neuropatias metab\u00f3licas?",
+        "answer":""
+    },
+    {
+        "qid":"0002606-6",
+        "qtype":"support groups",
+        "question":"Onde encontrar apoio para pessoas com neuropatias metab\u00f3licas?",
+        "answer":""
+    },
+    {
+        "qid":"0002606-7",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva das neuropatias metab\u00f3licas?",
+        "answer":""
+    },
+    {
+        "qid":"0002606-8",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es das neuropatias metab\u00f3licas?",
+        "answer":""
+    },
+    {
+        "qid":"0002606-9",
+        "qtype":"prevention",
+        "question":"Como prevenir neuropatias metab\u00f3licas?",
+        "answer":""
+    }
+]

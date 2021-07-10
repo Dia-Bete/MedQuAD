@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0002806-1",
+        "qtype":"information",
+        "question":"O que \u00e9 terror noturno?",
+        "answer":""
+    },
+    {
+        "qid":"0002806-2",
+        "qtype":"causes",
+        "question":"O que causa terror noturno?",
+        "answer":""
+    },
+    {
+        "qid":"0002806-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do terror noturno?",
+        "answer":""
+    },
+    {
+        "qid":"0002806-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar o terror noturno?",
+        "answer":""
+    },
+    {
+        "qid":"0002806-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o terror noturno?",
+        "answer":""
+    },
+    {
+        "qid":"0002806-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o terror noturno?",
+        "answer":""
+    },
+    {
+        "qid":"0002806-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para terror noturno?",
+        "answer":""
+    },
+    {
+        "qid":"0002806-8",
+        "qtype":"prevention",
+        "question":"Como evitar o terror noturno?",
+        "answer":""
+    }
+]

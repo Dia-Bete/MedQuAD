@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000626-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) doen\u00e7a da urina de xarope de arce?",
+        "answer":"A doen\u00e7a da urina de xarope de maple \u00e9 uma doen\u00e7a herdada em que o corpo \u00e9 incapaz de processar certos blocos de constru\u00e7\u00e3o de prote\u00ednas (amino\u00e1cidos) corretamente. A condi\u00e7\u00e3o obt\u00e9m seu nome pelo odor doce distintivo da urina de beb\u00eas afetados e tamb\u00e9m \u00e9 caracterizada por alimenta\u00e7\u00e3o ruim, v\u00f4mitos, falta de energia (letargia), e atraso no desenvolvimento. Se n\u00e3o tratada, a doen\u00e7a de xarope de arce pode levar a convuls\u00f5es, coma e morte. A doen\u00e7a de xarope de ma\u00e7\u00e3 \u00e9 frequentemente classificada pelo padr\u00e3o de sinais e sintomas. A forma mais comum e grave da doen\u00e7a \u00e9 o tipo cl\u00e1ssico, que se torna evidente logo ap\u00f3s o nascimento. Variantes formas do dist\u00farbio se tornam evidentes mais tarde na inf\u00e2ncia e s\u00e3o tipicamente mais leves, mas ainda envolvem atraso no desenvolvimento e outros problemas de sa\u00fade se n\u00e3o tratados."
+    },
+    {
+        "qid":"0000626-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela doen\u00e7a da urina de xarope de arce?",
+        "answer":"A doen\u00e7a da urina por xarope de maple afeta 1 em 185 mil crian\u00e7as em todo o mundo. O dist\u00farbio ocorre muito mais freq\u00fcentemente na popula\u00e7\u00e3o mennonita da Velha Ordem, com uma incid\u00eancia estimada de cerca de 1 em 380 rec\u00e9m-nascidos."
+    },
+    {
+        "qid":"0000626-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 doen\u00e7a da urina de xarope de arce?",
+        "answer":"Muta\u00e7\u00f5es nos genes BCKDHHA, BCKDHB e DBT podem causar doen\u00e7a da urina de xarope de arce. Esses tr\u00eas genes fornecem instru\u00e7\u00f5es para fazer prote\u00ednas que funcionam juntas como um complexo. O complexo proteico \u00e9 essencial para quebrar os amino\u00e1cidos leucina, isoleucina e valina, que est\u00e3o presentes em muitos tipos de alimentos, particularmente alimentos ricos em prote\u00ednas, como leite, carne e ovos. Muta\u00e7\u00f5es em qualquer um destes tr\u00eas genes reduzem ou eliminam a fun\u00e7\u00e3o do complexo proteico, evitando a degrada\u00e7\u00e3o normal da leucina, isoleucina e valina. Como resultado, esses amino\u00e1cidos e seus subprodutos se acumulam no corpo. Como altos n\u00edveis destas subst\u00e2ncias s\u00e3o t\u00f3xicos para o c\u00e9rebro e outros \u00f3rg\u00e3os, seu ac\u00famulo leva aos graves problemas de sa\u00fade associados \u00e0 doen\u00e7a da urina de xarope de arce."
+    },
+    {
+        "qid":"0000626-4",
+        "qtype":"inheritance",
+        "question":"A doen\u00e7a de xarope de arce \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000626-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a da urina de xarope de arce?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da doen\u00e7a de urina de xarope de arce: - Beb\u00ea Primeiro teste - Gene Review: Gene Review: Maple Syrup Urine Disease - Genetic Testing Registry: Maple Syrup Urine Disease - MedlinePlus Enciclop\u00e9dia: Maple Syrup Urine Disease Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

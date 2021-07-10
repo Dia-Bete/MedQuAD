@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000079-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dor cr\u00f4nica?",
+        "answer":"Enquanto a dor aguda \u00e9 uma sensa\u00e7\u00e3o normal ativada no sistema nervoso para alert\u00e1-lo sobre a poss\u00edvel les\u00e3o e a necessidade de cuidar de si mesmo, a dor cr\u00f4nica \u00e9 diferente. A dor cr\u00f4nica persiste. Os sinais de dor continuam disparando no sistema nervoso por semanas, meses, at\u00e9 anos. Pode ter havido um acidente inicial. Espaldas, infec\u00e7\u00e3o grave, ou pode haver uma causa cont\u00ednua de dor. Artrite, c\u00e2ncer, infec\u00e7\u00e3o no ouvido, mas algumas pessoas sofrem dor cr\u00f4nica na aus\u00eancia de qualquer les\u00e3o ou evid\u00eancia de dano corporal. Muitas condi\u00e7\u00f5es de dor cr\u00f4nica afetam os idosos. As queixas comuns de dor cr\u00f4nica incluem dor de cabe\u00e7a, dor lombar, dor de c\u00e2ncer, dor de artrite, dor neurog\u00eanica (dor resultante de danos nos nervos perif\u00e9ricos ou no pr\u00f3prio sistema nervoso central), dor psicog\u00eanica (dolor n\u00e3o devido a doen\u00e7a ou les\u00e3o passada ou qualquer sinal vis\u00edvel de dano dentro ou fora do sistema nervoso). Uma pessoa pode ter duas ou mais condi\u00e7\u00f5es de dor cr\u00f4nica coexistentes. Tais condi\u00e7\u00f5es podem incluir s\u00edndrome de fadiga cr\u00f4nica, endometriose, fibromialgia, doen\u00e7a inflamat\u00f3ria intestinal, cistite intersticial, disfun\u00e7\u00e3o articular temporomandibular e vulvodinia. N\u00e3o se sabe se esses dist\u00farbios compartilham uma causa comum."
+    },
+    {
+        "qid":"0000079-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para dor cr\u00f4nica?",
+        "answer":"Medicamentos, acupuntura, estimula\u00e7\u00e3o el\u00e9trica local, estimula\u00e7\u00e3o cerebral, bem como cirurgia, s\u00e3o alguns tratamentos para dor cr\u00f4nica. Alguns m\u00e9dicos usam placebos, o que em alguns casos resultou em diminui\u00e7\u00e3o ou elimina\u00e7\u00e3o da dor. Psicoterapia, relaxamento e terapias medicamentosas, biofeedback, e modifica\u00e7\u00e3o de comportamento tamb\u00e9m podem ser empregados para tratar a dor cr\u00f4nica."
+    },
+    {
+        "qid":"0000079-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Dor Cr\u00f4nica?",
+        "answer":"Muitas pessoas com dor cr\u00f4nica podem ser ajudadas se entenderem todas as causas da dor e as muitas e variadas medidas que podem ser tomadas para desfazer o que a dor cr\u00f4nica tem feito. Os cientistas acreditam que os avan\u00e7os na neuroci\u00eancia levar\u00e3o a mais e melhores tratamentos para a dor cr\u00f4nica nos pr\u00f3ximos anos."
+    },
+    {
+        "qid":"0000079-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Dor Cr\u00f4nica?",
+        "answer":"Investigadores cl\u00ednicos testaram pacientes com dor cr\u00f4nica e descobriram que muitas vezes t\u00eam n\u00edveis mais baixos do que normais de endorfinas em seu l\u00edquido espinhal. Investiga\u00e7\u00f5es de acupuntura incluem fia\u00e7\u00e3o das agulhas para estimular termina\u00e7\u00f5es nervosas el\u00e9tricamente (electroacupuntura), que alguns pesquisadores acreditam ativar sistemas de endorfina. Outros experimentos com a acupuntura mostraram que h\u00e1 n\u00edveis mais elevados de endorfinas no l\u00edquido cefalorraquidiano ap\u00f3s a acupuntura. Investigadores est\u00e3o estudando o efeito do estresse na experi\u00eancia da dor cr\u00f4nica. Os qu\u00edmicos est\u00e3o sintetizando novos analg\u00e9sicos e descobrindo virtudes analg\u00e9sicas em drogas n\u00e3o prescritas para dor."
+    }
+]

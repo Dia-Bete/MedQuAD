@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000122-1",
+        "qtype":"information",
+        "question":"O que \u00e9 defici\u00eancia de beta-ureidopropionase?",
+        "answer":"A defici\u00eancia de beta-ureidopropionase \u00e9 um dist\u00farbio que causa quantidades excessivas de mol\u00e9culas chamadas N-carbamil-beta-aminoisobut\u00edrica \u00e1cido e N-carbamil-beta-alanina para ser liberado na urina. Problemas neurol\u00f3gicos que v\u00e3o de leves a graves tamb\u00e9m ocorrem em alguns indiv\u00edduos afetados. Pessoas com defici\u00eancia de beta-ureidopropionase podem ter baixo t\u00f4nus muscular (hipot\u00f4nia), convuls\u00f5es, dificuldades de fala, atraso no desenvolvimento, defici\u00eancia intelectual, e comportamentos autistas que afetam a comunica\u00e7\u00e3o e intera\u00e7\u00e3o social. Algumas pessoas com esta condi\u00e7\u00e3o t\u00eam um tamanho anormalmente pequeno da cabe\u00e7a (microcefalia); tamb\u00e9m podem ter anormalidades cerebrais que podem ser vistas com imagens m\u00e9dicas. Deteriora\u00e7\u00e3o do nervo \u00f3ptico, que transporta informa\u00e7\u00f5es visuais dos olhos para o c\u00e9rebro, pode levar \u00e0 perda de vis\u00e3o nesta condi\u00e7\u00e3o. Em algumas pessoas com defici\u00eancia de beta-ureidopropionase, a doen\u00e7a n\u00e3o causa problemas neurol\u00f3gicos e s\u00f3 pode ser diagnosticada por testes laboratoriais."
+    },
+    {
+        "qid":"0000122-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de beta-ureidopropionase?",
+        "answer":"A preval\u00eancia de defici\u00eancia de beta-ureidopropionase \u00e9 desconhecida. Um pequeno n\u00famero de indiv\u00edduos afetados de popula\u00e7\u00f5es em todo o mundo foram descritos na literatura m\u00e9dica. No Jap\u00e3o, a preval\u00eancia de defici\u00eancia de beta-ureidopropionase foi estimada em 1 em 6.000 pessoas. Pesquisadores sugerem que em muitos indiv\u00edduos afetados com problemas neurol\u00f3gicos ausentes ou leves, a condi\u00e7\u00e3o pode nunca ser diagnosticada."
+    },
+    {
+        "qid":"0000122-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de beta-ureidopropionase?",
+        "answer":"A defici\u00eancia de beta-ureidopropionase \u00e9 causada por muta\u00e7\u00f5es no gene UPB1, que fornece instru\u00e7\u00f5es para fazer uma enzima chamada beta-ureidopropionase. Esta enzima est\u00e1 envolvida na degrada\u00e7\u00e3o de mol\u00e9culas chamadas pirimidinas, que s\u00e3o blocos de constru\u00e7\u00e3o de DNA e seu primo qu\u00edmico RNA. A enzima beta-ureidopropionase est\u00e1 envolvida na \u00faltima etapa do processo que quebra pirimidinas. Este passo converte \u00e1cido N-carbamil-beta-aminoisobut\u00edrico em \u00e1cido beta-aminoisobut\u00edrico e tamb\u00e9m quebra N-carbamil-beta-alanina em beta-alanina, am\u00f4nia e di\u00f3xido de carbono. Tanto o \u00e1cido beta-aminoisobut\u00edrico quanto a beta-alanina s\u00e3o pensados para desempenhar pap\u00e9is no sistema nervoso. \u00c1cido beta-aminoisobut\u00edrico aumenta a produ\u00e7\u00e3o de uma prote\u00edna chamada leptina, que foi encontrada para ajudar a proteger as c\u00e9lulas cerebrais de danos causados por toxinas, inflama\u00e7\u00e3o e outros fatores. Pesquisas sugerem que a beta-alanina est\u00e1 envolvida no envio de sinais entre as c\u00e9lulas nervosas (transmiss\u00e3o sin\u00e1ptica) e no controle do n\u00edvel de um mensageiro qu\u00edmico (neurotransmissor) chamado dopamina. Muta\u00e7\u00f5es de genes da UPB1 podem reduzir ou eliminar a atividade da enzima beta-ureidopropionase. A perda desta fun\u00e7\u00e3o enzim\u00e1tica reduz a produ\u00e7\u00e3o de \u00e1cido beta-aminoisobut\u00edrico e beta-alanina, e leva a um excesso de suas mol\u00e9culas precursoras, N-carbamil-beta-aminoisobut\u00edrico e N-carbamil-beta-alanina, que s\u00e3o liberados na urina. A redu\u00e7\u00e3o da produ\u00e7\u00e3o de \u00e1cido beta-aminoisobut\u00edrico e beta-alanina pode prejudicar a fun\u00e7\u00e3o dessas mol\u00e9culas no sistema nervoso, levando a problemas neurol\u00f3gicos em algumas pessoas com defici\u00eancia de beta-ureidopropionase. A extens\u00e3o da redu\u00e7\u00e3o da atividade enzim\u00e1tica causada por uma muta\u00e7\u00e3o espec\u00edfica do gene UB1, juntamente com outros fatores gen\u00e9ticos e ambientais, pode determinar se pessoas com defici\u00eancia de beta-ureidopropionase desenvolvem problemas neurol\u00f3gicos e a gravidade desses problemas."
+    },
+    {
+        "qid":"0000122-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de beta-ureidopropionase \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000122-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a defici\u00eancia de beta-ureidopropionase?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da defici\u00eancia de beta-ureidopropionase: - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de beta-ureidopropionase Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

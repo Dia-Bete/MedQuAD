@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0000296-1",
+        "qtype":"indication",
+        "question":"Quem deve pegar Cromolyn Sodium Nasal Solution e por que \u00e9 prescrita?",
+        "answer":""
+    },
+    {
+        "qid":"0000296-2",
+        "qtype":"usage",
+        "question":"Como deve ser usado Cromolyn Sodium Nasal Solution e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000296-3",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre a solu\u00e7\u00e3o nasal de s\u00f3dio Cromolyn?",
+        "answer":""
+    },
+    {
+        "qid":"0000296-4",
+        "qtype":"forget a dose",
+        "question":"O que devo fazer se esquecer uma dose de Solu\u00e7\u00e3o Nasal de S\u00f3dio Cromolyn?",
+        "answer":""
+    },
+    {
+        "qid":"0000296-5",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da solu\u00e7\u00e3o nasal de s\u00f3dio Cromolyn?",
+        "answer":""
+    },
+    {
+        "qid":"0000296-6",
+        "qtype":"storage and disposal",
+        "question":"O que eu deveria saber sobre armazenamento e elimina\u00e7\u00e3o de Cromolyn Sodium Nasal Solution?",
+        "answer":""
+    },
+    {
+        "qid":"0000296-7",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o eu deveria saber sobre a solu\u00e7\u00e3o nasal de s\u00f3dio Cromolyn?",
+        "answer":""
+    },
+    {
+        "qid":"0000296-8",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca da Solu\u00e7\u00e3o Nasal de S\u00f3dio Cromolyn?",
+        "answer":""
+    }
+]

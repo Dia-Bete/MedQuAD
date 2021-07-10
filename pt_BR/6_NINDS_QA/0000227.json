@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000227-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Pelizaeus-Merzbacher?",
+        "answer":"A doen\u00e7a de Pelizaeus-Merzbacher (PMD) \u00e9 uma doen\u00e7a rara, progressiva, degenerativa do sistema nervoso central, na qual a coordena\u00e7\u00e3o, as habilidades motoras e a fun\u00e7\u00e3o intelectual se deterioram. A doen\u00e7a \u00e9 um de um grupo de dist\u00farbios ligados ao gene conhecidos como leucodistrofias, que afetam o crescimento da bainha de mielina. A cobertura gorda que enrola e protege fibras nervosas no c\u00e9rebro. A doen\u00e7a \u00e9 causada por uma muta\u00e7\u00e3o no gene que controla a produ\u00e7\u00e3o de uma prote\u00edna mielina chamada prote\u00edna proteolip\u00eddea-1 (PLP1). O PMD \u00e9 herdado como um tra\u00e7o recessivo ligado a X; os indiv\u00edduos afetados s\u00e3o do sexo masculino e as m\u00e3es s\u00e3o portadoras da muta\u00e7\u00e3o PLP1. A gravidade e o in\u00edcio da doen\u00e7a variam amplamente, dependendo do tipo de muta\u00e7\u00e3o PLP1. O PMD \u00e9 um dos espectros de doen\u00e7as associadas ao PLP1, que tamb\u00e9m inclui paraplegia esp\u00e1stica tipo 2 (SPG2). Os dist\u00farbios relacionados ao PLP1 abrangem um cont\u00ednuo de sintomas neurol\u00f3gicos que v\u00e3o desde o envolvimento grave do sistema nervoso central (PMD) at\u00e9 a fraqueza progressiva e rigidez das pernas (SPG2). H\u00e1 quatro classifica\u00e7\u00f5es gerais dentro deste espectro de doen\u00e7as. Em ordem de gravidade, eles s\u00e3o: - PMD connatal, que \u00e9 o tipo mais grave e envolve atraso no desenvolvimento mental e f\u00edsico e sintomas neurol\u00f3gicos graves; - PMD cl\u00e1ssico, em que os sintomas iniciais incluem fraqueza muscular, movimentos involunt\u00e1rios dos olhos (nistagmo), e atrasos no desenvolvimento motor no primeiro ano de vida; - SPG complicado2, que apresenta problemas de desenvolvimento motor e envolvimento cerebral, e, - SPG puro2, que inclui casos de PMD que n\u00e3o t\u00eam complica\u00e7\u00f5es neurol\u00f3gicas. Mudan\u00e7as not\u00e1veis na extens\u00e3o da mieliniza\u00e7\u00e3o podem ser detectadas por an\u00e1lises de RM do c\u00e9rebro. Sintomas adicionais de DPM podem incluir crescimento lento, tremores, falha em desenvolver controle normal do movimento da cabe\u00e7a, e deteriora\u00e7\u00e3o da fala e fun\u00e7\u00e3o cognitiva."
+    },
+    {
+        "qid":"0000227-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Pelizaeus-Merzbacher?",
+        "answer":"N\u00e3o h\u00e1 cura para a doen\u00e7a de Pelizaeus-Merzbacher, nem h\u00e1 um curso padr\u00e3o de tratamento. O tratamento \u00e9 sintom\u00e1tico e de suporte e pode incluir medica\u00e7\u00e3o para dist\u00farbios do movimento."
+    },
+    {
+        "qid":"0000227-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva da doen\u00e7a de Pelizaeus-Merzbacher?",
+        "answer":"O progn\u00f3stico para aqueles com as formas graves da doen\u00e7a de Pelizaeus-Merzbacher \u00e9 ruim, com deteriora\u00e7\u00e3o progressiva at\u00e9 a morte. Do outro lado do espectro da doen\u00e7a, indiv\u00edduos com a forma leve, em que a paraplegia esp\u00e1stica \u00e9 o principal sintoma, podem ter atividade quase normal e dura\u00e7\u00e3o de vida."
+    },
+    {
+        "qid":"0000227-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a doen\u00e7a de Pelizaeus-Merzbacher?",
+        "answer":"NINDS apoia pesquisas sobre dist\u00farbios ligados a genes, incluindo leucodistrofias. Os objetivos desta pesquisa s\u00e3o aumentar a compreens\u00e3o cient\u00edfica desses dist\u00farbios e encontrar maneiras de prevenir, tratar e, em \u00faltima an\u00e1lise, cur\u00e1-los."
+    }
+]

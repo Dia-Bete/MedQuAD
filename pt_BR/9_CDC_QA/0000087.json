@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0000087-1",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para a Febre Hemorr\u00e1gica Crimeia-Congo (CCHF)? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"Os carrapatos ixod\u00eddeos, especialmente os do g\u00eanero Hyalomma, s\u00e3o um reservat\u00f3rio e um vetor para o v\u00edrus CCHF. Numerosos animais selvagens e dom\u00e9sticos, como gado, cabras, ovelhas e lebres, servem como hospedeiros amplificadores para o v\u00edrus. A transmiss\u00e3o aos humanos ocorre atrav\u00e9s do contato com carrapatos infectados ou sangue animal. A CCHF pode ser transmitida de um humano infectado para outro pelo contato com sangue infeccioso ou fluidos corporais. A propaga\u00e7\u00e3o documentada da CCHF tamb\u00e9m ocorreu em hospitais devido \u00e0 esteriliza\u00e7\u00e3o inadequada de equipamentos m\u00e9dicos, reuso de agulhas de inje\u00e7\u00e3o e contamina\u00e7\u00e3o de suprimentos m\u00e9dicos."
+    },
+    {
+        "qid":"0000087-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da febre hemorr\u00e1gica Crimeia-Congo?",
+        "answer":"O in\u00edcio da CCHF \u00e9 repentino, com sinais e sintomas iniciais, incluindo dor de cabe\u00e7a, febre alta, dor nas costas, dor nas articula\u00e7\u00f5es, dor no est\u00f4mago e v\u00f4mitos. Os olhos vermelhos, o rosto ruborizado, a garganta vermelha e pet\u00e9quias (malhas vermelhas) no palato s\u00e3o comuns. Os sintomas tamb\u00e9m podem incluir icter\u00edcia, e em casos graves, mudan\u00e7as no humor e percep\u00e7\u00e3o sensorial. \u00c0 medida que a doen\u00e7a progride, grandes \u00e1reas de hematomas graves, hemorragias nasais graves, e sangramento descontrolado nos locais de inje\u00e7\u00e3o podem ser vistos, come\u00e7ando em torno do quarto dia de doen\u00e7a e durando cerca de duas semanas. Em surtos documentados de CCHF, as taxas de mortalidade em pacientes hospitalizados variaram de 9% at\u00e9 50%. Os efeitos a longo prazo da infec\u00e7\u00e3o por CCHF n\u00e3o foram estudados o suficiente em sobreviventes para determinar se existem ou n\u00e3o complica\u00e7\u00f5es espec\u00edficas. No entanto, a recupera\u00e7\u00e3o \u00e9 lenta."
+    },
+    {
+        "qid":"0000087-3",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para a Febre Hemorr\u00e1gica Crimeia-Congo (CCHF)? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"Pastores de animais, pecu\u00e1rios, e trabalhadores de matadouros em \u00e1reas end\u00eamicas est\u00e3o em risco de CCHF. Trabalhadores de sa\u00fade em \u00e1reas end\u00eamicas est\u00e3o em risco de infec\u00e7\u00e3o por contato desprotegido com sangue infeccioso e fluidos corporais. Indiv\u00edduos e viajantes internacionais com contato com gado em regi\u00f5es end\u00eamicas tamb\u00e9m podem ser expostos."
+    },
+    {
+        "qid":"0000087-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a febre hemorr\u00e1gica Crimeia-Congo?",
+        "answer":"Testes de laborat\u00f3rio que s\u00e3o usados para diagnosticar a CCHF incluem ensaio de imunoabsorvente ligado a ant\u00edgeno-captura enzima (ELISA), rea\u00e7\u00e3o de polimerase em cadeia em tempo real (RT-PCR), tentativas de isolamento de v\u00edrus, e detec\u00e7\u00e3o de anticorpos por ELISA (IgG e IgM). O diagn\u00f3stico laboratorial de um paciente com hist\u00f3ria cl\u00ednica compat\u00edvel com a CCHF pode ser feito durante a fase aguda da doen\u00e7a usando a combina\u00e7\u00e3o de detec\u00e7\u00e3o do ant\u00edgeno viral (captura de ant\u00edgeno ELISA), sequ\u00eancia de RNA viral (RT-PCR) no sangue ou nos tecidos coletados de um caso fatal e isolamento do v\u00edrus. A colora\u00e7\u00e3o imuno-histoqu\u00edmica tamb\u00e9m pode mostrar evid\u00eancias de ant\u00edgeno viral em tecidos fixos \u00e0 formalina. Mais tarde, no decorrer da doen\u00e7a, em pessoas sobreviventes, anticorpos podem ser encontrados no sangue. Mas o ant\u00edgeno, o RNA viral e o v\u00edrus n\u00e3o est\u00e3o mais presentes e detect\u00e1veis."
+    },
+    {
+        "qid":"0000087-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Febre Hemorr\u00e1gica Crimeia-Congo?",
+        "answer":"O tratamento para a CCHF \u00e9 essencialmente de apoio. O cuidado deve incluir aten\u00e7\u00e3o cuidadosa ao equil\u00edbrio de fluidos e corre\u00e7\u00e3o de anormalidades eletr\u00f3litas, oxigena\u00e7\u00e3o e suporte hemodin\u00e2mico, e tratamento apropriado de infec\u00e7\u00f5es secund\u00e1rias. O v\u00edrus \u00e9 sens\u00edvel in vitro \u00e0 ribavirina antiviral. Tem sido usado no tratamento de pacientes da CCHF com algum benef\u00edcio. Recupera\u00e7\u00e3o Os efeitos a longo prazo da infec\u00e7\u00e3o por CCHF n\u00e3o foram estudados o suficiente em sobreviventes para determinar se existem ou n\u00e3o complica\u00e7\u00f5es espec\u00edficas. No entanto, a recupera\u00e7\u00e3o \u00e9 lenta."
+    },
+    {
+        "qid":"0000087-6",
+        "qtype":"prevention",
+        "question":"Como prevenir a febre hemorr\u00e1gica Crimeia-Congo (CCHF)?",
+        "answer":"Trabalhadores agr\u00edcolas e outros que trabalham com animais devem usar repelente de insetos em peles e roupas expostas. Repelentes de insetos contendo DEET (N, N-dietil-m-toluamida) s\u00e3o os mais eficazes para afastar carrapatos. Usar luvas e outras roupas de prote\u00e7\u00e3o \u00e9 recomendado. Os indiv\u00edduos tamb\u00e9m devem evitar o contato com o sangue e fluidos corporais de gado ou humanos que apresentam sintomas de infec\u00e7\u00e3o. \u00c9 importante que os profissionais de sa\u00fade usem precau\u00e7\u00f5es adequadas de controle de infec\u00e7\u00e3o para prevenir a exposi\u00e7\u00e3o ocupacional. Uma vacina inativada, derivada do c\u00e9rebro de rato contra a CCHF foi desenvolvida e \u00e9 usada em pequena escala na Europa Oriental. No entanto, n\u00e3o h\u00e1 nenhuma vacina segura e eficaz atualmente dispon\u00edvel para uso humano. Mais pesquisas s\u00e3o necess\u00e1rias para desenvolver estas potenciais vacinas, bem como determinar a efic\u00e1cia de diferentes op\u00e7\u00f5es de tratamento, incluindo ribavirina e outros f\u00e1rmacos antivirais."
+    }
+]

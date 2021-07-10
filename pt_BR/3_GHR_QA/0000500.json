@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000500-1",
+        "qtype":"information",
+        "question":"O que \u00e9 hiperprolinemia?",
+        "answer":"A hiperprolinemia \u00e9 um excesso de um determinado bloco proteico (amino\u00e1cido), chamado prolina, no sangue. Essa condi\u00e7\u00e3o geralmente ocorre quando a prolina n\u00e3o \u00e9 decomposta corretamente pelo corpo. Existem duas formas herdadas de hiperprolinemia, chamadas de tipo I e tipo II. Pessoas com hiperprolinemia tipo I muitas vezes n\u00e3o apresentam nenhum sintoma, embora tenham n\u00edveis de prolina no sangue entre 3 e 10 vezes o n\u00edvel normal. Alguns indiv\u00edduos com hiperprolinemia tipo I apresentam convuls\u00f5es, defici\u00eancia intelectual, ou outros problemas neurol\u00f3gicos ou psiqui\u00e1tricos. A hiperprolinemia tipo II resulta em n\u00edveis de prolina no sangue entre 10 e 15 vezes superiores ao normal, e n\u00edveis elevados de um composto relacionado chamado pirrolina-5-carboxilato. Esta forma do dist\u00farbio tem sinais e sintomas que variam de gravidade, e \u00e9 mais prov\u00e1vel que o tipo I envolva convuls\u00f5es ou defici\u00eancia intelectual. A hiperprolinemia tamb\u00e9m pode ocorrer com outras condi\u00e7\u00f5es, como desnutri\u00e7\u00e3o ou doen\u00e7a hep\u00e1tica. Em particular, indiv\u00edduos com condi\u00e7\u00f5es que causam n\u00edveis elevados de \u00e1cido l\u00e1ctico no sangue (acidemia l\u00e1tica) podem ter hiperprolinemia tamb\u00e9m, porque o \u00e1cido l\u00e1ctico inibe a degrada\u00e7\u00e3o da prolina."
+    },
+    {
+        "qid":"0000500-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela hiperprolinemia?",
+        "answer":"\u00c9 dif\u00edcil determinar a preval\u00eancia de hiperprolinemia tipo I porque a maioria das pessoas com a condi\u00e7\u00e3o n\u00e3o tem nenhum sintoma. Hiperprolinemia tipo II \u00e9 uma condi\u00e7\u00e3o rara; sua preval\u00eancia tamb\u00e9m \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000500-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 hiperprolinemia?",
+        "answer":"Muta\u00e7\u00f5es nos genes ALDH4A1 e PRODH causam hiperprolinemia. A hiperprolinemia herdada \u00e9 causada por defici\u00eancias nas enzimas que degradam a prolina. A hiperprolinemia tipo I \u00e9 causada por uma muta\u00e7\u00e3o no gene PRODH, que fornece instru\u00e7\u00f5es para produzir a enzima prolina oxidase. Esta enzima come\u00e7a o processo de degrada\u00e7\u00e3o da prolina iniciando a rea\u00e7\u00e3o que a converte em pirrolina-5-carboxilato. A hiperprolinemia tipo II \u00e9 causada por uma muta\u00e7\u00e3o no gene ALDH4A1, que fornece instru\u00e7\u00f5es para produzir a enzima pirrolina-5-carboxilato desidrogenase. Esta enzima ajuda a quebrar o pirrolina-5-carboxilato produzido na rea\u00e7\u00e3o anterior, convertendo-o no glutamato de amino\u00e1cidos. A convers\u00e3o entre prolina e glutamato, e a rea\u00e7\u00e3o reversa controlada por diferentes enzimas, s\u00e3o importantes para manter um suprimento dos amino\u00e1cidos necess\u00e1rios para a produ\u00e7\u00e3o de prote\u00ednas, e para a transfer\u00eancia de energia dentro da c\u00e9lula. Uma defici\u00eancia de prolina oxidase ou pirrolina-5-carboxilato desidrogenase resulta em uma acumula\u00e7\u00e3o de prolina no corpo. Uma defici\u00eancia desta \u00faltima enzima leva a n\u00edveis mais elevados de prolina e uma acumula\u00e7\u00e3o do produto de degrada\u00e7\u00e3o intermedi\u00e1ria pirrolina-5-carboxilato, causando os sinais e sintomas de hiperprolinemia tipo II."
+    },
+    {
+        "qid":"0000500-4",
+        "qtype":"inheritance",
+        "question":"A hiperprolinemia \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. A maioria das vezes, os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carregam uma c\u00f3pia do gene mutado, mas n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o. Em cerca de um ter\u00e7o dos casos, indiv\u00edduos portadores de uma c\u00f3pia de um gene alterado PRODH t\u00eam n\u00edveis moderadamente elevados de prolina no sangue, mas esses n\u00edveis n\u00e3o causam nenhum problema de sa\u00fade. Indiv\u00edduos com um gene ALDH4A1 alterado t\u00eam n\u00edveis normais de prolina no sangue."
+    },
+    {
+        "qid":"0000500-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para hiperprolinemia?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da hiperprolinemia: - Primeiro teste do beb\u00ea - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de pirrolina-5-carboxilato reductase - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de Prolina Desidrogenase Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

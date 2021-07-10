@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000797-1",
+        "qtype":"information",
+        "question":"O que \u00e9 piebaldismo?",
+        "answer":"O piebaldismo \u00e9 uma condi\u00e7\u00e3o caracterizada pela aus\u00eancia de c\u00e9lulas chamadas melan\u00f3citos em certas \u00e1reas da pele e do cabelo. Melan\u00f3citos produzem a melanina pigmentada, que contribui para o cabelo, olhos e cor da pele. A aus\u00eancia de melan\u00f3citos leva a manchas de pele e cabelo que s\u00e3o mais leves do que o normal. Aproximadamente 90 por cento dos indiv\u00edduos afetados t\u00eam uma se\u00e7\u00e3o branca de cabelo perto de sua linha de cabelo da frente (um antebra\u00e7o branco). Os c\u00edlios, as sobrancelhas, e a pele sob o lombo tamb\u00e9m podem ser sem pigmentos. Pessoas com piebaldismo geralmente t\u00eam outras manchas de pele sem pigmenta\u00e7\u00e3o, normalmente aparecendo sim\u00e9tricamente em ambos os lados do corpo. Pode haver manchas ou manchas de pele pigmentada dentro ou ao redor das fronteiras das \u00e1reas n\u00e3o pigmentadas. Na maioria dos casos, as \u00e1reas n\u00e3o pigmentadas est\u00e3o presentes no nascimento e n\u00e3o aumentam em tamanho ou n\u00famero. As manchas n\u00e3o pigmentadas est\u00e3o em risco aumentado de queimadura solar e c\u00e2ncer de pele relacionado \u00e0 exposi\u00e7\u00e3o excessiva ao sol. Algumas pessoas com piebaldismo s\u00e3o auto-conscientes sobre a apar\u00eancia das manchas sem pigmentos, o que pode ser mais not\u00e1vel em pessoas de pele escura. Al\u00e9m desses potenciais problemas, essa condi\u00e7\u00e3o n\u00e3o tem efeito na sa\u00fade do indiv\u00edduo afetado."
+    },
+    {
+        "qid":"0000797-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pelo piebaldismo?",
+        "answer":"A preval\u00eancia do piebaldismo \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000797-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as mudan\u00e7as gen\u00e9ticas relacionadas ao piebaldismo?",
+        "answer":"O piebaldismo pode ser causado por muta\u00e7\u00f5es nos genes KIT e SNAI2. O piebaldismo tamb\u00e9m pode ser uma caracter\u00edstica de outras condi\u00e7\u00f5es, como a s\u00edndrome de Waardenburg; essas condi\u00e7\u00f5es t\u00eam outras causas gen\u00e9ticas e sinais e sintomas adicionais. O gene KIT fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que est\u00e1 envolvida na sinaliza\u00e7\u00e3o dentro das c\u00e9lulas. A sinaliza\u00e7\u00e3o de prote\u00ednas KIT \u00e9 importante para o desenvolvimento de certos tipos de c\u00e9lulas, incluindo melan\u00f3citos. As muta\u00e7\u00f5es do gene KIT respons\u00e1veis pelo piebaldismo levam a uma prote\u00edna KIT n\u00e3o funcional. A perda de sinaliza\u00e7\u00e3o KIT \u00e9 considerada para interromper o crescimento e divis\u00e3o (prolifera\u00e7\u00e3o) e movimento (migra\u00e7\u00e3o) dos melan\u00f3citos durante o desenvolvimento, resultando em manchas de pele que n\u00e3o t\u00eam pigmenta\u00e7\u00e3o. O gene SNAI2 (muitas vezes chamado SLUG) fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada caracol 2. Pesquisas indicam que a prote\u00edna do caracol 2 \u00e9 necess\u00e1ria durante o crescimento embrion\u00e1rio para o desenvolvimento de c\u00e9lulas chamadas c\u00e9lulas da crista neural. C\u00e9lulas da crista neural migram da medula espinhal em desenvolvimento para regi\u00f5es espec\u00edficas do embri\u00e3o e d\u00e3o origem a muitos tecidos e tipos celulares, incluindo melan\u00f3citos. A prote\u00edna caracol 2 provavelmente desempenha um papel na forma\u00e7\u00e3o e sobreviv\u00eancia de melan\u00f3citos. Muta\u00e7\u00f5es do gene SNAI2 que causam piebaldismo provavelmente reduzem a produ\u00e7\u00e3o da prote\u00edna de caracol 2. A falta de prote\u00edna de caracol 2 pode interromper o desenvolvimento de melan\u00f3citos em certas \u00e1reas da pele e do cabelo, causando a perda de pigmento. O piebaldismo \u00e0s vezes \u00e9 confundido com outra condi\u00e7\u00e3o chamada vitiligo, que tamb\u00e9m causa manchas de pele sem pigmentos. As pessoas n\u00e3o nascem com vitiligo, mas adquirem mais tarde na vida, e n\u00e3o \u00e9 causada por muta\u00e7\u00f5es gen\u00e9ticas espec\u00edficas. Por raz\u00f5es desconhecidas, em pessoas com vitiligo o sistema imunol\u00f3gico parece danificar os melan\u00f3citos na pele."
+    },
+    {
+        "qid":"0000797-4",
+        "qtype":"inheritance",
+        "question":"O piebaldismo \u00e9 herdado?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000797-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o piebaldismo?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou a gest\u00e3o do piebaldismo: - Registro de Testes Gen\u00e9ticos: Albinismo Parcial Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e a gest\u00e3o de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia Droga - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

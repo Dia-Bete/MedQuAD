@@ -1,0 +1,44 @@
+[
+    {
+        "qid":"0000379-1",
+        "qtype":"why get vaccinated",
+        "question":"Por que ser vacinado com vacina contra difteria, t\u00e9tano e coqueluche?",
+        "answer":""
+    },
+    {
+        "qid":"0000379-2",
+        "qtype":"indication",
+        "question":"Quem deveria pegar a vacina contra Difteria, Tetano e Pertussis (DTaP) e por que \u00e9 prescrita?",
+        "answer":""
+    },
+    {
+        "qid":"0000379-3",
+        "qtype":"contraindication",
+        "question":"Quem n\u00e3o deve receber a vacina Difteria, Tetano e Pertussis (DTaP) e quais s\u00e3o as suas contra-indica\u00e7\u00f5es?",
+        "answer":""
+    },
+    {
+        "qid":"0000379-5",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da vacina contra difteria, t\u00e9tano e coqueluche (DTaP)?",
+        "answer":""
+    },
+    {
+        "qid":"0000379-6",
+        "qtype":"severe reaction",
+        "question":"O que fazer em caso de rea\u00e7\u00e3o grave \u00e0 vacina contra difteria, t\u00e9tano e coqueluche?",
+        "answer":""
+    },
+    {
+        "qid":"0000379-8",
+        "qtype":"how can i learn more",
+        "question":"Como posso aprender mais sobre a vacina contra difteria, t\u00e9tano e coqueluche (DTaP)?",
+        "answer":""
+    },
+    {
+        "qid":"0000379-9",
+        "qtype":"brand names of combination products",
+        "question":"Quais s\u00e3o os nomes de marca da combina\u00e7\u00e3o de produtos da Vacina Dift\u00e9rica, Tet\u00e2nica e Pertussis (DTaP)?",
+        "answer":""
+    }
+]

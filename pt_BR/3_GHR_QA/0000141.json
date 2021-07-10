@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000141-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Buschke-Ollendorff?",
+        "answer":"A s\u00edndrome de Buschke-Ollendorff \u00e9 uma desordem heredit\u00e1ria dos tecidos conjuntivos, que s\u00e3o tecidos que fornecem for\u00e7a e flexibilidade \u00e0s estruturas em todo o corpo. Especificamente, a condi\u00e7\u00e3o \u00e9 caracterizada por crescimentos cut\u00e2neos chamados tecido conjuntivo nevi e uma anormalidade \u00f3ssea conhecida como osteopoikilose. Tecido conectivo nevi s\u00e3o pequenos n\u00f3dulos n\u00e3o cancerosos na pele. Eles tendem a aparecer na inf\u00e2ncia e est\u00e3o difundidos em pessoas com s\u00edndrome de Buschke-Ollendorff. A forma mais comum destes nevi s\u00e3o os elastomas, que s\u00e3o feitos de um tipo de tecido el\u00e1stico conjuntivo chamado fibras el\u00e1sticas. Menos comumente, indiv\u00edduos afetados t\u00eam nevi chamado col\u00e1genomas, que s\u00e3o compostos por outro tipo de tecido conjuntivo chamado col\u00e1geno. Osteopoikilose, que \u00e9 das palavras gregas para \"ossos manchados\", \u00e9 uma anormalidade esquel\u00e9tica caracterizada por pequenas \u00e1reas redondas de densidade \u00f3ssea aumentada que aparecem como manchas mais brilhantes nos raios-X. Osteopoikilose geralmente ocorre perto das extremidades dos ossos longos dos bra\u00e7os e pernas, e nos ossos das m\u00e3os, p\u00e9s e p\u00e9lvis. As \u00e1reas de aumento da densidade \u00f3ssea aparecem durante a inf\u00e2ncia. N\u00e3o causam dor nem outros problemas de sa\u00fade."
+    },
+    {
+        "qid":"0000141-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Buschke-Ollendorff?",
+        "answer":"A s\u00edndrome de Buschke-Ollendorff tem uma incid\u00eancia estimada de 1 em 20.000 pessoas em todo o mundo."
+    },
+    {
+        "qid":"0000141-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Buschke-Ollendorff?",
+        "answer":"A s\u00edndrome de Buschke-Ollendorff resulta de muta\u00e7\u00f5es no gene LEMD3. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que ajuda a controlar a sinaliza\u00e7\u00e3o atrav\u00e9s de duas vias qu\u00edmicas conhecidas como prote\u00edna morfog\u00eanica \u00f3ssea (BMP) e transformando vias de fator de crescimento-beta (TGF-). Estas vias de sinaliza\u00e7\u00e3o regulam v\u00e1rios processos celulares e est\u00e3o envolvidas no crescimento de c\u00e9lulas, incluindo novas c\u00e9lulas \u00f3sseas. Muta\u00e7\u00f5es no gene LEMD3 reduzem a quantidade de prote\u00edna LEMD3 funcional que \u00e9 produzida. A escassez desta prote\u00edna impede que controle a sinaliza\u00e7\u00e3o de BMP e TGF efetivamente, levando a um aumento da sinaliza\u00e7\u00e3o atrav\u00e9s de ambas as vias. Estudos sugerem que a sinaliza\u00e7\u00e3o aumenta a forma\u00e7\u00e3o de tecido \u00f3sseo, resultando em \u00e1reas de osso excessivamente denso. N\u00e3o est\u00e1 claro como est\u00e1 relacionado com o desenvolvimento de tecido conjuntivo nevi em pessoas com s\u00edndrome de Buschke-Ollendorff."
+    },
+    {
+        "qid":"0000141-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Buschke-Ollendorff \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Em muitos casos, uma pessoa afetada tem um pai e outros membros da fam\u00edlia com a condi\u00e7\u00e3o. Enquanto a maioria das pessoas com s\u00edndrome de Buschke-Ollendorff tem ambos nevi tecido conjuntivo e osteopoikilose, algumas fam\u00edlias afetadas incluem indiv\u00edduos que t\u00eam as anormalidades cut\u00e2neas sozinhos ou as anormalidades \u00f3sseas sozinhos. Quando a osteopoikilose ocorre sem nevi do tecido conjuntivo, a condi\u00e7\u00e3o \u00e9 frequentemente chamada de osteopoikilose isolada."
+    },
+    {
+        "qid":"0000141-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Buschke-Ollendorff?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Buschke-Ollendorff: - Registro de Testes Gen\u00e9ticos: Dermatofibrose lenticularis disseminata Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

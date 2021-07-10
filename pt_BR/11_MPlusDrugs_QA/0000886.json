@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0000886-1",
+        "qtype":"important warning",
+        "question":"Que aviso ou informa\u00e7\u00e3o importante eu deveria saber sobre a inje\u00e7\u00e3o de Ofatumumab?",
+        "answer":""
+    },
+    {
+        "qid":"0000886-2",
+        "qtype":"indication",
+        "question":"Quem deve receber a inje\u00e7\u00e3o de Ofatumumab e por que \u00e9 prescrita?",
+        "answer":""
+    },
+    {
+        "qid":"0000886-3",
+        "qtype":"usage",
+        "question":"Como deve ser usada a inje\u00e7\u00e3o de Ofatumumab e qual \u00e9 a dose?",
+        "answer":""
+    },
+    {
+        "qid":"0000886-5",
+        "qtype":"precautions",
+        "question":"H\u00e1 preocupa\u00e7\u00f5es de seguran\u00e7a ou precau\u00e7\u00f5es especiais sobre a inje\u00e7\u00e3o de Ofatumumab?",
+        "answer":""
+    },
+    {
+        "qid":"0000886-6",
+        "qtype":"dietary",
+        "question":"Que instru\u00e7\u00f5es diet\u00e9ticas especiais devo seguir com inje\u00e7\u00e3o de Ofatumumab?",
+        "answer":""
+    },
+    {
+        "qid":"0000886-7",
+        "qtype":"side effects",
+        "question":"Quais s\u00e3o os efeitos colaterais ou riscos da inje\u00e7\u00e3o de Ofatumumab?",
+        "answer":""
+    },
+    {
+        "qid":"0000886-8",
+        "qtype":"emergency or overdose",
+        "question":"O que fazer em caso de emerg\u00eancia ou overdose de Ofatumumab Inje\u00e7\u00e3o?",
+        "answer":""
+    },
+    {
+        "qid":"0000886-9",
+        "qtype":"other information",
+        "question":"Que outra informa\u00e7\u00e3o devo saber sobre a Inje\u00e7\u00e3o de Ofatumumab?",
+        "answer":""
+    },
+    {
+        "qid":"0000886-10",
+        "qtype":"brand names",
+        "question":"Quais s\u00e3o os nomes de marca da Inje\u00e7\u00e3o de Ofatumumab?",
+        "answer":""
+    }
+]

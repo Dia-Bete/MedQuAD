@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000001-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a aus\u00eancia do Septum Pellucidum?",
+        "answer":"O septo pel\u00facido (SP) \u00e9 uma membrana fina localizada na linha m\u00e9dia do c\u00e9rebro entre os dois hemisf\u00e9rios cerebrais, ou metades do c\u00e9rebro. Est\u00e1 ligado ao corpo calloso. Uma cole\u00e7\u00e3o de fibras nervosas que conectam os hemisf\u00e9rios cerebrais. Essa anormalidade rara acompanha v\u00e1rias malforma\u00e7\u00f5es do c\u00e9rebro que afetam a intelig\u00eancia, o comportamento e o processo de neurodesenvolvimento, e convuls\u00f5es podem ocorrer. Crian\u00e7as que nascem sem essa membrana e tamb\u00e9m t\u00eam outras anormalidades - defici\u00eancias de hipofise e desenvolvimento anormal do disco \u00f3ptico - t\u00eam um dist\u00farbio conhecido como displasia septo-\u00f3ptica. Mais informa\u00e7\u00f5es sobre esta condi\u00e7\u00e3o podem ser localizadas na p\u00e1gina de informa\u00e7\u00e3o da displasia septo-\u00f3ptica NINDS."
+    },
+    {
+        "qid":"0000001-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Aus\u00eancia do Septum Pellucidum?",
+        "answer":"A aus\u00eancia do SP por si s\u00f3 n\u00e3o \u00e9 um dist\u00farbio, mas \u00e9 uma caracter\u00edstica notada em crian\u00e7as com displasia septo-\u00f3ptica ou outras anomalias do desenvolvimento."
+    },
+    {
+        "qid":"0000001-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Aus\u00eancia do Septum Pellucidum?",
+        "answer":"Quando a aus\u00eancia do septo pel\u00facido faz parte da displasia septo-\u00f3ptica, o progn\u00f3stico varia de acordo com a presen\u00e7a e gravidade dos sintomas associados. Por si s\u00f3, a aus\u00eancia do septo pel\u00facido n\u00e3o amea\u00e7a a vida."
+    },
+    {
+        "qid":"0000001-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a Aus\u00eancia do Septum Pellucidum?",
+        "answer":"A miss\u00e3o do Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Accidentes (NINDS) \u00e9 buscar conhecimento fundamental sobre o c\u00e9rebro e o sistema nervoso para usar esse conhecimento para reduzir a carga da doen\u00e7a neurol\u00f3gica. O NINDS conduz e apoia uma ampla gama de estudos que exploram os complexos mecanismos do desenvolvimento cerebral normal. O conhecimento obtido com esses estudos fundamentais fornece a base para entender como este processo pode ir mal e oferece esperan\u00e7a de novos meios para tratar e prevenir dist\u00farbios cerebrais do desenvolvimento."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0004141-1",
+        "qtype":"information",
+        "question":"O que \u00e9 o cheiro de urina?",
+        "answer":""
+    },
+    {
+        "qid":"0004141-2",
+        "qtype":"causes",
+        "question":"O que causa o odor de urina?",
+        "answer":""
+    },
+    {
+        "qid":"0004141-3",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para o odor de urina?",
+        "answer":""
+    },
+    {
+        "qid":"0004141-4",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o odor de urina?",
+        "answer":""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000952-1",
+        "qtype":"information",
+        "question":"O que \u00e9 esteatocistoma multiplex?",
+        "answer":"Esteatocistoma multiplex \u00e9 um dist\u00farbio de pele caracterizado pelo desenvolvimento de m\u00faltiplos cistos n\u00e3o cancerosos (benignos) conhecidos como esteatocistomas. Esses crescimentos come\u00e7am nas gl\u00e2ndulas seb\u00e1ceas da pele, que normalmente produzem uma subst\u00e2ncia oleosa chamada sebo que lubrifica a pele e o cabelo. Os esteatocitomas est\u00e3o cheios de sebo. Em indiv\u00edduos afetados, esteatocitomas normalmente aparecem pela primeira vez durante a adolesc\u00eancia e s\u00e3o encontrados mais frequentemente no torso, pesco\u00e7o, parte superior dos bra\u00e7os e parte superior das pernas. Na maioria das pessoas com esteatocistoma multiplex, estes cistos s\u00e3o o \u00fanico sinal da condi\u00e7\u00e3o. No entanto, alguns indiv\u00edduos afetados tamb\u00e9m t\u00eam anomalias leves envolvendo os dentes ou as unhas e unhas dos p\u00e9s."
+    },
+    {
+        "qid":"0000952-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pelo esteatocistoma multiplex?",
+        "answer":"Embora a preval\u00eancia de esteatocistoma multiplex seja desconhecida, parece ser rara."
+    },
+    {
+        "qid":"0000952-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas ao esteatocistoma multiplex?",
+        "answer":"Esteatocistoma multiplex pode ser causado por muta\u00e7\u00f5es no gene KRT17. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada queratina 17, que \u00e9 produzida nas unhas, os fol\u00edculos capilares, e a pele nas palmas das m\u00e3os e plantas dos p\u00e9s. Tamb\u00e9m \u00e9 encontrado nas gl\u00e2ndulas seb\u00e1ceas da pele. Queratina 17 parceiros com uma prote\u00edna similar chamada queratina 6b para formar redes que fornecem for\u00e7a e resili\u00eancia \u00e0 pele, unhas e outros tecidos. As muta\u00e7\u00f5es do gene KRT17 que causam esteatocistoma multiplex alteram a estrutura da queratina 17, impedindo-a de formar redes fortes e est\u00e1veis dentro das c\u00e9lulas. A rede de queratina defeituosa interrompe o crescimento e a fun\u00e7\u00e3o das c\u00e9lulas na pele e unhas, incluindo as c\u00e9lulas que comp\u00f5em as gl\u00e2ndulas seb\u00e1ceas. Essas anormalidades levam ao crescimento de cistos contendo sebo em pessoas com esteatocistoma multiplex. No entanto, n\u00e3o est\u00e1 claro por que esteatocitomas s\u00e3o tipicamente a \u00fanica caracter\u00edstica deste dist\u00farbio. Muitos pesquisadores acreditam que esteatocistoma multiplex \u00e9 uma forma variante de um dist\u00farbio chamado paquionychia cong\u00e9nita, que tamb\u00e9m pode resultar de muta\u00e7\u00f5es no gene KRT17. Como esteatocistoma multiplex, paquionychia congenita envolve o crescimento de esteatocistomas. Pachyonychia congenita tamb\u00e9m est\u00e1 associada com anormalidades mais graves da pele e unhas n\u00e3o geralmente encontradas em pessoas com esteatocistoma multiplex. Em alguns casos, pessoas com esteatocistoma multiplex n\u00e3o t\u00eam uma muta\u00e7\u00e3o identificada no gene KRT17. A causa da condi\u00e7\u00e3o nesses indiv\u00edduos \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000952-4",
+        "qtype":"inheritance",
+        "question":"O esteatocistoma multiplex \u00e9 herdado?",
+        "answer":"Quando esteatocistoma multiplex \u00e9 causado por muta\u00e7\u00f5es no gene KRT17, ele \u00e9 herdado em um padr\u00e3o autoss\u00f4mico dominante. Heran\u00e7a autoss\u00f4mica dominante significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Na maioria dos casos, uma pessoa afetada herda a condi\u00e7\u00e3o de um pai afetado. Em pessoas com esteatocistoma multiplex que n\u00e3o identificaram muta\u00e7\u00f5es do gene KRT17, geralmente n\u00e3o h\u00e1 hist\u00f3rico familiar do dist\u00farbio."
+    },
+    {
+        "qid":"0000952-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para esteatocistoma multiplex?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo de esteatocistoma multiplex: - Registro de Testes Gen\u00e9ticos: Steatocystoma multiplex Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

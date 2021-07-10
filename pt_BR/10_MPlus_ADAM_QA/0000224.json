@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0000224-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Angina - alta?",
+        "answer":""
+    },
+    {
+        "qid":"0000224-2",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Angina - alta?",
+        "answer":""
+    },
+    {
+        "qid":"0000224-6",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para Angina - alta?",
+        "answer":""
+    }
+]

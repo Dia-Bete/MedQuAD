@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000231-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Transtornos Pervasivos do Desenvolvimento?",
+        "answer":"A categoria diagn\u00f3stica de dist\u00farbios do desenvolvimento penetrante (DPD) refere-se a um grupo de dist\u00farbios caracterizados por atrasos no desenvolvimento de habilidades de socializa\u00e7\u00e3o e comunica\u00e7\u00e3o. Os pais podem notar sintomas desde a inf\u00e2ncia, embora a idade t\u00edpica de in\u00edcio seja antes dos 3 anos de idade. Os sintomas podem incluir problemas com o uso e compreens\u00e3o da linguagem; dificuldade em se relacionar com pessoas, objetos e eventos; brinquedos incomuns com brinquedos e outros objetos; dificuldade com mudan\u00e7as na rotina ou ambiente familiar, e movimentos corporais repetitivos ou padr\u00f5es de comportamento. Autismo (um dist\u00farbio cerebral do desenvolvimento caracterizado por intera\u00e7\u00e3o social prejudicada e habilidades de comunica\u00e7\u00e3o, e uma gama limitada de atividades e interesses) \u00e9 o PDD mais caracter\u00edstico e melhor estudado. Outros tipos de DDP incluem S\u00edndrome de Asperger, Dist\u00farbio Desintegrativo Infantil e S\u00edndrome de Rett. Crian\u00e7as com DDP variam muito em habilidades, intelig\u00eancia e comportamentos. Algumas crian\u00e7as n\u00e3o falam, outras falam em frases ou conversas limitadas, e algumas t\u00eam um desenvolvimento ling\u00fc\u00edstico relativamente normal. Habilidades de brincadeira repetitivas e habilidades sociais limitadas s\u00e3o geralmente evidentes. Respostas incomuns a informa\u00e7\u00f5es sensoriais, como ru\u00eddos e luzes, tamb\u00e9m s\u00e3o comuns."
+    },
+    {
+        "qid":"0000231-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Transtornos Pervasivos do Desenvolvimento?",
+        "answer":"N\u00e3o h\u00e1 cura conhecida para PDD. Os medicamentos s\u00e3o usados para lidar com problemas comportamentais espec\u00edficos; a terapia para crian\u00e7as com DDP deve ser especializada de acordo com as necessidades. Algumas crian\u00e7as com PDD se beneficiam de salas de aula especializadas em que o tamanho da aula \u00e9 pequeno e a instru\u00e7\u00e3o \u00e9 dada de uma para uma. Outros funcionam bem em aulas normais de educa\u00e7\u00e3o especial ou aulas regulares com apoio adicional."
+    },
+    {
+        "qid":"0000231-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Transtornos Pervasivos do Desenvolvimento?",
+        "answer":"A interven\u00e7\u00e3o precoce, incluindo programas educacionais apropriados e especializados e servi\u00e7os de apoio, desempenha um papel fundamental na melhoria do resultado dos indiv\u00edduos com DDP. A DDP n\u00e3o \u00e9 fatal e n\u00e3o afeta a expectativa de vida normal."
+    },
+    {
+        "qid":"0000231-4",
+        "qtype":"research",
+        "question":"que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para transtornos do desenvolvimento pervasivo?",
+        "answer":"O NINDS conduz e apoia pesquisas sobre defici\u00eancias de desenvolvimento, incluindo PDD. Grande parte desta pesquisa se concentra na compreens\u00e3o da base neurol\u00f3gica da DDP e no desenvolvimento de t\u00e9cnicas para diagnosticar, tratar, prevenir e, em \u00faltima an\u00e1lise, curar estes e dist\u00farbios similares."
+    }
+]

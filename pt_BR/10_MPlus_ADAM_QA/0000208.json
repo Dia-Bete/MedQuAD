@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0000208-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a anafilaxia?",
+        "answer":""
+    },
+    {
+        "qid":"0000208-2",
+        "qtype":"causes",
+        "question":"O que causa Anafilaxia?",
+        "answer":""
+    },
+    {
+        "qid":"0000208-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da anafilaxia?",
+        "answer":""
+    },
+    {
+        "qid":"0000208-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar anafilaxia?",
+        "answer":""
+    },
+    {
+        "qid":"0000208-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a anafilaxia?",
+        "answer":""
+    },
+    {
+        "qid":"0000208-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Anafilaxia?",
+        "answer":""
+    },
+    {
+        "qid":"0000208-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es da Anafilaxia?",
+        "answer":""
+    },
+    {
+        "qid":"0000208-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para anafilaxia?",
+        "answer":""
+    },
+    {
+        "qid":"0000208-9",
+        "qtype":"prevention",
+        "question":"Como prevenir a anafilaxia?",
+        "answer":""
+    }
+]

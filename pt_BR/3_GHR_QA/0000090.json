@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000090-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a cegueira noturna cong\u00eanita autoss\u00f4mica dominante?",
+        "answer":"A cegueira noturna cong\u00eanita autoss\u00f4mica dominante \u00e9 uma desordem da retina, que \u00e9 o tecido especializado na parte de tr\u00e1s do olho que detecta luz e cor. Pessoas com essa condi\u00e7\u00e3o normalmente t\u00eam dificuldade em ver e distinguir objetos em baixa luz (cegueira noturna). Por exemplo, eles n\u00e3o s\u00e3o capazes de identificar sinais de estrada \u00e0 noite e algumas pessoas n\u00e3o podem ver estrelas no c\u00e9u noturno. Indiv\u00edduos afetados t\u00eam vis\u00e3o diurna normal e normalmente n\u00e3o t\u00eam outros problemas de vis\u00e3o relacionados a este dist\u00farbio. A cegueira noturna associada a esta condi\u00e7\u00e3o \u00e9 cong\u00eanita, o que significa que est\u00e1 presente desde o nascimento. Este defici\u00eancia visual tende a permanecer est\u00e1vel (estacion\u00e1rio); n\u00e3o piora com o tempo."
+    },
+    {
+        "qid":"0000090-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por cegueira noturna cong\u00eanita dominante autoss\u00f4mica?",
+        "answer":"A cegueira noturna cong\u00eanita autoss\u00f4mica dominante \u00e9 provavelmente uma doen\u00e7a rara; no entanto, sua preval\u00eancia \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000090-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 cegueira noturna cong\u00eanita autoss\u00f4mica dominante?",
+        "answer":"Muta\u00e7\u00f5es no gene RHO, GNAT1 ou PDE6B causam cegueira cong\u00eanita autoss\u00f4mica dominante. As prote\u00ednas produzidas a partir desses genes s\u00e3o necess\u00e1rias para a vis\u00e3o normal, particularmente em condi\u00e7\u00f5es de baixa luz. Estas prote\u00ednas s\u00e3o encontradas em c\u00e9lulas receptoras de luz especializadas na retina chamadas varas. Rods transmitem sinais visuais do olho para o c\u00e9rebro quando a luz est\u00e1 fraca. O gene RHO fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada rodopsina, que \u00e9 ligada (ativada) pela luz entrando no olho. Rhodopsina ent\u00e3o se liga (vindas) e ativa a prote\u00edna produzida a partir do gene GNAT1, alfa ()-transdu\u00e7\u00e3o. A prote\u00edna -transducina ent\u00e3o desencadeia a ativa\u00e7\u00e3o de uma prote\u00edna chamada cGMP-PDE, que \u00e9 composta por m\u00faltiplas partes (subunidades) incluindo uma subunidade produzida a partir do gene PDE6B. CGMP-PDE ativado desencadeia uma s\u00e9rie de rea\u00e7\u00f5es qu\u00edmicas que criam sinais el\u00e9tricos. Esses sinais s\u00e3o transmitidos das c\u00e9lulas da vara para o c\u00e9rebro, onde s\u00e3o interpretados como vis\u00e3o. Muta\u00e7\u00f5es no gene RHO, GNAT1 ou PDE6B interrompem a sinaliza\u00e7\u00e3o normal que ocorre dentro das c\u00e9lulas da vara. Como resultado, as varas n\u00e3o podem transmitir sinais efetivamente para o c\u00e9rebro, levando a uma falta de percep\u00e7\u00e3o visual em baixa luz."
+    },
+    {
+        "qid":"0000090-4",
+        "qtype":"inheritance",
+        "question":"A cegueira noturna autoss\u00f4mica dominante \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000090-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a cegueira noturna cong\u00eanita autoss\u00f4mica dominante?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo de cegueira cong\u00eanita estacion\u00e1ria autoss\u00f4mica dominante: - Registro de Testes Gen\u00e9ticos: Cegueira estacion\u00e1ria cong\u00eanita Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

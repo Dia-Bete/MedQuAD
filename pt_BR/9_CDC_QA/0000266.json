@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0000266-1",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para a Febre Hemorr\u00e1gica Lujo (LUHF)? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"Como todos os arenav\u00edrus, o v\u00edrus Lujo tem um hospedeiro de roedores como reservat\u00f3rio. Os humanos podem contrair LUHF atrav\u00e9s do contato com um roedor infectado. O contato pode ser direto ou atrav\u00e9s da inala\u00e7\u00e3o do v\u00edrus Lujo aerosolizado da urina ou fezes de roedores infectados. A transmiss\u00e3o de pessoa a pessoa do v\u00edrus Lujo foi observada no pequeno aglomerado nosocomial de doen\u00e7a hemorr\u00e1gica que resultou na descoberta do v\u00edrus Lujo. Transmiss\u00e3o de arenav\u00edrus, e o v\u00edrus Lujo em particular, \u00e9 provavelmente o resultado do contato direto com os fluidos corporais de uma pessoa infectada, na aus\u00eancia de precau\u00e7\u00f5es de controle de infec\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000266-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da febre hemorr\u00e1gica de Lujo (LUHF)?",
+        "answer":"Os sintomas da febre hemorr\u00e1gica de Lujo, como descrito nos cinco pacientes no surto original do cluster, se assemelham aos da febre grave de Lassa. Ap\u00f3s um per\u00edodo de incuba\u00e7\u00e3o de 7 a 13 dias, o curso cl\u00ednico come\u00e7ou por uma doen\u00e7a febril n\u00e3o espec\u00edfica acompanhada de dor de cabe\u00e7a e de m\u00fasculo. A doen\u00e7a aumenta na gravidade, com: - uma erup\u00e7\u00e3o morbilliforme do rosto e tronco - incha\u00e7o do rosto e pesco\u00e7o - faringite (gorda grave) - diarreia Sangramento n\u00e3o foi uma caracter\u00edstica proeminente durante a doen\u00e7a. Nos casos fatais (4/5 pacientes), uma melhora transit\u00f3ria foi seguida por: - deteriora\u00e7\u00e3o r\u00e1pida com sofrimento respirat\u00f3rio - sinais neurol\u00f3gicos e colapso circulat\u00f3rio A morte ocorreu 10 a 13 dias ap\u00f3s o in\u00edcio. Baixas plaquetas sangu\u00edneas, baixa contagem de gl\u00f3bulos brancos (no in\u00edcio, subindo mais tarde) e elevados valores de fun\u00e7\u00e3o hep\u00e1tica estavam presentes em todos os pacientes. Como os Arenav\u00edrus podem entrar no feto atrav\u00e9s da infec\u00e7\u00e3o da m\u00e3e, e evid\u00eancias anect\u00f3dicas sugerem que mulheres gr\u00e1vidas infectadas podem sofrer abortos espont\u00e2neos, \u00e9 razo\u00e1vel supor que tanto infec\u00e7\u00e3o do feto e aborto espont\u00e2neo podem estar associados com infec\u00e7\u00e3o Lujo na m\u00e3e."
+    },
+    {
+        "qid":"0000266-3",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para a Febre Hemorr\u00e1gica Lujo (LUHF)? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"A febre hemorr\u00e1gica do Lujo (LUHF) ocorre no sul da \u00c1frica. O caso inicial certamente foi infectado na Z\u00e2mbia. Trabalhadores de campo Os trabalhadores de campo est\u00e3o em maior risco devido ao aumento do contato humano com a popula\u00e7\u00e3o de roedores reservat\u00f3rios. Parceiros sexuais de trabalhadores de campo podem estar em maior risco tamb\u00e9m. Al\u00e9m da infec\u00e7\u00e3o nosocomial em trabalhadores de sa\u00fade j\u00e1 descritos, infec\u00e7\u00f5es laboratoriais t\u00eam sido frequentemente descritas com Arenavirus e o v\u00edrus Lujo certamente pode ser transmitido aos trabalhadores de laborat\u00f3rio durante a manipula\u00e7\u00e3o do v\u00edrus, especialmente durante infec\u00e7\u00f5es experimentais de roedores."
+    },
+    {
+        "qid":"0000266-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a febre hemorr\u00e1gica de Lujo (LUHF)?",
+        "answer":"Durante a fase febril aguda, o v\u00edrus Lujo foi isolado do sangue dos dias 2 a 13 ap\u00f3s o in\u00edcio. O v\u00edrus tamb\u00e9m foi isolado do tecido do f\u00edgado obtido p\u00f3s-morte. Uma an\u00e1lise gen\u00f4mica completa subsequente do v\u00edrus Lujo facilitou o desenvolvimento de ensaios de detec\u00e7\u00e3o molecular espec\u00edfica (RT-PCR). O diagn\u00f3stico sorol\u00f3gico da febre hemorr\u00e1gica de Lujo pode ser feito por meio de ensaio imunofluorescente indireto e ELISA. No entanto, indiv\u00edduos de \u00e1reas end\u00eamicas apresentando febre, erup\u00e7\u00e3o cut\u00e2nea, faringite, acompanhados por achados laboratoriais de baixa contagem de plaquetas e enzimas hep\u00e1ticas elevadas, devem ser suspeitos de ter uma infec\u00e7\u00e3o pelo v\u00edrus da febre hemorr\u00e1gica. Esp\u00e9cimes cl\u00ednicos devem ser testados usando ensaios espec\u00edficos."
+    },
+    {
+        "qid":"0000266-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Febre Hemorr\u00e1gica Lujo (LUHF)?",
+        "answer":"A terapia de apoio \u00e9 importante na febre hemorr\u00e1gica de Lujo. Isso inclui: - manuten\u00e7\u00e3o da hidrata\u00e7\u00e3o - controle do choque - seda\u00e7\u00e3o - al\u00edvio da dor - precau\u00e7\u00f5es habituais para pacientes com dist\u00farbios hemorr\u00e1gicos - transfus\u00f5es (quando necess\u00e1rio) Tratamento de febres hemorr\u00e1gicas de arenav\u00edrus com terapia plasm\u00e1tica convalescente reduz a mortalidade significativamente e evid\u00eancias anect\u00f3dicas do \u00fanico paciente Lujo sobrevivente mostra que a ribavirina antiviral pode manter promessa no tratamento do LUHF. A ribavirina tem sido considerada para prevenir o desenvolvimento de doen\u00e7as em pessoas expostas a outros arenav\u00edrus. Recupera\u00e7\u00e3o A mortalidade precisa do LUHF \u00e9 desconhecida, mas 4 dos 5 casos descritos foram fatais. Pacientes que sofreram de outros arenav\u00edrus podem excretar v\u00edrus na urina ou s\u00eamen por semanas ap\u00f3s a recupera\u00e7\u00e3o. Por esta raz\u00e3o, esses fluidos devem ser monitorados para infectividade, j\u00e1 que pacientes convalescentes t\u00eam o potencial de infectar outros (especialmente parceiros sexuais) atrav\u00e9s desses fluidos."
+    },
+    {
+        "qid":"0000266-6",
+        "qtype":"prevention",
+        "question":"Como prevenir a febre hemorr\u00e1gica do Lujo (LUHF)?",
+        "answer":"Embora o controle dos roedores seja desej\u00e1vel, n\u00e3o ser\u00e1 uma estrat\u00e9gia bem sucedida para prevenir casos de febre hemorr\u00e1gica do Lujo causados por exposi\u00e7\u00f5es ao ar livre. Quanto a outras febres hemorr\u00e1gicas, procedimentos de enfermagem de barreira completa devem ser implementados durante o manejo de casos suspeitos ou confirmados de LUHF (n\u00e3o houve infec\u00e7\u00e3o ap\u00f3s sua implanta\u00e7\u00e3o na \u00c1frica do Sul)."
+    }
+]

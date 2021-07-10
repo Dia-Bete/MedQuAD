@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000051-1",
+        "qtype":"information",
+        "question":"O que \u00e9 uma microcefalia letal Amish?",
+        "answer":"A microcefalia letal Amish \u00e9 uma desordem em que beb\u00eas nascem com uma cabe\u00e7a muito pequena e c\u00e9rebro subdesenvolvido. Crian\u00e7as com microcefalia letal Amish t\u00eam uma testa inclinada e uma cabe\u00e7a extremamente pequena. Eles tamb\u00e9m podem ter uma mand\u00edbula e queixo incomummente pequenos (micrognatia) e um aumento do f\u00edgado (hepatomegalia). Crian\u00e7as afetadas podem ter convuls\u00f5es e dificuldade em manter a temperatura corporal. Muitas vezes se tornam muito irritantes a partir do segundo ou terceiro m\u00eas de vida. Um composto chamado \u00e1cido alfa-cetoglut\u00e1rico pode ser detectado em sua urina (acid\u00faria alfa-cetoglut\u00e1rica), e durante epis\u00f3dios de doen\u00e7a viral eles tendem a desenvolver n\u00edveis elevados de \u00e1cido no sangue e tecidos (acidose metab\u00f3lica). Crian\u00e7as com este dist\u00farbio normalmente se alimentam adequadamente, mas n\u00e3o desenvolvem habilidades como movimento propositado ou a capacidade de rastrear rostos e sons. Crian\u00e7as afetadas vivem apenas cerca de seis meses."
+    },
+    {
+        "qid":"0000051-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela microcefalia letal Amish?",
+        "answer":"A microcefalia letal de Amish ocorre em aproximadamente 1 em 500 rec\u00e9m-nascidos na popula\u00e7\u00e3o Amish da Ordem Velha da Pensilv\u00e2nia. N\u00e3o foi encontrado fora desta popula\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000051-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 microcefalia letal de Amish?",
+        "answer":"Muta\u00e7\u00f5es no gene SLC25A19 causam microcefalia letal de Amish. O gene SLC25A19 fornece instru\u00e7\u00f5es para produzir uma prote\u00edna que \u00e9 um membro da fam\u00edlia de prote\u00ednas portadoras de soluto (SLC). Prote\u00ednas da fam\u00edlia SLC transportam v\u00e1rios compostos atrav\u00e9s das membranas que rodeiam a c\u00e9lula e suas partes componentes. A prote\u00edna produzida a partir do gene SLC25A19 transporta uma mol\u00e9cula chamada pirofosfato tiamina para as mitoc\u00f4ndrias, os centros de produ\u00e7\u00e3o de energia das c\u00e9lulas. Este composto est\u00e1 envolvido na atividade de um grupo de enzimas mitocondriais chamadas complexos de desidrogenase, um dos quais \u00e9 o complexo de alfa-cetoglutarato de desidrogenase. Acredita-se que o transporte do pirofosfato tiamina para as mitoc\u00f4ndrias seja importante no desenvolvimento cerebral. Todos os indiv\u00edduos conhecidos com microcefalia letal Amish t\u00eam uma muta\u00e7\u00e3o na qual o bloco de constru\u00e7\u00e3o de prote\u00ednas (amino\u00e1cido) alanina \u00e9 substitu\u00edda pela glicina de amino\u00e1cido na posi\u00e7\u00e3o 177 da prote\u00edna SLC25A19, escrita como Gly177Ala ou G177A. Os pesquisadores acreditam que essa muta\u00e7\u00e3o interfere no transporte do pirofosfato tiamina para as mitoc\u00f4ndrias e na atividade do complexo alfa-cetoglutarato desidrogenase, resultando no desenvolvimento cerebral anormal e a acid\u00faria alfa-cetoglut\u00e1ria observada na microcefalia letal de Amish."
+    },
+    {
+        "qid":"0000051-4",
+        "qtype":"inheritance",
+        "question":"Amish \u00e9 uma microcefalia letal herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000051-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a microcefalia letal Amish?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da microcefalia letal de Amish: - Gene Review: Gene Review: Amish Letal Microcefalia - Gene Testing Registry: Amish Letal Microcefalia - MedlinePlus Enciclopedia: Microcefalia Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

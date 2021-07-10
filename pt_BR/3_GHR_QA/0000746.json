@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000746-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome oculofaciocardiodental?",
+        "answer":"A s\u00edndrome oculofaciocardiodental (OFCD) \u00e9 uma condi\u00e7\u00e3o que afeta o desenvolvimento dos olhos (oculo-), caracter\u00edsticas faciais (facio-), cora\u00e7\u00e3o (cardio-) e dentes (dentais). Essa condi\u00e7\u00e3o ocorre apenas nas f\u00eameas. As anomalias oculares associadas \u00e0 s\u00edndrome OFCD podem afetar um ou ambos os olhos. Muitas pessoas com esta condi\u00e7\u00e3o nascem com globos oculares anormalmente pequenos (microftalmia). Outros problemas oculares podem incluir turva\u00e7\u00e3o da lente (catarata) e um maior risco de glaucoma, uma doen\u00e7a ocular que aumenta a press\u00e3o no olho. Essas anomalias podem levar \u00e0 perda de vis\u00e3o ou cegueira. Pessoas com s\u00edndrome OFCD muitas vezes t\u00eam um rosto longo e estreito com caracter\u00edsticas faciais distintas, incluindo olhos profundos e uma ponta nasal ampla que \u00e9 dividida por uma fissura. Algumas pessoas afetadas t\u00eam uma abertura no telhado da boca chamada paladar fissura. Defeitos card\u00edacos s\u00e3o outra caracter\u00edstica comum da s\u00edndrome do CDO. Beb\u00eas com esta condi\u00e7\u00e3o podem nascer com um buraco entre duas c\u00e2maras do cora\u00e7\u00e3o (um defeito atrial ou ventricular septal) ou um vazamento em uma das v\u00e1lvulas que controla o fluxo sangu\u00edneo atrav\u00e9s do cora\u00e7\u00e3o (prolapso da v\u00e1lvula mitral). Dentes com ra\u00edzes muito grandes (radiculomegalia) s\u00e3o caracter\u00edsticos da s\u00edndrome OFCD. Anomalias dent\u00e1rias adicionais podem incluir perda tardia de dentes prim\u00e1rios (beb\u00ea), dentes faltando ou anormalmente pequenos, dentes desalinhados, e esmalte de dente defeituoso."
+    },
+    {
+        "qid":"0000746-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome oculofaciocardiodental?",
+        "answer":"A s\u00edndrome OFCD \u00e9 muito rara; a incid\u00eancia \u00e9 estimada em menos de 1 em 1 milh\u00e3o de pessoas."
+    },
+    {
+        "qid":"0000746-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome oculofaciocardiodental?",
+        "answer":"Muta\u00e7\u00f5es no gene BCOR causa s\u00edndrome OFCD. O gene BCOR fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada BCL6 corepressor. Esta prote\u00edna ajuda a regular a atividade de outros genes. Pouco se sabe sobre a fun\u00e7\u00e3o da prote\u00edna, embora pare\u00e7a desempenhar um papel importante no desenvolvimento embrion\u00e1rio precoce. V\u00e1rias muta\u00e7\u00f5es no gene BCOR foram encontradas em pessoas com s\u00edndrome de OFCD. Essas muta\u00e7\u00f5es impedem a produ\u00e7\u00e3o de qualquer prote\u00edna funcional do gene alterado, que interrompe o desenvolvimento normal dos olhos e de v\u00e1rios outros \u00f3rg\u00e3os e tecidos antes do nascimento."
+    },
+    {
+        "qid":"0000746-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome oculofaciocardiodental \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o dominante ligado a X. O gene associado a esta condi\u00e7\u00e3o est\u00e1 localizado no cromossomo X, que \u00e9 um dos dois cromossomos sexuais. Nas f\u00eameas (que t\u00eam dois cromossomos X), uma muta\u00e7\u00e3o em uma das duas c\u00f3pias do gene em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Algumas c\u00e9lulas produzem uma quantidade normal de prote\u00edna BCL6 corepressor e outras c\u00e9lulas n\u00e3o produzem nenhuma. A redu\u00e7\u00e3o global resultante na quantidade desta prote\u00edna leva aos sinais e sintomas da s\u00edndrome de OFCD. Em machos (que t\u00eam apenas um cromossomo X), muta\u00e7\u00f5es resultam em uma perda total da prote\u00edna do corepressor BCL6. A falta desta prote\u00edna parece ser letal muito cedo no desenvolvimento, ent\u00e3o nenhum homem nasce com s\u00edndrome de OFCD."
+    },
+    {
+        "qid":"0000746-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome oculofaciocardiodental?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da s\u00edndrome oculofaciocardiodental: - Registro de Testes Gen\u00e9ticos: S\u00edndrome oculofaciocardiodental Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

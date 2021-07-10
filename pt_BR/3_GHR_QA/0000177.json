@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000177-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) espectro de miocerebrohepatopatia da inf\u00e2ncia?",
+        "answer":"O espectro da miocerebrohepatopatia infantil, comumente chamado de MCHS, faz parte de um grupo de doen\u00e7as chamadas dist\u00farbios relacionados ao POG. As condi\u00e7\u00f5es neste grupo apresentam uma s\u00e9rie de sinais e sintomas semelhantes envolvendo fun\u00e7\u00f5es musculares, nervosas e cerebrais. MCHS normalmente se torna evidente em crian\u00e7as de alguns meses a 3 anos de idade. Pessoas com essa condi\u00e7\u00e3o geralmente t\u00eam problemas com seus m\u00fasculos (myo-), c\u00e9rebro (cerebro-), e f\u00edgado (hepato-). Os sinais e sintomas comuns da MCHS incluem fraqueza muscular (miopatia), atraso no desenvolvimento ou deteriora\u00e7\u00e3o da fun\u00e7\u00e3o intelectual e doen\u00e7a hep\u00e1tica. Outro poss\u00edvel sinal dessa condi\u00e7\u00e3o \u00e9 uma acumula\u00e7\u00e3o t\u00f3xica de \u00e1cido l\u00e1ctico no corpo (acidose l\u00e1ctica). Muitas vezes, crian\u00e7as afetadas s\u00e3o incapazes de ganhar peso e crescer \u00e0 taxa esperada (falha para prosperar). Sinais e sintomas adicionais da MCHS podem incluir uma forma de doen\u00e7a renal chamada acidose tubular renal, inflama\u00e7\u00e3o do p\u00e2ncreas (pancreatite), epis\u00f3dios recorrentes de n\u00e1useas e v\u00f3mitos (v\u00f3mitos c\u00edclicos), ou perda auditiva."
+    },
+    {
+        "qid":"0000177-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pelo espectro da miocerebrohepatopatia infantil?",
+        "answer":"A preval\u00eancia do espectro da miocerebrohepatopatia infantil \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000177-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as mudan\u00e7as gen\u00e9ticas relacionadas ao espectro da miocerebrohepatopatia infantil?",
+        "answer":"MCHS \u00e9 causada por muta\u00e7\u00f5es no gene POLG. Este gene fornece instru\u00e7\u00f5es para fazer uma parte, a subunidade alfa, de uma prote\u00edna chamada polimerase gamma (pol). A Pol funciona em mitoc\u00f4ndrias, que s\u00e3o estruturas dentro das c\u00e9lulas que usam oxig\u00eanio para converter a energia dos alimentos em uma forma que as c\u00e9lulas podem usar. Mitoc\u00f4ndrias cont\u00eam uma pequena quantidade de DNA, conhecido como DNA mitoc\u00f4ndrico (ADNmt), o que \u00e9 essencial para a fun\u00e7\u00e3o normal dessas estruturas. Pol \"leia\" sequ\u00eancias de mtDNA e as usa como modelos para produzir novas c\u00f3pias de mtDNA em um processo chamado replica\u00e7\u00e3o de DNA. A maioria das muta\u00e7\u00f5es do gene POLG mudam blocos de constru\u00e7\u00e3o de prote\u00ednas \u00fanicas (amino\u00e1cidos) na subunidade alfa de pol. Essas mudan\u00e7as resultam em um pol mutado que tem uma capacidade reduzida de replicar DNA. Embora o mecanismo seja desconhecido, muta\u00e7\u00f5es no gene POLG muitas vezes resultam em menos c\u00f3pias do DNAmt (deple\u00e7\u00e3o do ADNmt), particularmente nos m\u00fasculos, c\u00e9rebros ou c\u00e9lulas hep\u00e1ticas. A deple\u00e7\u00e3o do MtDNA causa uma diminui\u00e7\u00e3o da energia celular, o que pode explicar os sinais e sintomas da MCHS."
+    },
+    {
+        "qid":"0000177-4",
+        "qtype":"inheritance",
+        "question":"O espectro da miocerebroepatopatia da inf\u00e2ncia \u00e9 herdado?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000177-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o espectro da miocerebrohepatopatia infantil?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da MCHS: - Gene Review: Gene Review: POLG-Related Disorders - United Mitochondrial Disease Foundation: Diagn\u00f3stico da Doen\u00e7a Mitocondrial Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001068-1",
+        "qtype":"information",
+        "question":"O que est\u00e1 relacionado com a imunodefici\u00eancia combinada grave ZAP70?",
+        "answer":"A imunodefici\u00eancia combinada grave relacionada com ZAP70 (SCID) \u00e9 uma doen\u00e7a herdada que prejudica o sistema imunol\u00f3gico. O SCID relacionado ao ZAP70 \u00e9 uma das v\u00e1rias formas de imunodefici\u00eancia combinada grave, um grupo de dist\u00farbios com v\u00e1rias causas gen\u00e9ticas. Crian\u00e7as com SCID carecem de prote\u00e7\u00e3o imunol\u00f3gica contra bact\u00e9rias, v\u00edrus e fungos. Eles s\u00e3o propensos a infec\u00e7\u00f5es repetidas e persistentes que podem ser muito s\u00e9rias ou amea\u00e7adoras de vida. Muitas vezes, os organismos que causam infec\u00e7\u00e3o em pessoas com este dist\u00farbio s\u00e3o descritos como oportunistas porque normalmente n\u00e3o causam doen\u00e7as em pessoas saud\u00e1veis. Crian\u00e7as com SCID geralmente experimentam pneumonia, diarreia cr\u00f4nica e erup\u00e7\u00f5es cut\u00e2neas generalizadas. Eles tamb\u00e9m crescem muito mais lentamente do que crian\u00e7as saud\u00e1veis. Se n\u00e3o tratada de uma forma que restabele\u00e7a a fun\u00e7\u00e3o imune, as crian\u00e7as com SCID geralmente vivem apenas um ou dois anos. A maioria dos indiv\u00edduos com SCID relacionado com ZAP70 \u00e9 diagnosticada nos primeiros 6 meses de vida. Pelo menos um indiv\u00edduo mostrou sinais da condi\u00e7\u00e3o mais tarde na inf\u00e2ncia e teve sintomas menos graves, principalmente infec\u00e7\u00f5es respirat\u00f3rias e cut\u00e2neas recorrentes."
+    },
+    {
+        "qid":"0001068-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela imunodefici\u00eancia combinada grave relacionada com ZAP70?",
+        "answer":"O SCID relacionado ao ZAP70 \u00e9 um dist\u00farbio raro. Apenas cerca de 20 indiv\u00edduos afetados foram identificados. A preval\u00eancia de SCID de todas as causas gen\u00e9ticas combinadas \u00e9 de aproximadamente 1 em 50.000."
+    },
+    {
+        "qid":"0001068-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 imunodefici\u00eancia combinada grave relacionada com ZAP70?",
+        "answer":"Como o nome indica, esta condi\u00e7\u00e3o \u00e9 causada por muta\u00e7\u00f5es no gene ZAP70. O gene ZAP70 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada prote\u00edna quinase associada \u00e0 cadeia zeta. Esta prote\u00edna \u00e9 parte de uma via de sinaliza\u00e7\u00e3o que direciona o desenvolvimento de (ativa) c\u00e9lulas do sistema imunit\u00e1rio chamadas c\u00e9lulas T. As c\u00e9lulas T identificam subst\u00e2ncias estranhas e defendem o corpo contra infec\u00e7\u00f5es. O gene ZAP70 \u00e9 importante para o desenvolvimento e fun\u00e7\u00e3o de v\u00e1rios tipos de c\u00e9lulas T. Estas incluem c\u00e9lulas T citot\u00f3xicas (c\u00e9lulas T CD8+), cujas fun\u00e7\u00f5es incluem destruir c\u00e9lulas infectadas por v\u00edrus. O gene ZAP70 tamb\u00e9m est\u00e1 envolvido na ativa\u00e7\u00e3o de c\u00e9lulas T auxiliares (c\u00e9lulas T CD4+). Essas c\u00e9lulas direcionam e ajudam as fun\u00e7\u00f5es do sistema imunol\u00f3gico influenciando as atividades de outras c\u00e9lulas do sistema imunol\u00f3gico. Muta\u00e7\u00f5es no gene ZAP70 impedem a produ\u00e7\u00e3o de prote\u00edna quinase associada \u00e0 cadeia zeta ou resultam em uma prote\u00edna que \u00e9 inst\u00e1vel e n\u00e3o pode desempenhar sua fun\u00e7\u00e3o. Uma perda de prote\u00edna quinase associada \u00e0 cadeia zeta funcional leva \u00e0 aus\u00eancia de c\u00e9lulas T CD8+ e um excesso de c\u00e9lulas T CD4+ inativas. A escassez resultante de c\u00e9lulas T ativas faz com que pessoas com SCID ZAP70 sejam mais suscet\u00edveis \u00e0 infec\u00e7\u00e3o."
+    },
+    {
+        "qid":"0001068-4",
+        "qtype":"inheritance",
+        "question":"A imunodefici\u00eancia combinada grave relacionada com ZAP70 \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0001068-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a imunodefici\u00eancia combinada grave relacionada com ZAP70?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da imunodefici\u00eancia combinada grave relacionada com ZAP70: - Primeiro teste do beb\u00ea: Imunodefici\u00eancia combinada grave - Revis\u00e3o de genes: Revis\u00e3o de genes: Imunodefici\u00eancia combinada grave relacionada com ZAP70 - Registro de Testes Gen\u00e9ticos: Imunodefici\u00eancia combinada grave, at\u00edpica Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

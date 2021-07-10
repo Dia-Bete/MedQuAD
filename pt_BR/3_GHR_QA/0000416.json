@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000416-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de glutamato de formiminotransferase?",
+        "answer":"Defici\u00eancia de formaminotransferase glutamato \u00e9 uma doen\u00e7a herdada que afeta o desenvolvimento f\u00edsico e mental. H\u00e1 duas formas dessa condi\u00e7\u00e3o, que se distinguem pela gravidade dos sintomas. Pessoas com a forma leve de defici\u00eancia de formaminotransferase de glutamato t\u00eam pequenos atrasos no desenvolvimento f\u00edsico e mental e podem ter defici\u00eancia intelectual leve. Eles tamb\u00e9m t\u00eam n\u00edveis incomummente altos de uma mol\u00e9cula chamada formiminoglutamato (FIGLU) em sua urina. Indiv\u00edduos afetados pela forma grave deste dist\u00farbio t\u00eam profunda defici\u00eancia intelectual e atraso no desenvolvimento de habilidades motoras como sentar, ficar de p\u00e9 e caminhar. Al\u00e9m de FIGLU em sua urina, eles t\u00eam quantidades elevadas de certas vitaminas B (chamadas de folatos) em seu sangue. A forma grave de defici\u00eancia de formaminotransferase de glutamato tamb\u00e9m \u00e9 caracterizada por anemia megalobl\u00e1stica. A anemia megalobl\u00e1stica ocorre quando uma pessoa tem um n\u00famero baixo de gl\u00f3bulos vermelhos (anemia), e os gl\u00f3bulos vermelhos restantes s\u00e3o maiores do que o normal (megalobl\u00e1stico). Os sintomas deste dist\u00farbio sangu\u00edneo podem incluir diminui\u00e7\u00e3o do apetite, falta de energia, dores de cabe\u00e7a, pele p\u00e1lida, e formigueiro ou dorm\u00eancia nas m\u00e3os e p\u00e9s."
+    },
+    {
+        "qid":"0000416-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de formaminotransferase de glutamato?",
+        "answer":"A defici\u00eancia de formiminotransferase de glutamato \u00e9 um dist\u00farbio raro; cerca de 20 indiv\u00edduos afetados foram identificados. Destes, cerca de um quarto tem a forma grave do dist\u00farbio. Todos relatados com a forma severa tem sido de origem japonesa. Os demais indiv\u00edduos, que v\u00eam de uma variedade de origens \u00e9tnicos, s\u00e3o afetados pela forma leve da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000416-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de formaminotransferase de glutamato?",
+        "answer":"Muta\u00e7\u00f5es no gene FTCD causam defici\u00eancia de glutamato de formiminotransferase. O gene FTCD fornece instru\u00e7\u00f5es para fazer a enzima formiminotransferase ciclodeaminase. Esta enzima est\u00e1 envolvida nos dois \u00faltimos passos na quebra (metabolismo) da histidina amino\u00e1cida, um bloco de constru\u00e7\u00e3o da maioria das prote\u00ednas. Tamb\u00e9m desempenha um papel na produ\u00e7\u00e3o de uma das v\u00e1rias formas do folato de vitamina, que tem muitas fun\u00e7\u00f5es importantes no corpo. Muta\u00e7\u00f5es do gene FTCD que causam defici\u00eancia de glutamato de formiminotransferase reduzem ou eliminam a fun\u00e7\u00e3o da enzima. N\u00e3o est\u00e1 claro como essas mudan\u00e7as est\u00e3o relacionadas com os problemas espec\u00edficos de sa\u00fade associados \u00e0s formas leves e graves de defici\u00eancia de formaminotransferase glutamato, ou por que indiv\u00edduos s\u00e3o afetados por uma forma ou outra."
+    },
+    {
+        "qid":"0000416-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de formaminotransferase de glutamato \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000416-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a defici\u00eancia de formaminotransferase de glutamato?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da defici\u00eancia de formaminotransferase glutamato: - Primeiro teste do beb\u00ea - Registro de Testes Gen\u00e9ticos: Defici\u00eancia de formaminotransferase glutamato Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

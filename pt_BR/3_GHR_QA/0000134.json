@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000134-1",
+        "qtype":"information",
+        "question":"O que \u00e9 bradiopsia?",
+        "answer":"Bradyopsia \u00e9 uma condi\u00e7\u00e3o rara que afeta a vis\u00e3o. O termo \"bradyopsia\" \u00e9 das palavras gregas para vis\u00e3o lenta. Em indiv\u00edduos afetados, os olhos se adaptam mais lentamente do que de costume para mudar as condi\u00e7\u00f5es de luz. Por exemplo, as pessoas com essa condi\u00e7\u00e3o s\u00e3o cegadas por v\u00e1rios segundos quando v\u00e3o de um ambiente escuro para um ambiente brilhante, como quando saem de um cinema escuro para a luz do dia. Seus olhos tamb\u00e9m t\u00eam dificuldade em se adaptar de luz brilhante a condi\u00e7\u00f5es escuras, como quando dirigindo para um t\u00fanel escuro em um dia ensolarado. Algumas pessoas com bradiopsia tamb\u00e9m t\u00eam dificuldade em ver alguns objetos em movimento, particularmente objetos pequenos se movendo em um fundo brilhante. Como resultado, eles muitas vezes t\u00eam dificuldade em assistir ou participar de esportes com uma bola, como futebol ou t\u00eanis. Pessoas com bradiopsia podem ter menor nitidez (acuidade) da vis\u00e3o, embora a acuidade possa depender das condi\u00e7\u00f5es em que a vis\u00e3o \u00e9 testada. A acuidade visual pode parecer ser severamente afetada se for testada sob luzes brilhantes, mas pode ser quase normal se testada em um ambiente fraco. A capacidade de ver cores e distinguir entre elas \u00e9 normal. Os problemas de vis\u00e3o associados \u00e0 bradiopsia se tornam evidentes na inf\u00e2ncia. Geralmente est\u00e3o est\u00e1veis, o que significa que n\u00e3o pioram com o tempo."
+    },
+    {
+        "qid":"0000134-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela bradiopsia?",
+        "answer":"A Bradyopsia parece ser rara. Apenas alguns indiv\u00edduos afetados em todo o mundo foram descritos na literatura m\u00e9dica."
+    },
+    {
+        "qid":"0000134-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 bradiopsia?",
+        "answer":"Bradyopsia pode ser causada por muta\u00e7\u00f5es no gene RGS9 ou no gene RGS9BP (que tamb\u00e9m \u00e9 conhecido como R9AP). Esses genes fornecem instru\u00e7\u00f5es para fazer prote\u00ednas que s\u00e3o necess\u00e1rias para a vis\u00e3o normal. As prote\u00ednas s\u00e3o encontradas em c\u00e9lulas detetoras de luz no olho chamadas fotorreceptores. Quando a luz entra no olho, estimula pigmentos especializados nessas c\u00e9lulas. Esta estimula\u00e7\u00e3o desencadeia uma s\u00e9rie de rea\u00e7\u00f5es qu\u00edmicas que produzem um sinal el\u00e9trico, que \u00e9 interpretado pelo c\u00e9rebro como vis\u00e3o. Uma vez que os fotorreceptores foram estimulados pela luz, eles devem voltar ao seu estado de repouso antes de poderem ser estimulados novamente. As prote\u00ednas RGS9 e RGS9BP desempenham um papel essencial no retorno dos fotorreceptores ao seu estado de repouso rapidamente ap\u00f3s a exposi\u00e7\u00e3o \u00e0 luz. Muta\u00e7\u00f5es no gene RGS9 ou RGS9BP impedem que os fotorreceptores se recuperem rapidamente ap\u00f3s responder \u00e0 luz. Normalmente eles retornam ao seu estado de repouso em uma fra\u00e7\u00e3o de segundo, mas em pessoas com muta\u00e7\u00f5es em um desses genes, pode levar dez segundos ou mais. Durante esse tempo, os fotorreceptores n\u00e3o podem responder \u00e0 luz. Este atraso causa cegueira tempor\u00e1ria em resposta a altera\u00e7\u00f5es das condi\u00e7\u00f5es de luz e interfere em ver pequenos objetos quando eles est\u00e3o em movimento. Em algumas pessoas com bradiopsia, n\u00e3o foram encontradas muta\u00e7\u00f5es no gene RGS9 ou RGS9BP. A causa da condi\u00e7\u00e3o nesses indiv\u00edduos \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000134-4",
+        "qtype":"inheritance",
+        "question":"A bradiopsia \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000134-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para bradiopsia?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da bradiopsia: - Hospital Infantil de Pittsburgh: Electroretinograma - Registro de Testes Gen\u00e9ticos: Supress\u00e3o prolongada da resposta eletroretinal - MedlinePlus Enciclop\u00e9dia: Electroretinografia - Prevenir a Cegueira: Viver Bem com Baixa Vis\u00e3o Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

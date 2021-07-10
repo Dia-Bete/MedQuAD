@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000069-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) s\u00edndrome do excesso de aromatase?",
+        "answer":"A s\u00edndrome do excesso de aromatase \u00e9 uma condi\u00e7\u00e3o caracterizada por n\u00edveis elevados do horm\u00f4nio sexual feminino estrog\u00eanio em ambos os homens e mulheres. Homens com s\u00edndrome de excesso de aromatase experimentam aumento de mama (ginecomastia) no final da inf\u00e2ncia ou adolesc\u00eancia. Os ossos dos machos afetados crescem e desenvolvem-se mais rapidamente e param de crescer mais cedo do que de costume (idade dos ossos avan\u00e7ada). Como resultado, os machos t\u00eam um crescimento precoce, tipicamente durante a inf\u00e2ncia tardia, com estatura curta como um adulto. As f\u00eameas afetadas raramente mostram sinais e sintomas da condi\u00e7\u00e3o, mas podem ter aumentado o crescimento da mama (macromatias), per\u00edodos menstruais irregulares e estatura curta. A habilidade de ter filhos (fertilidade) \u00e9 geralmente normal tanto em machos e f\u00eameas com s\u00edndrome de excesso de aromatase."
+    },
+    {
+        "qid":"0000069-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome do excesso de aromatase?",
+        "answer":"A preval\u00eancia da s\u00edndrome do excesso de aromatase \u00e9 desconhecida; mais de 20 casos foram descritos na literatura m\u00e9dica."
+    },
+    {
+        "qid":"0000069-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome do excesso de aromatase?",
+        "answer":"Rearranjos de material gen\u00e9tico envolvendo o gene CYP19A1 causam s\u00edndrome do excesso de aromatase. O gene CYP19A1 fornece instru\u00e7\u00f5es para fazer uma enzima chamada aromatase. Esta enzima converte uma classe de horm\u00f4nios chamados andr\u00f3genos, que est\u00e3o envolvidos no desenvolvimento sexual masculino, em diferentes formas de estr\u00f3geno. Nas f\u00eameas, os estr\u00f3genos guiam o desenvolvimento sexual feminino antes do nascimento e durante a puberdade. Em machos e f\u00eameas, os estr\u00f3genos desempenham um papel na regula\u00e7\u00e3o do crescimento \u00f3sseo. A condi\u00e7\u00e3o pode resultar de v\u00e1rios tipos de rearranjos gen\u00e9ticos envolvendo o gene CYP19A1. Esses rearranjos alteram a atividade do gene e levam a um aumento na produ\u00e7\u00e3o de aromatase. Em machos afetados, o aumento da aromatase e subsequente convers\u00e3o de andr\u00f3genos para estrog\u00eanio s\u00e3o respons\u00e1veis pela ginecomastia e limitado crescimento \u00f3sseo caracter\u00edstica da s\u00edndrome do excesso de aromatase. O aumento do estr\u00f3geno nas f\u00eameas pode causar sintomas como per\u00edodos menstruais irregulares e estatura curta."
+    },
+    {
+        "qid":"0000069-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome do excesso de aromatase \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que um rearranjo gen\u00e9tico envolvendo uma c\u00f3pia do gene CYP19A1 em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Em alguns casos, uma pessoa afetada herda a muta\u00e7\u00e3o de um pai afetado. Outros casos resultam de novas mudan\u00e7as gen\u00e9ticas e ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia."
+    },
+    {
+        "qid":"0000069-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome do excesso de aromatase?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da s\u00edndrome do excesso de aromatase: - Registro de Testes Gen\u00e9ticos: ginecomastia familiar, devido ao aumento da atividade da aromatase Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

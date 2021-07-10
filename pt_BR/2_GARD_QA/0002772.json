@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0002772-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a da hemoglobina E?",
+        "answer":"A doen\u00e7a da hemoglobina E (HbE) \u00e9 um dist\u00farbio sangu\u00edneo herdado caracterizado por uma forma anormal de hemoglobina, chamada hemoglobina E. Pessoas com esta condi\u00e7\u00e3o t\u00eam gl\u00f3bulos vermelhos que s\u00e3o menores do que o normal e t\u00eam uma forma irregular. A doen\u00e7a de HbE \u00e9 considerada uma condi\u00e7\u00e3o benigna. \u00c9 herdado em um padr\u00e3o autoss\u00f4mico recessivo e \u00e9 causado por uma muta\u00e7\u00e3o particular no gene HBB. A muta\u00e7\u00e3o que causa a doen\u00e7a da hemoglobina E tem a maior frequ\u00eancia entre as pessoas da heran\u00e7a do Sudeste Asi\u00e1tico (Camboja, Laos, Vietn\u00e3 e Tail\u00e2ndia). No entanto, tamb\u00e9m \u00e9 encontrado em povos de chin\u00eas, filipinos, \u00edndios asi\u00e1ticos e de origem turca."
+    },
+    {
+        "qid":"0002772-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da doen\u00e7a da hemoglobina E?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da doen\u00e7a da hemoglobina E? Indiv\u00edduos afetados podem desenvolver talassemia leve nos primeiros meses de vida. Embora a esplenomegalia leve e/ou anemia possam ocorrer, geralmente \u00e9 considerada uma condi\u00e7\u00e3o benigna. Quando uma pessoa herda uma muta\u00e7\u00e3o g\u00eanica de um de seus pais, dizem que \u00e9 portadora ou que tem tra\u00e7o de hemoglobina. Esses indiv\u00edduos s\u00e3o tipicamente assintom\u00e1ticos, embora possam ter pequenos gl\u00f3bulos vermelhos. No entanto, os portadores podem estar em risco de ter filhos com hemoglobina E/talassemia (que \u00e9 semelhante \u00e0 talassemia) ou doen\u00e7a falciforme E da hemoglobina (forma mais leve de anemia falciforme). Ambas as condi\u00e7\u00f5es s\u00e3o muito mais graves que a doen\u00e7a da hemoglobina E. Eles tamb\u00e9m s\u00e3o herdados de forma autoss\u00f4mica recessiva."
+    },
+    {
+        "qid":"0002772-3",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a doen\u00e7a da hemoglobina E?",
+        "answer":"Como \u00e9 diagnosticada a doen\u00e7a da hemoglobina E? Muitos beb\u00eas s\u00e3o pegos atrav\u00e9s de programas estaduais de rastreamento de rec\u00e9m-nascidos. Um diagn\u00f3stico \u00e9 geralmente feito olhando para os gl\u00f3bulos vermelhos fazendo um teste de Volume Corpuscular M\u00e9dio (MCV), que \u00e9 comumente parte de um teste de contagem completa de sangue (CBC). Testes mais especializados, como uma eletroforese de hemoglobina e estudos de ferro podem ser feitos. Esses testes indicam se uma pessoa tem diferentes tipos de hemoglobina. Teste gen\u00e9tico do gene HBB tamb\u00e9m pode ser feito para confirmar um diagn\u00f3stico."
+    },
+    {
+        "qid":"0002772-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a da hemoglobina E?",
+        "answer":"Como a doen\u00e7a da hemoglobina E pode ser tratada? O tratamento geralmente n\u00e3o \u00e9 necess\u00e1rio. Suplementos de \u00e1cido f\u00f3lico podem ser prescritos para ajudar o corpo a produzir gl\u00f3bulos vermelhos normais e melhorar os sintomas de anemia. Pessoas com doen\u00e7a de hemoglobina E podem esperar levar uma vida normal."
+    }
+]

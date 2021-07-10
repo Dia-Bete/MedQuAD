@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0003559-1",
+        "qtype":"information",
+        "question":"O que \u00e9 isso?",
+        "answer":""
+    },
+    {
+        "qid":"0003559-2",
+        "qtype":"considerations",
+        "question":"O que fazer por Shock?",
+        "answer":""
+    },
+    {
+        "qid":"0003559-3",
+        "qtype":"causes",
+        "question":"O que causa o choque?",
+        "answer":""
+    },
+    {
+        "qid":"0003559-4",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do choque?",
+        "answer":""
+    },
+    {
+        "qid":"0003559-5",
+        "qtype":"considerations",
+        "question":"O que fazer por Shock?",
+        "answer":""
+    },
+    {
+        "qid":"0003559-6",
+        "qtype":"considerations",
+        "question":"O que fazer por Shock?",
+        "answer":""
+    },
+    {
+        "qid":"0003559-7",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para o Shock?",
+        "answer":""
+    },
+    {
+        "qid":"0003559-8",
+        "qtype":"prevention",
+        "question":"Como evitar o choque?",
+        "answer":""
+    }
+]

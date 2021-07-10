@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000240-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Tabes Dorsalis?",
+        "answer":"Tabes dorsalis \u00e9 uma degenera\u00e7\u00e3o lenta das c\u00e9lulas nervosas e fibras nervosas que transportam informa\u00e7\u00f5es sensoriais para o c\u00e9rebro. Os nervos degenerantes est\u00e3o nas colunas dorsais da medula espinhal (a por\u00e7\u00e3o mais pr\u00f3xima da parte traseira do corpo) e carregam informa\u00e7\u00f5es que ajudam a manter o senso de posi\u00e7\u00e3o de uma pessoa. Tabes dorsalis \u00e9 o resultado de uma infec\u00e7\u00e3o por s\u00edfilis n\u00e3o tratada. Sintomas podem n\u00e3o aparecer por algumas d\u00e9cadas ap\u00f3s a infec\u00e7\u00e3o inicial e incluem fraqueza, reflexos diminu\u00eddos, marcha inest\u00e1vel, degenera\u00e7\u00e3o progressiva das articula\u00e7\u00f5es, perda de coordena\u00e7\u00e3o, epis\u00f3dios de dor intensa e sensa\u00e7\u00e3o perturbada, mudan\u00e7as de personalidade, dem\u00eancia, surdez, defici\u00eancia visual e resposta prejudicada \u00e0 luz. A doen\u00e7a \u00e9 mais frequente em homens do que em mulheres. O in\u00edcio \u00e9 comum na meia-idade. A incid\u00eancia de tabes dorsalis est\u00e1 aumentando, em parte devido \u00e0 infec\u00e7\u00e3o por VIH associada."
+    },
+    {
+        "qid":"0000240-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Tabes Dorsalis?",
+        "answer":"Penicilina, administrada por via intravenosa, \u00e9 o tratamento de escolha. A dor associada pode ser tratada com opi\u00e1ceos, valproato ou carbamazepina. Pacientes tamb\u00e9m podem precisar de terapia f\u00edsica ou reabilitativa para lidar com desperd\u00edcio muscular e fraqueza. Tratamento preventivo para aqueles que entram em contato sexual com um indiv\u00edduo com tabes dorsalis \u00e9 importante."
+    },
+    {
+        "qid":"0000240-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva de Tabes Dorsalis?",
+        "answer":"Se n\u00e3o for tratado, as tabas dorsais podem levar a paralisia, dem\u00eancia e cegueira. Os danos nervosos existentes n\u00e3o podem ser invertidos."
+    },
+    {
+        "qid":"0000240-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Tabes Dorsalis?",
+        "answer":"O NINDS apoia e conduz pesquisas sobre dist\u00farbios neurodegenerativos, como tabes dorsalis, em um esfor\u00e7o para encontrar maneiras de prevenir, tratar e, em \u00faltima an\u00e1lise, curar esses dist\u00farbios."
+    }
+]

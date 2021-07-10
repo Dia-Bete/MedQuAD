@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000273-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a esclerose tuberosa?",
+        "answer":"A esclerose tuberosa (TSC) \u00e9 uma doen\u00e7a gen\u00e9tica rara que faz com que tumores benignos cres\u00e7am no c\u00e9rebro e em outros \u00f3rg\u00e3os vitais, como rins, cora\u00e7\u00e3o, olhos, pulm\u00f5es e pele. Geralmente afeta o sistema nervoso central. Al\u00e9m dos tumores benignos que ocorrem frequentemente no TSC, outros sintomas comuns incluem convuls\u00f5es, desenvolvimento intelectual prejudicado, problemas de comportamento e anormalidades cut\u00e2neas. TSC pode estar presente no nascimento, mas sinais do dist\u00farbio podem ser sutis e sintomas completos podem levar algum tempo para se desenvolver. Tr\u00eas tipos de tumores cerebrais est\u00e3o associados com TSC: tub\u00e9rculos corticais, que geralmente se formam na superf\u00edcie do c\u00e9rebro; n\u00f3dulos subependimais, que se formam nas paredes dos ventr\u00edculos (as cavidades cheias de fluido do c\u00e9rebro); e astrocitomas de c\u00e9lulas gigantes, um tipo de tumor que pode bloquear o fluxo de fluidos dentro do c\u00e9rebro."
+    },
+    {
+        "qid":"0000273-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a esclerose tuberosa?",
+        "answer":"N\u00e3o h\u00e1 cura para TSC, embora o tratamento esteja dispon\u00edvel para alguns dos sintomas. Rapamicina e drogas relacionadas ainda n\u00e3o foram aprovadas pela Administra\u00e7\u00e3o de Alimentos e Drogas (FDA) para qualquer prop\u00f3sito em indiv\u00edduos com TSC. A FDA aprovou o medicamento everolimus (Afinitor) para tratar astrocitomas de c\u00e9lulas gigantes subependimais (tumor cerebral SEGA) e tumores de rins angiomiolipoma. Drogas antiepil\u00e9pticas como a vigabatrina podem ser usadas para controlar convuls\u00f5es e medicamentos podem ser prescritos para problemas de comportamento. Programas de interven\u00e7\u00e3o, incluindo escolaridade especial e terapia ocupacional, podem beneficiar pessoas com necessidades especiais e problemas de desenvolvimento. Cirurgia, incluindo dermabras\u00e3o e tratamento a laser, pode ser \u00fatil para o tratamento de les\u00f5es cut\u00e2neas. Como o TSC \u00e9 uma condi\u00e7\u00e3o de vida, os indiv\u00edduos precisam ser monitorados regularmente por um m\u00e9dico. Devido aos variados sintomas do TSC, recomenda-se o cuidado de um cl\u00ednico experiente com o dist\u00farbio."
+    },
+    {
+        "qid":"0000273-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a esclerose tuberosa?",
+        "answer":"O progn\u00f3stico para indiv\u00edduos com TSC depende da gravidade dos sintomas. Indiv\u00edduos com sintomas leves geralmente fazem bem e vivem longas vidas produtivas, enquanto indiv\u00edduos com a forma mais grave podem ter graves defici\u00eancias. Em casos raros, convuls\u00f5es, infec\u00e7\u00f5es ou tumores em \u00f3rg\u00e3os vitais, como rins e c\u00e9rebro, podem levar a complica\u00e7\u00f5es graves e at\u00e9 morte. No entanto, com cuidados m\u00e9dicos apropriados, a maioria dos indiv\u00edduos com o dist\u00farbio pode esperar pela expectativa de vida normal."
+    },
+    {
+        "qid":"0000273-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a esclerose tuberosa?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS) realiza pesquisas TSC em seus laborat\u00f3rios nos Institutos Nacionais de Sa\u00fade (NIH) e tamb\u00e9m apoia pesquisas TSC atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds. Cientistas em um estudo est\u00e3o aprendendo mais sobre os genes que podem causar TSC e a fun\u00e7\u00e3o das prote\u00ednas que esses genes produzem. Outro estudo se concentra em dois grandes dist\u00farbios cerebrais -- autismo e epilepsia -- que ocorrem em crian\u00e7as com TSC. Outros cientistas est\u00e3o tentando determinar o que causa o desenvolvimento de tumores de pele em indiv\u00edduos com TSC e encontrar a base molecular desses tumores. Os cientistas esperam que o conhecimento obtido com suas pesquisas atuais melhore o teste gen\u00e9tico para TSC e conduza a novas vias de tratamento, m\u00e9todos de preven\u00e7\u00e3o e, em \u00faltima an\u00e1lise, uma cura."
+    }
+]

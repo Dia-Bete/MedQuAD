@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000315-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Emanuel?",
+        "answer":"A s\u00edndrome de Emanuel \u00e9 um dist\u00farbio cromoss\u00f4mico que interrompe o desenvolvimento normal e afeta muitas partes do corpo. Crian\u00e7as com s\u00edndrome de Emanuel t\u00eam t\u00f4nus muscular fraco (hipot\u00f4nia) e n\u00e3o conseguem ganhar peso e crescer \u00e0 taxa esperada (n\u00e3o prosperar). Seu desenvolvimento \u00e9 significativamente atrasado, e a maioria dos indiv\u00edduos afetados tem defici\u00eancia intelectual grave a profunda. Outras caracter\u00edsticas da s\u00edndrome de Emanuel incluem uma cabe\u00e7a incomummente pequena (microcefalia), caracter\u00edsticas faciais distintas, e uma pequena mand\u00edbula inferior (micrognatia). As anormalidades auditivas s\u00e3o comuns, incluindo pequenos buracos na pele na frente das orelhas (fossas pr\u00e9-auriculares ou seios). Cerca de metade de todos os beb\u00eas afetados nascem com uma abertura no telhado da boca (palato fecho) ou um palato alto arqueado. Homens com s\u00edndrome de Emanuel muitas vezes t\u00eam anormalidades genitais. Sinais adicionais desta condi\u00e7\u00e3o podem incluir defeitos card\u00edacos e rins ausentes ou incomummente pequenos (hipopl\u00e1sicos); estes problemas podem ser amea\u00e7adores de vida na inf\u00e2ncia ou na inf\u00e2ncia."
+    },
+    {
+        "qid":"0000315-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Emanuel?",
+        "answer":"A s\u00edndrome de Emanuel \u00e9 uma doen\u00e7a rara, sua preval\u00eancia \u00e9 desconhecida. Mais de 100 indiv\u00edduos com esta condi\u00e7\u00e3o foram relatados."
+    },
+    {
+        "qid":"0000315-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Emanuel?",
+        "answer":"A s\u00edndrome de Emanuel \u00e9 causada pela presen\u00e7a de material gen\u00e9tico extra do cromossomo 11 e cromossomo 22 em cada c\u00e9lula. Al\u00e9m dos 46 cromossomos usuais, as pessoas com s\u00edndrome de Emanuel t\u00eam um cromossomo extra (supernumer\u00e1rio) constitu\u00eddo por um peda\u00e7o de cromossomo 11 ligado a um peda\u00e7o de cromossomo 22. O cromossomo extra \u00e9 conhecido como cromossomo derivado 22 ou der(22). Como resultado do cromossomo extra, pessoas com s\u00edndrome de Emanuel t\u00eam tr\u00eas c\u00f3pias de alguns genes em cada c\u00e9lula em vez das duas c\u00f3pias usuais. O excesso de material gen\u00e9tico interrompe o curso normal do desenvolvimento, levando aos sinais e sintomas caracter\u00edsticos desta desordem. Pesquisadores est\u00e3o trabalhando para determinar quais genes est\u00e3o inclu\u00eddos no cromossomo der(22) e que papel esses genes desempenham no desenvolvimento."
+    },
+    {
+        "qid":"0000315-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Emanuel \u00e9 herdada?",
+        "answer":"Quase todos com s\u00edndrome de Emanuel herdam o cromossomo der(22) de um pai n\u00e3o afetado. O pai carrega um rearranjo cromoss\u00f4mico entre os cromossomos 11 e 22 chamado de transloca\u00e7\u00e3o equilibrada. Nenhum material gen\u00e9tico \u00e9 ganho ou perdido em uma transloca\u00e7\u00e3o equilibrada, ent\u00e3o essas altera\u00e7\u00f5es cromoss\u00f4micas geralmente n\u00e3o causam nenhum problema de sa\u00fade. No entanto, as transloca\u00e7\u00f5es podem ficar desequilibradas \u00e0 medida que s\u00e3o passadas para a pr\u00f3xima gera\u00e7\u00e3o. Indiv\u00edduos com s\u00edndrome de Emanuel herdam uma transloca\u00e7\u00e3o desequilibrada entre os cromossomos 11 e 22 que introduz material gen\u00e9tico extra na forma do cromossomo der(22). Esse material gen\u00e9tico extra causa defeitos cong\u00eanitos e outros problemas de sa\u00fade caracter\u00edsticos deste dist\u00farbio."
+    },
+    {
+        "qid":"0000315-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Emanuel?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Emanuel: - Gene Review: Gene Review: Emanuel Syndrome - Gene Testing Registry: Emanuel Syndrome - MedlinePlus Encyclopedia: Fissura de l\u00e1bio e palato - MedlinePlus Encyclopedia: Microcefalia - MedlinePlus Encyclopedia: Preauricular Tag or Pit Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Medicina - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

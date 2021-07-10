@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000214-1",
+        "qtype":"information",
+        "question":"O que s\u00e3o os dist\u00farbios neuronais de migra\u00e7\u00e3o?",
+        "answer":"Os dist\u00farbios de migra\u00e7\u00e3o neuronal (DNM) s\u00e3o um grupo de defeitos cong\u00eanitos causados pela migra\u00e7\u00e3o anormal de neur\u00f4nios no c\u00e9rebro e sistema nervoso em desenvolvimento. No c\u00e9rebro em desenvolvimento, os neur\u00f4nios devem migrar das \u00e1reas onde nascem para as \u00e1reas onde se instalar\u00e3o em seus circuitos neurais adequados. A migra\u00e7\u00e3o neuronal, que ocorre j\u00e1 no segundo m\u00eas de gesta\u00e7\u00e3o, \u00e9 controlada por uma complexa variedade de guias e sinais qu\u00edmicos. Quando esses sinais est\u00e3o ausentes ou incorretos, os neur\u00f4nios n\u00e3o acabam onde pertencem. Isso pode resultar em \u00e1reas estruturalmente anormais ou faltantes do c\u00e9rebro nos hemisf\u00e9rios cerebrais, cerebelo, tronco encef\u00e1lico ou hipocampo. As anormalidades estruturais encontradas nas DNM incluem esquizenc\u00e9falia, porencefalia, lisencefalia, agiria, macrogiria, polimicrogiria, paquigiria, microgiria, micropoligiria, heterotopias neuronais (incluindo banda heterotopia), agenesia do corpo calloso e agenesia dos nervos cranianos. Sintomas variam de acordo com a anormalidade, mas muitas vezes apresentam tom muscular e fun\u00e7\u00e3o motora ruim, convuls\u00f5es, atrasos no desenvolvimento, desenvolvimento cognitivo prejudicado, falha em crescer e prosperar, dificuldades com a alimenta\u00e7\u00e3o, incha\u00e7o nas extremidades, e uma cabe\u00e7a menor do que normal. A maioria dos beb\u00eas com DNM parecem normais, mas alguns dist\u00farbios t\u00eam caracter\u00edsticas faciais ou cr\u00e2nio que podem ser reconhecidos por um neurologista. V\u00e1rias anormalidades gen\u00e9ticas em crian\u00e7as com DNMs foram identificadas. Defeitos em genes envolvidos na migra\u00e7\u00e3o neuronal t\u00eam sido associados a DNMs, mas o papel que eles desempenham no desenvolvimento desses dist\u00farbios ainda n\u00e3o est\u00e1 bem entendido. Mais de 25 s\u00edndromes resultantes da migra\u00e7\u00e3o neuronal anormal foram descritas. Entre elas est\u00e3o as s\u00edndromes com v\u00e1rios padr\u00f5es diferentes de heran\u00e7a; o aconselhamento gen\u00e9tico, portanto, difere muito entre as s\u00edndromes."
+    },
+    {
+        "qid":"0000214-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para transtornos de migra\u00e7\u00e3o neuronal?",
+        "answer":"O tratamento \u00e9 sintom\u00e1tico, e pode incluir medica\u00e7\u00e3o anticonvulsiva e educa\u00e7\u00e3o especial ou suplementar consistindo em terapias f\u00edsicas, ocupacionais e fonoaudiol\u00f3gicas."
+    },
+    {
+        "qid":"0000214-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para os dist\u00farbios neuronais de migra\u00e7\u00e3o?",
+        "answer":"O progn\u00f3stico para crian\u00e7as com DNMs varia dependendo do dist\u00farbio espec\u00edfico e o grau de anormalidade cerebral e subsequente sinais neurol\u00f3gicos e sintomas."
+    },
+    {
+        "qid":"0000214-4",
+        "qtype":"research",
+        "question":"que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para transtornos neuronais de migra\u00e7\u00e3o?",
+        "answer":"O NINDS conduz e apoia uma ampla gama de estudos que exploram os complexos sistemas de desenvolvimento cerebral. Estes estudos incluem a identifica\u00e7\u00e3o do mecanismo de a\u00e7\u00e3o das causas conhecidas da DNM, bem como estudos para identificar outras causas de doen\u00e7a. Pesquisadores financiados pela NIH trabalham em estreita colabora\u00e7\u00e3o com grupos de apoio parental para trazer descobertas de pesquisa diretamente aos pacientes. O conhecimento obtido com esses estudos fornece a base para entender o desenvolvimento anormal e oferece esperan\u00e7a para novas maneiras de tratar e prevenir NMDs."
+    }
+]

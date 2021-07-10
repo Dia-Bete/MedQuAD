@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0003726-1",
+        "qtype":"information",
+        "question":"O que \u00e9 c\u00e2ncer de est\u00f4mago?",
+        "answer":""
+    },
+    {
+        "qid":"0003726-2",
+        "qtype":"causes",
+        "question":"O que causa c\u00e2ncer de est\u00f4mago?",
+        "answer":""
+    },
+    {
+        "qid":"0003726-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do c\u00e2ncer de est\u00f4mago?",
+        "answer":""
+    },
+    {
+        "qid":"0003726-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar c\u00e2ncer de est\u00f4mago?",
+        "answer":""
+    },
+    {
+        "qid":"0003726-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o c\u00e2ncer de est\u00f4mago?",
+        "answer":""
+    },
+    {
+        "qid":"0003726-6",
+        "qtype":"support groups",
+        "question":"Onde encontrar apoio para pessoas com c\u00e2ncer de est\u00f4mago?",
+        "answer":""
+    },
+    {
+        "qid":"0003726-7",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o c\u00e2ncer de est\u00f4mago?",
+        "answer":""
+    },
+    {
+        "qid":"0003726-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para c\u00e2ncer de est\u00f4mago?",
+        "answer":""
+    },
+    {
+        "qid":"0003726-9",
+        "qtype":"prevention",
+        "question":"Como prevenir o c\u00e2ncer de est\u00f4mago?",
+        "answer":""
+    }
+]

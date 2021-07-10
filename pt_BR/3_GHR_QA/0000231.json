@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000231-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) insensibilidade cong\u00eanita \u00e0 dor?",
+        "answer":"A insensibilidade cong\u00e9nita \u00e0 dor \u00e9 uma condi\u00e7\u00e3o que inibe a capacidade de perceber a dor f\u00edsica. Desde o nascimento, indiv\u00edduos afetados nunca sentem dor em nenhuma parte do corpo quando feridos. Pessoas com essa condi\u00e7\u00e3o podem sentir a diferen\u00e7a entre afiado e aborrecido e quente e frio, mas n\u00e3o podem sentir, por exemplo, que uma bebida quente est\u00e1 queimando sua l\u00edngua. Essa falta de consci\u00eancia da dor muitas vezes leva a um ac\u00famulo de feridas, hematomas, ossos quebrados, e outros problemas de sa\u00fade que podem passar despercebidos. Crian\u00e7as jovens com insensibilidade cong\u00eanita \u00e0 dor podem ter ferimentos na boca ou nos dedos devido a repetidas mordidas e tamb\u00e9m podem ter ferimentos m\u00faltiplos relacionados \u00e0 queimadura. Essas les\u00f5es repetidas muitas vezes levam a uma redu\u00e7\u00e3o da expectativa de vida em pessoas com insensibilidade cong\u00eanita \u00e0 dor. Muitas pessoas com insensibilidade cong\u00eanita \u00e0 dor tamb\u00e9m t\u00eam uma perda completa do sentido do olfato (anosmia). A insensibilidade cong\u00e9nita \u00e0 dor \u00e9 considerada uma forma de neuropatia perif\u00e9rica porque afeta o sistema nervoso perif\u00e9rico, que liga o c\u00e9rebro e a medula espinhal aos m\u00fasculos e \u00e0s c\u00e9lulas que detectam sensa\u00e7\u00f5es como o toque, o cheiro e a dor."
+    },
+    {
+        "qid":"0000231-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela insensibilidade cong\u00eanita \u00e0 dor?",
+        "answer":"A insensibilidade cong\u00e9nita \u00e0 dor \u00e9 uma condi\u00e7\u00e3o rara; cerca de 20 casos foram relatados na literatura cient\u00edfica."
+    },
+    {
+        "qid":"0000231-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 insensibilidade cong\u00eanita \u00e0 dor?",
+        "answer":"Muta\u00e7\u00f5es no gene SCN9A causam insensibilidade cong\u00eanita \u00e0 dor. O gene SCN9A fornece instru\u00e7\u00f5es para fazer uma parte (a subunidade alfa) de um canal de s\u00f3dio chamado NaV1.7. Canais de s\u00f3dio transportam \u00e1tomos de s\u00f3dio carregados positivamente (ions de s\u00f3dio) para as c\u00e9lulas e desempenham um papel fundamental na capacidade de uma c\u00e9lula para gerar e transmitir sinais el\u00e9tricos. Canais de s\u00f3dio NaV1,7 s\u00e3o encontrados em c\u00e9lulas nervosas chamadas nociceptores que transmitem sinais de dor para a medula espinhal e o c\u00e9rebro. O canal NaV1,7 tamb\u00e9m \u00e9 encontrado em neur\u00f4nios sensoriais olfativos, que s\u00e3o c\u00e9lulas nervosas na cavidade nasal que transmitem sinais relacionados com o cheiro para o c\u00e9rebro. As muta\u00e7\u00f5es do gene SCN9A que causam insensibilidade cong\u00eanita \u00e0 dor resultam na produ\u00e7\u00e3o de subunidades alfa n\u00e3o funcionais que n\u00e3o podem ser incorporadas nos canais NaV1.7. Como resultado, os canais n\u00e3o podem ser formados. A aus\u00eancia de canais NaV1,7 prejudica a transmiss\u00e3o de sinais de dor do local da les\u00e3o cerebral, causando insensibilidade \u00e0 dor. A perda deste canal em neur\u00f4nios sensoriais olfativos provavelmente prejudica a transmiss\u00e3o de sinais relacionados ao cheiro para o c\u00e9rebro, levando a uma anosmia."
+    },
+    {
+        "qid":"0000231-4",
+        "qtype":"inheritance",
+        "question":"A insensibilidade cong\u00eanita \u00e0 dor \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000231-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para insensibilidade cong\u00eanita \u00e0 dor?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da insensibilidade cong\u00eanita \u00e0 dor: - Registro de Testes Gen\u00e9ticos: Indiferen\u00e7a \u00e0 dor, cong\u00eanita, autoss\u00f4mica recessiva Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

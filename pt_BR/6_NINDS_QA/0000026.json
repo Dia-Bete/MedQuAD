@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000026-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Apraxia?",
+        "answer":"Apraxia (chamada \"dispraxia\" se leve) \u00e9 uma desordem neurol\u00f3gica caracterizada pela perda da capacidade de executar ou realizar movimentos e gestos habilidosos, apesar de ter o desejo e a capacidade f\u00edsica de execut\u00e1-los. Apraxia resulta de disfun\u00e7\u00e3o dos hemisf\u00e9rios cerebrais, especialmente do lobo parietal, e pode surgir de muitas doen\u00e7as ou danos ao c\u00e9rebro. H\u00e1 v\u00e1rios tipos de apraxia, que podem ocorrer sozinhos ou juntos. O mais comum \u00e9 a apraxia buccofacial ou orofacial, que causa a incapacidade de realizar movimentos faciais sob comando como lamber l\u00e1bios, assobiar, tosse, ou piscar o olho. Outros tipos de apraxia incluem apraxia cin\u00e9tica de membros (a incapacidade de fazer movimentos finos e precisos com um bra\u00e7o ou perna), apraxia ideomotora (a incapacidade de fazer o movimento adequado em resposta a um comando verbal), apraxia ideacional (a incapacidade de coordenar atividades com movimentos sequenciais m\u00faltiplos, tais como vestir, comer e banhar), apraxia verbal (dificuldade de coordenar movimentos da boca e da fala), apraxia construtiva (a incapacidade de copiar, desenhar ou construir figuras simples), e apraxia oculomotora (dificuldade de mover os olhos no comando). Apraxia pode ser acompanhada por um dist\u00farbio de linguagem chamado afasia. Degenera\u00e7\u00e3o ganglionar corticobasal \u00e9 uma doen\u00e7a que causa uma variedade de tipos de apraxia, especialmente em adultos idosos."
+    },
+    {
+        "qid":"0000026-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Apraxia?",
+        "answer":"Geralmente, o tratamento para indiv\u00edduos com apraxia inclui terapia f\u00edsica, fala ou ocupacional. Se apraxia \u00e9 um sintoma de outro dist\u00farbio, o dist\u00farbio subjacente deve ser tratado."
+    },
+    {
+        "qid":"0000026-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Apraxia?",
+        "answer":"O progn\u00f3stico para indiv\u00edduos com apraxia varia e depende em parte da causa subjacente. Alguns indiv\u00edduos melhoram significativamente, enquanto outros podem mostrar muito pouca melhoria."
+    },
+    {
+        "qid":"0000026-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Apraxia?",
+        "answer":"O NINDS apoia pesquisas sobre dist\u00farbios de movimento e condi\u00e7\u00f5es como apraxia. Os objetivos desta pesquisa s\u00e3o aumentar a compreens\u00e3o cient\u00edfica desses dist\u00farbios, e encontrar maneiras de preveni-los, tratar e cur\u00e1-los."
+    }
+]

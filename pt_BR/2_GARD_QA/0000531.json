@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000531-1",
+        "qtype":"information",
+        "question":"O que \u00e9 uma ganglionopatia auto-imune auton\u00f4mica?",
+        "answer":"A ganglionopatia auto-imune auton\u00f4mica (AAG) \u00e9 uma doen\u00e7a auto-imune rara em que o sistema imunol\u00f3gico do corpo ataca erroneamente e danifica certas partes do sistema nervoso auton\u00f4mico. Os sinais e sintomas da condi\u00e7\u00e3o variam, mas podem incluir hipotens\u00e3o ortost\u00e1tica grave (tens\u00e3o arterial baixa em p\u00e9); desmaio; obstipa\u00e7\u00e3o; pupilas fixas e dilatadas; reten\u00e7\u00e3o urin\u00e1ria; e/ou boca e olhos secos. A exata causa subjacente do AAG \u00e9 mal compreendida. O tratamento depende de muitos fatores, incluindo a gravidade da condi\u00e7\u00e3o e os sinais e sintomas presentes em cada pessoa. Devido \u00e0 raridade da AAG, n\u00e3o existem protocolos de tratamento padr\u00e3o; no entanto, o tratamento com plasmaferese, imunoglobulina intravenosa (IV), corticosteroides ou imunossupressores tem sido relatado com sucesso vari\u00e1vel. Aproximadamente um ter\u00e7o das pessoas afetadas podem melhorar espontaneamente sem tratamento, mas a recupera\u00e7\u00e3o \u00e9 muitas vezes incompleta."
+    },
+    {
+        "qid":"0000531-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da ganglionopatia auto-imune auton\u00f4mica?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da ganglionopatia autoimune auton\u00f4mica? Os sintomas da ganglionopatia auton\u00f4mica autoimune podem incluir: Hipotens\u00e3o ortost\u00e1tica grave (baixa press\u00e3o arterial em p\u00e9) que persiste por semanas a anos Desaparecimento Constipa\u00e7\u00e3o e dismotilidade gastrointestinal (uma condi\u00e7\u00e3o em que os m\u00fasculos e nervos do sistema digestivo n\u00e3o movem alimentos atrav\u00e9s do trato digestivo eficientemente) Reten\u00e7\u00e3o urin\u00e1ria Pupilas fixas e dilatadas Seca boca e olhos Algumas pessoas com ganglionopatia auton\u00f4mica autoimune presentes com sintomas semelhantes a POTS."
+    },
+    {
+        "qid":"0000531-3",
+        "qtype":"causes",
+        "question":"O que causa ganglionopatia auto-imune auton\u00f4mica?",
+        "answer":"O que causa ganglionopatia autoimune auton\u00f4mica? A causa da ganglionopatia auto-imune auton\u00f4mica n\u00e3o \u00e9 totalmente compreendida. Um componente autoimune \u00e9 presumido, como o pr\u00f3prio sistema imunol\u00f3gico do corpo danifica um receptor nos g\u00e2nglios auton\u00f4micos (parte da fibra do nervo auton\u00f4mico perif\u00e9rico). Em um a dois ter\u00e7os dos indiv\u00edduos afetados, esta condi\u00e7\u00e3o \u00e9 associada com t\u00edtulos elevados de anticorpos de receptor de acetilcolina ganglionar ( anticorpos de g-AchR). Cerca de 60% dos casos seguem uma infec\u00e7\u00e3o ou outra doen\u00e7a."
+    },
+    {
+        "qid":"0000531-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a ganglionopatia auto-imune auton\u00f4mica?",
+        "answer":"Como pode ser tratada a ganglionopatia autoimune auton\u00f4mica? Uma vez que a ganglionopatia autoimune auton\u00f4mica \u00e9 t\u00e3o rara, nenhum tratamento padr\u00e3o foi estabelecido. Especialistas familiarizados com esta condi\u00e7\u00e3o muitas vezes usam troca de plasma ou plasmaferese total, imunoglobulina intravenosa (IVIG), corticosteroides IV, ou medicamentos imunossupressores, como Rituxan para tratar os sintomas da doen\u00e7a. Um ensaio terap\u00eautico para ganglionopatia auton\u00f4mica autoimune est\u00e1 sendo conduzido pelo Cons\u00f3rcio de Dist\u00farbios Auton\u00f4micos."
+    }
+]

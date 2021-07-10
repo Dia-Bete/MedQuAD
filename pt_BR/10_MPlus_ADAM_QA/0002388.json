@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0002388-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Lichen Planus?",
+        "answer":""
+    },
+    {
+        "qid":"0002388-2",
+        "qtype":"causes",
+        "question":"O que causa o plano de Lichen?",
+        "answer":""
+    },
+    {
+        "qid":"0002388-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do plano de Lichen?",
+        "answer":""
+    },
+    {
+        "qid":"0002388-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar Lichen planus?",
+        "answer":""
+    },
+    {
+        "qid":"0002388-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o plano de Lichen?",
+        "answer":""
+    },
+    {
+        "qid":"0002388-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva de Lichen Planus?",
+        "answer":""
+    },
+    {
+        "qid":"0002388-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es do plano de Lichen?",
+        "answer":""
+    },
+    {
+        "qid":"0002388-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para Lichen Planus?",
+        "answer":""
+    }
+]

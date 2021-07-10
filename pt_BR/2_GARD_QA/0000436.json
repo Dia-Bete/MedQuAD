@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000436-1",
+        "qtype":"information",
+        "question":"O que \u00e9 prurido aquag\u00eanico?",
+        "answer":"O prurido aquag\u00eanico \u00e9 uma condi\u00e7\u00e3o em que o contato com \u00e1gua de qualquer temperatura causa comich\u00e3o intensa sem altera\u00e7\u00f5es vis\u00edveis da pele. Os sintomas podem come\u00e7ar imediatamente ap\u00f3s o contato com \u00e1gua e podem durar uma hora ou mais. A causa do prurido aquag\u00eanico \u00e9 desconhecida, entretanto, casos familiares foram descritos. Os sintomas da condi\u00e7\u00e3o s\u00e3o semelhantes aos observados em pacientes com outras condi\u00e7\u00f5es; portanto, uma avalia\u00e7\u00e3o aprofundada deve ser realizada para descartar outras condi\u00e7\u00f5es mais graves. Em geral, o tratamento \u00e9 um desafio. Antihistam\u00ednicos, fototerapia UVB, terapia PUVA e v\u00e1rios medicamentos foram testados com sucesso variado."
+    },
+    {
+        "qid":"0000436-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do prurido aquag\u00eanico?",
+        "answer":"Que sintomas s\u00e3o observados em pacientes com prurido aquag\u00eanico? O prurido aquag\u00eanico causa comich\u00e3o intensa nas partes do corpo que entram em contato com \u00e1gua sem uma erup\u00e7\u00e3o cut\u00e2nea associada. A cabe\u00e7a, as palmas, as solas e a mucosa n\u00e3o s\u00e3o afetadas."
+    },
+    {
+        "qid":"0000436-3",
+        "qtype":"causes",
+        "question":"O que causa prurido aquag\u00eanico?",
+        "answer":"O que causa prurido aquag\u00eanico? A causa exata do prurido aquag\u00eanico \u00e9 desconhecida, mas aumento da desgranula\u00e7\u00e3o de mast\u00f3citos (libera\u00e7\u00e3o de gr\u00e2nulos ricos em histamina e outros compostos no corpo por mast\u00f3citos, um tipo especial de c\u00e9lula que desempenha um papel no sistema imunol\u00f3gico), aumento da histamina circulante, libera\u00e7\u00e3o de acetilcolina (um produto qu\u00edmico no corpo que envia sinais dos nervos para os m\u00fasculos e entre os nervos do c\u00e9rebro), e aumento da atividade fibrinol\u00edtica cut\u00e2nea (atividade que controla o tamanho do co\u00e1gulo promovendo a quebra de co\u00e1gulos) foram todas nomeadas como poss\u00edveis causas da condi\u00e7\u00e3o. Em alguns casos, parece ser um sintoma de policitemia vera."
+    },
+    {
+        "qid":"0000436-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar prurido aquag\u00eanico?",
+        "answer":"Como \u00e9 diagnosticado o prurido aquag\u00eanico? Crit\u00e9rios para o diagn\u00f3stico incluem: Comich\u00e3o grave, picadas, picadas ou queimaduras que se desenvolvem consistentemente ap\u00f3s o contato da pele com \u00e1gua, independentemente da temperatura ou salinidade da \u00e1gua; Falta de manifesta\u00e7\u00f5es vis\u00edveis da pele; Rea\u00e7\u00e3o em minutos de exposi\u00e7\u00e3o e com dura\u00e7\u00e3o entre 10 minutos e 2 horas; Falta de outra doen\u00e7a cut\u00e2nea, condi\u00e7\u00e3o interna ou medica\u00e7\u00e3o para explicar a rea\u00e7\u00e3o; e Exclus\u00e3o de todas as outras urtic\u00e1rias f\u00edsicas, dermographismo sintom\u00e1tico e policitemia vera."
+    },
+    {
+        "qid":"0000436-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o prurido aquag\u00eanico?",
+        "answer":"Que tratamento foi tentado em pacientes com prurido aquag\u00eanico? A causa subjacente do prurido aquag\u00eanico n\u00e3o \u00e9 bem compreendida o que complica a decis\u00e3o sobre o que a terapia pode ser melhor para o tratamento. V\u00e1rias op\u00e7\u00f5es foram tentadas com v\u00e1rios sucessos. Os anti-histam\u00ednicos s\u00e3o a base do tratamento. Outras terapias que foram experimentadas incluem adicionar bicarbonato de s\u00f3dio \u00e0 \u00e1gua do banho, capsaicina t\u00f3pica, inibidores seletivos da recapta\u00e7\u00e3o de serotonina, fototerapia UVB, terapia PUVA, naltrexona, propranolol e atenolol."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000260-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Degenera\u00e7\u00e3o Striatonigral?",
+        "answer":"A degenera\u00e7\u00e3o estriatonigral \u00e9 um dist\u00farbio neurol\u00f3gico causado por uma interrup\u00e7\u00e3o na conex\u00e3o entre duas \u00e1reas do c\u00e9rebro-o estriado e a subst\u00e2ncia nigra. Estas duas \u00e1reas trabalham juntas para permitir equil\u00edbrio e movimento. A degenera\u00e7\u00e3o estriatonigral \u00e9 um tipo de atrofia do sistema m\u00faltiplo (MSA). Sintomas do dist\u00farbio se assemelham a alguns dos vistos na doen\u00e7a de Parkinson, incluindo rigidez, instabilidade, dist\u00farbio da fala e movimentos lentos."
+    },
+    {
+        "qid":"0000260-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Degenera\u00e7\u00e3o Striatonigral?",
+        "answer":"N\u00e3o h\u00e1 cura para a degenera\u00e7\u00e3o estriatonigral, e os tratamentos para o dist\u00farbio t\u00eam sucesso vari\u00e1vel. Os tratamentos usados para a doen\u00e7a de Parkinson s\u00e3o recomendados. No entanto, ao contr\u00e1rio da doen\u00e7a de Parkinson, a degenera\u00e7\u00e3o estriatonigral n\u00e3o \u00e9 responsiva \u00e0 levodopa. Dopamina e anticolin\u00e9rgicos proporcionam algum benef\u00edcio. Geralmente, o tratamento \u00e9 reavaliado \u00e0 medida que o dist\u00farbio progride."
+    },
+    {
+        "qid":"0000260-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Degenera\u00e7\u00e3o Striatonigral?",
+        "answer":"A degenera\u00e7\u00e3o estriatonigral progride lentamente. Alguns pacientes t\u00eam expectativa de vida normal."
+    },
+    {
+        "qid":"0000260-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a Degenera\u00e7\u00e3o Striatonigral?",
+        "answer":"O NINDS apoia e conduz pesquisas sobre dist\u00farbios do c\u00e9rebro e do sistema nervoso, como degenera\u00e7\u00e3o estriatonigral. Esta pesquisa se concentra em encontrar maneiras de prevenir e tratar esses dist\u00farbios."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0000054-10",
+        "qtype":"information",
+        "question":"O que \u00e9 o botulismo?",
+        "answer":"Botulismo \u00e9 uma doen\u00e7a paral\u00edtica rara mas grave causada por uma toxina nervosa que \u00e9 produzida pela bact\u00e9ria Clostridium botulinum e \u00e0s vezes por cepas de Clostridium butyricum e Clostridium baratii. H\u00e1 cinco tipos principais de botulismo. O botulismo de origem alimentar \u00e9 causado por comer alimentos que cont\u00eam a toxina botul\u00ednica. Botulismo ferido \u00e9 causado por toxina produzida por uma ferida infectada com Clostridium botulinum. O botulismo infantil \u00e9 causado pelo consumo de esporos das bact\u00e9rias botul\u00ednicas, que crescem nos intestinos e liberam toxina. A toxemia intestinal adulta (coloniza\u00e7\u00e3o intestinal adulta) o botulismo \u00e9 um tipo muito raro de botulismo que ocorre entre os adultos pela mesma rota que o botulismo infantil. Finalmente, o botulismo iatrog\u00eanico pode ocorrer por overdose acidental de toxina botul\u00ednica. Todas as formas de botulismo podem ser fatais e s\u00e3o consideradas emerg\u00eancias m\u00e9dicas. O botulismo de origem alimentar \u00e9 uma emerg\u00eancia de sa\u00fade p\u00fablica porque muitas pessoas podem ser envenenadas por comer um alimento contaminado."
+    },
+    {
+        "qid":"0000054-12",
+        "qtype":"frequency",
+        "question":"Qu\u00e3o comum \u00e9 o botulismo?",
+        "answer":"Nos Estados Unidos, uma m\u00e9dia de 145 casos s\u00e3o relatados por ano.Desses, aproximadamente 15% s\u00e3o de origem alimentar, 65% s\u00e3o botulismo infantil e 20% s\u00e3o feridos. A coloniza\u00e7\u00e3o intestinal adulta e o botulismo iatrog\u00eanico tamb\u00e9m ocorrem, mas raramente. Surtos de botulismo de origem alimentar envolvendo duas ou mais pessoas ocorrem a maioria dos anos e geralmente s\u00e3o causadas por alimentos caseiros. A maioria dos casos de botulismo de feridas est\u00e3o associados com inje\u00e7\u00e3o de hero\u00edna, especialmente na Calif\u00f3rnia."
+    },
+    {
+        "qid":"0000054-13",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do botulismo?",
+        "answer":"Os sintomas cl\u00e1ssicos do botulismo incluem vis\u00e3o dupla, vis\u00e3o borrada, p\u00e1lpebras caindo, fala abafada, dificuldade em engolir, boca seca e fraqueza muscular. Crian\u00e7as com botulismo parecem let\u00e1rgicas, se alimentam mal, s\u00e3o constipadas, e t\u00eam um grito fraco e um t\u00f4nus muscular ruim. S\u00e3o todos sintomas da paralisia muscular causada pela toxina bacteriana. Se n\u00e3o tratados, esses sintomas podem evoluir para causar paralisia dos m\u00fasculos respirat\u00f3rios, bra\u00e7os, pernas e tronco. No botulismo de origem alimentar, os sintomas geralmente come\u00e7am 18 a 36 horas depois de comer um alimento contaminado, mas podem ocorrer t\u00e3o cedo quanto 6 horas ou t\u00e3o tarde quanto 10 dias."
+    },
+    {
+        "qid":"0000054-14",
+        "qtype":"exams and tests",
+        "question":"Como \u00e9 diagnosticado o botulismo?",
+        "answer":"Os m\u00e9dicos podem considerar o diagn\u00f3stico se a hist\u00f3ria do paciente e o exame f\u00edsico sugerem botulismo. No entanto, essas pistas geralmente n\u00e3o s\u00e3o suficientes para permitir um diagn\u00f3stico de botulismo. Outras doen\u00e7as como s\u00edndrome de Guillain-Barr\u00e9, acidente vascular cerebral e miastenia gravis podem parecer semelhantes ao botulismo, e testes especiais podem ser necess\u00e1rios para excluir essas outras condi\u00e7\u00f5es. Esses testes podem incluir um exame cerebral, exame de fluido espinhal, teste de condu\u00e7\u00e3o nervosa (eletromiografia, ou EMG), e um teste de tens\u00e3o para miastenia gravis. Testes para toxina botul\u00ednica e bact\u00e9rias que causam botulismo podem ser realizados em alguns laborat\u00f3rios do Departamento de Sa\u00fade do Estado e no CDC."
+    },
+    {
+        "qid":"0000054-15",
+        "qtype":"treatment",
+        "question":"Como o botulismo pode ser tratado?",
+        "answer":"A insufici\u00eancia respirat\u00f3ria e a paralisia que ocorrem com o botulismo grave podem exigir que um paciente esteja em uma m\u00e1quina de respira\u00e7\u00e3o (ventilador) por semanas ou meses, al\u00e9m de cuidados m\u00e9dicos e de enfermagem intensivos. A paralisia melhora lentamente. Botulismo pode ser tratado com uma antitoxina que bloqueia a a\u00e7\u00e3o da toxina circulando no sangue. A antitoxina para lactentes est\u00e1 dispon\u00edvel no Departamento de Sa\u00fade P\u00fablica da Calif\u00f3rnia, e a antitoxina para crian\u00e7as mais velhas e adultos est\u00e1 dispon\u00edvel atrav\u00e9s do CDC.Se dada antes da paralisia est\u00e1 completa, a antitoxina pode prevenir o agravamento e reduzir o tempo de recupera\u00e7\u00e3o. Os m\u00e9dicos podem tentar remover alimentos contaminados ainda no intestino induzindo v\u00f4mitos ou usando enemas. As feridas devem ser tratadas, geralmente cir\u00fargicamente, para remover a fonte da bact\u00e9ria produtora de toxinas seguida da administra\u00e7\u00e3o de antibi\u00f3ticos apropriados. Uma boa assist\u00eancia de apoio em um hospital \u00e9 a base da terapia para todas as formas de botulismo."
+    },
+    {
+        "qid":"0000054-16",
+        "qtype":"complications",
+        "question":"H\u00e1 complica\u00e7\u00f5es do botulismo?",
+        "answer":"O botulismo pode resultar em morte por insufici\u00eancia respirat\u00f3ria. No entanto, nos \u00faltimos 50 anos, a propor\u00e7\u00e3o de pacientes com botulismo que morrem caiu de cerca de 50% para 3-5%. Um paciente com botulismo grave pode precisar de uma m\u00e1quina de respira\u00e7\u00e3o, bem como cuidados m\u00e9dicos e de enfermagem intensivos por v\u00e1rios meses, e alguns pacientes morrem de infec\u00e7\u00f5es ou outros problemas relacionados a permanecer paralisados por semanas ou meses. Pacientes que sobrevivem a um epis\u00f3dio de envenenamento por botulismo podem ter fadiga e falta de ar por anos e terapia a longo prazo pode ser necess\u00e1ria para ajudar a recupera\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000054-17",
+        "qtype":"prevention",
+        "question":"Como o botulismo pode ser evitado?",
+        "answer":"Muitos casos de botulismo s\u00e3o evit\u00e1veis. O botulismo de origem alimentar vem frequentemente de alimentos caseiros com baixo teor de \u00e1cidos, como espargos, feij\u00f5es verdes, beterraba e milho, e \u00e9 causado por n\u00e3o seguir m\u00e9todos de conserva adequados. No entanto, fontes aparentemente improv\u00e1veis ou incomuns s\u00e3o encontradas a cada d\u00e9cada, com o problema comum de manipula\u00e7\u00e3o inadequada durante a fabrica\u00e7\u00e3o, no varejo, ou pelos consumidores; alguns exemplos s\u00e3o alho picado em \u00f3leo, molho de queijo enlatado, pimenta chile, tomates, suco de cenoura, e batatas assadas embrulhadas em folha. No Alasca, o botulismo de origem alimentar \u00e9 causado por peixes fermentados e outros alimentos de ca\u00e7a aqu\u00e1ticos. Pessoas que fazem conservas dom\u00e9sticas devem seguir rigorosos procedimentos higi\u00eanicos para reduzir a contamina\u00e7\u00e3o de alimentos, e seguir cuidadosamente instru\u00e7\u00f5es sobre conservas dom\u00e9sticas seguras, incluindo o uso de conservas/cozinhas sob press\u00e3o, conforme recomendado atrav\u00e9s dos servi\u00e7os de extens\u00e3o do condado ou do Departamento de Agricultura dos EUA. Os \u00f3leos infundidos com alho ou ervas devem ser refrigerados. Batatas que foram cozidas enquanto enroladas em folha de alum\u00ednio devem ser mantidas quentes at\u00e9 servidas ou refrigeradas. Porque a toxina botul\u00ednica \u00e9 destru\u00edda por altas temperaturas, pessoas que comem alimentos em casa devem considerar ferver a comida por 10 minutos antes de com\u00ea-la para garantir a seguran\u00e7a. Botulismo ferido pode ser evitado procurando atendimento m\u00e9dico para feridas infectadas e n\u00e3o usando drogas de rua injet\u00e1veis. A maioria dos casos de botulismo infantil n\u00e3o pode ser prevenida porque a bact\u00e9ria que causa esta doen\u00e7a est\u00e1 no solo e na poeira. As bact\u00e9rias podem ser encontradas dentro de casas em pisos, carpetes e balc\u00f5es mesmo depois de limpar. O mel pode conter as bact\u00e9rias que causam o botulismo infantil, ent\u00e3o crian\u00e7as menores de 12 meses n\u00e3o devem ser alimentadas com mel. O mel \u00e9 seguro para pessoas com 1 ano de idade ou mais."
+    },
+    {
+        "qid":"0000054-18",
+        "qtype":"prevention",
+        "question":"O que as ag\u00eancias de sa\u00fade p\u00fablica est\u00e3o fazendo para prevenir ou controlar o botulismo?",
+        "answer":"A educa\u00e7\u00e3o p\u00fablica sobre preven\u00e7\u00e3o do botulismo \u00e9 uma atividade cont\u00ednua. Informa\u00e7\u00f5es sobre a conserva segura est\u00e3o amplamente dispon\u00edveis para os consumidores. Pessoas nos departamentos estaduais de sa\u00fade e nos CDC s\u00e3o informadas sobre botulismo e est\u00e3o dispon\u00edveis para consultar m\u00e9dicos 24 horas por dia. Se a antitoxina for necess\u00e1ria para tratar um paciente, pode ser entregue rapidamente a um m\u00e9dico em qualquer lugar do pa\u00eds. Suspeitos de surtos de botulismo s\u00e3o rapidamente investigados, e se envolvem um produto comercial, as medidas de controle apropriadas s\u00e3o coordenadas entre ag\u00eancias de sa\u00fade p\u00fablica e reguladoras. Os m\u00e9dicos devem relatar imediatamente casos suspeitos de botulismo ao departamento de sa\u00fade do estado. Para informa\u00e7\u00f5es e quidelines sobre alimentos em latas em casa: Guia de latas em casa USDA"
+    }
+]

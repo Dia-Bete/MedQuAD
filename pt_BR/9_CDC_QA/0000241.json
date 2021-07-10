@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000241-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Parasites - Hookworm?",
+        "answer":"Hookworm \u00e9 um parasita intestinal de humanos. As larvas e vermes adultos vivem no intestino delgado podem causar doen\u00e7as intestinais. As duas principais esp\u00e9cies de hookworm infectando humanos s\u00e3o Ancylostoma duodenale e Necator americanus."
+    },
+    {
+        "qid":"0000241-2",
+        "qtype":"susceptibility",
+        "question":"Quem est\u00e1 em risco para Parasites? N\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o, n\u00e3o.",
+        "answer":"Hookworm \u00e9 um helminto transmitido pelo solo (STH) e \u00e9 um dos mais comuns dos humanos. A infec\u00e7\u00e3o \u00e9 causada pelos parasitas nematodos Necator americanus e Ancylostoma duodenale. Infec\u00e7\u00f5es por minhocas de gancho ocorrem muitas vezes em \u00e1reas onde as fezes humanas s\u00e3o usadas como fertilizante ou onde a defeca\u00e7\u00e3o no solo ocorre. Distribui\u00e7\u00e3o geogr\u00e1fica As distribui\u00e7\u00f5es geogr\u00e1ficas das esp\u00e9cies de hookworm que s\u00e3o parasitas intestinais em humanos, Ancylostoma duodenale e Necator americanus, est\u00e3o em todo o mundo em \u00e1reas com climas quentes e h\u00famidos e est\u00e3o amplamente sobrepostas. Necator Americanus estava difundido no sudeste dos Estados Unidos at\u00e9 o in\u00edcio do s\u00e9culo 20."
+    },
+    {
+        "qid":"0000241-5",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar Parasites - Hookworm?",
+        "answer":"O m\u00e9todo padr\u00e3o para diagnosticar a presen\u00e7a de hookworm \u00e9 identificar ovos de hookworm em uma amostra de fezes usando um microsc\u00f3pio. Como os ovos podem ser dif\u00edceis de encontrar em infec\u00e7\u00f5es leves, recomenda-se um procedimento de concentra\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000241-6",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Parasites - Hookworm?",
+        "answer":"Medicamentos anthelm\u00ednticos (drogas que livram o corpo de vermes parasit\u00e1rios), como albendazol e mebendazol, s\u00e3o os medicamentos de escolha para o tratamento de infec\u00e7\u00f5es de hookworm. As infec\u00e7\u00f5es s\u00e3o geralmente tratadas por 1-3 dias. Os medicamentos recomendados s\u00e3o eficazes e parecem ter poucos efeitos colaterais. Suplementos de ferro tamb\u00e9m podem ser prescritos se a pessoa infectada tem anemia. Mais sobre: Recursos para Profissionais de Sa\u00fade: Tratamento"
+    },
+    {
+        "qid":"0000241-7",
+        "qtype":"prevention",
+        "question":"Como prevenir Parasites - Hookworm?",
+        "answer":"A melhor maneira de evitar a infec\u00e7\u00e3o por ganchoworm \u00e9 n\u00e3o andar descal\u00e7o em \u00e1reas onde o ganchoworm \u00e9 comum e onde pode haver contamina\u00e7\u00e3o fecal humana do solo. Al\u00e9m disso, evite outro contato cut\u00e2neo com tal solo e evite ingeri-lo. A infec\u00e7\u00e3o tamb\u00e9m pode ser evitada por n\u00e3o defecar ao ar livre e por sistemas eficazes de elimina\u00e7\u00e3o de esgotos."
+    }
+]

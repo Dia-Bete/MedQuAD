@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000037-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Achalasia?",
+        "answer":"Acal\u00e1sia \u00e9 um dist\u00farbio do es\u00f4fago, o tubo que transporta comida da boca para o est\u00f4mago. \u00c9 caracterizado por amplia\u00e7\u00e3o do es\u00f4fago, capacidade prejudicada do es\u00f4fago para empurrar alimentos para baixo para o est\u00f4mago (peristalse), e falha do m\u00fasculo em forma de anel no fundo do es\u00f4fago (o esf\u00edncter esof\u00e1gico inferior) para relaxar. Achalasia \u00e9 normalmente diagnosticada em indiv\u00edduos entre 25 e 60 anos de idade. A etiologia exata \u00e9 desconhecida, entretanto, os sintomas s\u00e3o causados por danos nos nervos do es\u00f4fago. Estudos familiares mostraram evid\u00eancias de uma influ\u00eancia gen\u00e9tica potencial. Quando uma influ\u00eancia gen\u00e9tica \u00e9 suspeita, acal\u00e1sia \u00e9 chamada de acal\u00e1sia esof\u00e1gica familiar. O tratamento tem como objetivo reduzir a press\u00e3o no esf\u00edncter esof\u00e1gico inferior e pode incluir Botox, medicamentos ou cirurgia."
+    },
+    {
+        "qid":"0000037-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da Acalasia?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da acalasia? A maioria das pessoas com acal\u00e1sia tem dificuldade em engolir, tamb\u00e9m conhecida como disfagia e azia. Outros sintomas podem incluir: regurgita\u00e7\u00e3o ou v\u00f3mitos, dor tor\u00e1cica n\u00e3o card\u00edaca, odinofagia (engolir doloroso), e dor na regi\u00e3o central superior do abdome. Sintomas n\u00e3o esof\u00e1gicos podem incluir: tosse ou asma, aspira\u00e7\u00e3o cr\u00f4nica (respirando um objeto estranho como alimento para as vias a\u00e9reas), rouquid\u00e3o ou dor de garganta, e perda de peso n\u00e3o intencional."
+    },
+    {
+        "qid":"0000037-3",
+        "qtype":"causes",
+        "question":"O que causa Achalasia?",
+        "answer":"O que causa acal\u00e1sia? O esf\u00edncter esof\u00e1gico inferior, o m\u00fasculo em forma de anel no fundo do es\u00f4fago, normalmente relaxa durante a degluti\u00e7\u00e3o. Em pessoas com acal\u00e1sia, este anel muscular n\u00e3o relaxa tamb\u00e9m. A raz\u00e3o para esse problema \u00e9 dano nos nervos do es\u00f4fago. Em algumas pessoas, esse problema parece ser herdado. Al\u00e9m disso, h\u00e1 uma suspeita de componente autoimune envolvido no desenvolvimento de acal\u00e1sia, pois indiv\u00edduos com acal\u00e1sia s\u00e3o mais propensos a ter uma doen\u00e7a autoimune concomitante do que a popula\u00e7\u00e3o em geral."
+    },
+    {
+        "qid":"0000037-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar Achalasia?",
+        "answer":"Como \u00e9 diagnosticada acal\u00e1sia? Achalasia \u00e9 suspeita em indiv\u00edduos com disfagia (dificuldade na degluti\u00e7\u00e3o) e em casos em que sintomas de regurgita\u00e7\u00e3o n\u00e3o s\u00e3o responsivos \u00e0 medica\u00e7\u00e3o inibidora da bomba de prote\u00ednas. O diagn\u00f3stico de acal\u00e1sia \u00e9 confirmado pela manometria (teste que mede o qu\u00e3o bem o es\u00f4fago est\u00e1 funcionando); no entanto, outros testes como endoscopia superior e raio-X GI superior podem ser tamb\u00e9m \u00fateis."
+    },
+    {
+        "qid":"0000037-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Achalasia?",
+        "answer":"Como a acal\u00e1sia pode ser tratada? O objetivo do tratamento \u00e9 reduzir a press\u00e3o no esf\u00edncter esof\u00e1gico inferior. Terapia pode envolver: Inje\u00e7\u00e3o com toxina botul\u00ednica (Botox) para ajudar a relaxar os m\u00fasculos do esf\u00edncter (usado como uma solu\u00e7\u00e3o tempor\u00e1ria) medicamentos, tais como nitratos de longa dura\u00e7\u00e3o (i.e. Dinitrato de isossorbido) ou bloqueadores de canais de c\u00e1lcio (i.e. nifedipina), para relaxar o esf\u00edncter do es\u00f4fago inferior Cirurgia (miotomia de Heller) para diminuir a press\u00e3o no esf\u00edncter inferior Dilata\u00e7\u00e3o pneum\u00e1tica do bal\u00e3o do es\u00f4fago na localiza\u00e7\u00e3o do estreitamento (feita durante o esofagogastroduodenoscopia) Voc\u00ea pode aprender mais sobre estas op\u00e7\u00f5es de tratamento clicando nos seguintes links: eMedicina Esof\u00e1gico Dist\u00farbios de motilidade Manuales de Merck Dist\u00farbios de motilidade Um m\u00e9dico deve ajudar a determinar o melhor tratamento para cada situa\u00e7\u00e3o individual."
+    }
+]

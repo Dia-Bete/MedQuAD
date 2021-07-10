@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0001158-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Cholesteatoma?",
+        "answer":"O colesteatoma \u00e9 um tipo de cisto de pele localizado na orelha m\u00e9dia. Pode ser cong\u00eanito (presente desde o nascimento), mas ocorre mais comumente como uma complica\u00e7\u00e3o da infec\u00e7\u00e3o cr\u00f4nica do ouvido. O sintoma distintivo \u00e9 uma descarga indolor da orelha. Perda auditiva, tonturas e paralisia muscular facial s\u00e3o raras, mas podem resultar do crescimento continuado do colesteatoma. A cirurgia pode parar infec\u00e7\u00f5es e prevenir complica\u00e7\u00f5es."
+    },
+    {
+        "qid":"0001158-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do Cholesteatoma?",
+        "answer":"Que sintomas est\u00e3o associados ao colesteatoma? Sintomas precoces podem incluir drenagem da orelha, \u00e0s vezes com um odor ruim. \u00c0 medida que o cisto ou saco de colesteatoma se amplia, pode levar a uma sensa\u00e7\u00e3o ou press\u00e3o total no ouvido, perda auditiva, tonturas e dor, dorm\u00eancia ou fraqueza muscular de um lado do rosto. Ao exame, o tambor do ouvido (membrana timp\u00e2nica) parece anormal. Em casos raros, um colesteatoma pode erodir atrav\u00e9s do tegmen, permitindo que um abscesso epidural se forme o que poderia levar a uma infec\u00e7\u00e3o cerebral mais grave."
+    },
+    {
+        "qid":"0001158-3",
+        "qtype":"causes",
+        "question":"O que causa Cholesteatoma?",
+        "answer":"O que causa colesteatoma? Um colesteatoma geralmente ocorre devido \u00e0 m\u00e1 fun\u00e7\u00e3o do tubo eustaquiano em conjunto com infec\u00e7\u00e3o no ouvido m\u00e9dio. Press\u00e3o negativa no ouvido m\u00e9dio puxa uma parte do t\u00edmpano do jeito errado, criando um saco ou cisto que se enche com c\u00e9lulas antigas da pele e outro material de desperd\u00edcio. \u00c0 medida que o cisto aumenta, alguns ossos do ouvido m\u00e9dio se rompem, afetando a audi\u00e7\u00e3o. Uma rara forma cong\u00eanita de colesteatoma (um presente no nascimento) pode ocorrer na orelha m\u00e9dia e em outros lugares, como nos ossos do cr\u00e2nio pr\u00f3ximos."
+    },
+    {
+        "qid":"0001158-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o Cholesteatoma?",
+        "answer":"Como pode o colesteatoma ser tratado? Um exame por um otorrinolaringologista - um m\u00e9dico especializado em condi\u00e7\u00f5es de cabe\u00e7a e pesco\u00e7o - pode confirmar a presen\u00e7a de um colesteatoma. O tratamento inicial pode consistir em uma limpeza cuidadosa da orelha, antibi\u00f3ticos e gotas de ouvido. A terapia visa parar a drenagem no ouvido, controlando a infec\u00e7\u00e3o. Colesteatomas grandes ou complicados podem requerer tratamento cir\u00fargico para proteger o paciente de complica\u00e7\u00f5es graves."
+    }
+]

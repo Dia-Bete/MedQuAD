@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000643-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de Meier-Gorlin?",
+        "answer":"A s\u00edndrome de Meier-Gorlin \u00e9 uma condi\u00e7\u00e3o caracterizada principalmente por estatura curta. \u00c9 considerada uma forma de nanismo primordial porque os problemas de crescimento come\u00e7am antes do nascimento (retardamento do crescimento intrauterino). Ap\u00f3s o nascimento, os indiv\u00edduos afetados continuam crescendo de forma lenta. Outras caracter\u00edsticas dessa condi\u00e7\u00e3o s\u00e3o r\u00f3tulos subdesenvolvidos ou faltando (patelles), orelhas pequenas, e, muitas vezes, uma cabe\u00e7a anormalmente pequena (microcefalia). Apesar do pequeno tamanho da cabe\u00e7a, a maioria das pessoas com s\u00edndrome de Meier-Gorlin t\u00eam intelecto normal. Algumas pessoas com s\u00edndrome de Meier-Gorlin t\u00eam outras anormalidades esquel\u00e9ticas, como ossos longos incomunamente estreitos nos bra\u00e7os e pernas, uma deformidade da articula\u00e7\u00e3o do joelho que permite que o joelho se dobre para tr\u00e1s (genu recurvatum), e retarda a mineraliza\u00e7\u00e3o dos ossos (idade \u00f3ssea atrasada). A maioria das pessoas com s\u00edndrome de Meier-Gorlin tem caracter\u00edsticas faciais distintas. Al\u00e9m de ser anormalmente pequeno, as orelhas podem ser baixas ou giradas para tr\u00e1s. Caracter\u00edsticas adicionais podem incluir uma boca pequena (microstomia), uma mand\u00edbula inferior subdesenvolvida (micrognatia), l\u00e1bios cheios, e um nariz estreito com uma ponte nasal alta. Anormalidades no desenvolvimento sexual tamb\u00e9m podem ocorrer na s\u00edndrome de Meier-Gorlin. Em alguns machos com esta condi\u00e7\u00e3o, os test\u00edculos s\u00e3o pequenos ou n\u00e3o descendentes (criptorquidismo). As f\u00eameas afetadas podem ter pequenas pregas genitais externas (hipoplasia do labio majora) e mamas pequenas. Machos e f\u00eameas com esta condi\u00e7\u00e3o podem ter cabelos escassos ou ausentes (axilares). Outras caracter\u00edsticas da s\u00edndrome de Meier-Gorlin podem incluir dificuldade de alimenta\u00e7\u00e3o e uma condi\u00e7\u00e3o pulmonar conhecida como enfisema pulmonar ou outros problemas respirat\u00f3rios."
+    },
+    {
+        "qid":"0000643-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de Meier-Gorlin?",
+        "answer":"A s\u00edndrome de Meier-Gorlin \u00e9 uma condi\u00e7\u00e3o rara, no entanto, sua preval\u00eancia \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000643-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de Meier-Gorlin?",
+        "answer":"A s\u00edndrome de Meier-Gorlin pode ser causada por muta\u00e7\u00f5es em um de v\u00e1rios genes. Cada um desses genes, ORC1, ORC4, ORC6, CDT1 e CDC6, fornece instru\u00e7\u00f5es para fazer um de um grupo de prote\u00ednas conhecido como o complexo pr\u00e9-replica\u00e7\u00e3o. Este complexo regula o in\u00edcio da c\u00f3pia (replica\u00e7\u00e3o) do DNA antes que as c\u00e9lulas se dividam. Especificamente, o complexo de pr\u00e9-replica\u00e7\u00e3o se liga (vindas) a certas regi\u00f5es do DNA conhecidas como origens da replica\u00e7\u00e3o, permitindo que a c\u00f3pia do DNA comece nesse local. Este processo bem controlado, chamado de licenciamento de replica\u00e7\u00e3o, ajuda a garantir que a replica\u00e7\u00e3o de DNA ocorre apenas uma vez por divis\u00e3o celular e \u00e9 necess\u00e1rio para que as c\u00e9lulas se dividam. Muta\u00e7\u00f5es em qualquer um desses genes prejudicam a forma\u00e7\u00e3o do complexo de pr\u00e9-replica\u00e7\u00e3o e interrompem o licenciamento de replica\u00e7\u00e3o; no entanto, n\u00e3o est\u00e1 claro como uma redu\u00e7\u00e3o no licenciamento de replica\u00e7\u00e3o leva \u00e0 s\u00edndrome de Meier-Gorlin. Pesquisadores especulam que tal redu\u00e7\u00e3o atrasa o processo de divis\u00e3o celular, o que prejudica o crescimento dos ossos e outros tecidos durante o desenvolvimento. Algumas pesquisas sugerem que algumas prote\u00ednas do complexo pr\u00e9-replica\u00e7\u00e3o t\u00eam fun\u00e7\u00f5es adicionais, cujo comprometimento pode contribuir para caracter\u00edsticas da s\u00edndrome de Meier-Gorlin, como o atraso no desenvolvimento das r\u00f3tulas e orelhas."
+    },
+    {
+        "qid":"0000643-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de Meier-Gorlin \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000643-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Meier-Gorlin?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da s\u00edndrome de Meier-Gorlin: - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Meier-Gorlin - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Meier-Gorlin 2 - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Meier-Gorlin 3 - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Meier-Gorlin 4 - Registro de Testes Gen\u00e9ticos: S\u00edndrome de Meier-Gorlin 5 Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia Droga - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

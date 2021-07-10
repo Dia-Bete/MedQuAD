@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0002078-1",
+        "qtype":"information",
+        "question":"O que \u00e9 hiperhidrose?",
+        "answer":""
+    },
+    {
+        "qid":"0002078-2",
+        "qtype":"causes",
+        "question":"O que causa hiperhidrose?",
+        "answer":""
+    },
+    {
+        "qid":"0002078-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da hiperhidrose?",
+        "answer":""
+    },
+    {
+        "qid":"0002078-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar hiperhidrose?",
+        "answer":""
+    },
+    {
+        "qid":"0002078-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para hiperhidrose?",
+        "answer":""
+    },
+    {
+        "qid":"0002078-6",
+        "qtype":"support groups",
+        "question":"Onde encontrar apoio para pessoas com hiperhidrose?",
+        "answer":""
+    },
+    {
+        "qid":"0002078-7",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a hiperhidrose?",
+        "answer":""
+    },
+    {
+        "qid":"0002078-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para hiperhidrose?",
+        "answer":""
+    }
+]

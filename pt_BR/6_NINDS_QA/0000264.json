@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000264-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Diskinesia Tardiva?",
+        "answer":"Discinesia tardia \u00e9 uma s\u00edndrome neurol\u00f3gica causada pelo uso a longo prazo de drogas neurol\u00e9pticas. As drogas neurol\u00e9pticas s\u00e3o geralmente prescritas para dist\u00farbios psiqui\u00e1tricos, bem como para alguns dist\u00farbios gastrointestinais e neurol\u00f3gicos. Discinesia tardia \u00e9 caracterizada por movimentos repetitivos, involunt\u00e1rios e sem prop\u00f3sito. As caracter\u00edsticas do dist\u00farbio podem incluir grima\u00e7o, protrus\u00e3o da l\u00edngua, batida de l\u00e1bios, puckering e pursing, e piscar de olhos r\u00e1pidos. Movimentos r\u00e1pidos dos bra\u00e7os, pernas e tronco tamb\u00e9m podem ocorrer. Movimentos involunt\u00e1rios dos dedos podem estar presentes."
+    },
+    {
+        "qid":"0000264-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Discinesia Tardiva?",
+        "answer":"O tratamento \u00e9 altamente individualizado. O primeiro passo \u00e9, geralmente, parar ou minimizar o uso da droga neurol\u00e9ptica, mas isso pode ser feito apenas sob a supervis\u00e3o do m\u00e9dico. No entanto, para pacientes com uma grave condi\u00e7\u00e3o subjacente esta pode n\u00e3o ser uma op\u00e7\u00e3o vi\u00e1vel. Substituir a droga neurol\u00e9ptica com drogas substitutivas pode ajudar alguns indiv\u00edduos. O \u00fanico tratamento farmacol\u00f3gico aprovado para diskenesia tardia \u00e9 a tetrabenazina, que geralmente \u00e9 eficaz, mas pode ter efeitos colaterais que precisam ser discutidos antes de iniciar a terapia. Outras drogas como benzodiazepinas, clozapina ou inje\u00e7\u00f5es de toxina botul\u00ednica tamb\u00e9m podem ser testadas."
+    },
+    {
+        "qid":"0000264-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Discinesia Tardiva?",
+        "answer":"Sintomas de discinesia tardia podem permanecer muito tempo ap\u00f3s a descontinua\u00e7\u00e3o das drogas neurol\u00e9pticas. Em muitos casos, os sintomas param espontaneamente, mas em alguns casos podem persistir indefinidamente."
+    },
+    {
+        "qid":"0000264-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Diskinesia Tardiva?",
+        "answer":"O NINDS conduz e apoia uma ampla gama de pesquisas sobre dist\u00farbios de movimento, incluindo discinesia tardia. Os objetivos desta pesquisa s\u00e3o melhorar a compreens\u00e3o desses dist\u00farbios e descobrir maneiras de trat\u00e1-los, prevenir e, em \u00faltima an\u00e1lise, cur\u00e1-los."
+    }
+]

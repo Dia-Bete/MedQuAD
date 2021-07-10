@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0006402-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) tumor de Warthin?",
+        "answer":"O tumor de Wartin \u00e9 um tumor benigno da gl\u00e2ndula salivar. O primeiro sintoma \u00e9 geralmente um choque indolor e de crescimento lento na frente da orelha, no fundo da boca, ou sob o queixo. Os tumores de Wartin podem aumentar no tamanho com o tempo, mas poucos se tornam cancerosos. Embora a causa seja atualmente desconhecida, se acredita que fumar aumenta a chance de desenvolver tumor Warthin. O tratamento pode consistir em cirurgia para remover o tumor ou observa\u00e7\u00e3o cuidadosa para observar mudan\u00e7as no tumor ao longo do tempo."
+    },
+    {
+        "qid":"0006402-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do tumor de Warthin?",
+        "answer":"Quais s\u00e3o os sinais e sintomas do tumor de Warthin? O tumor de Wartin \u00e9 um tumor benigno (n\u00e3o canceroso) das gl\u00e2ndulas salivares. Eles surgem mais comumente nas gl\u00e2ndulas par\u00f3tidas, as maiores gl\u00e2ndulas salivares que est\u00e3o localizadas em cada bochecha acima da mand\u00edbula na frente das orelhas. Aproximadamente 5-14% dos casos s\u00e3o bilaterais e 12-20% das pessoas afetadas sofrem de doen\u00e7a multic\u00eantrica (mais de um tumor que se formou separadamente um do outro). O primeiro sintoma \u00e9 geralmente um golpe firme e indolor. Sem tratamento, o incha\u00e7o pode aumentar gradualmente o tempo extra, o que pode causar paralisia do nervo facial (dificuldade movendo um lado do rosto)."
+    },
+    {
+        "qid":"0006402-3",
+        "qtype":"causes",
+        "question":"O que causa o tumor de Warthin?",
+        "answer":"O que causa o tumor de Warthin? A exata causa subjacente do tumor de Warthin \u00e9 atualmente desconhecida. No entanto, o tabagismo aumenta o risco de desenvolver o tumor. Alguns estudos sugerem que a exposi\u00e7\u00e3o \u00e0 radia\u00e7\u00e3o e dist\u00farbios autoimunes tamb\u00e9m podem estar associados ao tumor Warthin."
+    },
+    {
+        "qid":"0006402-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar o tumor de Warthin?",
+        "answer":"Como \u00e9 diagnosticado o tumor de Warthin? Um diagn\u00f3stico de tumor de Warthin \u00e9 frequentemente suspeito com base na presen\u00e7a de sinais e sintomas caracter\u00edsticos. Os seguintes testes podem ent\u00e3o ser ordenados para confirmar o diagn\u00f3stico e descartar outras condi\u00e7\u00f5es que causam caracter\u00edsticas semelhantes: raios-X da gl\u00e2ndula salivar (chamado ptialograma ou sialograma) tomografia, resson\u00e2ncia magn\u00e9tica e/ou ultrassom bi\u00f3psia da gl\u00e2ndula salivar"
+    },
+    {
+        "qid":"0006402-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o tumor de Warthin?",
+        "answer":"Como o tumor de Warthin pode ser tratado? O tratamento do tumor de Warthin geralmente inclui cirurgia para remover o tumor ou observa\u00e7\u00e3o cuidadosa para observar mudan\u00e7as no tumor ao longo do tempo. Porque o tumor de Warthin \u00e9 quase sempre benigno, tratamento adicional (i.e. Raramente \u00e9 necess\u00e1ria radioterapia e/ou quimioterapia."
+    }
+]

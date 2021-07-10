@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000096-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Displasia Septo-\u00d3ptica?",
+        "answer":"A displasia septo-\u00f3ptica (SOD) \u00e9 uma desordem rara caracterizada pelo desenvolvimento anormal do disco \u00f3ptico, defici\u00eancias pituit\u00e1rias, e muitas vezes agenesia (aus\u00eancia) do septo pel\u00facido (a parte do c\u00e9rebro que separa os chifres anteriores ou os ventr\u00edculos laterais do c\u00e9rebro). Os sintomas podem incluir cegueira em um ou ambos os olhos, dilata\u00e7\u00e3o da pupila em resposta \u00e0 luz, nistagmo (um movimento r\u00e1pido e involunt\u00e1rio dos olhos para e-fre), desvio interno e externo dos olhos, hipotonia (baixo t\u00f4nus muscular), e problemas hormonais. As convuls\u00f5es tamb\u00e9m podem ocorrer. Em alguns casos, a icter\u00edcia (descolora\u00e7\u00e3o da pele amarela prolongada) pode ocorrer no nascimento. Problemas intelectuais variam em gravidade entre os indiv\u00edduos. Enquanto algumas crian\u00e7as com SOD t\u00eam intelig\u00eancia normal, outras t\u00eam defici\u00eancias de aprendizagem. A maioria, no entanto, est\u00e1 atrasada pelo desenvolvimento devido a defici\u00eancia visual ou problemas neurol\u00f3gicos."
+    },
+    {
+        "qid":"0000096-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Displasia Septo-\u00d3ptica?",
+        "answer":"O tratamento para a SOD \u00e9 sintom\u00e1tico. Defici\u00eancias hormonais podem ser tratadas com terapia hormonal substitutiva. Os problemas \u00f3pticos associados \u00e0 SOD n\u00e3o s\u00e3o trat\u00e1veis. Terapias de vis\u00e3o, f\u00edsicas e ocupacionais podem ser necess\u00e1rias."
+    },
+    {
+        "qid":"0000096-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Displasia Septo-\u00d3ptica?",
+        "answer":"O progn\u00f3stico para indiv\u00edduos com DS varia de acordo com a presen\u00e7a e gravidade dos sintomas."
+    },
+    {
+        "qid":"0000096-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Displasia Septo-\u00d3ptica?",
+        "answer":"O NINDS apoia e conduz pesquisas neurogen\u00e9ticas que se concentram em identificar e estudar os genes envolvidos no desenvolvimento cerebral normal. O conhecimento obtido com esses estudos fundamentais fornece a base para entender como este processo pode ir mal e, assim, pode eventualmente dar pistas para a compreens\u00e3o de dist\u00farbios como SOD."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0004325-1",
+        "qtype":"information",
+        "question":"O que \u00e9 fasciite necrotizante?",
+        "answer":"Fasciite necrotizante \u00e9 uma infec\u00e7\u00e3o grave da pele, tecido subcut\u00e2neo (tecido logo abaixo da pele) e f\u00e1scia. A infec\u00e7\u00e3o pode surgir de repente e se espalhar rapidamente. Fasciite necrotizante pode ser causada por v\u00e1rios tipos diferentes de bact\u00e9rias. Os primeiros sinais incluem sintomas gripais e vermelhid\u00e3o e dor ao redor do local da infec\u00e7\u00e3o. Se a infec\u00e7\u00e3o n\u00e3o for tratada prontamente, pode levar a fal\u00eancia de v\u00e1rios \u00f3rg\u00e3os e morte. Como resultado, diagn\u00f3stico e tratamento r\u00e1pidos s\u00e3o essenciais. O tratamento normalmente inclui antibi\u00f3ticos intravenosos e cirurgia para remover tecidos infectados e mortos."
+    },
+    {
+        "qid":"0004325-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da fasciite necrotizante?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da fasciite necrosante? Os sintomas geralmente come\u00e7am em poucas horas ap\u00f3s uma les\u00e3o. Dor intensa e ternura sobre a \u00e1rea afetada s\u00e3o frequentemente considerados os sintomas distintivos da fasciite necrosante (NF). A dor \u00e9 frequentemente descrita como grave e pode levantar suspeitas de um m\u00fasculo rasgado. Alguns sintomas precoces podem ser confundidos com a gripe e podem incluir febre, dor de garganta, dor de est\u00f4mago, n\u00e1useas, diarreia, calafrios e dores gerais do corpo. O paciente pode notar vermelhid\u00e3o em torno da \u00e1rea que se espalha rapidamente; a \u00e1rea afetada pode eventualmente se tornar inchada, brilhante, descolorada, e quente ao toque. Al\u00e9m disso, pode haver \u00falceras ou bolhas. Se a infec\u00e7\u00e3o continuar se espalhando, o paciente pode experimentar o seguinte: desidrata\u00e7\u00e3o, febre alta, frequ\u00eancia card\u00edaca r\u00e1pida e press\u00e3o arterial baixa. A dor pode melhorar \u00e0 medida que os tecidos e os nervos s\u00e3o destru\u00eddos. \u00c0 medida que a infec\u00e7\u00e3o se espalha, os \u00f3rg\u00e3os vitais podem ser afetados e o paciente pode ficar confuso ou delirante. Se n\u00e3o tratar com sucesso, a NF pode levar ao choque e \u00e0 morte."
+    },
+    {
+        "qid":"0004325-3",
+        "qtype":"causes",
+        "question":"O que causa fasciite necrotizante?",
+        "answer":"O que causa fasciite necrosante? As bact\u00e9rias que podem causar fasciite necrosante (NF) incluem as seguintes: Klebsiella, Clostridium e Escherichia coli; o grupo A Streptococo \u00e9 a causa mais comum. Qualquer um pode desenvolver NF. Aproximadamente 50% dos casos de fasciite necrosante causada por bact\u00e9rias estreptoc\u00f3cicas ocorrem em indiv\u00edduos jovens e saud\u00e1veis. Embora a fasciite necrosante se desenvolva mais frequentemente ap\u00f3s um trauma que causa uma quebra na pele, tamb\u00e9m pode desenvolver-se ap\u00f3s um trauma menor que ocorre sem uma quebra na pele. NF pode ocorrer como uma complica\u00e7\u00e3o de um procedimento cir\u00fargico; tamb\u00e9m pode ocorrer no local de uma les\u00e3o relativamente pequena, como uma picada de inseto ou uma inje\u00e7\u00e3o. Al\u00e9m disso, doen\u00e7as subjacentes que enfraquecem o sistema imunol\u00f3gico podem aumentar o risco de uma pessoa desenvolver NF. Estudos at\u00e9 sugeriram uma poss\u00edvel rela\u00e7\u00e3o entre o uso de medicamentos anti-inflamat\u00f3rios n\u00e3o esteroides (AINEs) durante infec\u00e7\u00f5es varicela e o desenvolvimento de fasciite necrosante."
+    },
+    {
+        "qid":"0004325-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a fasciite necrotizante?",
+        "answer":"Como a fascite necrosante pode ser tratada? Diagn\u00f3stico preciso e r\u00e1pido, tratamento com antibi\u00f3ticos intravenosos (IV) e cirurgia para remover tecido morto s\u00e3o todos importantes para o tratamento da fasciite necrosante. Como o suprimento de sangue no tecido infectado \u00e9 prejudicado, antibi\u00f3ticos n\u00e3o podem penetrar no tecido infectado. Como resultado, cirurgia para remover os tecidos mortos, danificados ou infectados \u00e9 a pedra angular do tratamento para a fasciite necrosante. Al\u00e9m disso, tratamento cir\u00fargico precoce pode minimizar a perda de tecido, eliminando a necessidade de amputa\u00e7\u00e3o da extremidade infectada. A escolha de antibi\u00f3ticos provavelmente depender\u00e1 das bact\u00e9rias envolvidas. Oxig\u00eanio suplementar, fluidos e medicamentos podem ser necess\u00e1rios para aumentar a press\u00e3o arterial. Oxig\u00eanio hiperb\u00e1rico e imunoglobulina intravenosa tamb\u00e9m podem ser considerados, mas seu uso em pacientes com FN \u00e9 considerado controverso por alguns."
+    }
+]

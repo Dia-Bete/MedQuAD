@@ -1,0 +1,38 @@
+[
+    {
+        "qid":"0000734-1",
+        "qtype":"information",
+        "question":"Qual \u00e9 a doen\u00e7a de Binswanger?",
+        "answer":"A doen\u00e7a de Binswanger \u00e9 um tipo de dem\u00eancia causada por \u00e1reas microsc\u00f3picas difundidas de danos \u00e0s camadas profundas de mat\u00e9ria branca no c\u00e9rebro. As pessoas mais afetadas experimentam perda progressiva de mem\u00f3ria e deteriora\u00e7\u00e3o das habilidades intelectuais (dem\u00eancia); urg\u00eancia urin\u00e1ria ou incontin\u00eancia; e uma marcha anormalmente lenta e inest\u00e1vel (estilo de caminhada). Embora n\u00e3o haja cura, a progress\u00e3o da doen\u00e7a de Binswanger pode ser retardada com escolhas de estilo de vida saud\u00e1veis. O tratamento \u00e9 baseado nos sinais e sintomas presentes em cada pessoa."
+    },
+    {
+        "qid":"0000734-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da doen\u00e7a de Binswanger?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da doen\u00e7a de Binswanger? Os sinais e sintomas associados \u00e0 doen\u00e7a de Binswanger geralmente interrompem tarefas relacionadas ao \"funcionamento cognitivo executivo\", incluindo mem\u00f3ria a curto prazo, organiza\u00e7\u00e3o, humor, regula\u00e7\u00e3o da aten\u00e7\u00e3o, capacidade de tomar decis\u00f5es e comportamento apropriado. A doen\u00e7a de Binswanger \u00e9 caracterizada principalmente pela lentid\u00e3o psicomotora - um aumento no tempo que leva, por exemplo, para os dedos transformar o pensamento de uma letra em forma de uma letra em um peda\u00e7o de papel. Outros sintomas incluem esquecimento (mas n\u00e3o t\u00e3o grave como o esquecimento da doen\u00e7a de Alzheimer); altera\u00e7\u00f5es na fala; uma marcha inest\u00e1vel; desajeita\u00e7\u00e3o ou quedas frequentes; altera\u00e7\u00f5es na personalidade ou humor (mais prov\u00e1vel na forma de apatia, irritabilidade e depress\u00e3o); e sintomas urin\u00e1rios que n\u00e3o s\u00e3o causados por doen\u00e7a urol\u00f3gica."
+    },
+    {
+        "qid":"0000734-3",
+        "qtype":"causes",
+        "question":"O que causa a doen\u00e7a de Binswanger?",
+        "answer":"O que causa a doen\u00e7a de Binswanger? A doen\u00e7a de Binswanger ocorre quando os vasos sangu\u00edneos que abastecem as estruturas profundas do c\u00e9rebro ficam obstru\u00eddos (bloqueados). \u00c0 medida que as art\u00e9rias ficam cada vez mais estreitas, o sangue fornecido por essas art\u00e9rias diminui e o tecido cerebral morre. Isso pode ser causado por aterosclerose, tromboembolismo (co\u00e1gulos de sangue) e outras doen\u00e7as como CADASIL. Fatores de risco para a doen\u00e7a de Binswanger incluem: Hipertens\u00e3o Fumar Hipercolesterolemia Doen\u00e7a card\u00edaca Diabetes mellitus"
+    },
+    {
+        "qid":"0000734-4",
+        "qtype":"inheritance",
+        "question":"A doen\u00e7a de Binswanger \u00e9 herdada?",
+        "answer":"A doen\u00e7a de Binswanger \u00e9 uma condi\u00e7\u00e3o heredit\u00e1ria? Embora a doen\u00e7a de Binswanger n\u00e3o seja considerada uma condi\u00e7\u00e3o herdada, a gen\u00e9tica pode desempenhar um papel em muitas das condi\u00e7\u00f5es e fatores de risco que est\u00e3o associados com a doen\u00e7a (i.e. aterosclerose, co\u00e1gulos de sangue)."
+    },
+    {
+        "qid":"0000734-5",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a doen\u00e7a de Binswanger?",
+        "answer":"Como \u00e9 diagnosticada a doen\u00e7a de Binswanger? Um diagn\u00f3stico da doen\u00e7a de Binswanger \u00e9 frequentemente suspeito com base na presen\u00e7a de sinais e sintomas caracter\u00edsticos. Testes adicionais podem ser ordenados para confirmar o diagn\u00f3stico. Isso geralmente consiste em estudos de imagem do c\u00e9rebro (i.e. TC e/ou resson\u00e2ncia magn\u00e9tica)."
+    },
+    {
+        "qid":"0000734-6",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Binswanger?",
+        "answer":"Como a doen\u00e7a de Binswanger \u00e9 tratada? O dano cerebral associado \u00e0 doen\u00e7a de Binswanger n\u00e3o \u00e9 revers\u00edvel. O tratamento \u00e9 baseado nos sinais e sintomas presentes em cada pessoa. Por exemplo, medicamentos podem ser prescritos para tratar depress\u00e3o, agita\u00e7\u00e3o e outros sintomas associados \u00e0 condi\u00e7\u00e3o. O controle bem sucedido da hipertens\u00e3o e diabetes pode retardar a progress\u00e3o da aterosclerose, o que pode retardar a progress\u00e3o da doen\u00e7a de Binswanger."
+    }
+]

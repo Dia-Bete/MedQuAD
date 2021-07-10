@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000100-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Dem\u00eancia Frontotemporal?",
+        "answer":"Dem\u00eancia Frontotemporal (FTD) descreve uma s\u00edndrome cl\u00ednica associada ao encolhemento dos l\u00f3bulos frontal e temporal anterior do c\u00e9rebro. Originalmente conhecido como doen\u00e7a de Picks, o nome e classifica\u00e7\u00e3o da FTD tem sido um t\u00f3pico de discuss\u00e3o por mais de um s\u00e9culo. A atual designa\u00e7\u00e3o da s\u00edndrome agrupa a doen\u00e7a de Picks, afasia progressiva prim\u00e1ria e dem\u00eancia sem\u00e2ntica como FTD. Alguns m\u00e9dicos prop\u00f5em adicionar degenera\u00e7\u00e3o corticobasal e paralisia supranuclear progressiva ao FTD e chamar o grupo Pick Complex. Essas designa\u00e7\u00f5es continuar\u00e3o a ser discutidas. Como \u00e9 definido hoje, os sintomas de FTD caem em dois padr\u00f5es cl\u00ednicos que envolvem (1) altera\u00e7\u00f5es no comportamento, ou (2) problemas com a linguagem. O primeiro tipo apresenta comportamentos que podem ser impulsivos (desinibidos) ou entediados e desinteressados (ap\u00e1ticos) e inclui comportamento social inadequado; falta de tato social; falta de empatia; distraibilidade; perda de vis\u00e3o sobre os comportamentos de si mesmos e de outros; um maior interesse pelo sexo; mudan\u00e7as nas prefer\u00eancias alimentares; agita\u00e7\u00e3o ou, inversamente, emo\u00e7\u00f5es confusas; neglig\u00eancia da higiene pessoal; comportamento repetitivo ou compulsivo, e diminui\u00e7\u00e3o da energia e motiva\u00e7\u00e3o. O segundo tipo apresenta principalmente sintomas de dist\u00farbio da linguagem, incluindo dificuldade em fazer ou entender a fala, muitas vezes em conjunto com os tipos comportamentais sintomas. Habilidades espaciais e mem\u00f3ria permanecem intactas. H\u00e1 um componente gen\u00e9tico forte para a doen\u00e7a; FTD muitas vezes funciona em fam\u00edlias."
+    },
+    {
+        "qid":"0000100-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a Dem\u00eancia Frontotemporal?",
+        "answer":"Nenhum tratamento demonstrou retardar a progress\u00e3o da FTD. A modifica\u00e7\u00e3o do comportamento pode ajudar a controlar comportamentos inaceit\u00e1veis ou perigosos. Comportamentos agressivos, agitados ou perigosos podem requerer medica\u00e7\u00e3o. Antidepressivos t\u00eam demonstrado melhorar alguns sintomas."
+    },
+    {
+        "qid":"0000100-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva da Dem\u00eancia Frontotemporal?",
+        "answer":"O resultado para as pessoas com FTD \u00e9 pobre. A doen\u00e7a progride de forma constante e muitas vezes rapidamente, variando de menos de 2 anos em alguns indiv\u00edduos a mais de 10 anos em outros. Eventualmente, alguns indiv\u00edduos com FTD v\u00e3o precisar de cuidados 24 horas e monitoramento em casa ou em um ambiente de cuidados institucionalizados."
+    },
+    {
+        "qid":"0000100-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a Dem\u00eancia Frontotemporal?",
+        "answer":"O Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Clim\u00e1ticas (NINDS) e outros institutos dos Institutos Nacionais de Sa\u00fade (NIH), realizam pesquisas relacionadas com o FTD em laborat\u00f3rios do NIH, e tamb\u00e9m apoiam pesquisas adicionais atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es m\u00e9dicas em todo o pa\u00eds."
+    }
+]

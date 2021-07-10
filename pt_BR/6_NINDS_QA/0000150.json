@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000150-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Holoprosencefalia?",
+        "answer":"A holoprosencefalia \u00e9 uma desordem causada pela falha do prosencefalo (a antebra\u00edna embrion\u00e1ria) em se dividir suficientemente nos lobos duplos dos hemisf\u00e9rios cerebrais. O resultado \u00e9 uma estrutura cerebral de um s\u00f3 lobo e graves defeitos do cr\u00e2nio e do rosto. Na maioria dos casos de holoprosencefalia, as malforma\u00e7\u00f5es s\u00e3o t\u00e3o graves que beb\u00eas morrem antes do nascimento. Em casos menos graves, beb\u00eas nascem com desenvolvimento cerebral normal ou quase normal e deformidades faciais que podem afetar os olhos, nariz e l\u00e1bio superior. H\u00e1 tr\u00eas classifica\u00e7\u00f5es de holoprosencefalia. Alobar, em que o c\u00e9rebro n\u00e3o se dividiu, geralmente est\u00e1 associado a graves deformidades faciais. Semilobar, em que os hemisf\u00e9rios do c\u00e9rebro se dividiram um pouco, causa uma forma intermedi\u00e1ria do dist\u00farbio. Lobar, em que h\u00e1 evid\u00eancias consider\u00e1veis de hemisf\u00e9rios cerebrais separados, \u00e9 a forma menos grave. Em alguns casos de holoprosencefalia lobar, o c\u00e9rebro do beb\u00ea pode estar quase normal. A menos grave das anomalias faciais \u00e9 a fenda mediana do l\u00e1bio (agenese pr\u00e9-maxilar). O mais grave \u00e9 a ciclopia, uma anormalidade caracterizada por um \u00fanico olho localizado na \u00e1rea normalmente ocupada pela raiz do nariz, e um nariz faltando ou um proboscis (um nariz tubular em forma de nariz) localizado acima do olho. A anomalia facial menos comum \u00e9 etmocefalia, na qual uma proboscis separa olhos bem fechados. A cebocefalia, outra anomalia facial, \u00e9 caracterizada por um nariz pequeno e aplanado com uma \u00fanica narina situada abaixo de olhos incompletos ou subdesenvolvidos."
+    },
+    {
+        "qid":"0000150-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Holoprosencefalia?",
+        "answer":"N\u00e3o existe tratamento padr\u00e3o para holoprosencefalia. O tratamento \u00e9 sintom\u00e1tico e de apoio."
+    },
+    {
+        "qid":"0000150-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Holoprosencefalia?",
+        "answer":"O progn\u00f3stico para os indiv\u00edduos com o dist\u00farbio depende da gravidade do c\u00e9rebro e deformidades faciais."
+    },
+    {
+        "qid":"0000150-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a Holoprosencefalia?",
+        "answer":"O NINDS apoia e conduz uma ampla gama de estudos que se concentram em identificar e aprender mais sobre os fatores envolvidos no desenvolvimento cerebral normal. Pesquisas recentes identificaram genes espec\u00edficos que causam holoprosencefalia. O conhecimento obtido com esses estudos fundamentais fornece a base para entender como desenvolver novas maneiras de tratar e potencialmente prevenir essa desordem."
+    }
+]

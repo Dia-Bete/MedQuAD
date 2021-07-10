@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000163-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Miopatias Inflamat\u00f3rias?",
+        "answer":"As miopatias inflamat\u00f3rias s\u00e3o um grupo de doen\u00e7as, sem causa conhecida, que envolvem inflama\u00e7\u00e3o muscular cr\u00f4nica acompanhada de fraqueza muscular. Os tr\u00eas principais tipos de miopatia inflamat\u00f3ria cr\u00f4nica ou persistente s\u00e3o polimiosite, dermatomiosite e miosite corporal de inclus\u00e3o (IBM). Estes dist\u00farbios raros podem afetar tanto adultos como crian\u00e7as, embora a dermatomiosite seja mais comum em crian\u00e7as. Polimiosite e dermatomiosite s\u00e3o mais comuns nas mulheres do que nos homens. Sintomas gerais de miopatia inflamat\u00f3ria cr\u00f4nica incluem fraqueza muscular lenta mas progressiva que come\u00e7a nos m\u00fasculos proximais os m\u00fasculos mais pr\u00f3ximos do tronco do corpo. Outros sintomas incluem fadiga ap\u00f3s caminhar ou ficar de p\u00e9, trope\u00e7ar ou cair, e dificuldade em engolir ou respirar. Alguns pacientes podem ter ligeira dor muscular ou m\u00fasculos que s\u00e3o sens\u00edveis ao toque. A polimiosite afeta os m\u00fasculos esquel\u00e9ticos (envolvidos em fazer movimento) em ambos os lados do corpo. A dermatomiosite \u00e9 caracterizada por uma erup\u00e7\u00e3o cut\u00e2nea que precede ou acompanha a fraqueza muscular progressiva. O IBM \u00e9 caracterizado por fraqueza muscular progressiva e desperd\u00edcio. A miosite juvenil tem algumas semelhan\u00e7as com a dermatomiosite adulta e polimiosite."
+    },
+    {
+        "qid":"0000163-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Miopatias Inflamat\u00f3rias?",
+        "answer":"As miopatias inflamat\u00f3rias cr\u00f4nicas n\u00e3o podem ser curadas na maioria dos adultos, mas muitos dos sintomas podem ser tratados. Op\u00e7\u00f5es incluem medica\u00e7\u00e3o, fisioterapia, exerc\u00edcios, terapia t\u00e9rmica (incluindo microondas e ultrassom), ort\u00f3ides e dispositivos de assist\u00eancia, e repouso. Polimiosite e dermatomiosite s\u00e3o primeiramente tratadas com doses altas de prednisona ou outro medicamento corticosteroide. Isso \u00e9 mais freq\u00fcentemente administrado como medica\u00e7\u00e3o oral, mas pode ser entregue por via intravenosa. Drogas imunossupressoras, como azatioprina e metotrexato, podem reduzir a inflama\u00e7\u00e3o em pessoas que n\u00e3o respondem bem \u00e0 prednisona. IBM n\u00e3o tem tratamento padr\u00e3o. A doen\u00e7a geralmente n\u00e3o responde aos corticosteroides e medicamentos imunossupressores."
+    },
+    {
+        "qid":"0000163-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva das Miopatias Inflamat\u00f3rias?",
+        "answer":"A maioria dos casos de dermatomiosite respondem \u00e0 terapia. O progn\u00f3stico para polimiosite varia. A maioria dos indiv\u00edduos responde bastante bem \u00e0 terapia, mas algumas pessoas t\u00eam uma doen\u00e7a mais grave que n\u00e3o responde adequadamente \u00e0s terapias e s\u00e3o deixadas com defici\u00eancia significativa. IBM \u00e9 geralmente resistente a todas as terapias e sua taxa de progress\u00e3o parece n\u00e3o ser afetada por tratamentos atualmente dispon\u00edveis."
+    },
+    {
+        "qid":"0000163-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Miopatias Inflamat\u00f3rias?",
+        "answer":"Os Institutos Nacionais de Sa\u00fade (NIH), atrav\u00e9s dos esfor\u00e7os de colabora\u00e7\u00e3o de seu Instituto Nacional de Dist\u00farbios Neurol\u00f3gicos e Enfermidades Atmosf\u00e9ricas (NINDS), Instituto Nacional de Artrite e Doen\u00e7as Musculoesquel\u00e9ticas e Cut\u00e2neas (NIAMS), e Instituto Nacional de Ci\u00eancias da Sa\u00fade Ambiental (NIEHS), realiza e apoia uma ampla gama de pesquisas sobre dist\u00farbios neuromusculares, incluindo as miopatias inflamat\u00f3rias. O NINDS e o NIAMS est\u00e3o financiando an\u00e1lises de DNA usando microarrays para caracterizar padr\u00f5es de express\u00e3o de genes musculares entre indiv\u00edduos adultos e jovens com subtipos distintos de miopatias inflamat\u00f3rias. Os achados ser\u00e3o usados para refinar a classifica\u00e7\u00e3o da doen\u00e7a e fornecer pistas para a patologia desses dist\u00farbios. Outra pesquisa financiada pelo NIH est\u00e1 estudando infec\u00e7\u00e3o viral pr\u00e9via como precursora da miopatia inflamat\u00f3ria. Outras pesquisas esperam determinar se o f\u00e1rmaco infliximab, que bloqueia uma prote\u00edna associada \u00e0 inflama\u00e7\u00e3o nociva, \u00e9 seguro e eficaz no tratamento da dermatomiosite e polimiosite."
+    }
+]

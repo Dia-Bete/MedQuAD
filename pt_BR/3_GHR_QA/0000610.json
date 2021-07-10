@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000610-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a s\u00edndrome de linfedema-distich\u00edase?",
+        "answer":"A s\u00edndrome de linfedema-distich\u00edase \u00e9 uma condi\u00e7\u00e3o que afeta a fun\u00e7\u00e3o normal do sistema linf\u00e1tico, que \u00e9 uma parte do sistema circulat\u00f3rio e imunol\u00f3gico. O sistema linf\u00e1tico produz e transporta fluidos e c\u00e9lulas imunes por todo o corpo. Pessoas com s\u00edndrome de linfedema-distich\u00edase desenvolvem incha\u00e7o ou incha\u00e7o (linfedema) dos membros, tipicamente as pernas e os p\u00e9s. Outra caracter\u00edstica desta s\u00edndrome \u00e9 o crescimento de c\u00edlios extras (distic\u00edase), variando de alguns c\u00edlios extras a um conjunto extra completo nas tampas superiores e inferiores. Estes c\u00edlios n\u00e3o crescem ao longo da p\u00e1lpebra, mas fora de seu revestimento interno. Quando os c\u00edlios anormais tocam o globo ocular, podem causar danos \u00e0 cobertura clara do olho (corneia). Problemas oculares relacionados podem incluir uma curvatura irregular da c\u00f3rnea causando vis\u00e3o borrada (astigmatismo) ou cicatrizes da c\u00f3rnea. Outros problemas de sa\u00fade associados a este dist\u00farbio incluem veias inchadas e aninhadas (varicose), p\u00e1lpebras abafadas (ptose), anormalidades card\u00edacas, e uma abertura no telhado da boca (uma fenda palatina). Todas as pessoas com s\u00edndrome de linfedema-distich\u00edase t\u00eam c\u00edlios extras presentes no nascimento. A idade de in\u00edcio do linfedema varia, mas a maioria das vezes come\u00e7a durante a puberdade. Os machos geralmente desenvolvem linfedema mais cedo do que as f\u00eameas, mas todos os indiv\u00edduos afetados desenvolver\u00e3o linfedema quando estiverem em seus anos 40."
+    },
+    {
+        "qid":"0000610-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela s\u00edndrome de linfedema-distich\u00edase?",
+        "answer":"A preval\u00eancia da s\u00edndrome de linfedema-distich\u00edase \u00e9 desconhecida. Porque os c\u00edlios extras podem ser ignorados durante um exame m\u00e9dico, pesquisadores acreditam que algumas pessoas com essa condi\u00e7\u00e3o podem ser diagnosticadas como tendo apenas linfedema."
+    },
+    {
+        "qid":"0000610-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 s\u00edndrome de linfedema-distich\u00edase?",
+        "answer":"A s\u00edndrome de linfedema-distich\u00edase \u00e9 causada por muta\u00e7\u00f5es no gene FOXC2. O gene FOXC2 fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que desempenha um papel cr\u00edtico na forma\u00e7\u00e3o de muitos \u00f3rg\u00e3os e tecidos antes do nascimento. A prote\u00edna FOXC2 \u00e9 um fator de transcri\u00e7\u00e3o, o que significa que se liga (vindas) a regi\u00f5es espec\u00edficas do DNA e ajuda a controlar a atividade de muitos outros genes. Pesquisadores acreditam que a prote\u00edna FOXC2 tem um papel em uma variedade de processos de desenvolvimento, como a forma\u00e7\u00e3o de veias e o desenvolvimento dos pulm\u00f5es, olhos, rins e trato urin\u00e1rio, sistema cardiovascular, e o sistema de transporte de c\u00e9lulas imunes (vasos linf\u00e1ticos)."
+    },
+    {
+        "qid":"0000610-4",
+        "qtype":"inheritance",
+        "question":"A s\u00edndrome de linfedema-distich\u00edase \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem."
+    },
+    {
+        "qid":"0000610-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de linfedema-distich\u00edase?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da s\u00edndrome de linfedema-distiquiose: - Revis\u00e3o gen\u00e9tica: Revis\u00e3o gen\u00e9tica: S\u00edndrome de linfedema-distiquiose - Registro de Testes Gen\u00e9ticos: S\u00edndrome de linfedema-distiquise - MedlinePlus Enciclop\u00e9dia: Sistema de linfa Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

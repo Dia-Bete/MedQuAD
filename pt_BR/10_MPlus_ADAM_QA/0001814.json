@@ -1,0 +1,44 @@
+[
+    {
+        "qid":"0001814-1",
+        "qtype":"information",
+        "question":"O que \u00e9 o endurecimento das art\u00e9rias?",
+        "answer":""
+    },
+    {
+        "qid":"0001814-2",
+        "qtype":"causes",
+        "question":"O que causa o endurecimento das art\u00e9rias?",
+        "answer":""
+    },
+    {
+        "qid":"0001814-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do endurecimento das art\u00e9rias?",
+        "answer":""
+    },
+    {
+        "qid":"0001814-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar o endurecimento das art\u00e9rias?",
+        "answer":""
+    },
+    {
+        "qid":"0001814-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o endurecimento das art\u00e9rias?",
+        "answer":""
+    },
+    {
+        "qid":"0001814-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o endurecimento das art\u00e9rias?",
+        "answer":""
+    },
+    {
+        "qid":"0001814-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es do endurecimento das art\u00e9rias?",
+        "answer":""
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000272-1",
+        "qtype":"information",
+        "question":"O que \u00e9 S\u00edndrome de Troyer?",
+        "answer":"A s\u00edndrome de Troyer \u00e9 um dos mais de 40 dist\u00farbios neurol\u00f3gicos geneticamente distintos conhecidos coletivamente como as paraplegias esp\u00e1sticas heredit\u00e1rias. Esses dist\u00farbios s\u00e3o caracterizados por sua caracter\u00edstica primordial de fraqueza muscular progressiva e espasticidade nas pernas. Sintomas adicionais da s\u00edndrome de Troyer (tamb\u00e9m chamado SPG20) incluem contraturas nas pernas, dificuldade em caminhar, dist\u00farbios da fala, baba, atrofia dos m\u00fasculos das m\u00e3os, atrasos no desenvolvimento, emo\u00e7\u00f5es flutuantes e estatura curta. O in\u00edcio \u00e9 tipicamente na inf\u00e2ncia, e os sintomas pioram gradualmente com o tempo. A s\u00edndrome de Troyer \u00e9 um dist\u00farbio autoss\u00f4mico recessivo (significando que ambos os pais devem carregar e transmitir o gene defeituoso que produz a doen\u00e7a) que resulta de uma muta\u00e7\u00e3o no gene da paraplegia esp\u00e1stica (SPGP20) localizado no cromossomo 13 que resulta em perda das prote\u00ednas da espartina. A doen\u00e7a foi observada pela primeira vez nas fam\u00edlias Amish, em Ohio. O diagn\u00f3stico \u00e9 feito por testes gen\u00e9ticos especializados."
+    },
+    {
+        "qid":"0000272-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a S\u00edndrome de Troyer?",
+        "answer":"N\u00e3o h\u00e1 tratamentos espec\u00edficos para prevenir ou retardar a degenera\u00e7\u00e3o progressiva observada na s\u00edndrome de Troyer. A terapia sintom\u00e1tica inclui medicamentos antiespasm\u00f3dicos e fisioterapia para melhorar a for\u00e7a muscular e manter a amplitude de movimento nas pernas. Dispositivos auxiliares podem ser necess\u00e1rios para ajudar com a caminhada."
+    },
+    {
+        "qid":"0000272-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a S\u00edndrome de Troyer?",
+        "answer":"O progn\u00f3stico varia, embora a doen\u00e7a seja progressiva. Alguns pacientes podem ter uma forma leve da doen\u00e7a enquanto outros acabam perdendo a capacidade de andar normalmente. A s\u00edndrome de Troyer n\u00e3o abrevia a vida normal."
+    },
+    {
+        "qid":"0000272-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a S\u00edndrome de Troyer?",
+        "answer":"O NINDS apoia pesquisas sobre dist\u00farbios gen\u00e9ticos, como as paraplegias esp\u00e1sticas heredit\u00e1rias. Um gene para a s\u00edndrome de Troyer foi identificado e outros podem ser identificados no futuro. Compreender como esses genes causam a s\u00edndrome de Troyer e as paraplegias esp\u00e1sticas heredit\u00e1rias em geral levar\u00e1 a formas de prevenir, tratar e curar esses dist\u00farbios."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000183-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) coroideemia?",
+        "answer":"A coroideremia \u00e9 uma condi\u00e7\u00e3o caracterizada pela perda progressiva da vis\u00e3o que afeta principalmente os homens. O primeiro sintoma dessa condi\u00e7\u00e3o \u00e9 geralmente um comprometimento da vis\u00e3o noturna (cegueira noturna), que pode ocorrer na inf\u00e2ncia. Um estreitamento progressivo do campo de vis\u00e3o (vis\u00e3o de t\u00fanel) segue, bem como uma diminui\u00e7\u00e3o na capacidade de ver detalhes (acuidade visual). Esses problemas de vis\u00e3o s\u00e3o devidos a uma perda cont\u00ednua de c\u00e9lulas (atrofia) no tecido especializado sens\u00edvel \u00e0 luz que reza a parte de tr\u00e1s do olho (retina) e uma rede pr\u00f3xima de vasos sangu\u00edneos (o coroide). O comprometimento da vis\u00e3o na coroideremia piora ao longo do tempo, mas a progress\u00e3o varia entre os indiv\u00edduos afetados. No entanto, todos os indiv\u00edduos com esta condi\u00e7\u00e3o desenvolver\u00e3o cegueira, mais comumente no final da idade adulta."
+    },
+    {
+        "qid":"0000183-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela coroideemia?",
+        "answer":"A preval\u00eancia de coroideremia \u00e9 estimada em 1 em 50.000 a 100.000 pessoas. No entanto, \u00e9 prov\u00e1vel que esta condi\u00e7\u00e3o seja subdiagnosticada devido a suas semelhan\u00e7as com outros dist\u00farbios oculares. Acha-se que a coroideremia representa cerca de 4 por cento de toda a cegueira."
+    },
+    {
+        "qid":"0000183-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 coroideremia?",
+        "answer":"Muta\u00e7\u00f5es no gene CHM causam coroideemia. O gene CHM fornece instru\u00e7\u00f5es para produzir a prote\u00edna de escolta de Rab-1 (REP-1). Como prote\u00edna de escolta, o REP-1 liga-se a mol\u00e9culas chamadas prote\u00ednas de Rab dentro da c\u00e9lula e as dirige para as membranas de v\u00e1rios compartimentos celulares (organelles). Prote\u00ednas Rab est\u00e3o envolvidas no movimento de prote\u00ednas e org\u00e2nicas dentro das c\u00e9lulas (tr\u00e1fico intracelular). Muta\u00e7\u00f5es no gene CHM levam a uma aus\u00eancia de prote\u00edna REP-1 ou a produ\u00e7\u00e3o de uma prote\u00edna REP-1 que n\u00e3o pode realizar sua fun\u00e7\u00e3o de escolta de prote\u00ednas. Esta falta de REP-1 funcional impede que as prote\u00ednas de Rab alcancem e se liguem \u00e0s membranas org\u00e2nicas. Sem a ajuda das prote\u00ednas de Rab no tr\u00e1fico intracelular, as c\u00e9lulas morrem prematuramente. A prote\u00edna REP-1 \u00e9 ativa (expressa) em todo o corpo, assim como uma prote\u00edna semelhante, REP-2. Pesquisas sugerem que quando o REP-1 est\u00e1 ausente ou n\u00e3o funcional, o REP-2 pode executar os deveres de escolta proteica do REP-1 em muitos dos tecidos do corpo. Muito pouca prote\u00edna REP-2 est\u00e1 presente na retina, no entanto, n\u00e3o pode compensar a perda de REP-1 neste tecido. Perda da fun\u00e7\u00e3o REP-1 e posterior deslocamento das prote\u00ednas de Rab dentro das c\u00e9lulas da retina causa a perda progressiva da vis\u00e3o caracter\u00edstica da coroideremia."
+    },
+    {
+        "qid":"0000183-4",
+        "qtype":"inheritance",
+        "question":"A coroideremia \u00e9 herdada?",
+        "answer":"A coroideremia \u00e9 herdada em um padr\u00e3o recessivo ligado a X. O gene CHM est\u00e1 localizado no cromossomo X, que \u00e9 um dos dois cromossomos sexuais. Em machos (que t\u00eam apenas um cromossomo X), uma c\u00f3pia alterada do gene em cada c\u00e9lula \u00e9 suficiente para causar a condi\u00e7\u00e3o. Em f\u00eameas (que t\u00eam dois cromossomos X), uma muta\u00e7\u00e3o deve estar presente em ambas as c\u00f3pias do gene para causar a desordem. Os homens s\u00e3o afetados por dist\u00farbios recessivos ligados a X muito mais freq\u00fcentemente que as f\u00eameas. Uma caracter\u00edstica da heran\u00e7a ligada a X \u00e9 que os pais n\u00e3o podem passar os tra\u00e7os ligados a X para seus filhos. Na heran\u00e7a recessiva ligada a X, uma f\u00eamea com uma c\u00f3pia mutada do gene em cada c\u00e9lula \u00e9 chamada de portadora. Ela pode transmitir o gene alterado, mas geralmente n\u00e3o experimenta sinais e sintomas do dist\u00farbio. As f\u00eameas portadoras de muta\u00e7\u00e3o CHM podem mostrar pequenas \u00e1reas de perda celular dentro da retina que podem ser observadas durante um exame ocular completo. Essas mudan\u00e7as podem prejudicar a vis\u00e3o mais tarde na vida."
+    },
+    {
+        "qid":"0000183-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a coroideremia?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da coroideremia: - Gene Review: Gene Review: Choroideremia - Gene Testing Registry: Choroideremia - MedlinePlus Encyclopedia: Vision - cegueira noturna - MedlinePlus Encyclopedia: Campo visual Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

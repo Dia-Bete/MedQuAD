@@ -1,0 +1,50 @@
+[
+    {
+        "qid":"0002201-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Insulinoma?",
+        "answer":""
+    },
+    {
+        "qid":"0002201-2",
+        "qtype":"causes",
+        "question":"O que causa Insulinoma?",
+        "answer":""
+    },
+    {
+        "qid":"0002201-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do Insulinoma?",
+        "answer":""
+    },
+    {
+        "qid":"0002201-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar Insulinoma?",
+        "answer":""
+    },
+    {
+        "qid":"0002201-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o Insulinoma?",
+        "answer":""
+    },
+    {
+        "qid":"0002201-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o Insulinoma?",
+        "answer":""
+    },
+    {
+        "qid":"0002201-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es do Insulinoma?",
+        "answer":""
+    },
+    {
+        "qid":"0002201-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para o Insulinoma?",
+        "answer":""
+    }
+]

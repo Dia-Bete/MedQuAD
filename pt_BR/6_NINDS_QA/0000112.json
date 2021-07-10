@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000112-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) Distonias?",
+        "answer":"As distonias s\u00e3o dist\u00farbios de movimento em que contra\u00e7\u00f5es musculares sustentadas causam tor\u00e7\u00f5es e movimentos repetitivos ou posturas anormais. Os movimentos, que s\u00e3o involunt\u00e1rios e \u00e0s vezes dolorosos, podem afetar um \u00fanico m\u00fasculo, um grupo de m\u00fasculos como os nos bra\u00e7os, pernas ou pesco\u00e7o, ou todo o corpo. Os primeiros sintomas podem incluir deteriora\u00e7\u00e3o da caligrafia, c\u00e3ibras nos p\u00e9s, ou um p\u00e9 arrastado ap\u00f3s correr ou caminhar alguma dist\u00e2ncia. Outros poss\u00edveis sintomas s\u00e3o tremores e dificuldades de voz ou fala. Cerca de metade dos casos de distonia n\u00e3o t\u00eam conex\u00e3o com doen\u00e7a ou les\u00e3o e s\u00e3o chamados de distonia prim\u00e1ria ou idiop\u00e1tica. Das distonias prim\u00e1rias, muitos casos parecem ser herdados. Distonias tamb\u00e9m podem ser sintomas de outras doen\u00e7as, algumas das quais podem ser heredit\u00e1rias. A distonia pode ocorrer em qualquer idade, mas \u00e9 frequentemente descrita como in\u00edcio, ou inf\u00e2ncia, in\u00edcio versus in\u00edcio adulto."
+    },
+    {
+        "qid":"0000112-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para as distonias?",
+        "answer":"Nenhum tratamento foi encontrado universalmente eficaz. Em vez disso, os m\u00e9dicos usam uma variedade de terapias (medicamentos, cirurgia e outros tratamentos como fisioterapia, aplausos, controle de estresse e biofeedback) com o objetivo de reduzir ou eliminar espasmos musculares e dor. Como a resposta \u00e0s drogas varia entre os indiv\u00edduos e mesmo na mesma pessoa ao longo do tempo, a terapia mais eficaz \u00e9 muitas vezes individualizada."
+    },
+    {
+        "qid":"0000112-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para Dystonias?",
+        "answer":"Os sintomas iniciais podem ser muito leves e s\u00f3 podem ser vis\u00edveis ap\u00f3s esfor\u00e7o prolongado, estresse ou fadiga. As distonias costumam progredir atrav\u00e9s de v\u00e1rios est\u00e1gios. Inicialmente, os movimentos diston\u00f4nicos s\u00e3o intermitentes e aparecem apenas durante movimentos volunt\u00e1rios ou estresse. Mais tarde, os indiv\u00edduos podem mostrar posturas e movimentos diston\u00f4nicos enquanto caminham e, em \u00faltima an\u00e1lise, mesmo enquanto est\u00e3o relaxados. Movimentos dist\u00f4nicos podem levar a deformidades f\u00edsicas permanentes causando tend\u00f5es a encurtar."
+    },
+    {
+        "qid":"0000112-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Dystonias?",
+        "answer":"O National Institute of Neurological Disorders and Stroke (NINDS) realiza pesquisas relacionadas \u00e0 distonia em seus laborat\u00f3rios nos Institutos Nacionais de Sa\u00fade (NIH) e tamb\u00e9m apoia pesquisa adicional de distonia atrav\u00e9s de bolsas para grandes institui\u00e7\u00f5es de pesquisa em todo o pa\u00eds. Cientistas de outros Institutos NIH (Instituto Nacional de Surdez e Outros Transtornos de Comunica\u00e7\u00e3o, Instituto Nacional de Olhos, e Eunice Kennnedy Shriver Instituto Nacional de Sa\u00fade Infantil e Desenvolvimento Humano) tamb\u00e9m apoiam pesquisas que podem beneficiar indiv\u00edduos com distonia. Os investigadores acreditam que as distonias resultam de uma anormalidade em uma \u00e1rea do c\u00e9rebro chamada g\u00e2nglio basal, onde algumas das mensagens que iniciam contra\u00e7\u00f5es musculares s\u00e3o processadas. Cientistas dos laborat\u00f3rios da NINDS realizaram investiga\u00e7\u00f5es detalhadas sobre o padr\u00e3o de atividade muscular em pessoas com distonias. Estudos usando an\u00e1lise de EEG e neuroimagem est\u00e3o sondando a atividade cerebral. A busca pelo gene ou genes respons\u00e1veis por algumas formas de distonias herdadas predominantemente continua."
+    }
+]

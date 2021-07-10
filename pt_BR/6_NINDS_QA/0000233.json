@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000233-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a S\u00edndrome Piriformis?",
+        "answer":"A s\u00edndrome da piriforme \u00e9 uma dist\u00farbio neuromuscular raro que ocorre quando o m\u00fasculo da piriforme comprime ou irrita o nervo ci\u00e1tico, o maior nervo do corpo. O m\u00fasculo piriforme \u00e9 um m\u00fasculo estreito localizado nas n\u00e1degas. A compress\u00e3o do nervo ci\u00e1tico causa dor frequentemente descrita como formigueiro ou dorm\u00eancia nas n\u00e1degas e ao longo do nervo, muitas vezes at\u00e9 a perna. A dor pode piorar como resultado de estar sentado por um longo per\u00edodo de tempo, subindo escadas, andando, ou correndo."
+    },
+    {
+        "qid":"0000233-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a S\u00edndrome Piriformis?",
+        "answer":"Geralmente, o tratamento para o dist\u00farbio come\u00e7a com exerc\u00edcios de alongamento e massagem. Medicamentos anti-inflamat\u00f3rios podem ser prescritos. A cessa\u00e7\u00e3o da corrida, ciclismo, ou atividades semelhantes podem ser aconselhadas. Uma inje\u00e7\u00e3o de corticosteroides perto de onde o m\u00fasculo piriforme e o nervo ci\u00e1tico se encontram pode proporcionar al\u00edvio tempor\u00e1rio. Em alguns casos, a cirurgia \u00e9 recomendada."
+    },
+    {
+        "qid":"0000233-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a S\u00edndrome Piriformis?",
+        "answer":"O progn\u00f3stico para a maioria dos indiv\u00edduos com s\u00edndrome de piriformes \u00e9 bom. Uma vez que os sintomas do dist\u00farbio s\u00e3o abordados, os indiv\u00edduos geralmente podem retomar suas atividades normais. Em alguns casos, os regimes de exerc\u00edcio podem precisar ser modificados para reduzir a probabilidade de recorr\u00eancia ou agravamento."
+    },
+    {
+        "qid":"0000233-4",
+        "qtype":"research",
+        "question":"que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para a S\u00edndrome Piriformis?",
+        "answer":"Dentro dos programas de pesquisa do NINDS, a s\u00edndrome do piriforme \u00e9 abordada principalmente atrav\u00e9s de estudos associados \u00e0 pesquisa da dor. NINDS persegue vigorosamente um programa de pesquisa buscando novos tratamentos para dor e les\u00e3o nervosa com o objetivo final de reverter condi\u00e7\u00f5es debilitantes como s\u00edndrome de piriformes."
+    }
+]

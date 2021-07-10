@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000079-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a ataxia com defici\u00eancia de vitamina E?",
+        "answer":"A ataxia com defici\u00eancia de vitamina E \u00e9 um dist\u00farbio que prejudica a capacidade do corpo para usar vitamina E obtida da dieta. A vitamina E \u00e9 um antioxidante, o que significa que protege as c\u00e9lulas do corpo dos efeitos prejudiciais de mol\u00e9culas inst\u00e1veis chamadas radicais livres. Uma escassez (defici\u00eancia) de vitamina E pode levar a problemas neurol\u00f3gicos, como dificuldade em coordenar movimentos (ataxia) e fala (disartria), perda de reflexos nas pernas (areflexia do membro inferior), e perda de sensa\u00e7\u00e3o nas extremidades (neuropatia perif\u00e9rica). Algumas pessoas com essa condi\u00e7\u00e3o desenvolveram um dist\u00farbio ocular chamado retinite pigmentosa que causa perda de vis\u00e3o. A maioria das pessoas que t\u00eam ataxia com defici\u00eancia de vitamina E come\u00e7am a ter problemas de movimento entre 5 e 15 anos. Os problemas de movimento tendem a piorar com a idade."
+    },
+    {
+        "qid":"0000079-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por ataxia com defici\u00eancia de vitamina E?",
+        "answer":"Ataxia com defici\u00eancia de vitamina E \u00e9 uma condi\u00e7\u00e3o rara; no entanto, sua preval\u00eancia \u00e9 desconhecida."
+    },
+    {
+        "qid":"0000079-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 ataxia com defici\u00eancia de vitamina E?",
+        "answer":"Muta\u00e7\u00f5es no gene TTPA causam ataxia com defici\u00eancia de vitamina E. O gene TTPA fornece instru\u00e7\u00f5es para fazer a prote\u00edna de transfer\u00eancia de tocoferol (TTP), que \u00e9 encontrada no f\u00edgado e no c\u00e9rebro. Esta prote\u00edna controla a distribui\u00e7\u00e3o da vitamina E obtida da dieta (tamb\u00e9m chamada -tocoferol) para c\u00e9lulas e tecidos em todo o corpo. A vitamina E ajuda as c\u00e9lulas a evitar danos que podem ser feitos por radicais livres. Muta\u00e7\u00f5es do gene TTPA prejudicam a atividade da prote\u00edna TTP, resultando em uma incapacidade de reter e usar vitamina E diet\u00e9tica. Como resultado, os n\u00edveis de vitamina E no sangue s\u00e3o muito reduzidos e radicais livres se acumulam dentro das c\u00e9lulas. C\u00e9lulas nervosas (neur\u00f4nios) no c\u00e9rebro e medula espinhal (sistema nervoso central) s\u00e3o particularmente vulner\u00e1veis aos efeitos prejudiciais dos radicais livres e estas c\u00e9lulas morrem quando s\u00e3o privadas de vitamina E. Dano das c\u00e9lulas nervosas pode levar a problemas com o movimento e outras caracter\u00edsticas da ataxia com defici\u00eancia de vitamina E."
+    },
+    {
+        "qid":"0000079-4",
+        "qtype":"inheritance",
+        "question":"A ataxia com defici\u00eancia de vitamina E \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000079-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a ataxia com defici\u00eancia de vitamina E?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo de ataxia com defici\u00eancia de vitamina E: - Revis\u00e3o de genes: Revis\u00e3o de genes: Ataxia com defici\u00eancia de vitamina E - Registro de Testes Gen\u00e9ticos: Ataxia com defici\u00eancia de vitamina E - MedlinePlus Enciclopedia: Retinite pigmentosa - MedlinePlus Enciclopedia: Vitamina E Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

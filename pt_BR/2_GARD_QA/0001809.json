@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0001809-1",
+        "qtype":"information",
+        "question":"O que \u00e9 um ganglioglioma infantil desmopl\u00e1sico?",
+        "answer":"G\u00e2ngliomas infantis desmopl\u00e1sicos (DIGs) s\u00e3o tumores cerebrais raros que est\u00e3o normalmente localizados nos l\u00f3bulos frontal ou parietal do c\u00e9rebro. Geralmente s\u00e3o diagnosticados antes dos 18 meses de idade com a maioria dos beb\u00eas apresentando sintomas de curta dura\u00e7\u00e3o. Embora as convuls\u00f5es n\u00e3o sejam comumente observadas, uma fontanella abultada, crescimento r\u00e1pido da cabe\u00e7a, v\u00f4mitos e um sinal de p\u00f4r do sol geralmente s\u00e3o observados. O tratamento padr\u00e3o para DIGs \u00e9 ressec\u00e7\u00e3o cir\u00fargica (procedimento cir\u00fargico em que a por\u00e7\u00e3o do c\u00e9rebro com o tumor \u00e9 removida)."
+    },
+    {
+        "qid":"0001809-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do ganglioglioma infantil desmopl\u00e1sico?",
+        "answer":"Que sinais e sintomas est\u00e3o associados com g\u00e2ngliomas infantiles desmopl\u00e1sicos? A maioria dos beb\u00eas com DIGs n\u00e3o tem convuls\u00f5es; no entanto, geralmente t\u00eam uma fontena, crescimento r\u00e1pido da cabe\u00e7a, sinal do p\u00f4r-do-sol e v\u00f4mitos."
+    },
+    {
+        "qid":"0001809-3",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar ganglioglioma infantil desmopl\u00e1sico?",
+        "answer":"Como s\u00e3o diagnosticados g\u00e2ngliomas infantiles desmopl\u00e1sicos? Al\u00e9m de detectar os sinais e sintomas comumente vistos em DIGs, tomografia de cabe\u00e7a e resson\u00e2ncia magn\u00e9tica podem revelar a presen\u00e7a deste tipo de tumor cerebral."
+    },
+    {
+        "qid":"0001809-4",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o ganglioglioma infantil desmopl\u00e1sico?",
+        "answer":"Que tratamento est\u00e1 dispon\u00edvel para g\u00e2ngliomas infantiles desmopl\u00e1sicos? Ressec\u00e7\u00e3o cir\u00fargica (remo\u00e7\u00e3o da \u00e1rea do c\u00e9rebro com o tumor) tem sido o tratamento padr\u00e3o relatado na literatura m\u00e9dica. O tamanho da ressec\u00e7\u00e3o \u00e9 provavelmente baseado no tamanho do tumor, embora a extens\u00e3o da resec\u00e7\u00e3o n\u00e3o seja documentada para todos os casos relatados na literatura m\u00e9dica. A terapia adjuvante geralmente n\u00e3o \u00e9 realizada quando uma ressec\u00e7\u00e3o total bruta pode ser realizada. Quando a ressec\u00e7\u00e3o total n\u00e3o \u00e9 poss\u00edvel, algumas das quimioterapias sugeridas, pois os efeitos da radia\u00e7\u00e3o em crian\u00e7as extremamente pequenas podem ser prejudiciais."
+    }
+]

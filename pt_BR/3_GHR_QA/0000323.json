@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000323-1",
+        "qtype":"information",
+        "question":"O que \u00e9 ataxia epis\u00f3dica?",
+        "answer":"A ataxia epis\u00f3dica \u00e9 um grupo de doen\u00e7as relacionadas que afetam o sistema nervoso e causam problemas com o movimento. Pessoas com ataxia epis\u00f3dica t\u00eam epis\u00f3dios recorrentes de m\u00e1 coordena\u00e7\u00e3o e equil\u00edbrio (ataxia). Durante estes epis\u00f3dios, muitas pessoas tamb\u00e9m experimentam tonturas (vertigo), n\u00e1useas e v\u00f3mitos, enxaquecas, vis\u00e3o borrada ou dupla, fala entorpecida e zumbido nos ouvidos (tinnitus). Convuls\u00f5es, fraqueza muscular e paralisia afetando um lado do corpo (hemiplegia) tamb\u00e9m podem ocorrer durante ataques. Al\u00e9m disso, alguns indiv\u00edduos afetados t\u00eam uma anormalidade muscular chamada miocimia durante ou entre epis\u00f3dios. Essa anormalidade pode causar c\u00e3ibras musculares, rigidez, e cont\u00ednuo, movimento muscular fino que aparece como ondula\u00e7\u00e3o sob a pele. Epis\u00f3dios de ataxia e outros sintomas podem come\u00e7ar a qualquer momento da inf\u00e2ncia at\u00e9 a idade adulta. Eles podem ser desencadeados por fatores ambientais como estresse emocional, cafe\u00edna, \u00e1lcool, certos medicamentos, atividade f\u00edsica e doen\u00e7a. A frequ\u00eancia dos ataques varia de v\u00e1rios por dia a um ou dois por ano. Entre epis\u00f3dios, alguns indiv\u00edduos afetados continuam a experimentar ataxia, que pode piorar com o tempo, assim como movimentos oculares involunt\u00e1rios chamados nistagmo. Pesquisadores identificaram pelo menos sete tipos de ataxia epis\u00f3dica, designadas de tipo 1 a tipo 7. Os tipos s\u00e3o diferenciados pelo padr\u00e3o de sinais e sintomas, idade de in\u00edcio, dura\u00e7\u00e3o dos ataques e, quando conhecidos, causa gen\u00e9tica."
+    },
+    {
+        "qid":"0000323-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por ataxia epis\u00f3dica?",
+        "answer":"Ataxia epis\u00f3dica \u00e9 incomum, afetando menos de 1 em 100 mil pessoas. Apenas os tipos 1 e 2 foram identificados em mais de uma fam\u00edlia, e o tipo 2 \u00e9 de longe a forma mais comum da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000323-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 ataxia epis\u00f3dica?",
+        "answer":"A ataxia epis\u00f3dica pode ser causada por muta\u00e7\u00f5es em v\u00e1rios genes que desempenham pap\u00e9is importantes no sistema nervoso. Tr\u00eas desses genes, KCNA1, CACNA1A, e CACNB4, fornecem instru\u00e7\u00f5es para fazer prote\u00ednas que est\u00e3o envolvidas no transporte de \u00e1tomos carregados (ions) atrav\u00e9s das membranas celulares. O movimento desses \u00edons \u00e9 cr\u00edtico para sinaliza\u00e7\u00e3o normal entre c\u00e9lulas nervosas (neur\u00f4nios) no c\u00e9rebro e outras partes do sistema nervoso. Muta\u00e7\u00f5es nos genes KCNA1, CACNA1A e CACNB4 s\u00e3o respons\u00e1veis por ataxia epis\u00f3dica tipos 1, 2 e 5, respectivamente. Muta\u00e7\u00f5es no gene SLC1A3 foram encontradas para causar ataxia epis\u00f3dica tipo 6. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que transporta um qu\u00edmico cerebral (neurotransmissor) chamado glutamato. Neurotransmissores, incluindo glutamato, permitem que os neur\u00f4nios se comuniquem transmitindo sinais qu\u00edmicos de um neur\u00f4nio para outro. Pesquisadores acreditam que muta\u00e7\u00f5es nos genes KCNA1, CACNA1A, CACNB4 e SLC1A3 alteram o transporte de \u00edons e glutamato no c\u00e9rebro, o que faz com que certos neur\u00f4nios se excitem demais e interrompem a comunica\u00e7\u00e3o normal entre essas c\u00e9lulas. Apesar de mudan\u00e7as na sinaliza\u00e7\u00e3o qu\u00edmica no c\u00e9rebro subjacentes aos ataques recorrentes vistos em pessoas com ataxia epis\u00f3dica, n\u00e3o est\u00e1 claro como muta\u00e7\u00f5es nestes genes causam as caracter\u00edsticas espec\u00edficas do dist\u00farbio. As causas gen\u00e9ticas da ataxia epis\u00f3dica tipos 3, 4 e 7 n\u00e3o foram identificadas. Pesquisadores est\u00e3o procurando genes adicionais que podem causar ataxia epis\u00f3dica."
+    },
+    {
+        "qid":"0000323-4",
+        "qtype":"inheritance",
+        "question":"A ataxia epis\u00f3dica \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Em alguns casos, uma pessoa afetada herda a muta\u00e7\u00e3o de um pai afetado. Outros casos resultam de novas muta\u00e7\u00f5es no gene e ocorrem em pessoas sem hist\u00f3rico do dist\u00farbio em sua fam\u00edlia."
+    },
+    {
+        "qid":"0000323-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para ataxia epis\u00f3dica?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou gest\u00e3o da ataxia epis\u00f3dica: - Cons\u00f3rcio para Investiga\u00e7\u00f5es Cl\u00ednicas de Canalopatias Neurol\u00f3gicas (CINCH) - Gene Review: Gene Review: Episodic Ataxia Tipo 1 - Gene Review: Gene Review: Episodic Ataxia Tipo 2 - Gene Testing Registry: Episodic Ataxia Tipo 1 - Gene Testing Registry: Episodic Ataxia Tipo 2 - Gene Testing Registry: Episodic Ataxia Tipo 3 - Gene Testing Registry: Episodic Ataxia Tipo 4 - Gene Testing Registry: Episodic Ataxia Tipo 7 - MedlinePlus Enciclopedia: Movimento - N\u00e3o Coordenado - MedlinePlus Enciclopedia: Vertigo-Associated Disturbos Esses recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o gerenciamento de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes diagn\u00f3sticos - Terapia de Drogas - Cirurgia e Reabilita\u00e7\u00e3o - Aconfer\u00eancia Gen\u00e9tica - Cuidado Paliativo"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "qid":"0001795-1",
+        "qtype":"information",
+        "question":"O que \u00e9 dermatite herpetiformis?",
+        "answer":"A dermatite herpetiformis \u00e9 uma doen\u00e7a cut\u00e2nea rara, cr\u00f4nica, caracterizada por grupos de bolhas com comich\u00e3o grave e les\u00f5es cut\u00e2neas elevadas. S\u00e3o mais comuns nos joelhos, cotovelos, n\u00e1degas e ombros. O in\u00edcio lento dos sintomas geralmente come\u00e7a durante a idade adulta, mas as crian\u00e7as tamb\u00e9m podem ser afetadas. Outros sintomas podem incluir feridas cheias de l\u00edquido; les\u00f5es vermelhas que se assemelham a urtic\u00e1ria; e comich\u00e3o, vermelhid\u00e3o e queimadura. A causa exata desta doen\u00e7a n\u00e3o \u00e9 conhecida, mas \u00e9 frequentemente associada com a incapacidade de digerir gl\u00faten. Pessoas com essa doen\u00e7a s\u00e3o tipicamente tratadas com a droga dapsona."
+    },
+    {
+        "qid":"0001795-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da Dermatite herpetiformis?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da Dermatite herpetiformis? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para Dermatite herpetiformis. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Bolhas anormais da pele 90% Autoimunidade 90% M\u00e1cula hipermelan\u00f3tica 90% Malaabsor\u00e7\u00e3o 90% Anemia microc\u00edtica 90% Prurito 90% Fraturas recorrentes 90% Urtic\u00e1ria 90% Eczema 50% Dor \u00f3ssea 7,5% Edema 7,5% Lichenifica\u00e7\u00e3o 7,5% Heran\u00e7a dominante autoss\u00f4mica - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre a frequ\u00eancia com que um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0001795-3",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Dermatite herpetiformis?",
+        "answer":"Como a dermatite herpetiforme pode ser tratada? O antibi\u00f3tico dapsona \u00e9 extremamente eficaz no tratamento desta condi\u00e7\u00e3o. Melhoria sintom\u00e1tica pode ocorrer em poucas horas ap\u00f3s a primeira dose. No entanto, a dapsona pode causar efeitos colaterais s\u00e9rios e requer monitoramento regular por um m\u00e9dico. Quando este medicamento \u00e9 usado para aliviar os sintomas da dermatite herpetiformis, ele deve ser tomado na menor dose efetiva e pelo per\u00edodo mais curto poss\u00edvel. Em alguns casos, medicamentos imunossupressores podem ser usados. Esses medicamentos n\u00e3o parecem ser t\u00e3o eficazes. Uma dieta r\u00edgida sem gl\u00faten tamb\u00e9m \u00e9 recomendada para ajudar a controlar a doen\u00e7a. Seguir esta dieta pode eliminar a necessidade de medicamentos e prevenir complica\u00e7\u00f5es posteriores."
+    }
+]

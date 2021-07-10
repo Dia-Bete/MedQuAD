@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000346-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) encefalopatia familiar com os corpos de inclus\u00e3o neuroserpina?",
+        "answer":"Encefalopatia familiar com os corpos de inclus\u00e3o de neuroserpina (FENIB) \u00e9 um dist\u00farbio que causa disfun\u00e7\u00e3o progressiva do c\u00e9rebro (encefalopatia). \u00c9 caracterizado por uma perda de funcionamento intelectual (dem\u00eancia) e convuls\u00f5es. No in\u00edcio, indiv\u00edduos afetados podem ter dificuldade em manter a aten\u00e7\u00e3o e concentra\u00e7\u00e3o. Eles podem experimentar pensamentos repetitivos, fala, ou movimentos. \u00c0 medida que a condi\u00e7\u00e3o progride, suas mudan\u00e7as de personalidade e julgamento, perspicacia e mem\u00f3ria se tornam prejudicadas. Pessoas afetadas perdem a capacidade de realizar as atividades da vida di\u00e1ria, e a maioria eventualmente requerem cuidados abrangentes. Os sinais e sintomas da FENIB variam em sua gravidade e idade de in\u00edcio. Em casos graves, a condi\u00e7\u00e3o causa convuls\u00f5es e epis\u00f3dios de muscula\u00e7\u00e3o s\u00fabita, involunt\u00e1ria, mascarando ou contraindo (mioclono) al\u00e9m de dem\u00eancia. Esses sinais podem aparecer logo na adolesc\u00eancia. Casos menos graves s\u00e3o caracterizados por um decl\u00ednio progressivo no funcionamento intelectual come\u00e7ando nos anos 40 ou 50 de uma pessoa."
+    },
+    {
+        "qid":"0000346-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas por encefalopatia familiar com corpos de inclus\u00e3o neuroserpina?",
+        "answer":"Essa condi\u00e7\u00e3o parece ser rara, apenas alguns indiv\u00edduos afetados foram relatados em todo o mundo."
+    },
+    {
+        "qid":"0000346-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 encefalopatia familiar com os corpos de inclus\u00e3o neuroserpina?",
+        "answer":"FENIB resulta de muta\u00e7\u00f5es no gene SERPINI1. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada neuroserpin, que \u00e9 encontrada em c\u00e9lulas nervosas (neur\u00f5es). Neuroserpin desempenha um papel no desenvolvimento e fun\u00e7\u00e3o do sistema nervoso. Essa prote\u00edna ajuda a controlar o crescimento dos neur\u00f4nios e suas conex\u00f5es entre si, o que sugere que pode ser importante para a aprendizagem e mem\u00f3ria. Muta\u00e7\u00f5es no gene SERPINI1 resultam na produ\u00e7\u00e3o de uma forma anormalmente inst\u00e1vel de neuroserpin. Dentro dos neur\u00f4nios, prote\u00ednas neuroserpinas defeituosas podem se unir um ao outro e formar grumos chamados de corpos de inclus\u00e3o neuroserpina ou corpos de Collins. Esses aglomerados interrompem o funcionamento normal das c\u00e9lulas e, em \u00faltima an\u00e1lise, levam \u00e0 morte celular. A perda gradual de neur\u00f4nios em certas partes do c\u00e9rebro causa dem\u00eancia progressiva. Pesquisadores acreditam que uma acumula\u00e7\u00e3o de subst\u00e2ncias relacionadas, potencialmente t\u00f3xicas em neur\u00f4nios tamb\u00e9m pode contribuir para os sinais e sintomas dessa condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000346-4",
+        "qtype":"inheritance",
+        "question":"A encefalopatia familiar com os corpos de inclus\u00e3o neuroserpinal \u00e9 herdada?",
+        "answer":"FENIB \u00e9 herdado em um padr\u00e3o autoss\u00f4mico dominante, o que significa que uma c\u00f3pia do gene alterado em cada c\u00e9lula \u00e9 suficiente para causar a desordem. Em muitos casos, uma pessoa afetada tem um pai com a condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000346-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para encefalopatia familiar com os corpos de inclus\u00e3o neuroserpina?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da FENIB: - Registro de Testes Gen\u00e9ticos: Encefalopatia Familiar com os corpos de inclus\u00e3o de neuroserpins - MedlinePlus Encyclopedia: Dem\u00eancia - MedlinePlus Encyclopedia: Convuls\u00f5es Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes Diagn\u00f3sticos - Terapia de Medicamentos - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

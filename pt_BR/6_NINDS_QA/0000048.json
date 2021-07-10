@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000048-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Incontinentia Pigmenti?",
+        "answer":"Incontinentia pigmenti (IP) \u00e9 um dist\u00farbio herdado da pigmenta\u00e7\u00e3o da pele que tamb\u00e9m est\u00e1 associado com anormalidades dos dentes, do sistema esquel\u00e9tico, dos olhos e do sistema nervoso central. \u00c9 um grupo de doen\u00e7as ligadas ao gene conhecidas como dist\u00farbios neurocut\u00e2neos. Na maioria dos casos, o IP \u00e9 causado por muta\u00e7\u00f5es em um gene chamado NEMO (NF-kappaB modulador essencial). Os machos s\u00e3o mais severamente afetados do que as f\u00eameas. A pele descolorida \u00e9 causada por dep\u00f3sitos excessivos de melanina (pigmento normal da pele). A maioria dos rec\u00e9m-nascidos com IP desenvolver\u00e1 pele descolorida nas primeiras duas semanas. A pigmenta\u00e7\u00e3o envolve o tronco e extremidades, \u00e9 grisalho, azul ou marrom, e \u00e9 distribu\u00edda em linhas irregulares de m\u00e1rmore ou onduladas. A descolora\u00e7\u00e3o desaparece com a idade. Problemas neurol\u00f3gicos incluem perda de tecido cerebral (conhecida como atrofia cerebral), a forma\u00e7\u00e3o de pequenas cavidades na mat\u00e9ria branca central do c\u00e9rebro, e a perda de neur\u00f4nios no c\u00f3rtex cerebelar. Cerca de 20% das crian\u00e7as com IP ter\u00e3o desenvolvimento motor lento, fraqueza muscular em um ou ambos os lados do corpo, desenvolvimento cognitivo prejudicado, e convuls\u00f5es. \u00c9 prov\u00e1vel que tamb\u00e9m tenham problemas visuais, incluindo olhos cruzados, cataratas e perda visual grave. Problemas dent\u00e1rios tamb\u00e9m s\u00e3o comuns, incluindo dentes faltando ou em forma de ping. Um dist\u00farbio relacionado, incontinentia pigmenti acromias, apresenta padr\u00f5es de pele de luz, rota\u00e7\u00f5es e raias sem pigmenta\u00e7\u00e3o que s\u00e3o o inverso do IP. Problemas neurol\u00f3gicos associados s\u00e3o similares."
+    },
+    {
+        "qid":"0000048-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para Incontinentia Pigmenti?",
+        "answer":"As anormalidades cut\u00e2neas da IP geralmente desaparecem na adolesc\u00eancia ou na idade adulta sem tratamento. A vis\u00e3o diminu\u00edda pode ser tratada com lentes corretivas, medica\u00e7\u00e3o, ou, em casos graves, cirurgia. Um especialista pode tratar problemas dent\u00e1rios. Sintomas neurol\u00f3gicos como convuls\u00f5es, espasmos musculares, ou paralisia leve podem ser controlados com medicamentos e/ou dispositivos m\u00e9dicos e com o conselho de um neurologista."
+    },
+    {
+        "qid":"0000048-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para a Incontinentia Pigmenti?",
+        "answer":"Embora as anormalidades cut\u00e2neas geralmente regressem, e \u00e0s vezes desapare\u00e7am completamente, pode haver dificuldades neurol\u00f3gicas residuais."
+    },
+    {
+        "qid":"0000048-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para Incontinentia Pigmenti?",
+        "answer":"Pesquisadores come\u00e7aram a usar estudos de liga\u00e7\u00e3o gen\u00e9tica para mapear a localiza\u00e7\u00e3o dos genes associados aos dist\u00farbios neurocut\u00e2neos. Pesquisa apoiada pelo NINDS inclui estudos para entender como o c\u00e9rebro e o sistema nervoso normalmente se desenvolvem e funcionam e como eles s\u00e3o afetados por muta\u00e7\u00f5es gen\u00e9ticas. Esses estudos contribuem para uma maior compreens\u00e3o de dist\u00farbios ligados aos genes, como IP, e t\u00eam o potencial de abrir novas vias promissoras de tratamento."
+    }
+]

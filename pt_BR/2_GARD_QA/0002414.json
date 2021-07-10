@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0002414-1",
+        "qtype":"information",
+        "question":"Qual \u00e9 a s\u00edndrome de Fowler?",
+        "answer":"A s\u00edndrome de Fowlers \u00e9 caracterizada pela reten\u00e7\u00e3o urin\u00e1ria associada \u00e0 atividade eletromiogr\u00e1fica anormal em mulheres jovens na aus\u00eancia de doen\u00e7a neurol\u00f3gica evidente. Algumas mulheres com esta s\u00edndrome tamb\u00e9m t\u00eam ov\u00e1rios poliqu\u00edsticos."
+    },
+    {
+        "qid":"0002414-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da s\u00edndrome de Fowler?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da s\u00edndrome de Fowler? A s\u00edndrome de Fowlers normalmente ocorre em mulheres pr\u00e9-menop\u00e1usicas (frequentemente em mulheres com menos de 30 anos de idade) que s\u00e3o incapazes de anular por um dia ou mais sem sentir urg\u00eancia urin\u00e1ria, mas com crescente desconforto abdominal inferior. A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para a s\u00edndrome de Fowler. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Anormalidade da uretra 90% Acne 90% Hipertricose 90% Ov\u00e1rios poliqu\u00edsticos 90% A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre quantas vezes um sinal ou sintoma ocorre em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0002414-3",
+        "qtype":"causes",
+        "question":"O que causa a s\u00edndrome de Fowler?",
+        "answer":"O que causa a s\u00edndrome de Fowlers? A causa da s\u00edndrome de Fowler n\u00e3o \u00e9 conhecida. A associa\u00e7\u00e3o da s\u00edndrome de Fowlers e ov\u00e1rios poliqu\u00edsticos em alguns pacientes levanta a possibilidade de que a s\u00edndrome esteja ligada de alguma forma \u00e0 estabilidade da membrana muscular prejudicada, possivelmente devido a uma anormalidade hormonal. O envolvimento de tal anormalidade hormonal tamb\u00e9m pode explicar por que afeta principalmente as mulheres pr\u00e9-menop\u00e1usicas."
+    },
+    {
+        "qid":"0002414-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a s\u00edndrome de Fowler?",
+        "answer":"Como \u00e9 diagnosticada a s\u00edndrome de Fowlers? Diagn\u00f3stico da s\u00edndrome de Fowlers envolve descartar caracter\u00edsticas neurol\u00f3gicas ou laboratoriais que apoiariam o diagn\u00f3stico de uma doen\u00e7a neurol\u00f3gica subjacente, e a identifica\u00e7\u00e3o de uma capacidade da bexiga de mais de 1 litro, sem sensa\u00e7\u00e3o de urg\u00eancia. Tamb\u00e9m na s\u00edndrome de Fowlers, a an\u00e1lise do m\u00fasculo estriado do esf\u00edncter uretral usando exame de eletrodos de agulha conc\u00eantrica revela uma anormalidade eletromiogr\u00e1fica (EMG) bastante \u00fanica. Esta anormalidade EMG \u00e9 encontrada em associa\u00e7\u00e3o com o esf\u00edncter uretral (grupo de m\u00fasculos que rodeiam a passagem urin\u00e1ria abaixo da bexiga), e consiste em um tipo de atividade que seria esperado para causar contra\u00e7\u00e3o inadequada do m\u00fasculo (i.e., prejudicar o relaxamento do esf\u00edncter)."
+    },
+    {
+        "qid":"0002414-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a s\u00edndrome de Fowler?",
+        "answer":"Como a s\u00edndrome de Fowlers pode ser tratada? A incontin\u00eancia urin\u00e1ria causada pela s\u00edndrome de Fowlers pode ser tratada por terapia de neuromodula\u00e7\u00e3o sacral. A taxa de sucesso para o tratamento da s\u00edndrome de Fowlers com neuromodula\u00e7\u00e3o foi estimada em cerca de 70%, mesmo em mulheres que t\u00eam experimentado sintomas por um tempo. A terapia de neuromodula\u00e7\u00e3o envolve a estimula\u00e7\u00e3o dos nervos para a bexiga deixando a coluna. A FDA aprovou um dispositivo chamado InterStim para esse fim. Seu m\u00e9dico precisar\u00e1 testar para determinar se este dispositivo seria \u00fatil para voc\u00ea. O m\u00e9dico aplica um estimulador externo para determinar se a neuromodula\u00e7\u00e3o funciona em voc\u00ea. Se voc\u00ea tiver uma redu\u00e7\u00e3o de 50% nos sintomas, um cirurgi\u00e3o implantar\u00e1 o dispositivo. Embora a neuromodula\u00e7\u00e3o possa ser eficaz, n\u00e3o \u00e9 para todos. A terapia \u00e9 cara, envolvendo cirurgia com poss\u00edveis revis\u00f5es cir\u00fargicas e substitui\u00e7\u00e3o. Outros tratamentos que foram tentados com pouco sucesso incluem manipula\u00e7\u00e3o hormonal, terapia farmacol\u00f3gica, e inje\u00e7\u00f5es de toxina botul\u00ednica."
+    }
+]

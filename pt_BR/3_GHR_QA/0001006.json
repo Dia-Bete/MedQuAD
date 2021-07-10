@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001006-1",
+        "qtype":"information",
+        "question":"O que \u00e9 tirosinemia?",
+        "answer":"A tirosinemia \u00e9 um dist\u00farbio gen\u00e9tico caracterizado por interrup\u00e7\u00f5es no processo multifase que quebra a tirosina amino\u00e1cida, um bloco de constru\u00e7\u00e3o da maioria das prote\u00ednas. Se n\u00e3o tratada, tirosina e seus subprodutos se acumulam em tecidos e \u00f3rg\u00e3os, o que pode levar a s\u00e9rios problemas de sa\u00fade. H\u00e1 tr\u00eas tipos de tirosinemia, que se distinguem por seus sintomas e causa gen\u00e9tica. A tirosinemia tipo I, a forma mais grave deste dist\u00farbio, \u00e9 caracterizada por sinais e sintomas que come\u00e7am nos primeiros meses de vida. Crian\u00e7as afetadas n\u00e3o ganham peso e crescem \u00e0 taxa esperada (falha em prosperar) devido \u00e0 baixa toler\u00e2ncia alimentar porque alimentos com altas prote\u00ednas levam \u00e0 diarreia e v\u00f3mitos. Crian\u00e7as afetadas tamb\u00e9m podem ter amarelamento da pele e brancos dos olhos (icter\u00edcia), um odor tipo repolho, e uma tend\u00eancia aumentada para sangrar (particularmente sangramentos nasais). Tirosinemia tipo I pode levar a insufici\u00eancia hep\u00e1tica e renal, amolecimento e enfraquecimento dos ossos (raquitismo), e um risco aumentado de c\u00e2ncer de f\u00edgado (carcinoma hepatocelular). Algumas crian\u00e7as afetadas t\u00eam crises neurol\u00f3gicas repetidas que consistem em altera\u00e7\u00f5es no estado mental, sensa\u00e7\u00e3o reduzida nos bra\u00e7os e pernas (neuropatia perif\u00e9rica), dor abdominal e insufici\u00eancia respirat\u00f3ria. Essas crises podem durar de 1 a 7 dias. Sem tratamento, crian\u00e7as com tirosinemia tipo I muitas vezes n\u00e3o sobrevivem depois dos 10 anos. A tirosinemia tipo II pode afetar os olhos, a pele e o desenvolvimento mental. Sinais e sintomas geralmente come\u00e7am na inf\u00e2ncia e incluem dor e vermelhid\u00e3o nos olhos, l\u00e1grimas excessivas, sensibilidade anormal \u00e0 luz (fotofobia), e pele espessa e dolorosa nas palmas das m\u00e3os e das plantas dos p\u00e9s (hiperqueratose palmoplantar). Cerca de 50% dos indiv\u00edduos com tirosinemia tipo II t\u00eam algum grau de defici\u00eancia intelectual. A tirosinemia tipo III \u00e9 a mais rara dos tr\u00eas tipos. As caracter\u00edsticas deste tipo incluem incapacidade intelectual, convuls\u00f5es e perda peri\u00f3dica de equil\u00edbrio e coordena\u00e7\u00e3o (ataxia intermitente). Cerca de 10% dos rec\u00e9m-nascidos t\u00eam n\u00edveis temporariamente elevados de tirosina (tirosinemia transit\u00f3ria). Nesses casos, a causa n\u00e3o \u00e9 gen\u00e9tica. As causas mais prov\u00e1veis s\u00e3o defici\u00eancia de vitamina C ou enzimas hep\u00e1ticas imaturos devido ao nascimento prematuro."
+    },
+    {
+        "qid":"0001006-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela tirosinemia?",
+        "answer":"Em todo o mundo, tirosinemia tipo I afeta cerca de 1 em 100 mil indiv\u00edduos. Este tipo \u00e9 mais comum na Noruega onde 1 em 60.000 a 74.000 indiv\u00edduos s\u00e3o afetados. A tirosinemia tipo I \u00e9 ainda mais comum no Quebec, Canad\u00e1, onde ocorre em cerca de 1 em 16.000 indiv\u00edduos. Na regi\u00e3o de Saguenay-Lac St. Jean, em Quebec, tirosinemia tipo I afeta 1 em 1.846 pessoas. A tirosinemia tipo II ocorre em menos de 1 em 250.000 indiv\u00edduos em todo o mundo. A tirosinemia tipo III \u00e9 muito rara, apenas alguns casos foram relatados."
+    },
+    {
+        "qid":"0001006-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 tirosinemia?",
+        "answer":"Muta\u00e7\u00f5es nos genes FAH, TAT e HPD podem causar tirosinemias tipos I, II e III, respectivamente. No f\u00edgado, enzimas quebram tirosina em um processo de cinco passos, resultando em mol\u00e9culas que s\u00e3o excretadas pelos rins ou usadas para produzir energia ou fazer outras subst\u00e2ncias no corpo. O gene FAH fornece instru\u00e7\u00f5es para a enzima de hidrolase de fumarilacetoacetato, que \u00e9 respons\u00e1vel pela etapa final da quebra da tirosina. A enzima produzida a partir do gene TAT, chamada enzima tirosina aminotransferase, est\u00e1 envolvida no primeiro passo do processo. O gene HPD fornece instru\u00e7\u00f5es para fazer a enzima 4-hidroxifenilpiruvato dioxigenase, que \u00e9 respons\u00e1vel pelo segundo passo. Muta\u00e7\u00f5es no gene FAH, TAT ou HPD causam uma diminui\u00e7\u00e3o na atividade de uma das enzimas na degrada\u00e7\u00e3o da tirosina. Como resultado, tirosina e seus subprodutos se acumulam a n\u00edveis t\u00f3xicos, o que pode causar danos e morte \u00e0s c\u00e9lulas no f\u00edgado, rins, sistema nervoso e outros \u00f3rg\u00e3os."
+    },
+    {
+        "qid":"0001006-4",
+        "qtype":"inheritance",
+        "question":"A tirosinemia \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0001006-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para tirosinemia?",
+        "answer":"Estes recursos abordam o diagn\u00f3stico ou manejo da tirosinemia: - Primeiro teste do beb\u00ea: tirosinemia, tipo I - Primeiro teste do beb\u00ea: tirosinemia, tipo II - Primeiro teste do beb\u00ea: tirosinemia, tipo III - Gene Review: Gene Review: tirosinemia tipo I - Gene Testing Registry: 4-Hydroxifenilpiruvate dioxigenase defici\u00eancia - Genetic Test Registry: Tyrosinemia tipo 2 - Gene Testing Registry: Tyrosinemia tipo I - MedlinePlus Enciclop\u00e9dia: Aminoacid\u00faria Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e gerenciamento de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

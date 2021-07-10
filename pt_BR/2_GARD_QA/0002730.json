@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0002730-1",
+        "qtype":"information",
+        "question":"O que \u00e9 ictiose de arlequim?",
+        "answer":"A ictiose de arlequim \u00e9 uma doen\u00e7a gen\u00e9tica grave que afeta principalmente a pele. O rec\u00e9m-nascido est\u00e1 coberto com placas de pele espessa que racham e se separam. As placas grossas podem puxar e distorcer as caracter\u00edsticas faciais e podem restringir a respira\u00e7\u00e3o e a alimenta\u00e7\u00e3o. Muta\u00e7\u00f5es no gene ABCA12 causam ictiose de arlequino. Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo."
+    },
+    {
+        "qid":"0002730-2",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas da ictiose de Harlequin?",
+        "answer":"Quais s\u00e3o os sinais e sintomas da ictiose de Harlequin? A Ontologia do Fenotipo Humano fornece a seguinte lista de sinais e sintomas para a ictiose de Harlequin. Se a informa\u00e7\u00e3o estiver dispon\u00edvel, a tabela abaixo inclui quantas vezes o sintoma \u00e9 visto em pessoas com esta condi\u00e7\u00e3o. Voc\u00ea pode usar o dicion\u00e1rio m\u00e9dico MedlinePlus para procurar as defini\u00e7\u00f5es desses termos m\u00e9dicos. Sinais e sintomas N\u00famero aproximado de pacientes (quando dispon\u00edvel) Anormalidade da p\u00e1lpebra 90% Crista nasal deprimida 90% Anormalidade auditiva 90% Hiperqueratose 90% Infec\u00e7\u00f5es respirat\u00f3rias recorrentes 90% Anormalidade da boca 50% Limita\u00e7\u00e3o da mobilidade articular 50% Catarata 7,5% Desidrata\u00e7\u00e3o 7,5% Polidactilia do p\u00e9 7,5% Polidactilia da m\u00e3o 7,5% Hipertermia maligna 7,5% Insufici\u00eancia respirat\u00f3ria 7,5% Comportamento auto-injurioso 7,5% Morte card\u00edaca s\u00fabita 7,5% Heran\u00e7a autosss\u00f4mica recessiva 7,5% Eritroderma ictiosiforme cong\u00e9nita - Ectropio - Nascimento precoce - Proptose - Rigidez - Dedo curto - A Ontologia do Fenotipo Humano (HPO) recolheu informa\u00e7\u00f5es sobre a frequ\u00eancia de ocorr\u00eancia de um sinal ou sintoma em uma condi\u00e7\u00e3o. Muitas dessas informa\u00e7\u00f5es v\u00eam de Orphanet, um banco de dados europeu de doen\u00e7as raras. A frequ\u00eancia de um sinal ou sintoma \u00e9 geralmente listada como uma estimativa aproximada da porcentagem de pacientes que t\u00eam essa caracter\u00edstica. A frequ\u00eancia tamb\u00e9m pode ser listada como uma fra\u00e7\u00e3o. O primeiro n\u00famero da fra\u00e7\u00e3o \u00e9 quantas pessoas tiveram o sintoma, e o segundo n\u00famero \u00e9 o n\u00famero total de pessoas que foram examinadas em um estudo. Por exemplo, uma frequ\u00eancia de 25/25 significa que em um estudo com 25 pessoas todos os pacientes foram encontrados para ter esse sintoma. Como essas frequ\u00eancias s\u00e3o baseadas em um estudo espec\u00edfico, as fra\u00e7\u00f5es podem ser diferentes se outro grupo de pacientes for examinado. \u00c0s vezes, nenhuma informa\u00e7\u00e3o sobre frequ\u00eancia est\u00e1 dispon\u00edvel. Nesses casos, o sinal ou sintoma pode ser raro ou comum."
+    },
+    {
+        "qid":"0002730-3",
+        "qtype":"causes",
+        "question":"O que causa a ictiose de Harlequin?",
+        "answer":"O que causa ictiose de arlequino? A ictiose de Harlequin \u00e9 causada por muta\u00e7\u00f5es no gene ABCA12. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna que \u00e9 essencial para o desenvolvimento normal de c\u00e9lulas da pele. Esta prote\u00edna desempenha um papel importante no transporte de gorduras (l\u00edpidos) na camada mais externa da pele (a epiderme). Algumas muta\u00e7\u00f5es no gene ABCA12 impedem a c\u00e9lula de produzir qualquer prote\u00edna ABCA12, enquanto outras levam \u00e0 produ\u00e7\u00e3o de uma vers\u00e3o anormalmente pequena da prote\u00edna que n\u00e3o pode transportar lip\u00eddios adequadamente. Uma perda da prote\u00edna funcional ABCA12 interrompe o desenvolvimento normal da epiderme, resultando nas escalas duras e espessas caracter\u00edsticas da ictiose de arlequino."
+    },
+    {
+        "qid":"0002730-4",
+        "qtype":"inheritance",
+        "question":"A ictiose de Harlequin \u00e9 herdada?",
+        "answer":"Como a ictiose de Harlequin \u00e9 herdada? A ictiose de Harlequin \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0002730-5",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar a ictiose de Harlequin?",
+        "answer":"A ictiose de arlequino pode ser diagnosticada antes do nascimento usando amniocentese ou amostragem de vilo cori\u00f4nico? Sim, a ictiose de arlequino pode ser diagnosticada antes do nascimento usando amniocentese ou amostragem de vilo cori\u00f4nico. Ambos os procedimentos s\u00e3o usados para obter uma amostra de DNA fetal, que pode ser testada para muta\u00e7\u00f5es no gene ABCA12. O Registro de Testes Gen\u00e9ticos (GTR) fornece informa\u00e7\u00f5es sobre os testes gen\u00e9ticos para esta condi\u00e7\u00e3o. A audi\u00eancia pretendida para o GTR s\u00e3o os provedores de sa\u00fade e pesquisadores. Pacientes e consumidores com perguntas espec\u00edficas sobre um teste gen\u00e9tico espec\u00edfico devem contatar um m\u00e9dico ou um profissional de gen\u00e9tica."
+    }
+]

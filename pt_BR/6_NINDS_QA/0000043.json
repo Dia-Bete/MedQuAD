@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000043-1",
+        "qtype":"information",
+        "question":"O que \u00e9 Blefarospasmo Essencial Benigno?",
+        "answer":"O blefarospasmo essencial benigno (BEB) \u00e9 um dist\u00farbio neurol\u00f3gico progressivo caracterizado por contra\u00e7\u00f5es musculares involunt\u00e1rias e espasmos dos m\u00fasculos das p\u00e1lpebras. \u00c9 uma forma de distonia, um dist\u00farbio de movimento em que contra\u00e7\u00f5es musculares causam o fechamento sustentado das p\u00e1lpebras, contra\u00e7\u00f5es ou movimentos repetitivos. A BEB come\u00e7a gradualmente com maior frequ\u00eancia de piscar nos olhos, muitas vezes associada a irrita\u00e7\u00e3o ocular. Outros sintomas podem incluir crescente dificuldade em manter os olhos abertos, e sensibilidade \u00e0 luz. Geralmente, os espasmos ocorrem durante o dia, desaparecem no sono, e reaparecem depois de acordar. \u00c0 medida que a condi\u00e7\u00e3o progride, os espasmos podem se intensificar, for\u00e7ando as p\u00e1lpebras a permanecer fechadas por longos per\u00edodos de tempo, causando assim perturba\u00e7\u00f5es visuais substanciais ou cegueira funcional. \u00c9 importante notar que a cegueira \u00e9 causada apenas pelo fechamento incontrol\u00e1vel das p\u00e1lpebras e n\u00e3o por uma disfun\u00e7\u00e3o dos olhos. O BEB ocorre tanto em homens como em mulheres, embora seja especialmente comum em mulheres de meia-idade e idosas."
+    },
+    {
+        "qid":"0000043-2",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o Blefarospasmo Essencial Benigno?",
+        "answer":"Na maioria dos casos de BEB o tratamento de escolha \u00e9 inje\u00e7\u00f5es de toxina botul\u00ednica que relaxam os m\u00fasculos e param os espasmos. Outras op\u00e7\u00f5es de tratamento incluem medicamentos (terapia medicamentosa) ou cirurgia - cirurgia local dos m\u00fasculos oculares ou cirurgia de estimula\u00e7\u00e3o cerebral profunda."
+    },
+    {
+        "qid":"0000043-3",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para o Blefarospasmo Essencial Benigno?",
+        "answer":"Com o tratamento com toxina botul\u00ednica, a maioria dos indiv\u00edduos com BEB tem al\u00edvio substancial dos sintomas. Embora alguns possam ter efeitos colaterais como p\u00e1lpebras caindo, vis\u00e3o borrada ou dupla, e sequeza ocular, estes efeitos colaterais s\u00e3o geralmente apenas tempor\u00e1rios. A condi\u00e7\u00e3o pode piorar ou se expandir para os m\u00fasculos circundantes; permanecer o mesmo por muitos anos; e, em casos raros, melhorar espontaneamente."
+    },
+    {
+        "qid":"0000043-4",
+        "qtype":"research",
+        "question":"Que pesquisa (ou ensaios cl\u00ednicos) est\u00e1 sendo feita para o Blefarospasmo Essencial Benigno?",
+        "answer":"O NINDS apoia um amplo programa de pesquisa sobre dist\u00farbios do sistema nervoso, incluindo o BEB. Grande parte desta pesquisa tem como objetivo aumentar a compreens\u00e3o desses dist\u00farbios e encontrar maneiras de preveni-los, tratar e cur\u00e1-los."
+    }
+]

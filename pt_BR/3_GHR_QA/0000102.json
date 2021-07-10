@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000102-1",
+        "qtype":"information",
+        "question":"O que \u00e9 uma microcefalia prim\u00e1ria autoss\u00f4mica recessiva?",
+        "answer":"A microcefalia prim\u00e1ria recessiva autoss\u00f4mica (muitas vezes reduzida a MCPH, que significa \"microcefalia prim\u00e1ria heredit\u00e1ria\") \u00e9 uma condi\u00e7\u00e3o em que os beb\u00eas nascem com uma cabe\u00e7a muito pequena e um pequeno c\u00e9rebro. O termo \"microcefalia\" vem das palavras gregas para \"cabe\u00e7a pequena\". Crian\u00e7as com MCPH t\u00eam uma circunfer\u00eancia de cabe\u00e7a incomummente pequena em compara\u00e7\u00e3o com outras crian\u00e7as do mesmo sexo e idade. A circunfer\u00eancia da cabe\u00e7a \u00e9 a dist\u00e2ncia ao redor da maior parte da cabe\u00e7a, medida colocando uma fita m\u00e9trica acima das sobrancelhas e ouvidos e ao redor da parte de tr\u00e1s da cabe\u00e7a. O volume cerebral dos beb\u00eas afetados tamb\u00e9m \u00e9 menor do que o normal, embora eles geralmente n\u00e3o tenham nenhuma anormalidade maior na estrutura do c\u00e9rebro. A cabe\u00e7a e o c\u00e9rebro crescem durante a inf\u00e2ncia e a adolesc\u00eancia, mas continuam sendo muito menores do que o normal. MCPH causa defici\u00eancia intelectual, que \u00e9 tipicamente leve a moderada e n\u00e3o se torna mais grave com a idade. A maioria dos indiv\u00edduos afetados tem habilidades de fala e linguagem atrasadas. Habilidades motoras, como sentar, ficar de p\u00e9 e caminhar, tamb\u00e9m podem ser ligeiramente atrasadas. Pessoas com MCPH geralmente t\u00eam poucas ou nenhuma outra caracter\u00edstica associada \u00e0 condi\u00e7\u00e3o. Alguns t\u00eam uma testa estreita e inclinada, convuls\u00f5es leves, problemas de aten\u00e7\u00e3o ou comportamento, ou estatura curta em compara\u00e7\u00e3o com outros de sua fam\u00edlia. A condi\u00e7\u00e3o normalmente n\u00e3o afeta qualquer outro sistema de \u00f3rg\u00e3os principais ou causar outros problemas de sa\u00fade."
+    },
+    {
+        "qid":"0000102-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela microcefalia prim\u00e1ria recessiva autoss\u00f4mica?",
+        "answer":"A preval\u00eancia de todas as formas de microcefalia presentes desde o nascimento (microcefalia prim\u00e1ria) varia de 1 em 30.000 a 1 em 250.000 rec\u00e9m-nascidos em todo o mundo. Cerca de 200 fam\u00edlias com MCPH foram relatadas na literatura m\u00e9dica. Essa condi\u00e7\u00e3o \u00e9 mais comum em v\u00e1rias popula\u00e7\u00f5es espec\u00edficas, como no norte do Paquist\u00e3o, onde afeta 1 em cada 10.000 rec\u00e9m-nascidos."
+    },
+    {
+        "qid":"0000102-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 microcefalia prim\u00e1ria recessiva autoss\u00f4mica?",
+        "answer":"MCPH pode resultar de muta\u00e7\u00f5es em pelo menos sete genes. Muta\u00e7\u00f5es no gene ASPM s\u00e3o a causa mais comum do dist\u00farbio, representando cerca de metade de todos os casos. Os genes associados ao MCPH desempenham pap\u00e9is importantes no desenvolvimento cerebral precoce, particularmente na determina\u00e7\u00e3o do tamanho do c\u00e9rebro. Estudos sugerem que as prote\u00ednas produzidas a partir de muitos desses genes ajudam a regular a divis\u00e3o celular no c\u00e9rebro em desenvolvimento. Muta\u00e7\u00f5es em qualquer um dos genes associados com MCPH prejudicam o desenvolvimento cerebral precoce. Como resultado, crian\u00e7as afetadas t\u00eam menos c\u00e9lulas nervosas (neur\u00f4nios) do que o normal e nascem com um c\u00e9rebro incomummente pequeno. O tamanho reduzido do c\u00e9rebro subjace ao pequeno tamanho da cabe\u00e7a, defici\u00eancia intelectual e atrasos no desenvolvimento observados em muitos indiv\u00edduos afetados."
+    },
+    {
+        "qid":"0000102-4",
+        "qtype":"inheritance",
+        "question":"A microcefalia prim\u00e1ria autoss\u00f4mica recessiva \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0000102-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para microcefalia prim\u00e1ria recessiva autoss\u00f4mica?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou gerenciamento da MCPH: - Revis\u00e3o gen\u00e9tica: Revis\u00e3o gen\u00e9tica: Microcefalias recessivas autoss\u00f4micas prim\u00e1rias e s\u00edndrome de Seckel Dist\u00farbios do espectro - Registro de Testes gen\u00e9ticos: Microcefalia recesiva autoss\u00f4mica prim\u00e1ria 1 - Registro de Testes gen\u00e9ticos: Microcefalia recesiva autoss\u00f4mica prim\u00e1ria 2 - Registro de Testes gen\u00e9ticos: Microcefalia recesiva autoss\u00f4micas prim\u00e1rias 3 - Registro de Testes gen\u00e9ticos: Microcefalia recesiva autoss\u00f4micas prim\u00e1rias 4 - Registro de Testes gen\u00e9ticos: Microcefalia recesiva autos\u00f4mica prim\u00e1ria 5 - Registro de Testes gen\u00e9ticos: Microcefalia recesiva autos\u00f4micas prim\u00e1rias 6 - Registro de Testes gen\u00e9ticos: Microcefalia recesiva autos\u00f4micas prim\u00e1rias 7 - MedlinePlus Enciclopedia: Circunfer\u00eancia de Cabe\u00e7a de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e gerenciamento de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes diagn\u00f3stico - Terapia de medicamentos - Cirurgia e Reabilita\u00e7\u00e3o Gen\u00e9tica - Cuidados"
+    }
+]

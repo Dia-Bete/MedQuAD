@@ -1,0 +1,26 @@
+[
+    {
+        "qid":"0000010-1",
+        "qtype":"information",
+        "question":"O que \u00e9 um incha\u00e7o abdominal?",
+        "answer":""
+    },
+    {
+        "qid":"0000010-2",
+        "qtype":"causes",
+        "question":"O que causa incha\u00e7o abdominal?",
+        "answer":""
+    },
+    {
+        "qid":"0000010-3",
+        "qtype":"considerations",
+        "question":"O que fazer para o incha\u00e7o abdominal?",
+        "answer":""
+    },
+    {
+        "qid":"0000010-4",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para incha\u00e7o abdominal?",
+        "answer":""
+    }
+]

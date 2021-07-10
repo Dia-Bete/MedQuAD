@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0000843-1",
+        "qtype":"information",
+        "question":"O que \u00e9 (s\u00e3o) defici\u00eancia de pseudocolinesterase?",
+        "answer":"A defici\u00eancia de pseudocolinesterase \u00e9 uma condi\u00e7\u00e3o que resulta em maior sensibilidade a certas drogas relaxantes musculares usadas durante a anestesia geral, chamadas esteres de colina. Estes f\u00e1rmacos de a\u00e7\u00e3o r\u00e1pida, como succinilcolina e mivacurium, s\u00e3o dados para relaxar os m\u00fasculos usados para o movimento (m\u00fasculos esquel\u00e9ticos), incluindo os m\u00fasculos envolvidos na respira\u00e7\u00e3o. As drogas s\u00e3o muitas vezes empregadas para procedimentos cir\u00fargicos breves ou em emerg\u00eancias quando um tubo respirat\u00f3rio deve ser inserido rapidamente. Normalmente, estas drogas s\u00e3o quebradas (metabolizadas) pelo corpo dentro de alguns minutos ap\u00f3s serem administradas, quando os m\u00fasculos podem se mover novamente. No entanto, pessoas com defici\u00eancia de pseudocolinesterase podem n\u00e3o ser capazes de se mover ou respirar sozinhas por algumas horas ap\u00f3s a administra\u00e7\u00e3o das drogas. Indiv\u00edduos afetados devem ser apoiados com uma m\u00e1quina para ajud\u00e1-los a respirar (a ventila\u00e7\u00e3o mec\u00e2nica) at\u00e9 que as drogas sejam removidas do corpo. Pessoas com defici\u00eancia de pseudocolinesterase tamb\u00e9m podem ter maior sensibilidade a certas outras drogas, incluindo a proca\u00edna anest\u00e9sica local, e a pesticidas agr\u00edcolas espec\u00edficos. A condi\u00e7\u00e3o n\u00e3o causa outros sinais ou sintomas e geralmente n\u00e3o \u00e9 descoberto at\u00e9 que uma rea\u00e7\u00e3o anormal da droga ocorre."
+    },
+    {
+        "qid":"0000843-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela defici\u00eancia de pseudocolinesterase?",
+        "answer":"A defici\u00eancia de pseudocolinesterase ocorre em 1 em 3.200 a 1 em 5.000 pessoas. \u00c9 mais comum em certas popula\u00e7\u00f5es, como a comunidade judaica persa e os nativos do Alasca."
+    },
+    {
+        "qid":"0000843-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as altera\u00e7\u00f5es gen\u00e9ticas relacionadas \u00e0 defici\u00eancia de pseudocolinesterase?",
+        "answer":"A defici\u00eancia de pseudocolinesterase pode ser causada por muta\u00e7\u00f5es no gene BCHE. Este gene fornece instru\u00e7\u00f5es para fazer a enzima pseudocolinesterase, tamb\u00e9m conhecida como butirilcolinesterase, que \u00e9 produzida pelo f\u00edgado e circula no sangue. A enzima pseudocolinesterase est\u00e1 envolvida na quebra de f\u00e1rmacos de \u00e9ster de colina. \u00c9 prov\u00e1vel que a enzima tenha outras fun\u00e7\u00f5es no corpo, mas essas fun\u00e7\u00f5es n\u00e3o s\u00e3o bem compreendidas. Estudos sugerem que a enzima pode estar envolvida na transmiss\u00e3o de sinais nervosos. Algumas muta\u00e7\u00f5es do gene BCHE que causam defici\u00eancia de pseudocolinesterase resultam em uma enzima de pseudocolinesterase anormal que n\u00e3o funciona corretamente. Outras muta\u00e7\u00f5es impedem a produ\u00e7\u00e3o da enzima pseudocolinesterase. A falta de enzima de pseudocolinesterase funcional prejudica a capacidade do corpo para quebrar os f\u00e1rmacos de \u00e9ster de colina eficientemente, levando a efeitos de drogas anormalmente prolongados. A defici\u00eancia de pseudocolinesterase tamb\u00e9m pode ter causas n\u00e3o gen\u00e9ticas. Nesses casos, a condi\u00e7\u00e3o \u00e9 chamada defici\u00eancia adquirida de pseudocolinesterase; n\u00e3o \u00e9 herdada e n\u00e3o pode ser passada para a pr\u00f3xima gera\u00e7\u00e3o. A atividade da enzima pseudocolinesterase pode ser prejudicada por doen\u00e7a renal ou hep\u00e1tica, desnutri\u00e7\u00e3o, queimaduras graves, c\u00e2ncer, ou certos medicamentos."
+    },
+    {
+        "qid":"0000843-4",
+        "qtype":"inheritance",
+        "question":"A defici\u00eancia de pseudocolinesterase \u00e9 herdada?",
+        "answer":"Quando devido a causas gen\u00e9ticas, esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. A maioria das vezes, os pais de um indiv\u00edduo com um dist\u00farbio autoss\u00f4mico recessivo t\u00eam uma c\u00f3pia do gene alterado em cada c\u00e9lula e s\u00e3o chamados de portadores. Eles podem transmitir a muta\u00e7\u00e3o g\u00eanica para seus filhos, mas eles geralmente n\u00e3o experimentam sinais e sintomas do dist\u00farbio. Em alguns casos, portadores de muta\u00e7\u00f5es do gene BCHE levam mais tempo do que de costume para limpar drogas de \u00e9ster de colina do corpo, mas n\u00e3o tanto quanto aqueles com duas c\u00f3pias do gene alterado em cada c\u00e9lula."
+    },
+    {
+        "qid":"0000843-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a defici\u00eancia de pseudocolinesterase?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou o manejo da defici\u00eancia de pseudocolinesterase: - MedlinePlus Enciclop\u00e9dia: Cholinesterase (teste de sangue) Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e o manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Testes diagn\u00f3sticos - Terapia medicamentosa - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "qid":"0001037-1",
+        "qtype":"information",
+        "question":"O que \u00e9 a doen\u00e7a de Wilson?",
+        "answer":"A doen\u00e7a de Wilson \u00e9 uma doen\u00e7a herdada em que quantidades excessivas de cobre se acumulam no corpo, particularmente no f\u00edgado, c\u00e9rebro e olhos. Os sinais e sintomas da doen\u00e7a de Wilson geralmente aparecem primeiro entre os 6 e 45 anos, mas eles mais frequentemente come\u00e7am durante os anos de adolesc\u00eancia. As caracter\u00edsticas desta condi\u00e7\u00e3o incluem uma combina\u00e7\u00e3o de doen\u00e7a hep\u00e1tica e problemas neurol\u00f3gicos e psiqui\u00e1tricos. A doen\u00e7a hep\u00e1tica \u00e9 tipicamente a caracter\u00edstica inicial da doen\u00e7a de Wilson em crian\u00e7as e adultos jovens afetados; indiv\u00edduos diagnosticados em idade mais velha geralmente n\u00e3o t\u00eam sintomas de problemas hep\u00e1ticos, embora eles possam ter doen\u00e7a hep\u00e1tica muito leve. Os sinais e sintomas da doen\u00e7a hep\u00e1tica incluem amarelamento da pele ou brancos dos olhos (icter\u00edcia), fadiga, perda de apetite e incha\u00e7o abdominal. Sistema nervoso ou problemas psiqui\u00e1tricos s\u00e3o muitas vezes as caracter\u00edsticas iniciais em indiv\u00edduos diagnosticados na idade adulta e geralmente ocorrem em adultos jovens com a doen\u00e7a de Wilson. Sinais e sintomas desses problemas podem incluir desajeitamento, tremores, dificuldade em caminhar, problemas de fala, defici\u00eancia mental, depress\u00e3o, ansiedade e mudan\u00e7as de humor. Em muitos indiv\u00edduos com a doen\u00e7a de Wilson, dep\u00f3sitos de cobre na superf\u00edcie da frente do olho (a c\u00f3rnea) formam um anel verde a brownish, chamado o anel Kayser-Fleischer, que envolve a parte colorida do olho. Anormalidades nos movimentos oculares, como uma capacidade restrita de olhar para cima, tamb\u00e9m podem ocorrer."
+    },
+    {
+        "qid":"0001037-2",
+        "qtype":"frequency",
+        "question":"Quantas pessoas s\u00e3o afetadas pela doen\u00e7a de Wilson?",
+        "answer":"A doen\u00e7a de Wilson \u00e9 um dist\u00farbio raro que afeta aproximadamente 1 em 30 mil indiv\u00edduos."
+    },
+    {
+        "qid":"0001037-3",
+        "qtype":"genetic changes",
+        "question":"Quais s\u00e3o as mudan\u00e7as gen\u00e9ticas relacionadas \u00e0 doen\u00e7a de Wilson?",
+        "answer":"A doen\u00e7a de Wilson \u00e9 causada por muta\u00e7\u00f5es no gene ATP7B. Este gene fornece instru\u00e7\u00f5es para fazer uma prote\u00edna chamada ATPase 2 de transporte de cobre, que desempenha um papel no transporte de cobre do f\u00edgado para outras partes do corpo. O cobre \u00e9 necess\u00e1rio para muitas fun\u00e7\u00f5es celulares, mas \u00e9 t\u00f3xico quando presente em quantidades excessivas. A prote\u00edna ATPase 2 transportando cobre \u00e9 particularmente importante para a elimina\u00e7\u00e3o do excesso de cobre do corpo. Muta\u00e7\u00f5es no gene ATP7B impedem que a prote\u00edna de transporte funcione corretamente. Com uma escassez de prote\u00ednas funcionais, o excesso de cobre n\u00e3o \u00e9 removido do corpo. Como resultado, cobre se acumula a n\u00edveis t\u00f3xicos que podem danificar tecidos e \u00f3rg\u00e3os, particularmente o f\u00edgado e o c\u00e9rebro. Pesquisas indicam que uma varia\u00e7\u00e3o normal no gene PRNP pode modificar o curso da doen\u00e7a de Wilson. O gene PRNP fornece instru\u00e7\u00f5es para fazer prote\u00edna prion, que \u00e9 ativa no c\u00e9rebro e outros tecidos e parece estar envolvido no transporte de cobre. Estudos focaram nos efeitos de uma varia\u00e7\u00e3o do gene PRNP que afeta a posi\u00e7\u00e3o 129 da prote\u00edna prion. Nesta posi\u00e7\u00e3o, as pessoas podem ter o bloco de constru\u00e7\u00e3o de prote\u00ednas (amino\u00e1cido) metionina ou a valina de amino\u00e1cido. Entre as pessoas que t\u00eam muta\u00e7\u00f5es no gene ATP7B, parece que ter metionina em vez de valina na posi\u00e7\u00e3o 129 da prote\u00edna prion est\u00e1 associado com o aparecimento tardio dos sintomas e uma maior ocorr\u00eancia de sintomas neurol\u00f3gicos, particularmente tremores. Estudos maiores s\u00e3o necess\u00e1rios, no entanto, antes que os efeitos desta varia\u00e7\u00e3o do gene PRNP sobre a doen\u00e7a de Wilson possam ser estabelecidos."
+    },
+    {
+        "qid":"0001037-4",
+        "qtype":"inheritance",
+        "question":"A doen\u00e7a de Wilson \u00e9 herdada?",
+        "answer":"Esta condi\u00e7\u00e3o \u00e9 herdada em um padr\u00e3o autoss\u00f4mico recessivo, o que significa que ambas as c\u00f3pias do gene em cada c\u00e9lula t\u00eam muta\u00e7\u00f5es. Os pais de um indiv\u00edduo com uma condi\u00e7\u00e3o autoss\u00f4mica recessiva cada um carrega uma c\u00f3pia do gene mutado, mas eles normalmente n\u00e3o mostram sinais e sintomas da condi\u00e7\u00e3o."
+    },
+    {
+        "qid":"0001037-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para a doen\u00e7a de Wilson?",
+        "answer":"Esses recursos abordam o diagn\u00f3stico ou manejo da doen\u00e7a de Wilson: - Gene Review: Gene Review: Wilson Disease - Genetic Testing Registry: Wilson's Disease - MedlinePlus Enciclopedia: Wilson's Disease - National Human Genome Research Institute Estes recursos de MedlinePlus oferecem informa\u00e7\u00f5es sobre o diagn\u00f3stico e manejo de v\u00e1rias condi\u00e7\u00f5es de sa\u00fade: - Diagn\u00f3stico Testes - Farmac\u00eautica - Cirurgia e Reabilita\u00e7\u00e3o - Aconselhamento Gen\u00e9tico - Cuidados Paliativos"
+    }
+]

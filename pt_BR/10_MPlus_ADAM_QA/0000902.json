@@ -1,0 +1,56 @@
+[
+    {
+        "qid":"0000902-1",
+        "qtype":"information",
+        "question":"O que \u00e9 um colapso pulmonar?",
+        "answer":""
+    },
+    {
+        "qid":"0000902-2",
+        "qtype":"causes",
+        "question":"O que causa colapso pulmonar (pneumot\u00f3rax)?",
+        "answer":""
+    },
+    {
+        "qid":"0000902-3",
+        "qtype":"symptoms",
+        "question":"Quais s\u00e3o os sintomas do colapso pulmonar (pneumot\u00f3rax)?",
+        "answer":""
+    },
+    {
+        "qid":"0000902-4",
+        "qtype":"exams and tests",
+        "question":"Como diagnosticar pulm\u00e3o colapsado (pneumot\u00f3rax)?",
+        "answer":""
+    },
+    {
+        "qid":"0000902-5",
+        "qtype":"treatment",
+        "question":"Quais s\u00e3o os tratamentos para o colapso pulmonar (pneumot\u00f3rax)?",
+        "answer":""
+    },
+    {
+        "qid":"0000902-6",
+        "qtype":"outlook",
+        "question":"Qual \u00e9 a perspectiva para pulm\u00e3o colapsado (pneumot\u00f3rax)?",
+        "answer":""
+    },
+    {
+        "qid":"0000902-7",
+        "qtype":"complications",
+        "question":"Quais s\u00e3o as complica\u00e7\u00f5es do colapso pulmonar (pneumot\u00f3rax)?",
+        "answer":""
+    },
+    {
+        "qid":"0000902-8",
+        "qtype":"when to contact a medical professional",
+        "question":"Preciso ver um m\u00e9dico para o colapso pulmonar (pneumot\u00f3rax)?",
+        "answer":""
+    },
+    {
+        "qid":"0000902-9",
+        "qtype":"prevention",
+        "question":"Como prevenir o colapso pulmonar (pneumot\u00f3rax)?",
+        "answer":""
+    }
+]
